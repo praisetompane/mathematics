@@ -1,0 +1,22 @@
+Trigonometry
+  - Mathematics branch that studies the [relationship] involving [lengths]
+    and [angles] of a triangle
+
+
+Factors, Terms and Coefficients
+
+  Factor: Things being multiplied
+  Terms: Things begin added/substracted
+  Coefficient : Constant values multiplying the rest of the term
+
+
+Odd, Even and Neither Functions
+
+  Odd
+
+  Even
+    f(x) = f(-x)
+
+    Example: f(x) =x ^2
+    
+  Neither
