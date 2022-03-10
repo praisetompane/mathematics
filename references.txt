@@ -1,8 +1,11 @@
 Objective: Learn the language of mathematics
 
 Cambridge Mathematical Reading List: https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
+Wolfram Mathworld: https://mathworld.wolfram.com
 
 0. Fundamentals of Mathematics I 
+https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
+
 1. Discrete Mathematics with Applications - Susanna S Epp 
 2. Concrete mathematics - don ka nuth
 3. Discrete Mathematical Structures - Koleman | Busby | Ross

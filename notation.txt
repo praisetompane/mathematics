@@ -1,0 +1,16 @@
+quantifier:
+    ∀ := for all := quantifier
+    ∃ := there exist
+
+number sets:
+    N := set of narutal numbers
+    N⁺:= set of positive integers
+    Z := set of integers
+
+⟹ := implies
+∈ := in (element of) 
+/ := not
+:= := assignment
+⟺ := if and only if
+| := OR
+m := slope

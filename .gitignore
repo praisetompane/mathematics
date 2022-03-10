@@ -1,9 +1,8 @@
 *.vscode
 *.DS_Store
 
-impl_repos
+34_impl_repos
 studies
 literature
 open_source
-courses
 .dccache
