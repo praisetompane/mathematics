@@ -1,0 +1,15 @@
+transpose:
+    given: 5² = 25
+    using Transpose method
+        tranponse exponent(2) to RHS
+
+        5 = squareroot(25)
+
+half exponent:
+    given:
+        squareroot(16) = 4² => squareroot(4²) = 4¹ => squareroot(2⁴) = 2²
+        squareroot(256) = 16 => squareroot(4⁴) = 4² => squareroot(2⁸) = 2⁴
+
+    pattern:
+        squareroot(exponent) = baseᵉˣᵖᴼⁿᵉⁿᵗ/² 
+            squareroot(aᵐ) = aᵐ/² 

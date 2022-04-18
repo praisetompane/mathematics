@@ -1,0 +1,227 @@
+carries     11  
+            394
+        +    78
+        _______
+result      472
+
+carries      11
+            8455
+        +     97
+        ________
+            8552
+
+carries      1
+            42062
+        +    391
+        ________
+            42453
+
+carries        1  1
+                13.45
+        +      0.892
+        ____________
+                13.342
+
+carries        1  1
+                321.4
+        +       81.732
+        ______________
+                403.132
+
+  
+            -140 + 90
+                |-140| - |90|, because addend signs are different
+                140 - 90 = 50
+                ∴ answer = -50, because largest absolute value is 50, which is from a negative number(-140)
+                ∴ -140 + 90 = -50
+
+            -12 + 4
+                |-12| - |4|, because addend signs are different
+                12 - 4
+                ∴ answer = -8, because largest absolute value is 12, which is from a negative number(-12)
+                ∴ -12 - 4 = -8
+
+            -1.54 + (-3.2)
+                |-1.54| + |3.2|, because addend signs are the same
+                1.54 + 3.2 = 4.74
+                ∴ answer = -4.74, because addend signs are the same and negative
+                ∴-1.54 + (-3.2) = -4.74
+
+            -20 + (-25.4)
+                |-20| + |-25.4|, because addend signs are the same
+                20 + 25.4
+                ∴ answer = -45.4, because addend signs are the same and negative
+                ∴ -20 + (-25.4) = -45.4
+            
+            |-22 + (-17)|
+                ||-22| + |-17||, because addend signs are the same
+                |22 + 17| = |39|
+                ∴ answer = |-39|, because addend signs are the same and negative
+                ∴ answer = 39, after apply the absolute operator
+                ∴|-22 + (-17)| = 39
+
+        Evaluate:
+            |50| = 50, because 55 is 55 units from zero(0)
+            
+            |33| = 33, because 33 is 55 units from zero(0)
+
+            |3/7| = 
+                |0.4285714286|
+                ∴ answer = 0.4285714286, post diving 3 by 7
+            
+            |-3.5| = 3.5, because -3.5 is 3.5 units from zero(0)
+
+            |-21| = 21, because -21 is 21 units from zero(0)
+
+            |-55| = 55, because -55 is 55 units from zero(0)
+
+        Add:
+            -13 + 5
+                |-13| - |5|, because addend signs are different
+                13 - 5 = 8
+                ∴ answer = -8, because largest absolute value is 13, which is from a negative number(-13)
+
+            -3 + 10
+                |-3| - |10|, because addend signs are different
+                3 - 10 = -7
+                ∴ answer = 7, because largest absolute value is 10, which is from a positive number(10)
+            
+            59 + 88
+                    1
+                    59
+                +   88
+                ______
+                    247
+
+            36 + 89 
+                    1
+                    36
+                +   89
+                ______
+                    125
+
+            104 + 1999
+
+                    111
+                    104
+                + 1999
+                ______
+                    2103
+
+            549 + 1999
+                    11
+                    549
+                + 2357
+                ______
+                    2906
+
+            -167 + (-755)
+                                                1
+                    -167          | -16|       16
+                + -755      = + |-755|  = + 755  (+, because addend signs are the same)
+                ______        ________    _____
+                                            771
+                                        ∴ -771, because addend signs are the same(i.e. negative)
+
+            -382 + (-675)
+                                            11
+                    -382          |-382|      382
+                + -675      = + |-675|  = + 675
+                ______        ________    _____
+                                            1057
+                                        ∴ - 1057, because addend signs are the same(i.e. negative)
+
+            22 + (-20)
+                |22| - |-20|, because addend signs are the different
+                22 - 20 = 2
+                ∴ 2, because the largest absolute value is 22, which is from a positive number(i.e. 22)
+
+            39 + (-29)
+                |39| - |-29|, because addend signs are different
+                39 - 29 = 10
+                ∴ 10, becaus the largest absolute value is 39, which is from a positive number(i.e. 39)
+
+            -8 + 15
+                |-8| - |15|, because addend signs are different
+                8 - 15 = -7
+                ∴ 7, because the largest absolute value is 15, which is from a positive number(i.e. 15)
+
+            -7 + 12
+                |-7| - |12|, because addend signs are different
+                7 - 12 = 5
+                ∴ 5, because the largest absolute value is 12, which is from a positive number(i.e. 12)
+
+            |12 + (-20)|
+                ||12| - |-20||, because addend signs are different
+                |12 - 20| = |-8| = 8
+                ∴ -8, because the largest absolute value is 20, which is from a negative number(i.e. -20)
+
+            |33 + (-29)|
+                ||33| - |-29||, because addend signs are different
+                |33 - 29| = |-4| = 4
+                ∴ 4, because the largest absolute value is 33, which is from a positive number(i.e. 33)
+                
+            | −12.58 + (−78.8)|
+                ||-12.58| + |-78.8||, because addend signs are the same
+                |12.58 + 78.8| = |91.38| = 91.38
+
+                        11
+                        12.58
+                +    78.8
+                __________
+                        91.38
+
+                ∴ -91.38, because addend signs are the same and both negative(i.e. -12.58 and -78.8)
+            
+            | −253.2 + (−9.27)|
+                ||-253.2| + |-9.27||, because addend signs are the same
+                |253.2 + 9.27| = |262.47| = 262.47
+                        1
+                    253.2
+                +     9.27
+                __________
+                    262.47
+                ∴ -262.47, because addend signs are the same and both negative(i.e. −253.2 and −9.27)
+
+            |509 + 3197|
+                ||509| + |3197||, because addend signs are the same  
+                |509 + 3197| = |3606| = 3606
+
+                        1 1
+                    3197
+                +    509
+                ________
+                    3606
+
+                ∴ 3606, because addend signs are the same and both positive(i.e. 509 and 3197)   
+
+            |488 + 7923|
+                ||488| + |7923||, because addend signs are the same
+                |488 + 7923| = |8411| = 8411
+
+                    111
+                    7923
+                +    488
+                ________
+                    8411
+
+                ∴ 8411, because addend signs are the same and both negative(i.e. 488 and 7923)
+
+        True or False:
+            |−5 + 4| > |−5 + (−4)|
+                |−5 + 4|
+                    ||-5| - |4||, because addend signs are different
+                    |5 - 4| = |-1|
+                        ∴ |-1|, because the largest absolute value is 5, which is from a negative number(i.e. -5)
+                    ∴ 1
+
+                |−5 + (−4)|
+                    ||-5| + |-4||, because addend signs are the same
+                    |5 + 4| = |-9|
+                        ∴ |-9|, because addend signs are the same and both negative(i.e. -5 and -4)
+                    ∴ 9
+
+                ∴ 1 > 9
+                ∴ False
+
+            |−3 + (−2) | ≥ |3 + 2|

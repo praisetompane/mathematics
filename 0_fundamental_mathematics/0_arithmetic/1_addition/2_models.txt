@@ -1,0 +1,84 @@
+Models to understand the MEANING of addition:
+    Positive numbers:
+        Counting:
+            To add 13 + 14
+                Take two sets of  objects
+                    one contains 13 objects
+                    one contains 14 objects
+                Gather the two sets, into one set
+                    count the objects in the new set = 27
+                ∴ 13 + 14 = 27 => mathematical sentence to represent above
+                
+        Climbing steps
+
+        Walking to the left and/or right on the numberline from zero
+            negative = walk left
+            positive = walk right
+            x + y
+            Flow
+                walk x positions
+                from the x pisition
+                    walk y positions
+                        the answer is the next pisition you end up on.
+            Example
+                5 + (-4)
+                                -   -   -   -
+                                *   *   *   *   * => walk 5 units to the right
+                <---|---|---|---|---|---|---|---|---|---|---|-->  
+                -3  -2  -1   0   1   2   3   4   5   6   7
+                ∴ answer = 1
+
+
+                5 + 3
+                                                    +   +   + walk 3 units to the right
+                                +   +   +   +   +   => walk 5 units to the right
+                <---|---|---|---|---|---|---|---|---|---|---|---|>  
+                -3  -2  -1   0   1   2   3   4   5   6   7   8   9
+                ∴ answer = 8
+
+        Examples:
+            8 + 7 = 15
+            6 + 8 = 14
+
+        Large(multiple place value) number addition:
+            place values:  
+            million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
+            Q:
+                Why does it look like place values are read in groups of 3?
+                    i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
+                    
+    Negative numbers:
+            Negative and Positive numbers negate each other to zero(0)
+                More specifically the positve and negative ones(1s) negate each other
+
+    
+Genearal Integer Addition algorithm:
+        If addends(numbers) have same sign:
+            add their absolute values
+            attach the common sign
+        if addends(numbers) have different sign:
+            substract their absolute values(subtract the smaller smaller from larger)
+            attach the sign of the larget absolute value
+
+Q: Why numbers after the decimal point, start with tenth and not oneth?
+    https://byjus.com/question-answer/why-isn-t-ones-place-not-there-in-decimal-part-of-decimals/
+    https://www.quora.com/Why-are-digits-after-a-decimal-point-not-pronounced-as-they-are
+
+Insights:
+    addition(and substraction(see later)) can be reduced to walking on a number line.
+        walk n positions
+            where n is the number value of an addend
+
+        walk left for negative numbers
+        walk right for positive numbers
+
+    requires knowledge couting(humans and other animals seem to be able to count)
+
+    Q: Do we know why we can count?
+    Q: Do all addable mathematical objects have their number line equivalent?
+
+# Legend
+Q: Question for later research
+
+references
+    Fundamentals of Mathematics I,Kent State Department of Mathematical Sciences, August 4, 2008

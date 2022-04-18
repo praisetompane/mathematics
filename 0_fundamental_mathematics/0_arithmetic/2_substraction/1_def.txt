@@ -1,0 +1,12 @@
+the opposite of addition
+    the act of removing quantity from a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
+        during this act: 
+            if the quantity to remove exceeds the quantity in the current place value
+                we convert 1(one) quantity of the next higher place, into the current place value
+                    the conversion = the 1(one) quantity * base of the number system(often 10) + 
+                                     quantity in current place value
+
+                                     
+def minuend: the number from which another will be subtracted.
+
+def subtrahend: the number to be subtracted from another.

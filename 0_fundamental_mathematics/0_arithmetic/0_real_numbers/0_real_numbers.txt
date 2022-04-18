@@ -1,0 +1,231 @@
+notation
+  {} = Set
+  ... = infinite, with same pattern
+  ∈ = is element of
+  ∴ = therefore
+
+Real Numbers:
+
+  Counting:
+    P = {1,2,3,4,...}   = Positive integers/Counting numbers
+    W = {0,1,2,3,4,...} = Non-negative integers/Whole numbers
+
+    * ∴ 0 ∈ W
+    * ∴ P ∈ W
+    * ∴ W ∈ I
+
+  Measurement:
+    * I = {...,-3,-2,-1,0,1,2,3...} = Integers
+
+      <---|---|---|---|---|---|---|--->  
+          -3  -2  -1   0   1   2   3
+
+    Counting/Measuring partial amounts
+    fraction = an **integer** divided by a **nonzero integer**
+        *any* number that can be written as fraction is **rational number**
+        ∴ I ∈ R
+      all integers are rational numbers: Q: Is there of proof of this?
+
+  Real numbers = All numbers that can be represented on a number line
+
+    R = Rational numbers = real numbers that can be represented as a fraction, and thefore plottable on
+          a number line 
+      * Key is they can be represented as **fractions**
+
+    IR = Irrational numbers = Real numbers that are not rational(i.e cannot be represented as fractinos).
+                    i.e. decimals that do not end 
+                          decimals that repeat forever
+                        √ 2 , √ 5, π, etc 
+                        
+      Q: Are the no categories for irration numbers?
+
+    ∴ Real Numbers = {IR} + {R} = Irrational Numbers + Rational Numbers
+      ________________________________________________________________
+      |                         Real Numbers                          |
+      |_______________________________________________________________|
+      |     Rational Numbers        |       Irrational Numbers        | 
+      |_____________________________|_________________________________|
+      |            Integers         |                                 |
+      |     |___________________|   |                                 |
+      |     |Negative           |   |                                 | 
+      |     |Non negative/Whole |   |                                 |
+      |     |Positive/Counting  |   |                                 |
+      |     |___________________|   |                                 |
+      |_____________________________|_________________________________|
+
+  Number system:
+    our number sytem is based on 10
+      i.e.
+
+        10 ones                 = 1 ten
+        10 tens                 = 1 one-hundred
+        10 one-hundred          = 1 one-thousand
+        10 one-thousand         = 1 ten-thousand
+        10 ten-thousand         = 1 one-hundred-thousand
+        10 one-hundred-thousand = 1 one-million
+
+      decimals: these are also based on 10
+
+        The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)
+          e.g. 0 to 1 = 
+                0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1 
+                      0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 
+                    10 's' between 0 and 1
+                    
+                0 to 0.1
+                s is split into 10 equal spaces as well(i.e hundredths)
+                0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 0.1 
+                    0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 
+
+        system = ... ,tens, ones . tenths, hundredths, thousandths, ten-thousandths, hundred-thousandths, millionths, ...
+
+          e.g. 13.453 = thirteen and four hundred firty-three thounsandths
+                  .453 is read like non decimal number + the ending place at the end
+                        i.e. four hundred firty-three  + thounsandths
+                  "and" represents the decimal
+                1.0034 = one and thirty-four tenthounsandths
+      * Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
+        Yes, tahat how we get inifinite decimals (i.e the irrational numbers.)
+
+  Comparison:
+    > greater than
+    < less than
+    = equal
+    >= greater than or equal
+    <= less than or equal
+
+    when comparing Real Numbers, the number most left on the number line is the lesser of the two.
+    Examples:
+      -5 < -4 = True
+        How?
+          Given:
+            -5 of "some things"
+            Acquire 1 of those "some things"
+              Then
+                You have -4 of "some things".
+                Getting 1 more of "some things" get yous to -4 of "some things"
+                ∴ -4 > -5
+          Because -4 is further to the Right on the number line than -5
+                  -5 is further to the Left on the number line than -4
+
+      4.23 < 4.2 = False
+        How?
+          4.23 is further to the Right on the number line(by 0.03 units)
+            headed closer 4.3, which is greater that 4.2
+
+      -10 >= -11 = True
+        Because -10 is further to the Right on the number line
+                -11 is further to the Left on the number line
+
+      7.01 < 7.1 = True 
+        Because 7.1 is further to the Right on the number line
+                7.01 is further to the Left on the number line
+
+      Given:
+        you owe $4
+        your friend owes $3
+      Then:
+        you have a larger debt than your friend.
+        ∴ you have "less" money [Assuming you have the same total money]
+
+      Something Interesting: 
+        Equality in the Set of Negative numbers(N) is opposite to Equality in the Set of Positive numbers(P)
+          Examples:
+            Positives                 Negatives 
+              4 < 5 = True              -4 < -5 = False
+              6 > 7 = False             -6 > -7 = True
+              10 >= 100 = False         -10 >= -100 = True
+      Something Interesting:
+        Given two Negative numbers
+          The number with a greater absolute value is less than the other
+
+        Examples:
+          -4 and -5
+            |-4| = 4, |-5| = 5
+
+            5 > 4
+            ∴ -5 < -4
+          
+          -71.24 and -71.2
+            |-71.24| = 71.24, |-71.2| = 71.2
+
+            71.24 > 71.2
+            ∴ -71.24 < 71.2
+
+      Something Interesting:  
+        with < and  >, the mouth of sign always eats the big number :) :) :)
+
+      Something Interesting:
+        The "value" of a number is determined by its position on the number line.
+          Then its position on the number line determines whether it is <,=,> than other numbers
+
+Exercises 1.1
+
+Which set/sets of numbers do the numbers belong?
+  1. -13      :      Integers, Rational  
+  2. 50       :      Positive, Whole, Integers, Rational
+  3. 1/2      :      Rational
+  4. -3.5     :      Rational
+  5. √15      :      Irrational
+  6. 5.333    :      Rational
+
+  NB: decimals and fractions are Rational
+     they are real numbers that are representable as Fractions
+
+     1/2 = already Fraction
+                                           GCD = 5
+     -3.5 =  (-3/5 * 10)/10 = -35/10 = (-35/5)/(10/5) = -7/2
+
+Plot on number line
+  7. -9
+        *
+    <---|---|---|---|---|---|---|---|---|---|---|---|--->  
+       -9  -8  -7  -6  -5  -4  -3  -2  -1   0   1   2   3
+
+  8. 9
+                                                                                *
+    <---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|--->
+       -9  -8  -7  -6  -5  -4  -3  -2  -1   0   1   2   3   4   5   6   7   8   9
+
+  9. 0
+                                            *
+        <---|---|---|---|---|---|---|---|---|---|---|---|--->  
+           -8  -7  -6  -5  -4  -3  -2  -1   0   1   2   3
+
+  10. -3.47
+                *    
+        <-...|.........|.........|.........|.........|.........|...|->  
+         -3.5      -3.40      -3.3      -3.2      -3.1      -3.0   0
+
+  11. -1.23
+                    *   
+        <-...|.........|.........|.........|.........|.........|...|->  
+          -1.3      -1.2      -1.1         0        1.1       1.2
+
+  12. -5.11
+                                                              *        
+      <---...|.........|.........|.........|.........|.........|---|->  
+          -5.6      -5.5      -5.4      -5.3      -5.2      -5.1   0
+
+
+True or False?
+
+  13. -4 <= -4:       True, Because they are on the same place on the number line
+
+  14. -5 > -2:        False, Because -5 is further to the Left on the number line
+                                     -2 is further to the Right on the number line
+
+  15. -20 < -12:      True, Because -20 is further to the Left on the number line
+                                     -12 is further to the Right on the number line
+
+  16. 30.5 > 30.05:   True, Because 30.5 is further to the Right on the number line
+                                    30.05 is further to the Left on the number line
+
+  17. -4 < -4:        False, Because they are on the same place on the number line, they are Equal
+
+  18. -71.24 > -71.2: False, Because -71.2 is further to the Right on the number line
+                                     -71.24 is further to Left on the number line
+                                     
+
+# Legend
+  Q: Question for later research

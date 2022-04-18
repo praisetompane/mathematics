@@ -1,0 +1,24 @@
+def absolute value: the distance on the number line 
+                        from zero to a number
+                        regardless of direction(i.e. sign of the number)
+    
+    absolute value is always positive(nonnegative), as it is DISTANCE (from zero)
+        Example: 
+            |4| = 4 because, 4 is a distance of 4 from zero(0)
+            |-4| = 4 because, -4 is a distance of 4 from zero(0)
+        Q: Can we not have negative distance?
+
+        |6| = 6, because, 6 is a distance of 6 unit from zero(0)(see below number line)
+                          *   *   *   *   *   * = 6 distance units
+        <---|---|---|---|---|---|---|---|---|---|---|-->  
+           -3  -2  -1   0   1   2   3   4   5   6   7
+
+    Why do we need this?
+        To get the distance from a origin point(location)
+            to another point(location)
+
+    Notation:
+        |x|, where x is a signle number
+             if x an expression/mathematical statement
+                it must be reduced/simplified to a single number first
+                    i.e. the arithmetic/algebra must be performed first before apply the absolute function

@@ -1,0 +1,134 @@
+Climbing steps
+    3 - 2: Walk 3 steps up, then 2 steps down
+
+Adding negative-positive pairs(which are equiavlent to zero) to have enough value to cancel out the subtrahend¹ 
+
+    Legend:
+        P = Positive Number
+        N = Negative Number
+        NP = Negative-Positive pair = 0
+
+    4 - 7: 
+        P P    =>   P P     NP NP   => N    N
+        P P         P P     NP         N    
+
+        ∴ -3
+        Subtrahend = 7
+            Add 3 negative-positive pairs to have enough P to cancel out 7 P.
+
+        Same Example using 1 and -1
+            4 - 7:
+                1 1 => 1 1  -1 & 1 -1 & 1 => -1 -1
+                1 1    1 1  -1 & 1           -1
+
+                ∴ -3
+
+    -4 - 5:
+        N N => N N NP NP NP => N N N N N
+        N N    N N NP NP       N N N N
+        
+        ∴ -9
+            Subtrahend = 5
+            Add 5 negative-positive pairs to have enough P to cancel out 5 P.
+
+    -3 - 7:
+        N N => N N NP NP NP NP => N N N N N N
+        N      N   NP NP NP       N   N N N
+
+        ∴ -10
+            Subtrahend = 7
+            Add 7 negative-positive pairs to have enough P to cancel out 7 P.
+
+    -4 - (-6):
+        N N => N N NP => P =>
+        N N    N N NP    P
+
+        Subtrahend = -6
+            Add 2 negative-positive pairs to have enough N to cancel out 6 N.
+
+    3 - (-2):
+        P P => P P NP => P P P 
+        P      P   NP    P   P
+
+        Subtrahend = -2
+            Add 2 negative-positive pairs to have enough N to cancel out 2 N.
+
+        ∴ 5
+
+    −3 − 7
+        N N => N N NP NP NP NP => N N N N N N
+        N      N   NP NP NP       N N N N
+
+        Subtrahend = 7
+            Add 7 negative-positive pairs to have enough P to cancel out 7
+
+        ∴ -10   
+
+    -4 - (-6)
+        N N => N N NP =>  P
+        N N    N N NP     P
+
+        Subtrahend = -6
+            Add 2 negative-positive pairs to have enough N to cancel out 6
+        
+        ∴ 2
+
+    -4 + 6
+        N N => N N P P P => P 
+        N N    N N P P P    P
+
+        Subtrahend is actually 4, as it is the negative value, even though it is the first term
+            Add the 6 P
+            4 P cancel out 4 N
+        
+        ∴ 2
+
+    -4 - (-6) and -4 + 6 result in the same answer
+    
+    Observations:
+        Substracting a negative number(ex. -6) equivalent to adding the opposite number(ex. 6)² 
+            -4 - (-6) = -4 + 6 = 2
+
+    If there is negative term(even if adding), you are going to subtract (i.e. -A + B)
+    If there substration operator is explicitly used in the sentence(i.e. A - B)
+
+General Integer Substraction algorithm³ 
+    1. Identify that is a subtraction
+    2. Identify the numbers being substracted (minuend[RHS] and subtrahend[LHS])
+    3. 
+        - Leave the minuend unchanged
+        - ADD the opposite of the subtrahend
+    4. Follow the rules of addition
+
+    Examples:
+        -21 - 13
+            Substraction? = T
+            -21 + (-13): ADD the opposite of the subtrahend
+            |21| + |13| = |34| = -8: Apply Addition rules
+
+        -11 - 22
+            Substraction? = T
+            -11 + (-22): ADD the opposite of the subtrahend
+            |11| + |22| = |33| = -33: Apply Addition rules
+
+        -1603 - (-128)
+            Substraction? = T
+            -1603 + 128: ADD the opposite of the subtrahend
+            |1603| - |128| = |1475| = -1475: Apply Addition rules
+
+        -201 - (-454)
+            Substraction? = T
+            -201 + 454: ADD the opposite of the subtrahend
+            |201| + |454| = |253| = 253: Apply Addition rules
+
+        331 - (-729)
+            Substraction? = T
+            311 + 729 Add the opposite of the subtrahend
+            |311| + |729| = |1060| = 1040
+
+        188 - 560
+            Substraction? = T
+            188 + (-560): ADD the opposite of the subtrahend
+            |188| - |560| = |372| = -372: Apply Addition rules
+references
+    1,2,3 Fundamentals of Mathematics I,Kent State Department of Mathematical Sciences, August 4, 2008

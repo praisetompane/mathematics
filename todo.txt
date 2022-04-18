@@ -1,1 +1,68 @@
-- Substration
+Objective: Learn the language of mathematics
+
+Cambridge Mathematical Reading List: https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
+Wolfram Mathworld: https://mathworld.wolfram.com
+
+
+0. Philosophy of Mathematics
+   Stanford Encyclopedia of Philosophy - https://plato.stanford.edu/entries/philosophy-mathematics/#toc
+   Philosophy of Mathematics - Øystein Linnebo
+
+0. Fundamentals of Mathematics I 
+
+https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
+
+1. Discrete Mathematics with Applications - Susanna S Epp 
+2. Concrete mathematics - don ka nuth
+3. Discrete Mathematical Structures - Koleman | Busby | Ross
+
+   - https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3
+   - https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
+   - https://www.youtube.com/watch?v=tACXuzfXzSI&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=6
+
+4. Mathematical Proofs - A Transition to Advanced Math - Gary Chartrand | Albert D. Polimeni | Ping Zhang 
+5. An Introduction to Abstract Mathematics =- Robert J Bond William J. Keane
+   How to think like a mathematician - Houston (https://amzn.to/338oNsZ)
+6. AGS Pre-Algebra
+7. Intermediate Algebra??
+8. College Algebra - Jerome Kaufman
+9. College Algebra - Blitzer
+10. A Graphical Approach to Algebra & Trigonometry - Hornsby | Lial | Rockswold => Use to teach Precalculus {Can skip to here if you have Algebra down}
+11. Calculus - James Stewart - Calculus |, || and |||
+   3Blue1Brown - Calculus
+   https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+12. Calculus - Michael Spivak
+13. A First Course in Differential Equations with Modelling Applications - Dennis G Zill
+14. Ordinary Differential Equations - Larry C Andrews
+   Partial Differential Equations an introduction – Walter Strauss (https://amzn.to/35RrKjA)
+   James Nearing, Mathematical Tools for Physics: http://www.physics.miami.edu/~nearing...
+15. Naive Set Theory - Paul R Halmos {Might be number 29}
+16. Elementary Linear Algebra - Howard Anton
+   https://www.3blue1brown.com/topics/linear-algebra
+   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+17. Linear Algebra - Stephen H Friedberg | Anorld J Insel | Lawrence E Spence
+18. Mathematical Statistics with Applications - Dennis D Wackerly | William Mendenhall ||| | Richard L Scheafter
+19. A Frist Course in Probability - Sheldon Ross
+20. Fundamentals of Complex Analysis with Application to Engineering and Science - EB Saff | AD Snider
+21. Complex Variables and Applications - James Ward Brown | Ruel V Churchill
+22. Analysis | and Analysis || - Terence Tao
+23. Advanced Calculus A Course In Mathematical Analysis - Patric M Fitzpatrick
+24. Principles of Mathematical Analysis - Ruden
+25. Elementary Analysis The Theory of Calculus - Kenneth A Ross
+26. Abstract Algebra A First Course - Dan Saracino
+27. Contemporary Abstract Algebra - Joseph A Gallian
+28. Introduction to Topology - Theodore W Gamelin | Robert Everist Greene
+29. Applied Combinatorics - Alan Tucker
+30. Introduction to Functional Analysis with Applications - kreyzszig
+31. Graph Theory - Ronald Gould
+32. Real Analysis H.L Royden
+33. Real and Complex Analysis - Ruden
+   Visual complex analysis – Tristian Needham (https://amzn.to/2KxwQt7)
+The goal is not to master but to understand the fields.
+One can master them if needed and sometimes understanding will also be hard and can move on.
+
+# Legend
+
+   *In progress
+   ** Completed 
+   *** Completed equivalent

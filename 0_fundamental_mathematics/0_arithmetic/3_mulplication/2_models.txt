@@ -1,0 +1,77 @@
+5 x (-4):
+    -4 + (-4) + (-4) + (-4) + (-4) = -20
+
+    N N | N N | N N | N N | N N |  => N N N N N N N N N N
+    N N | N N | N N | N N | N N |     N N N N N N N N N N
+
+    Generalisation:
+        N x P = N       OR      P x N = N
+
+    4 x (-1):
+        -1 + (-1) + (-1) + (-1) = -4 [Follow rules of addition]
+    
+    -2 x 5:
+        -1*5 x 5
+        -1 x (5 + 5)
+        -1 x (10)
+        ∴ -10
+
+        Q: Why is multiplication by -1 result in a negative?
+
+-1 x 3:
+    same as 3x(-1):
+        -1 + (-1) + (-1) = -3
+
+    Generalisation:
+        -1x(any_number) = opposite of any_number
+        -1x4 = -4
+            because -4 is the opposite of 4
+
+-3 x (-4):
+    Sol 1:
+        same -1*3 x (-4) (i.e. opposite of 3 times 4)
+            3 x (-4): temporarily remove opposite
+            -4 + (-4) + (-4)
+            -12
+        apply opposite removed from -3
+            -1 x (-12)
+        ∴ 12, opposite of -12 is 12
+    
+    Sol 2:
+        opposite of 3 x opposite of 4
+        -1x3 x -1x4
+        3 x 4[multiply the "main/subject" numbers. Keep record "opposition" number]
+            3 x 4
+            4 + 4 + 4 = 12
+        apply first "opposition" number
+            opposite of 12 = -12
+                -1 x 12 = -12
+        apply second "opposition" number
+            opposite of -12 = 12
+                -1 x (-12)
+        ∴ 12
+
+    Generalisation:
+        N x N = P       OR      P x P = P
+
+        N x N = P:  
+            N1 x N2 => The opposite of the opposite of N = N        
+                -1*N x -1*N
+                -1*(-1) x N*N
+                    -1*(-1) = opposite of opposite
+                    N*N = repeated addition
+                    ∴ opposite of opposite of repeated addition
+        P x P = P:
+            P1 x P2 => just repeated addition of P2, P1 times
+
+Generalisation Multiplication Algorithm:
+    Multiplication signs = { x, *, · , ()() }
+    1. Multiply the numbers, ignoring the signs
+        1.1. If the signs are the same, result = Positive
+        1.2. If signs are different, result = Negative
+
+    2. Alternatively, In the repeated addition addition form
+        Count number of negative numbers
+            If even, then result = Positive
+            If odd, then result = Negative
+            

@@ -1,0 +1,50 @@
+def: a way to represent repeated multiplication
+
+Examples:
+    3 * 3 = 3²
+    3 * 3 * 3³ 
+    3 * 3 * 3 * 3 * 3 * 3 * 3 = 3⁷
+
+    names of parts:
+        using: 3 * 3 = 3²
+        3 = base
+        2 = exponent(degree) [3² = superscript format] 
+        read: 3 raised to 2
+    general: 
+        aᵐ
+        a = base
+        m = exponent(degree)
+negative exponents:
+    3⁻²:
+    as positive exponent = 1/3²:
+    how:
+        3⁻² * 3²/3² : multiply by an effective 1(3²/3² = 1)
+
+        (3⁻² * 3²)/3²
+        3⁻²⁺²/3² : for (3⁻² * 3²) applied Product Law
+        3⁰/3²: for 3⁰ applied Law[any non-zero number raised to 0 is 1]
+            Q: Why is any non-zero number raised to 0 equal to 1?
+        ∴ 1/3²
+
+Generalisation:
+    given: a⁻ᵐ 
+        convert exponent to positive: -m to m
+            ∴ aᵐ
+        divide 1 by the new exponent
+            ∴ 1/aᵐ
+        Example:
+            (21/39)⁻⁷
+            (21/39)⁷ 
+            ∴ 1/(21/39)⁷
+    given: aᵐ 
+        convert exponent to negative: m to -m
+            ∴ a⁻ᵐ 
+        divide 1 by new exponent
+            ∴ 1/aᵐ
+        Example:
+            4²
+            4⁻² 
+            1/4⁻² 
+            
+
+

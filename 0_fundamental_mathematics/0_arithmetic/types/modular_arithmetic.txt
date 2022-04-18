@@ -1,0 +1,39 @@
+Definitions: 
+    modular arithmetic: branch of mathematics that deals with
+                            integer arithmetic on a circular number line that
+                                has fixed set of numbers.
+    modulus relationship equation:
+        a = b(mod n)
+        means => a is congruent b in modulus n context
+                 a is equivalent to b in a modulus n context,
+                    as they have the same remainder when divided by n(the modulus)
+
+        Example:
+            17 = 5(mod 12)
+            17 is congruent 5 in modulus 12 context
+
+            17 / 12 = 1 R 5
+            5 / 12  = 0 R 5
+Constraint:
+    All arithmetic operations performed on this number line
+        will wrap around when they reach the maximum number
+            called the modulus
+
+Example:
+    12 hour clock:
+        modulus = 12
+
+    Addition:
+        Given 08:00am
+        Add 9 hours
+        Ans = 8 o'clock + 9 = 17 o'clock
+        In modulus 12 context:
+            17%12 = 5 o'clock
+            Therefore: 5PM
+            Therefore: 17 and 5 are equivalent in modulus 12(short mod 12) context
+
+
+References:
+    https://realpython.com/python-modulo-operator/#modulo-in-mathematics
+
+    

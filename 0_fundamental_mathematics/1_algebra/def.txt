@@ -1,0 +1,31 @@
+a system of symbols and rules of processing the symbols
+    that represent mathematical sentences¹
+
+def expression:
+    a sentence
+
+    types:
+        numerical expression
+        algebraic expression
+
+    numerical expression
+        1 + 1
+    
+    algebraic expression:
+        x + 1
+
+def equation:
+    a sentence that equates two sides
+
+    algebraic equation: Q: Do we have non algebraic equations?
+        5x + 1 = 10
+
+        names of parts:
+            5x + 1  = LHS
+            10      = RHS
+            x       = variable
+            {1, 10} = constant(s)
+            +       = operator
+
+references:
+    1 https://www.youtube.com/watch?v=UtReXKgmQ10&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF

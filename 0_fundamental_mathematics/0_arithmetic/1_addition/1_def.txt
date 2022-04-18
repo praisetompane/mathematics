@@ -1,0 +1,71 @@
+the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
+    during this act:
+        if a quantiy exceeds the storage capacity of the currrent place value
+            the excess quantity is stored in the next bigger place value.
+                excess quantity = quantity - max capcity of the currrent place value
+
+                Example:
+                    Given:
+                        num = ...000.000... => empty(i.e. zero number)
+                        
+                    Then:
+                        Add 19 ones
+                        19 ones + 0 one = 19 ones
+                        excess quantity = 19 - 9 = 10
+                    Therefore:
+                        10 ones are stored in the next place value
+                            i.e. The Tens
+                        num = 19
+                              1 tens and 9 ones
+                        
+                    Given:
+                        num = ...000.000... => empty(i.e. zero number)
+                    Then:
+                        Add 1 ones
+                        1 ones + 0 ones = 1 ones
+                        1 ones does not exceed the maximum capacity of the ones
+                    Therefore
+                        num = 1 ones
+    
+
+If the quantity is whole quantity, we attempt the storage at the ones and work our way up the higher place values until 
+    it is completely stored
+
+    It is counting 1 ones from your source quantity into the target.
+        Example:
+            Given:
+                num = ...000.000...
+                source quantity = 15
+                ∴ 15 + ...000.000... = 15 ones + ...000.000... ones
+
+            Then:
+                Take 1(one) from source quantity
+                    stored it in num's ones place value
+                    repeat until source quantity is empty
+
+                -----------------------------------------
+                15  ...000.000...
+                14  ...001.000...
+                13  ...002.000...   
+                12  ...003.000...
+                11  ...004.000...
+                10  ...005.000...
+                09  ...006.000...
+                08  ...007.000...
+                07  ...008.000... 
+                06  ...009.000...
+                05  ...010.000... NB: num's one place value max capacity reached. Therefore logic above applied 
+                04  ...011.000...
+                03  ...012.000...
+                02  ...013.000...   
+                01  ...014.000...   
+                00  ...015.000...   
+                         
+            Therefore: 
+                Addition is counting 1(ones) from a source quantity into a target quantity.
+                    Scaling the place value 1(ones) are stored as the ones place value reaches max capacity
+
+If the quantity is a whole quantity, we attempt the storage at the tenths and work our up the lower places values until
+    it is completely stored
+
+

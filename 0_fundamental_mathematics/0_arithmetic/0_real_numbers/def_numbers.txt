@@ -1,0 +1,37 @@
+def: names for quantities?
+
+    lines quantity    name
+        |               one
+        ||              two
+        |||             three
+        ||||            four
+        |||||           five
+
+
+Q: Where/When did give these quantities names?
+Q: Why do we count?
+Q: When did we start counting?
+Q: Did we always count upto ten in our homosapien form?
+    hence base 10 system so natural?
+
+Q: Where does the idea of "how many" things are there come from?
+Q: Humans and other animals show case the ability to "know(by way of counting? Are there other ways to know how many things are there?" "how many" things are there.
+Q: how many = numbers?
+Q: does number theory tackle the origin of concept of "how many"?
+Q: what is a number?
+Q: what is cunting?
+
+Maybe Number Theory addresses these questions.
+
+Set Theory = successive functions:
+
+number vs numeral¹
+        57
+            57 - decimal(base 10)
+            111001 - binary
+            LVII - roman numerals
+numeral = representation/description of a number² 
+
+references
+50 Centuries in 50 minutes (A Brief History of Mathematics), https://youtu.be/YsEcpS-hyXw
+1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020

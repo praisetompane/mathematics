@@ -1,0 +1,71 @@
+name:
+    linear equations of one variable
+    first degree equationss of one variable
+    def:
+        equation with 1 as the hightest exponent(degree)
+        
+def solve: find a value(s) of the variable(s) that satfisfies the equation.
+        def satfisfies: make the Left Hand Side(LHS) equal Right Hand Side(RHS)
+
+methods to solve:
+    - inverse operations
+    - transpose
+
+    - inverse operations
+        - group like terms by removing them using inverse operations.
+        Example:
+            x + 1 = 10:
+                x + 1 -1 = 10 - 1
+                apply inverse of 1(i.e. -1) to both LHS and RHS.
+
+            3x - 20 = 10 - 5x:
+
+                3x - 20 + 20 = 10 - 5x + 20
+                3x = 10 - 5x
+                3x + 5x = 10
+                8x = 10
+
+                1/8(8x/1) = 10(1/8)
+                8x/8 = 10/8
+                x = 5/4
+
+    - transpose
+        rules:
+
+            addition ---transposes to-------> subtraction
+            subtraction ---transposes to------->addition
+            multiplication ---transposes to------->division
+            division ---transposes to-------> multiplication
+
+        Examples:
+            addition ---transposes to-------> subtraction
+                x + 1 = 10:
+                x = -1
+
+            subtraction ---transposes to-------> addition
+
+                x - 20 = 10:
+                x = 10 + 20
+                x = 30
+            
+            multiplication ---transposes to-------> division
+                5x + 20 = 90:
+                x + 20 = 90/5
+                x + 20 = 45
+                x = 45 - 20
+                x = 25
+
+            division ---transposes to-------> multiplication
+                x/30 + 60 = 70
+                x + 60 = 70(10)
+                x + 60 = 700
+                x = 700 - 60
+                x = 640
+                ∴ no solution? Q: I made ths equation, it this possible?
+
+
+
+
+
+
+
