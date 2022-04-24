@@ -1,16 +1,9 @@
-Objective: Learn the language of mathematics
-
-Cambridge Mathematical Reading List: https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
-Wolfram Mathworld: https://mathworld.wolfram.com
-
-
-0. Philosophy of Mathematics
+0. Philosophy of Mathematics *
    Stanford Encyclopedia of Philosophy - https://plato.stanford.edu/entries/philosophy-mathematics/#toc
    Philosophy of Mathematics - Øystein Linnebo
 
-0. Fundamentals of Mathematics I 
-
-https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
+0. Kent Fundamentals of Mathematics I *
+   https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
 
 1. Discrete Mathematics with Applications - Susanna S Epp 
 2. Concrete mathematics - don ka nuth
@@ -25,6 +18,8 @@ https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
    How to think like a mathematician - Houston (https://amzn.to/338oNsZ)
 6. AGS Pre-Algebra
 7. Intermediate Algebra??
+8. Technion -Algebra 1M - international -Dr. Aviv Censor
+   https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=1
 8. College Algebra - Jerome Kaufman
 9. College Algebra - Blitzer
 10. A Graphical Approach to Algebra & Trigonometry - Hornsby | Lial | Rockswold => Use to teach Precalculus {Can skip to here if you have Algebra down}
@@ -60,6 +55,8 @@ https://mathworld.wolfram.com/topics/FoundationsofMathematics.html
    Visual complex analysis – Tristian Needham (https://amzn.to/2KxwQt7)
 The goal is not to master but to understand the fields.
 One can master them if needed and sometimes understanding will also be hard and can move on.
+
+Cambridge Mathematical Reading List: https://www.maths.cam.ac.uk/undergrad/admissions/files/reading-list.pdf
 
 # Legend
 
