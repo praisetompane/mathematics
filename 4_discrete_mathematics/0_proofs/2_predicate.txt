@@ -1,0 +1,2 @@
+# def:  proposition whose TRUTH 
+        depends on the value of a variable(s)

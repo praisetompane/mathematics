@@ -6,6 +6,7 @@ number sets:
     N := set of narutal numbers
     N⁺:= set of positive integers
     Z := set of integers
+    ℝ := Real Numbers
 
 ⟹ := implies
 ∈ := in (element of) 

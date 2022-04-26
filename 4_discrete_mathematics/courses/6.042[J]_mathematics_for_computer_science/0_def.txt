@@ -1,0 +1,8 @@
+elementary discrete mathematics
+    for science and engineering
+
+    with focus on:
+        mathematical tools and proof techniques
+            useful in computer science
+
+            

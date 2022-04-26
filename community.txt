@@ -1,7 +1,11 @@
+* https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
+
+* https://www.claymath.org/
+
+
 * The On-Line Encyclopedia of Integer Sequences: https://oeis.org/
 * inverse symbolic calculator: http://wayback.cecm.sfu.ca/projects/ISC/ISCmain.html
 * https://mathoverflow.net/
-* wolframalpha
 * https://math.stackexchange.com/
 * https://aims.ac.za# mathematics
 * https://courses.umass.edu/klement/pom/

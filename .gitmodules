@@ -1,0 +1,20 @@
+[submodule "0_philosophy_of_mathematics"]
+	path =  0_philosophy_of_mathematics
+	url = git@git@github.com:praisetompane/0_philosophy_of_mathematics.git
+[submodule "1_arithmetic"]
+	path = 1_arithmetic
+	url = git@github.com:praisetompane/1_arithmetic.git
+[submodule "2_algebra"]
+	path = 2_algebra
+	url = git@git@github.com:praisetompane/2_algebra.git
+[submodule "3_geometry"]
+	path = 3_geometry
+	url = git@git@github.com:praisetompane/3_geometry.git
+[submodule "4_discrete_mathematics"]
+	path = 4_discrete_mathematics
+	url = git@github.com:praisetompane/4_discrete_mathematics.git
+[submodule "5_linear_algebra"]
+	path = 5_linear_algebra
+	url = git@github.com:praisetompane/5_linear_algebra.git
+
+
