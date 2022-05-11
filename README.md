@@ -1,7 +1,5 @@
 # what is mathematics?
-(WIP)def: a formal language with precise and unambigious definitions for its words(+,-,*, π,e, etc.) and grammar.¹ 
-
-what are mathematical problems?
+(WIP)def: a formal language with precise and unambigious definitions of its words(+,-,*, π,e, etc.) and grammar.¹ 
 
 # what mathematical questions can you ask object mathematical objects/other objects?
 # "continents" of mathematics² 

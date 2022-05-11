@@ -13,8 +13,5 @@
 [submodule "4_discrete_mathematics"]
 	path = 4_discrete_mathematics
 	url = git@github.com:praisetompane/4_discrete_mathematics.git
-[submodule "5_linear_algebra"]
-	path = 5_linear_algebra
-	url = git@github.com:praisetompane/5_linear_algebra.git
 
 
