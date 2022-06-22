@@ -1,5 +1,8 @@
 # what is mathematics?
-(WIP)def: a formal language with precise and unambigious definitions of its words(+,-,*, π,e, etc.) and grammar.¹ 
+
+def: a formal language with precise and unambigious definitions of its words(+,-,*, π,e, etc.) and grammar.¹ 
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
 
 # what mathematical questions can you ask object mathematical objects/other objects?
 # "continents" of mathematics² 
