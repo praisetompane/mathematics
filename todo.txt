@@ -1,3 +1,87 @@
+2022-July-15 - 2022-December-31 -  Philosopy of Mathematics and Early Math to 12th Grade Math
+    Pre-K to Grade 8: https://www.khanacademy.org/math/k-8-grades *
+
+    Fundamentals of Mathematics - Kent *
+
+    Entry College/University: 
+        Algebra 1: *
+            https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/
+    
+    https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/ *
+
+    Highlights of Calculus:
+         https://ocw.mit.edu/courses/res-18-005-highlights-of-calculus-spring-2010/
+
+    2023-June-01 Apply for Studies
+
+2023-Jan-01 - 2026-April-16 - Undergrad Mathematics
+    https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-–-MAM)
+    https://math.mit.edu/academics/undergrad/major/course18/pure.php
+    
+    Fist Level: 
+        2023:
+            Year Module (4 - 6 hours each per week)
+                MAT1503 - Linear Algebra I
+                MAT1512 - Calculus A
+                COS1501 - Theoretical Computer Science I 
+                Introduction to Programming I - COS1511 - Get Exemption
+
+                MAT1503 - Linear Algebra I
+                    https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Linear-Algebra-–-MAT1503
+                    https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+
+                MAT1512 - Calculus A
+                    https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Calculus-A-–-MAT1512
+                    https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2005/
+                    * Deeper:
+                        https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+                
+                COS1501 - Theoretical Computer Science I
+                    Introduction to SOME of the concepts => Which ones?
+                    https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Theoretical-Computer-Science-I-–-COS1501
+                    https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+
+                Introduction to Programming I - COS1511 - Get Exemption
+                    https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Introduction-to-Programming-I-–-COS1511
+        
+        2024:
+            Year Module (4 - 6 hours each per week)
+                APM1513 - Applied Linear Algebra
+                MAT1613 - Calculus B
+                APM1514 - Mathematical Modelling
+                PHY1505 - Mechanics (Physics)
+                EUP1501 - Ethical Information and Communication Technologies for Development Solutions
+
+                APM1513 - Applied Linear Algebra
+                MAT1613 - Calculus B
+                    https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/
+                APM1514 - Mathematical Modelling
+                PHY1505 - Mechanics (Physics)
+                EUP1501 - Ethical Information and Communication Technologies for Development Solutions
+
+
+    Second Level:
+        2025:
+            5 modules
+        2026:
+            6 modules
+
+    Third Level:
+        2028:
+            5 modules
+        2029:
+            5 modules
+    
+    Done    
+
+Mathematical people : profiles and interviews
+
+2029-Jan-01 - 2029-Jan-01 -  Honours Mathematics
+2030-Jan-17 - 2032-Jan-01 -  Masters Mathematics
+2033-Jan-17 - 2037-Jan-01 -  PHd Mathematics
+
+
 * Philosophy of Mathematics *
    Stanford Encyclopedia of Philosophy - https://plato.stanford.edu/entries/philosophy-mathematics/#toc
    Philosophy of Mathematics - Øystein Linnebo
@@ -28,6 +112,11 @@
       - https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
       - https://www.youtube.com/watch?v=tACXuzfXzSI&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=6
 
+* Category Theory 
+    https://www.youtube.com/watch?v=p54Hd7AmVFU&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=6
+
+* Langlands program
+    
 *  Linear Algebra
       MIT 18.06SC Linear Algebra, Fall 2011
       https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/

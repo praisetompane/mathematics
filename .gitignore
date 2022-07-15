@@ -3,9 +3,5 @@ research_topics.txt
 literature
 open_source
 .dccache
-<<<<<<< HEAD
-.targets
-=======
-targets.txt
+todo.txt
 .DS_Store
->>>>>>> 2871a133f72230245d550f3c81e99e76ce1b6d55
