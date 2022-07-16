@@ -1,6 +1,6 @@
 # what is mathematics?
 
-def: a formal language with precise and unambigious definitions of its words(+,-,*, π,e, etc.) and grammar.¹ 
+def: a formal language with precise and unambiguous definitions of its words(+,-,*, π,e, etc.) and grammar.¹ 
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
 
@@ -12,7 +12,7 @@ def: a formal language with precise and unambigious definitions of its words(+,-
 
 * Number Theory: Explains numbers
 * Harmonic Theory: Explains Harmonics/Waves
-* Geometry: Explains the instrinsic shapes of mathematical objects
+* Geometry: Explains the intrinsic shapes of mathematical objects
 
 # references
 1 Fundamentals of Mathematics I,Kent State Department of Mathematical Sciences, August 4, 2008
