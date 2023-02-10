@@ -1,0 +1,45 @@
+Vectors
+
+  An entity with a MAGNITUDE and DIRECTION
+
+  Addition and Subtraction: Add/Substract corresponding components
+
+    Why does the order of terms matter in addition and substration?
+
+      (a) - (b) != (b) - (a)
+      (a) +  (b) != (b) + (a)
+
+  Multiplication/Division:
+
+
+
+  UNIT VECTORS
+
+    A vector with a magnitude of 1
+
+    Getting the Unit Vector of another vector (Vector in the same direction with
+    a magnitude of 1)
+
+    1. Divide the Components of the vector by the magnitude of the vector
+
+        a = (3,4)
+        ||a|| = 5
+        {
+           sqrt(3^2 + 4 ^2)
+           sqrt(9 + 16)
+           sqrt(25)
+           = 5
+           :Apply pythagoras theorem
+        }
+
+        u = (3/5, 4/5) : (Out unit vector)
+
+        Proof(Get Magnitude using Pythagoras therem)
+
+       ||u||=
+       {
+          sqrt( (3/5)^2 + (4/5)^2 )
+          sqrt( 9/25 + 16/ 25)
+          sqrt(25/25)
+          sqrt(1) = 1 : Correct
+       }

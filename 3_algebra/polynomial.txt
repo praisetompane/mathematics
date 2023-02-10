@@ -1,0 +1,33 @@
+def terms: parts of an algebraic expression, operated on by + or-.(Q: only + or -?)
+    Examples:
+        4xz + 3x - 3 => 3 terms
+        4x³y - 3y² => 2 terms
+
+def polynomial: 
+    algebraic expression with more than one term.
+    poly = many
+    nomial = part(Terms in the context of algebraic expressions)
+
+    types:
+        - 1 term = monomial
+        - 2 terms = binomial
+        - 3 terms = trinomial
+        - higher number of terms
+
+        - 1 term = monomial
+            Examples:
+                7
+                4x² 
+                5xy⁴
+        - 2 terms = binomial
+            Examples:
+                4x - 7
+                3xy + 4x
+        - 3 terms = trinomial
+            Examples:
+                3 + a + b
+                3cd + a + 8
+        - higher number of terms
+            Examples:
+                8x + a + b + c
+                9y - a - b + c + x²

@@ -1,0 +1,5 @@
+movement along a number line¹
+    see 3_problems.txt for good example
+
+references:
+    1 https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line

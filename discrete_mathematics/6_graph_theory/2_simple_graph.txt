@@ -1,0 +1,10 @@
+def: a graph without loops and multiedges (Prof. Tom Leighton, Dr. Marten van Dijk, 2010).
+    loop: edge e | e = {x₁, x₁}
+    multiedge:  E = {
+                        {x₁,x₂},
+                        {x₂,x₁}
+                    }
+            i.e. 2 different egdes connecting same vertices
+
+references: 
+    Prof. Tom Leighton, Dr. Marten van Dijk. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/. 2010

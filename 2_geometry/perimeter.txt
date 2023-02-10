@@ -1,0 +1,5 @@
+def: the length around a polygon¹ 
+     the length of a boundary around an area.
+
+references: 
+    1 https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter

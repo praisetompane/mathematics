@@ -1,0 +1,26 @@
+graph G is a set of sets V and E 
+    V = nonempty set of items called vertices/nodes
+    E = set of 2-item sets, which are subsets of V called edges
+        E = {{a,b} | a,b ∈ V} (Prof. Tom Leighton, Dr. Marten van Dijk, 2010).
+    ∴ E ⊂ V
+
+example:
+      x₂-----x₆ 
+   e₁/
+    /
+   x₁---------x₄
+    \          \
+     x₅         x₃
+
+G =  {V, E}
+V = { x₁, x₂, x₃, x₄, x₅, x₆ }
+E = {
+        {x₁, x₂},
+        {x₁, x₅},
+        {x₁, x₄},
+        {x₂, x₆},
+        {x₄, x₃}
+    }
+
+references: 
+    Prof. Tom Leighton, Dr. Marten van Dijk. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/. 2010

@@ -1,0 +1,37 @@
+Positive Integers:
+    4 x 3:
+        3 + 3 + 3 + 3 = 12
+        ∴ 4 x 3 = 12
+
+    3 x 7:
+        7 + 7 + 7 = 21
+        ∴ 3 x  = 21
+
+    15 x 3:
+        carries     1  
+                    15
+                x    3
+            _______
+                    5
+                    40
+        result      45
+
+    426 x 57
+                    13
+        carries     14 
+                    426
+                x    57
+                _______
+        carries    1  
+                2982
+                + 21300
+                _______
+        result    24282
+
+All Integers:
+    5 x (-4):
+        -4 + (-4) + (-4) + (-4) + (-4) = -20
+
+        N N | N N | N N | N N | N N |  => N N N N N N N N N N
+        N N | N N | N N | N N | N N |     N N N N N N N N N N
+        

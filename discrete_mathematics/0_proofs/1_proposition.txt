@@ -1,0 +1,46 @@
+# def: a statement that is either TRUE or FALSE
+    # examples:
+        2 + 3 = 5
+            # Test proposition
+                2 + 3 = 5
+                5 = 5
+                ∴ True
+
+        ∀ₙ ∈ N, n² + n + 41 = prime number
+
+            # Test proposition
+                n   n² + n + 41  result       prime?
+                0   0² + 0 + 41    41          TRUE
+                1   1² + 1 + 41    43          TRUE
+                2   2² + 2 + 41    47          TRUE
+                .
+                .
+                .
+                20 20² + 20 + 41  461          TRUE
+                .
+                .
+                .
+                39 39² + 39 + 41 1601         TRUE
+                40 40² + 40 + 41 1681         FALSE
+
+                ∴ Flse
+
+        a² + b² + c² = d², has no positive integer solutions
+
+            # Test proposition
+                a = 95800
+                b = 217519
+                c = 414560
+                d = 422481
+
+                ∴ ∃ a,c,d,e ∈ N⁺, a² + b² + c² = d²
+        
+        813(x²* y²) = 2³, has no N⁺solutions
+            # Test proposition
+                unproven/disproved
+
+        The regions in any map can be coloured using 4 colours, such that
+        adjacent regions have different colours
+
+            # Test proposition
+                unproven/disproved

@@ -1,0 +1,25 @@
+exercise set 1.1.(Epp, 2010:6)
+    rewrites:
+        1. Is there a real number whose square is -1?
+            a. Is there a real number x such that x² = -1
+            b. Does there exist a real number x such that x² = -1
+        2. Is there an integer that has a remainder 2 when it is divided by 5
+            and a remainder of 3 when it is divided by 6?
+            a. Is there an integer n such that n has as remainder of 2 when divided by 5
+                and a remainder of 3 when it is divided by 6
+            b. Does there exist an integer n such that if n is divided by 5 the
+                remainder is 2 and if divided by 6 the remainder is 3
+
+            https://www.quora.com/What-is-an-integer-that-has-a-remainder-of-2-when-it-is-divided-by-5-and-a-remainder-of-3-when-divided-by-6?share=1
+
+        3. Given any two real numbers, there is a real number in between
+            a. Given any real numbers a and b, there is a real number c
+                such that c is greater than a and less than b.
+            b. For any two real numbers a and b, there exists a real number c
+                such that a < c < b.
+
+        4. Given any real number, there  is a real number that is greater.
+            
+references:
+    Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.  
+    
