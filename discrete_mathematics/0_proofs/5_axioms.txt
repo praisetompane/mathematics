@@ -1,0 +1,24 @@
+def: a proposition that is assumed to be True
+    NB: There is no proof it is True
+        Greek etymology := to think worth
+        ∴ Something we deem worthy to be True
+
+properties of a set of axioms:
+    consistent
+    complete
+
+    f(P) = R = T|F
+        f := set of axioms
+        P := proposition
+        R := result(truth value)
+
+def: consistent := no proposition can be proved to be BOTH True AND False
+
+def: complete := can be used to prove that every proposition is either True OR False
+
+NB: Gödel's incompleteness theorems
+    There is NO set of axioms that is BOTH consistent AND complete
+
+    consistentency is a MUST, something cannot be BOTH True AND False
+    ∴ if we want consistentency in a given set of axioms, 
+        there will be True facts that we will never be able to prove True or False

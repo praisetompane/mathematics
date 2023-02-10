@@ -1,0 +1,22 @@
+def: 
+    placeholders for when:
+        - you want to talk about something and imagine it has more than one value
+            BUT do not know all the possible values.¹ (Epp, 2010:1) 
+        - you want to make assertions about it that are true for all elements in a given set.²(Epp, 2010:2) 
+
+exmples:³(Epp, 2010:2) 
+    - Are there numbers with the property that the sum of their squares equals the square of their sum?
+        - are there numbers a, b such that a² + b² = (a + b)² ?
+        - are there numbers a₁, a₂, a₃, ...aₙ such that 
+            a₁² + a₂² + a₃² + ... + aₙ² = (a₁ + a₂ + a₃ + ... + aₙ)²? 
+    
+    - Given any real number, its square is nonnegative.⁴(Epp, 2010:2) 
+        - for all real numbers n, n² >= 0
+        - for any real number n, n² >= 0
+        general reference: https://math.stackexchange.com/questions/26705/is-zero-positive-or-negative
+
+reference:
+    1,2,3,4 Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
+
+
+    

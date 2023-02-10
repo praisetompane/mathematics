@@ -1,0 +1,44 @@
+repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
+    of multiple equal groups of something(Khan Academy)
+
+    Example:  
+        3 groups of five
+        3 fives 
+        5 + 5 + 5 = 15 or 5 x 3 = 15
+        5 is repeatedly added 3 times
+
+structure: 
+    factor x factor = product
+    
+def factors: numbers being multiplied in a multiplication sentence
+    Example:    
+        5 x 3 = 15
+        5 and 3 are factors of 15
+
+properties:
+    commutative(Kent State Department of Mathematical Sciences, 2008:53)
+    distributive(Kent State Department of Mathematical Sciences, 2008:54)(Khan Academy):
+        4 * 7:
+            4 * (5 + 2)
+            4 * 5 + 4 * 2
+            20 + 8
+            ∴28
+        
+        6 * 9:
+            6 * (6 + 3)
+            6 * 6 + 6 * 3
+            36 + 18
+            ∴ 54
+
+         6 * 9:
+            6 * (10 - 1)
+            6 * 10 - 6 * 1
+            60 - 6
+            ∴ 54
+
+references:
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
+    Khan Academy. Distributive property when multiplying. https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying?modal=1
+
+    

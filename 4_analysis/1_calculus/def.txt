@@ -1,0 +1,5 @@
+relates two functions:
+    distance and speed
+    height and slope
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.

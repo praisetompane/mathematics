@@ -1,0 +1,37 @@
+13200 - 4145:
+                0 13     
+    borrows         1 9 10             
+                1 3 2 0 0
+            -     4 1 5 4       =>  
+            ______________
+                  9 0 4 6
+
+4501 − 1728:
+                3 14
+    borrows       4 9 11   
+                4 5 0 1
+            -   1 7 2 8
+            ___________
+                2 7 7 3
+
+83.05 - 2.121
+                 2 10
+    borrows          4 10
+               8 3.0 5 0   
+            -    2.1 2 1
+            ____________
+               8 0.9 2 9
+
+
+76.4 − 2.56
+                  5 13
+    borrows         3 10
+                7 6.4 0
+            -   0 2.5 6
+            ___________
+                7 3.8 4
+
+Q: Are place values like types in computation?
+   To substract a value in the Ones from a values in Tens. You convert one value to the "type" of the other.
+   
+              

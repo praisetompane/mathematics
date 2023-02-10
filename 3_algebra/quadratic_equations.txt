@@ -1,0 +1,18 @@
+def quadratic polynomial:¹ 
+    a polynomial of the form:
+        ax² + bx + c, where
+            a ≠ 0
+        with degree = 2
+
+def quadratic equation:² 
+    a quadratic polynomial equated to some value.
+        standard form: 
+            ax² + bx + c = 0
+                where a,b,c ∈ ℝ
+        Q: What is a standard form of an equation?
+    Examples: 
+        2x² + 4x + 2 = 0
+        
+
+references:
+    1,2 https://www.youtube.com/watch?v=UZTvYYoOrmI&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF&index=2

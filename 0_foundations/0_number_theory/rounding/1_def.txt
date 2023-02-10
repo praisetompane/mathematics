@@ -1,0 +1,36 @@
+finding the closest value 
+    for the place value we are rounding¹
+    place value = { ..., ones, tens, hundreds, tenths, hudrenths, thousandths, ... }
+     
+question answered: which multiple of the place value you are rounding
+                        are you closest to?
+
+example:
+    place_value_to_round = tens
+    value = 674
+    multiple of 10 greater than 674 = 680
+    multiple of 10 less than 674 = 670
+    rounded_value = 670
+        you are closer to 670 than 680
+        i.e. closer on the number line
+             you are 4 place values(i.e. ones) to 670
+             you are 6 place values(i.e. ones) to 680
+
+    <----|----|------|--->  
+        670  674    680 
+
+General Nearest Rounding Algorithm
+    Given:
+        number
+        place_value_to_round ={..., hundreds, tens, ones, tenths, hundredths, ...}
+    
+    Then                                                               
+        if number in preceeding place value from place_value_to_round >= 5
+            return next multiple of place_value_to_round for number
+        else
+            return previous multiple of place_value_to_round for number
+            
+references:
+    1 https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line
+
+    

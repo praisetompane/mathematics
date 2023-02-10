@@ -1,0 +1,29 @@
+types:
+    - columns and rows in the same direction
+    - rank 2 matrix
+    - symmetric matrix
+    - orthogonal matrix (pependicular)
+
+    - columns and rows in the same direction:
+        Example:
+            A₀ = [ 1 3  2
+                    4 12 8
+                    2 6  4 ]
+            
+                row_2 = 4 * row_1. NB: Is it just row 1 scaled by 4
+                        = 2 * row_3. NB: Is it just row 3 scaled by 2
+                row_3 = 2 * row_1. NB: Is it just row 1 scaled by 2
+                
+                NB: The "vectors" are pointing in the same direction.
+                    They just have different magnitude(length)
+
+                col_2 = 3 * col_1. NB: Is it just col 1 scaled by 3
+                col_3 = 2 * col_1. NB: It is just col 1 scaled by 2
+
+                OBSERVATION⁴:
+                    When the rows are in the same direction, the columns are too.
+
+    - orthogonal matrix (pependicular):
+        expresses rotation of the plane.
+
+        
