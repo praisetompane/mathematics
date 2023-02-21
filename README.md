@@ -2,7 +2,9 @@
 
 def: a formal language with precise and unambiguous definitions of its words(+,-,\*, π,e, etc.) and grammar.⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾
 
-a formal classification scheme is maintained here: https://zbmath.org/classification/
+a formal classification scheme is maintained here: 
+* https://zbmath.org/classification/
+* https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 
 # Mathematics Branches:
 
@@ -64,7 +66,7 @@ a formal classification scheme is maintained here: https://zbmath.org/classifica
 * MIT Mathematics. https://math.mit.edu/academics/undergrad/major/course18/applied.php
 * MIT Mathematics. https://math.mit.edu/academics/undergrad/major/course18/pure.php
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
-
+* Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 # General References:
 * https://www.youtube.com/watch?v=YOyGiicIRo0
 * https://www.youtube.com/watch?v=OmJ-4B-mS-Y    
