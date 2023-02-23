@@ -6,5 +6,12 @@ def: a graph without loops and multiedges (Prof. Tom Leighton, Dr. Marten van Di
                     }
             i.e. 2 different egdes connecting same vertices
 
+def max_edges: n(n - 1)/2
+    n = number of members
+    (n - 1) = the universe of members that can be paired with 
+    since we disallow multiedges, we remove the duplicate pairings. hence  division by 2
+    
+
 references: 
     Prof. Tom Leighton, Dr. Marten van Dijk. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/. 2010
+    https://en.wikipedia.org/wiki/Complete_graph#Properties

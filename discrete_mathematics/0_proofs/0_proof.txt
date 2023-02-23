@@ -28,7 +28,9 @@ experimentation and observation
 
             # axioms
 
-types: 1. direct 2. indirect
+types: 
+    1. direct 
+    2. indirect
 
     1.
         To prove a proposition(p) is True:
@@ -73,3 +75,10 @@ types: 1. direct 2. indirect
 
                                                                     ∴ a\b is NOT in lowest terms, contradictory to √2 = a/b, where a\ is a fraction in lowest terms.
 
+in computing we desire to prove:
+    - program and system correctness
+        i.e. does the system/program do what it is supposed to do.
+    Q: This is an active research area. Can we add value here?
+
+    examples:
+        chip correctness.

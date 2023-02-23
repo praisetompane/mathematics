@@ -5,13 +5,13 @@ quantifier:
 number sets:
     N := set of narutal numbers
     N⁺:= set of positive integers
-    Z := set of integers
+    ℤ := set of integers
     ℝ := Real Numbers
 
 ⟹ := implies
 ∈ := in (element of) 
 / := not
-:= := assignment
+::= equal by definition
 ⟺ := if and only if
 | := OR
 m := slope

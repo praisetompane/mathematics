@@ -1,12 +1,18 @@
-# def: a statement that is either TRUE or FALSE
-    # examples:
+def: a statement that is either TRUE or FALSE (Leighton, 2010).
+    examples:
         2 + 3 = 5
             # Test proposition
                 2 + 3 = 5
                 5 = 5
                 ∴ True
 
-        ∀ₙ ∈ N, n² + n + 41 = prime number
+        ∀ₙ ∈ ℕ. n² + n + 41 = prime number
+        common notation: 
+            P(n) ::= n² + n + 41
+            ∀ₙ ∈ ℕ. P(n) is prime.
+                P(0) is True
+                P(40) is False
+                ∴ P(n) is False
 
             # Test proposition
                 n   n² + n + 41  result       prime?
@@ -33,9 +39,9 @@
                 c = 414560
                 d = 422481
 
-                ∴ ∃ a,c,d,e ∈ N⁺, a² + b² + c² = d²
+                ∴ ∃ a,c,d,e ∈ ℕ⁺, a² + b² + c² = d²
         
-        813(x²* y²) = 2³, has no N⁺solutions
+        313(x³ + y³) = z³, has no ℤ⁺ solutions
             # Test proposition
                 unproven/disproved
 
@@ -44,3 +50,6 @@
 
             # Test proposition
                 unproven/disproved
+
+References:
+    Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
