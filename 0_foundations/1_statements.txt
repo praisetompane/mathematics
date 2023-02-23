@@ -1,4 +1,4 @@
-kinds:(Epp, 2010:2)
+kinds(Epp, 2010:2):
     * universal
     * conditional
     * existential
@@ -93,11 +93,3 @@ NB: there are important Mathematical concepts that require all three statement t
 
 references:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
-
-    
-
-
-    
-
-
-

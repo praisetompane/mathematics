@@ -1,5 +1,5 @@
-def: the length around a polygon¹ 
+def: the length around a polygon (Khan Academy).
      the length of a boundary around an area.
 
 references: 
-    1 https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter
+    Khan Academy. Perimeter: introduction.https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter.

@@ -1,8 +1,9 @@
 Definitions: 
     modular arithmetic: branch of mathematics that deals with
                             integer arithmetic on a circular number line that
-                                has fixed set of numbers.
-    modulus relationship equation:
+                                has fixed set of numbers (Real Python).
+
+    modulus relationship equation (Real Python):
         a = b(mod n)
         means => a is congruent b in modulus n context
                  a is equivalent to b in a modulus n context,
@@ -17,7 +18,7 @@ Definitions:
 Constraint:
     All arithmetic operations performed on this number line
         will wrap around when they reach the maximum number
-            called the modulus
+            called the modulus (Real Python).
 
 Example:
     12 hour clock:
@@ -34,6 +35,6 @@ Example:
 
 
 References:
-    https://realpython.com/python-modulo-operator/#modulo-in-mathematics
+    Real Python. Python Modulo in Practice: How to Use the % Operator. https://realpython.com/python-modulo-operator/#modulo-in-mathematics
 
     

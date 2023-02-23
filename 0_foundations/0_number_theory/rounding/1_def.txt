@@ -1,5 +1,5 @@
 finding the closest value 
-    for the place value we are rounding¹
+    for the place value we are rounding(Khan Academy).
     place value = { ..., ones, tens, hundreds, tenths, hudrenths, thousandths, ... }
      
 question answered: which multiple of the place value you are rounding
@@ -19,7 +19,7 @@ example:
     <----|----|------|--->  
         670  674    680 
 
-General Nearest Rounding Algorithm
+General Nearest Rounding Algorithm (Khan Academy).
     Given:
         number
         place_value_to_round ={..., hundreds, tens, ones, tenths, hundredths, ...}
@@ -31,6 +31,6 @@ General Nearest Rounding Algorithm
             return previous multiple of place_value_to_round for number
             
 references:
-    1 https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line
+    Khan Academy. Rounding to the nearest 10 on the number line. https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line
 
     

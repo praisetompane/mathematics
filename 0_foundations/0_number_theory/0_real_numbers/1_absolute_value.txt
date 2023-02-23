@@ -24,4 +24,4 @@ def absolute value: the distance on the number line
                     i.e. the arithmetic/algebra must be performed first before apply the absolute function
 
 references:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
