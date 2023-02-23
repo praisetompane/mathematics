@@ -1,8 +1,9 @@
-exercise set 1.1.(Epp, 2010:6)
+exercise set 1.1.(Epp, 2010:6):
     rewrites:
         1. Is there a real number whose square is -1?
             a. Is there a real number x such that x² = -1
             b. Does there exist a real number x such that x² = -1
+            
         2. Is there an integer that has a remainder 2 when it is divided by 5
             and a remainder of 3 when it is divided by 6?
             a. Is there an integer n such that n has as remainder of 2 when divided by 5

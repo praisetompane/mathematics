@@ -1,7 +1,7 @@
-Climbing steps
+Climbing steps (Kent State Department of Mathematical Sciences, 2008:14)
     3 - 2: Walk 3 steps up, then 2 steps down
 
-Adding negative-positive pairs(which are equiavlent to zero) to have enough value to cancel out the subtrahend¹ 
+Adding negative-positive pairs(which are equiavlent to zero) to have enough value to cancel out the subtrahend (Kent State Department of Mathematical Sciences, 2008:14).
 
     Legend:
         P = Positive Number
@@ -92,7 +92,7 @@ Adding negative-positive pairs(which are equiavlent to zero) to have enough valu
     If there is negative term(even if adding), you are going to subtract (i.e. -A + B)
     If there substration operator is explicitly used in the sentence(i.e. A - B)
 
-General Integer Substraction algorithm³ 
+General Integer Substraction algorithm (Kent State Department of Mathematical Sciences, 2008:15).
     1. Identify that is a subtraction
     2. Identify the numbers being substracted (minuend[RHS] and subtrahend[LHS])
     3. 
@@ -130,5 +130,6 @@ General Integer Substraction algorithm³
             Substraction? = T
             188 + (-560): ADD the opposite of the subtrahend
             |188| - |560| = |372| = -372: Apply Addition rules
-references
-    1,2,3 Fundamentals of Mathematics I,Kent State Department of Mathematical Sciences, August 4, 2008
+            
+references:
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

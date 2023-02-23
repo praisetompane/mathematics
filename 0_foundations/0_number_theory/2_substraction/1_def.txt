@@ -7,9 +7,11 @@ the opposite of addition
                                      quantity in current place value
 
                                      
-def minuend: the number from which another will be subtracted.
+def minuend: the number from which another will be subtracted (Kent State Department of Mathematical Sciences, 2008:13).
 
-def subtrahend: the number to be subtracted from another.
+def subtrahend: the number to be subtracted from another (Kent State Department of Mathematical Sciences, 2008:14).
 
 properties:
     
+references:
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

@@ -67,8 +67,5 @@ a formal classification scheme is maintained here:
 * MIT Mathematics. https://math.mit.edu/academics/undergrad/major/course18/pure.php
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 * Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
-# General References:
-* https://www.youtube.com/watch?v=YOyGiicIRo0
-* https://www.youtube.com/watch?v=OmJ-4B-mS-Y    
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.

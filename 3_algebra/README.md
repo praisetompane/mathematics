@@ -1,8 +1,8 @@
 # 2_algebra
 def¹: a system of symbols and rules of processing the symbols
-    that represent mathematical sentences¹
+    that represent mathematical sentences.
     
-def²: field of mathematics in which we perform calculations with things that are not necessarily numbers.² 
+def: field of mathematics in which we perform calculations with things that are not necessarily numbers (Censor, 2015).
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
 
@@ -33,5 +33,4 @@ def equation:
             +       = operator
 
 references:
-    1 https://www.youtube.com/watch?v=UtReXKgmQ10&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF
-    2 Technion -Algebra 1M - international -Dr. Aviv Censor, https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=1
+    Censor, A. Algebra 1M - international. 01 - Introduction. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=1
