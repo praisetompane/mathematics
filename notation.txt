@@ -1,0 +1,18 @@
+quantifier:
+    ∀ := for all := quantifier
+    ∃ := there exist
+
+number sets:
+    N := set of narutal numbers
+    N⁺:= set of positive integers
+    ℤ := set of integers
+    ℝ := Real Numbers
+
+⟹ := implies
+∈ := in (element of) 
+/ := not
+::= equal by definition
+⟺ := if and only if
+| := OR
+m := slope
+√
