@@ -34,4 +34,10 @@ All Integers:
 
         N N | N N | N N | N N | N N |  => N N N N N N N N N N
         N N | N N | N N | N N | N N |     N N N N N N N N N N
+
+    (-6)(4):
+        -6 + (-6) + (-6) + (-6) = -24
+        
+
+    
         

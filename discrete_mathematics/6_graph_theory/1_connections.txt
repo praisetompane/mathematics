@@ -1,16 +1,16 @@
 def adjacency: two nodes xᵢ, xⱼ are adjacent 
-                    if {xᵢ, xⱼ} ∈ E (Prof. Tom Leighton, Dr. Marten van Dijk, 2010).
+                    if {xᵢ, xⱼ} ∈ E (Leighton, van Dijk, 2010).
                 i.e. xᵢ, xⱼ are connected by an edge
                 ∴ {xᵢ, xⱼ} is an edge
                     a member of set E
 
 def incidence: an edge e = {xᵢ, xⱼ} is incident 
-                    to its endpoints xᵢ and xⱼ (Prof. Tom Leighton, Dr. Marten van Dijk, 2010).
+                    to its endpoints xᵢ and xⱼ (Leighton, van Dijk, 2010).
             ∴ e is incident xᵢ
             ∴ e is incident xⱼ
 
 def degree: number of edges incident to a node/vertex
-                is the degree of node/vertex (Prof. Tom Leighton, Dr. Marten van Dijk, 2010).
+                is the degree of node/vertex (Leighton, van Dijk, 2010).
             
             in 0_def.txt example:
                 deg(x₂) = 2
