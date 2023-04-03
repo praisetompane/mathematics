@@ -1,11 +1,11 @@
-# 2_algebra
-def¹: a system of symbols and rules of processing the symbols
-    that represent mathematical sentences.
-    
-def: field of mathematics in which we perform calculations with things that are not necessarily numbers (Censor, 2015).
-
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
-
+# 2_algebra    
+def: field in mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers (Censor, 2015).
+    example:
+        ax² + bx + c = 0
+            this is a calculation that has variables(x), parameters(a,b) and a number(0)
+        y = mx 
+            this is a calculation that has variables(y, x) and parameter(m)
+            
 def expression:
     a sentence
 
@@ -32,5 +32,5 @@ def equation:
             {1, 10} = constant(s)
             +       = operator
 
-references:
+# References:
     Censor, A. Algebra 1M - international. 01 - Introduction. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=1
