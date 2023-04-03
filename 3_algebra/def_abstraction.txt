@@ -4,5 +4,5 @@ extraction of the properties
             abstract structure = the set of properties
 
 given an understanding of the abstract structure
-    we can understand any other structure
-        that has these properties (Censor, 2015).
+    we can understand at once 
+        anything that has this abstract structure(Censor, 2015).
