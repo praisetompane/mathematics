@@ -1,0 +1,3 @@
+relates two functions:
+    distance and speed
+    height and slope

@@ -1,0 +1,8 @@
+def: mathematics that describes processes that 
+     consist of a sequence of individual steps (Epp, 2010:xiv). 
+
+def: group of mathematical branches or parts of branches that studies non continuous mathematical objects.
+     objects that are individually separate and distinct
+
+# references:
+    Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
