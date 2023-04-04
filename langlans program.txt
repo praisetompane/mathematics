@@ -1,4 +1,3 @@
-
 langlans program "continents" of mathematics²
 
     * Number Theory: Explains numbers
