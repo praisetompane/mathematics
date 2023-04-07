@@ -1,4 +1,4 @@
-# def: implication := an implication p ⟹ q, is true if p is False OR q is True
+# def: implication := an implication p ⟹ q, is true if p is False OR q is True (Leighton, 2010)
 
     Truth Table visualisation
     |   p   |   q  |    p ⟹q    |
@@ -28,4 +28,6 @@
             ∴ False
 
         ∀ₙ ∈ Z, n >= 2 ⟺ n² >= 4
-        
+
+references:
+    Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/

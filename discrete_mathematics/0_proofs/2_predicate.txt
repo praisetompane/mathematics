@@ -10,5 +10,5 @@ def:  proposition whose TRUTH
                         P(5) is False
                         ∴ P(n) is False
 
-References:
+references:
     Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
