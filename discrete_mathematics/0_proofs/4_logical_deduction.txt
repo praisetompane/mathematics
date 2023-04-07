@@ -1,1 +1,13 @@
-def: ???
+def logical: using reason (Cambridge)
+
+def deduction: the process of drawing conclusions from 
+                    premises and syllogisms (Wolfram MathWorld).
+    def premise(Q: axiom?): a statement that is assumed to be True (Wolfram MathWorld).
+    def syllogism(rule of inference): a formal logical scheme
+                                            used to draw a conclusion
+                                                from a set of premises (Wolfram MathWorld).
+
+references:
+    Terr, David. "Deduction." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/Deduction.html.
+    Terr, David. "Premise." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/Premise.html 
+    https://dictionary.cambridge.org/dictionary/english/logical
