@@ -16,17 +16,17 @@ kinds(Epp, 2010:2):
 
                 explicit universal, implicit conditional:
                     for all dogs a, a is a mammal
-                    all doga are mammals
+                    all dogs are mammals
                 explicit conditional, implicit universal
                     if a is a dog, then a is a is mammal
                     if an animal is a dog, then it is a mammal
 
-            example: rewritting universal conditional statement
+            example: rewriting universal conditional statement
                 for all real numbers x, if x is nonzero, x² is positive
                 - if a real number is nonzero, then its square is positive 
                 - for all nonzero real numbers x, x² is positive
                 - if x, is nonzero real number, then x² is positive
-                - the suare of any nonzero real number is positive
+                - the square of any nonzero real number is positive
                 - all nonzero real numbers have positive squares
 
         * universal existential statement (Epp, 2010:3):
@@ -65,7 +65,7 @@ kinds(Epp, 2010:2):
                                                             for which the asserted object
                                                             satisfies the property]
 
-                statement == true, beause of the number 1
+                statement == true, because of the number 1
             
                 rewrites:
                     - some positive integer is less than or equal to every positive integer.
@@ -77,9 +77,9 @@ kinds(Epp, 2010:2):
             example: rewrite below statement
                 There is a person in my class who is at least as old as every person in my class
                 - Some person in my class is a least as old as every person in my class.
-                - There is a person p in my class such that p is is at least as old as every person in my classs.
+                - There is a person p in my class such that p is is at least as old as every person in my class.
                 - There is a person p in my class with the property that for every person q in my class,
-                    p is at leaset as old as q.
+                    p is at least as old as q.
 
 NB: there are important Mathematical concepts that require all three statement types to express.
 
@@ -91,5 +91,5 @@ NB: there are important Mathematical concepts that require all three statement t
         for all integers n, if n > N, then -ϵ < aₙ - L < ϵ
         Q: we need to come back to this definition.
 
-references:
+References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 

@@ -13,5 +13,5 @@ def subtrahend: the number to be subtracted from another (Kent State Department 
 
 properties:
     
-references:
+References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

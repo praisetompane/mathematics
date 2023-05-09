@@ -139,7 +139,7 @@ carries        1  1
             39 + (-29)
                 |39| - |-29|, because addend signs are different
                 39 - 29 = 10
-                ∴ 10, becaus the largest absolute value is 39, which is from a positive number(i.e. 39)
+                ∴ 10, because the largest absolute value is 39, which is from a positive number(i.e. 39)
 
             -8 + 15
                 |-8| - |15|, because addend signs are different

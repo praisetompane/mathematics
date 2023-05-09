@@ -13,7 +13,7 @@ def facts():
         print(f'{i} + {i + 1} = {i + (i + 1)}')
     
     print('all possible combinations')
-    #can be halved due cummutative law of addition 
+    #can be halved due commutative law of addition 
     for i in range(total_numbers):
         for j in range(i, total_numbers):
             print(f'{i} + {j} = {i + j}')

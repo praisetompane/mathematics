@@ -11,15 +11,15 @@ Models to understand the MEANING of addition:
                 
         Climbing steps(Kent State Department of Mathematical Sciences, 2008:9)
 
-        Walking to the left and/or right on the numberline from zero(Kent State Department of Mathematical Sciences, 2008)
+        Walking to the left and/or right on the number line from zero(Kent State Department of Mathematical Sciences, 2008)
             negative = walk left
             positive = walk right
             x + y
             Flow
                 walk x positions
-                from the x pisition
+                from the x position
                     walk y positions
-                        the answer is the next pisition you end up on.
+                        the answer is the next position you end up on.
             Example
                 5 + (-4)
                                 -   -   -   -
@@ -49,16 +49,16 @@ Models to understand the MEANING of addition:
                     
     Negative numbers:
             Negative and Positive numbers negate each other to zero(0)
-                More specifically the positve and negative ones(1s) negate each other(Kent State Department of Mathematical Sciences, 2008:9)
+                More specifically the positive and negative ones(1s) negate each other(Kent State Department of Mathematical Sciences, 2008:9)
 
     
-Genearal Integer Addition algorithm(Kent State Department of Mathematical Sciences, 2008:10):
+General Integer Addition algorithm(Kent State Department of Mathematical Sciences, 2008:10):
         If addends(numbers) have same sign:
             add their absolute values
             attach the common sign
         if addends(numbers) have different sign:
-            substract their absolute values(subtract the smaller smaller from larger)
-            attach the sign of the larget absolute value
+            subtract their absolute values(subtract the smaller smaller from larger)
+            attach the sign of the largest absolute value
 
 Q: Why numbers after the decimal point, start with tenth and not oneth?
     https://byjus.com/question-answer/why-isn-t-ones-place-not-there-in-decimal-part-of-decimals/
@@ -68,5 +68,5 @@ Q: Why numbers after the decimal point, start with tenth and not oneth?
 Q: Do we know why we can count?
 Q: Do all "addable" mathematical objects have their number line equivalent?
 
-references:
+References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

@@ -42,11 +42,11 @@ Main Ideas(Types of matrices)(Strang, 2010)
                                                 |    |        | o \|
                             
 
-    Eigen values and singular values
+    Eigenvalues and singular values
         -
         -
 
-references:
+References:
     Sanderson G. 2016. Vectors, what even are they?. https://www.3blue1brown.com/lessons/vectors
     Strang, G. 2010. A 2020 Vision of Linear Algebra. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/a-new-way-to-start-linear-algebra/.
     Strang, G. 2020. Part 1: The Column Space of a Matrix. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/the-column-space-of-a-matrix/

@@ -2,7 +2,7 @@ def absolute value: the distance on the number line
                         from zero to a number
                         regardless of the sign(i.e. direction) of the number (Kent State Department of Mathematical Sciences, 2008:7).
     
-    absolute value is always positive(nonnegative), as it is DISTANCE from zero (Kent State Department of Mathematical Sciences, 2008:7).
+    absolute value is always positive(non negative), as it is DISTANCE from zero (Kent State Department of Mathematical Sciences, 2008:7).
         Example: 
             |4| = 4 because, 4 is a distance of 4 from zero(0)
             |-4| = 4 because, -4 is a distance of 4 from zero(0)
@@ -18,10 +18,10 @@ def absolute value: the distance on the number line
             to another point(location)
 
     Notation:
-        |x|, where x is a signle number
+        |x|, where x is a single number
              if x an expression/mathematical statement
                 it must be reduced/simplified to a single number first (Kent State Department of Mathematical Sciences, 2008:7).
                     i.e. the arithmetic/algebra must be performed first before apply the absolute function
 
-references:
+References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

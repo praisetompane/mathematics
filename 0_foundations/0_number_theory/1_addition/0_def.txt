@@ -1,8 +1,8 @@
 the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
-        if a quantiy exceeds the storage capacity of the currrent place value
+        if a quantify exceeds the storage capacity of the current place value
             the excess quantity is stored in the next bigger place value.
-                excess quantity = quantity - max capcity of the currrent place value
+                excess quantity = quantity - max capacity of the current place value
 
                 Example:
                     Given:
@@ -71,5 +71,5 @@ properties:
     commutative
         i.e. the numbers change position in the expression; "they commute"(Kent State Department of Mathematical Sciences, 2008:53).
 
-references:
+References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

@@ -21,6 +21,6 @@ exercise set 1.1.(Epp, 2010:6):
 
         4. Given any real number, there  is a real number that is greater.
             
-references:
+References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.  
     
