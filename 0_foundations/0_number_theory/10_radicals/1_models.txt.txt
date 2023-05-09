@@ -3,16 +3,16 @@ transpose (Khan Academy):
     using Transpose method
         transpose exponent(i.e. 2) to RHS
 
-        5 = square root(25)
+        5 = squareroot(25)
 
 half exponent⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾:
     given:
-        square root(16) = 4² => square root(4²) = 4¹ => square root(2⁴) = 2²
-        square root(256) = 16 => square root(4⁴) = 4² => square root(2⁸) = 2⁴
+        squareroot(16) = 4² => squareroot(4²) = 4¹ => squareroot(2⁴) = 2²
+        squareroot(256) = 16 => squareroot(4⁴) = 4² => squareroot(2⁸) = 2⁴
 
     pattern:
-        square root(exponent) = baseᵉˣᵖᴼⁿᵉⁿᵗ/² 
-            square root(aᵐ) = aᵐ/² 
+        squareroot(exponent) = baseᵉˣᵖᴼⁿᵉⁿᵗ/² 
+            squareroot(aᵐ) = aᵐ/² 
 
 References:
     Khan Academy. Intro to square roots. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:rational-exponents-radicals/x2f8bb11595b61c86:radicals/v/introduction-to-square-roots.

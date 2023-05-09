@@ -7,12 +7,12 @@ types:
     * decimal = base-ten positional numerical system for representing Real(ℝ) numbers (Weisstein):
         Q: Can we only represent Real numbers?
         digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-        decimal expansion = the expressin/representation of a number using the decimal system
+        decimal expansion = the expression/representation of a number using the decimal system
         decimal point/command = ./, 
 
         ... 3       2       1      0    : places/positions, P
             1000s   100s    10s    1s   : place's/position's value
-            10³     10²     10¹    10⁰  : 10ⁿ | n ∈ P : each place represents a powe of 10, hence base 10.
+            10³     10²     10¹    10⁰  : 10ⁿ | n ∈ P : each place represents a power of 10, hence base 10.
 
         example:
             900
@@ -72,7 +72,7 @@ types:
 
     * hexadecimal = base-16 positional numerical system (Khan Academy).
 
-references:
+References:
     Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.
     Khan Academy. Binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/a/bits-and-binary.
     Khan Academy. Patterns in binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/v/patterns-in-binary-numbers.

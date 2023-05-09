@@ -2,7 +2,7 @@ types:
     - columns and rows in the same direction
     - rank 2 matrix
     - symmetric matrix
-    - orthogonal matrix (pependicular)
+    - orthogonal matrix (perpendicular)
 
     - columns and rows in the same direction:
         Example:
@@ -23,7 +23,7 @@ types:
                 OBSERVATION⁴:
                     When the rows are in the same direction, the columns are too.
 
-    - orthogonal matrix (pependicular):
+    - orthogonal matrix (perpendicular):
         expresses rotation of the plane.
 
         

@@ -1,7 +1,7 @@
 Climbing steps (Kent State Department of Mathematical Sciences, 2008:14)
     3 - 2: Walk 3 steps up, then 2 steps down
 
-Adding negative-positive pairs(which are equiavlent to zero) to have enough value to cancel out the subtrahend (Kent State Department of Mathematical Sciences, 2008:14).
+Adding negative-positive pairs(which are equivalent to zero) to have enough value to cancel out the subtrahend (Kent State Department of Mathematical Sciences, 2008:14).
 
     Legend:
         P = Positive Number
@@ -86,15 +86,15 @@ Adding negative-positive pairs(which are equiavlent to zero) to have enough valu
     -4 - (-6) and -4 + 6 result in the same answer
     
     Observations:
-        Substracting a negative number(ex. -6) equivalent to adding the opposite number(ex. 6)² 
+        Subtracting a negative number(ex. -6) equivalent to adding the opposite number(ex. 6)² 
             -4 - (-6) = -4 + 6 = 2
 
     If there is negative term(even if adding), you are going to subtract (i.e. -A + B)
-    If there substration operator is explicitly used in the sentence(i.e. A - B)
+    If the substation operator is explicitly used in the sentence(i.e. A - B)
 
-General Integer Substraction algorithm (Kent State Department of Mathematical Sciences, 2008:15).
+General Integer Subtraction algorithm (Kent State Department of Mathematical Sciences, 2008:15).
     1. Identify that is a subtraction
-    2. Identify the numbers being substracted (minuend[RHS] and subtrahend[LHS])
+    2. Identify the numbers being subtracted (minuend[RHS] and subtrahend[LHS])
     3. 
         - Leave the minuend unchanged
         - ADD the opposite of the subtrahend
@@ -102,34 +102,34 @@ General Integer Substraction algorithm (Kent State Department of Mathematical Sc
 
     Examples:
         -21 - 13
-            Substraction? = T
+            Subtraction? = T
             -21 + (-13): ADD the opposite of the subtrahend
             |21| + |13| = |34| = -8: Apply Addition rules
 
         -11 - 22
-            Substraction? = T
+            Subtraction? = T
             -11 + (-22): ADD the opposite of the subtrahend
             |11| + |22| = |33| = -33: Apply Addition rules
 
         -1603 - (-128)
-            Substraction? = T
+            Subtraction? = T
             -1603 + 128: ADD the opposite of the subtrahend
             |1603| - |128| = |1475| = -1475: Apply Addition rules
 
         -201 - (-454)
-            Substraction? = T
+            Subtraction? = T
             -201 + 454: ADD the opposite of the subtrahend
             |201| + |454| = |253| = 253: Apply Addition rules
 
         331 - (-729)
-            Substraction? = T
+            Subtraction? = T
             311 + 729 Add the opposite of the subtrahend
             |311| + |729| = |1060| = 1040
 
         188 - 560
-            Substraction? = T
+            Subtraction? = T
             188 + (-560): ADD the opposite of the subtrahend
             |188| - |560| = |372| = -372: Apply Addition rules
             
-references:
+References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.

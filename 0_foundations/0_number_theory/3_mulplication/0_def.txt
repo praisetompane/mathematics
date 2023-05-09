@@ -36,7 +36,7 @@ properties:
             60 - 6
             ∴ 54
 
-references:
+References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
     Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
     Khan Academy. Distributive property when multiplying. https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying?modal=1

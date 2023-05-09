@@ -27,7 +27,7 @@ negative exponents(Khan Academy):
             Q: Why is any non-zero number raised to 0 equal to 1?
         ∴ 1/3²
 
-Generalisation(Khan Academy):
+Generalization(Khan Academy):
     given: a⁻ᵐ 
         convert exponent to positive: -m to m
             ∴ aᵐ
@@ -46,7 +46,8 @@ Generalisation(Khan Academy):
             4²
             4⁻² 
             1/4⁻²
-references:
+            
+References:
     Khan Academy. Intro to exponents. https://www.khanacademy.org/math/cc-sixth-grade-math/x0267d782:cc-6th-exponents-and-order-of-operations/cc-6th-exponents/v/introduction-to-exponents
             
 

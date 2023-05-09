@@ -83,7 +83,7 @@ Real Numbers(Kent State Department of Mathematical Sciences, 2008:2):
                   .453 is read like non decimal number + the ending place at the end
                         i.e. four hundred fifty-three  + thousandths
                   "and" represents the decimal
-                1.0034 = one and thirty-four ten thousandths
+                1.0034 = one and thirty-four ten thounsandths
       * Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
         Yes, that how we get infinite decimals (i.e the irrational numbers.)
 

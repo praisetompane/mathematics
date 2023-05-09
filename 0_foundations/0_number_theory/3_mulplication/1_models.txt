@@ -4,7 +4,7 @@
     N N | N N | N N | N N | N N |  => N N N N N N N N N N
     N N | N N | N N | N N | N N |     N N N N N N N N N N
 
-    Generalisation(Kent State Department of Mathematical Sciences, 2008:21):
+    Generalization(Kent State Department of Mathematical Sciences, 2008:21):
         N x P = N       OR      P x N = N
 
     4 x (-1):
@@ -22,7 +22,7 @@
     same as 3x(-1):
         -1 + (-1) + (-1) = -3
 
-    Generalisation:
+    Generalization:
         -1x(any_number) = opposite of any_number
         -1x4 = -4
             because -4 is the opposite of 4
@@ -51,7 +51,7 @@
                 -1 x (-12)
         ∴ 12
 
-    Generalisation(Kent State Department of Mathematical Sciences, 2008:21):
+    Generalization(Kent State Department of Mathematical Sciences, 2008:21):
         N x N = P       OR      P x P = P
 
         N x N = P:  
@@ -64,7 +64,7 @@
         P x P = P:
             P1 x P2 => just repeated addition of P2, P1 times
 
-Generalisation Multiplication Algorithm(Kent State Department of Mathematical Sciences, 2008:21):
+Generalization Multiplication Algorithm(Kent State Department of Mathematical Sciences, 2008:21):
     Multiplication signs = { x, *, · , ()() }
     1. Multiply the numbers, ignoring the signs
         1.1. If the signs are the same, result = Positive
@@ -75,7 +75,7 @@ Generalisation Multiplication Algorithm(Kent State Department of Mathematical Sc
             If even, then result = Positive
             If odd, then result = Negative
 
-references:
+References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
 
             

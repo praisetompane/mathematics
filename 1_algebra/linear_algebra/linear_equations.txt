@@ -1,11 +1,11 @@
 name:
     linear equations of one variable
-    first degree equationss of one variable
+    first degree equations of one variable
     def:
-        equation with 1 as the hightest exponent(degree)
+        equation with 1 as the highest exponent(degree)
         
-def solve: find a value(s) of the variable(s) that satfisfies the equation.
-        def satfisfies: make the Left Hand Side(LHS) equal Right Hand Side(RHS)
+def solve: find a value(s) of the variable(s) that satisfies the equation.
+        def satisfies: make the Left Hand Side(LHS) equal Right Hand Side(RHS)
 
 methods to solve:
     - inverse operations
@@ -61,7 +61,7 @@ methods to solve:
                 x + 60 = 700
                 x = 700 - 60
                 x = 640
-                ∴ no solution? Q: I made ths equation, it this possible?
+                ∴ no solution? Q: I made the equation, it this possible?
 
 
 

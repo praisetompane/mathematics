@@ -1,5 +1,5 @@
 movement along a number line(Khan Academy)
     see 3_problems.txt for good example
 
-references:
+References:
     Khan Academy. Rounding to the nearest 10 on the number line. https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line

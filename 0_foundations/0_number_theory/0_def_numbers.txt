@@ -11,7 +11,7 @@ def: names for quantities?
 Q: Where/When did give these quantities names?
 Q: Why do we count?
 Q: When did we start counting?
-Q: Did we always count upto ten in our homosapien form?
+Q: Did we always count upto ten as homo sapiens?
     hence base 10 system so natural?
 
 Q: Where does the idea of "how many" things are there come from?
@@ -30,6 +30,6 @@ number vs numeral¹
             LVII - roman numerals
 numeral = representation/description of a number² 
 
-references
+References:
     50 Centuries in 50 minutes (A Brief History of Mathematics), https://youtu.be/YsEcpS-hyXw
     1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020
