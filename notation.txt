@@ -3,17 +3,26 @@ quantifier:
     ∃ := there exist
 
 number sets:
-    N := set of narutal numbers
-    N⁺:= set of positive integers
+    ℕ := set of narutal numbers
+    ℤ⁺:= set of positive integers
     ℤ := set of integers
     ℝ := Real Numbers
     ℚ := Rational Numbers
 
-⟹ := implies
-∈ := in (element of) 
-/ := not
-::= equal by definition
-⟺ := if and only if
-| := OR
-m := slope
-√
+∴        := therefore
+
+constructors:
+    {}       := Set
+    ...      := infinite, with same pattern
+    :=       := assignment
+
+logical operators:
+    ∧        := and
+    ∨        := or
+    ⟹       := implies
+    ⟺       := if and only if
+
+set operators:
+    \   := minus
+    ∪   := addition
+    ∈   := in (is element of) 
