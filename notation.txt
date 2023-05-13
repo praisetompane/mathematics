@@ -1,15 +1,17 @@
+symbols dictionary: https://wumbo.net/
 quantifier:
     ∀ := for all := quantifier
     ∃ := there exist
 
 number sets:
-    ℕ := set of narutal numbers
+    ℕ := set of natural numbers
     ℤ⁺:= set of positive integers
     ℤ := set of integers
     ℝ := Real Numbers
     ℚ := Rational Numbers
 
 ∴        := therefore
+ⁿ√x      := nᵗʰ root of x
 
 constructors:
     {}       := Set
@@ -21,8 +23,15 @@ logical operators:
     ∨        := or
     ⟹       := implies
     ⟺       := if and only if
+    > greater than
+    < less than
+    = equal
+    ≥ greater than or equal
+    ≤ less than or equal
 
 set operators:
     \   := minus
     ∪   := addition
     ∈   := in (is element of) 
+
+
