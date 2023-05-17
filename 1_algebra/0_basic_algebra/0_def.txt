@@ -1,4 +1,4 @@
-def: field in mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers (Censor, 2015).
+def algebra: field in mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers (Censor, 2015).
     example:
         ax² + bx + c = 0
             this is a calculation that has variables(x), parameters(a,b) and a number(0)

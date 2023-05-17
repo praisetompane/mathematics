@@ -1,10 +1,10 @@
-def: a graph without loops and multi edges (Leighton, van Dijk, 2010).
-    loop: edge e | e = {x₁, x₁}
-    multi edge:  E = {
-                        {x₁,x₂},
-                        {x₂,x₁}
-                    }
-            i.e. 2 different edges connecting same vertices
+def simple graph:   a graph without loops and multi edges (Leighton, van Dijk, 2010).
+                    loop: edge e | e = {x₁, x₁}
+                    multi edge:  E = {
+                                        {x₁,x₂},
+                                        {x₂,x₁}
+                                    }
+                            i.e. 2 different edges connecting same vertices
 
 def max_edges: n(n - 1)/2
     n = number of members

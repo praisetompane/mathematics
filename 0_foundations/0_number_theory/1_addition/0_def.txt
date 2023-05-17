@@ -1,4 +1,4 @@
-the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
+def addition: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
         if a quantify exceeds the storage capacity of the current place value
             the excess quantity is stored in the next bigger place value.

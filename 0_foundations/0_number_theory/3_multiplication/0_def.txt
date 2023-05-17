@@ -1,4 +1,4 @@
-repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
+def multiplication: repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
     of multiple equal groups of something(Khan Academy)
 
     Example:  

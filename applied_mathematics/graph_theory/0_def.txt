@@ -1,8 +1,8 @@
-graph G is a set of sets V and E 
-    V = nonempty set of items called vertices/nodes
-    E = set of 2-item sets, which are subsets of V called edges
-        E = {{a,b} | a,b ∈ V} (Leighton, van Dijk, 2010).
-    ∴ E ⊂ V
+def graph: graph G is a set of sets V and E 
+            V = nonempty set of items called vertices/nodes
+            E = set of 2-item sets, which are subsets of V called edges
+                E = {{a,b} | a,b ∈ V} (Leighton, van Dijk, 2010).
+            ∴ E ⊂ V
 
 example:
       x₂-----x₆ 

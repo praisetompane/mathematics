@@ -1,4 +1,4 @@
-a set F with two operations + and *,  (F, +, *), is a field if it satisfies the axioms below(Censor, 2015):
+def field: a set F with two operations + and *,  (F, +, *), is a field if it satisfies the axioms below(Censor, 2015):
 
 axioms(Censor, 2015):
     F with respect to addition (F, +) is a commutative group.
