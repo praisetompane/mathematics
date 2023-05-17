@@ -1,7 +1,7 @@
-def: mathematics that describes processes that 
+def¹ discrete_mathematics: mathematics that describes processes that 
      consist of a sequence of individual steps (Epp, 2010:xiv). 
 
-def: group of mathematical branches or parts of branches that studies non continuous mathematical objects.
+def² discrete_mathematics: group of mathematical branches or parts of branches that studies non continuous mathematical objects.
      objects that are individually separate and distinct
 
 References:

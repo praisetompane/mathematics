@@ -1,4 +1,4 @@
-finding the closest value 
+def rounding: finding the closest value 
     for the place value we are rounding(Khan Academy).
     place value = { ..., ones, tens, hundreds, tenths, hundredths, thousandths, ... }
      

@@ -1,10 +1,9 @@
-def: 
-    placeholders for when:
-        - you want to talk about something and imagine it has more than one value
-            BUT do not know all the possible values (Epp, 2010:1).
-        - you want to make assertions about it that are true for all elements in a given set (Epp, 2010:2).
+def variables: placeholders for when:
+                - you want to talk about something and imagine it has more than one value
+                    BUT do not know all the possible values (Epp, 2010:1).
+                - you want to make assertions about it that are true for all elements in a given set (Epp, 2010:2).
 
-examples (Epp, 2010:2) :
+examples (Epp, 2010:2):
     - Are there numbers with the property that the sum of their squares equals the square of their sum?
         - are there numbers a, b such that a² + b² = (a + b)² ?
         - are there numbers a₁, a₂, a₃, ...aₙ such that 

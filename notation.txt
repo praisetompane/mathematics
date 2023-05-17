@@ -1,4 +1,5 @@
 symbols dictionary: https://wumbo.net/
+
 quantifier:
     ∀ := for all := quantifier
     ∃ := there exist

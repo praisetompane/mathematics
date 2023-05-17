@@ -1,4 +1,4 @@
-def: the length around a polygon (Khan Academy).
+def perimeter: the length around a polygon (Khan Academy).
      the length of a boundary around an area.
      
 References:
