@@ -1,0 +1,31 @@
+def relation:   the totality
+                    of ordered pairs
+                        whose members
+                            are related by some condition (Epp, 2010:14).
+
+                a mathematical structure R is a relation
+                    between sets A(domain) and B(codomain), if the properties below are satisfied (Epp, 2010:14):
+                
+                    1. there exists x in A and
+                        y in B such that
+                            (x,y) in R
+
+                    2. R is a subset of A x B (i.e. Cartesian product of set A and B)
+
+                def binary relation³ʳᵈ_ᵍʳᵃᵈᵉʳ: it is a subgroup 
+                            of a bigger group
+                            connected
+                                based on a condition.
+                            The bigger group has to made that is made of two or more groups
+
+                    NB: This is specifically a binary relation (Epp, 2010:442)
+
+def n-ary relation: the totality
+                        of ordered members 
+                            of sets V₁, V₂,...,Vₙ 
+                                whose members
+                                    are related/satisfy by some condition.
+                    NB: This is specifically a n-ary relation (Epp, 2010:442)
+
+References:
+    Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
