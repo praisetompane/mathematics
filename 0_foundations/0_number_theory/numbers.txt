@@ -31,5 +31,5 @@ number vs numeral¹
 numeral = representation/description of a number² 
 
 References:
-    50 Centuries in 50 minutes (A Brief History of Mathematics), https://youtu.be/YsEcpS-hyXw
+    John Dersch. 2012. 50 Centuries in 50 minutes (A Brief History of Mathematics). https://youtu.be/YsEcpS-hyXw
     1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020
