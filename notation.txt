@@ -1,8 +1,24 @@
 symbols dictionary: https://wumbo.net/
+                    https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
-quantifier:
-    ∀ := for all := quantifier
-    ∃ := there exist
+quantifiers(Kunen, 2007):
+    ∀ := for all
+    ∃ := there exists
+
+    properties:
+        - domain of discourse or universe required
+            if unspecified, the Real Numbers are implied(Kunen, 2007).
+            example:
+                ∀x[x² > 4 ⟹ [x > 2 ∨ x < -2]]
+                is actually:
+                ∀x∈ℝ[x² > 4 ⟹ [x > 2 ∨ x < -2]]
+        - presumes (Kunen, 2007):
+            - functions/operators such as ∧ ∨ > <
+                have precise meaning
+                    in the domain of discourse
+            - objects used such as 2, 4, +-2
+                exist
+                    in the domain of discourse
 
 number sets:
     ℕ := set of natural numbers
@@ -19,11 +35,14 @@ constructors:
     ...      := infinite, with same pattern
     :=       := assignment
 
+propositional connectives:
+    ∧       := and
+    ∨       := or
+    ¬       : not | negation
+    ⟹       : implies
+    ⟺       : if and only if
+
 logical operators:
-    ∧        := and
-    ∨        := or
-    ⟹       := implies
-    ⟺       := if and only if
     > greater than
     < less than
     = equal
@@ -35,4 +54,5 @@ set operators:
     ∪   := addition
     ∈   := in (is element of) 
 
-
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
