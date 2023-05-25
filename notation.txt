@@ -4,6 +4,7 @@ symbols dictionary: https://wumbo.net/
 quantifiers(Kunen, 2007):
     ∀ := for all
     ∃ := there exists
+    ∃! := there exists a unique one
 
     properties:
         - domain of discourse or universe required
@@ -11,7 +12,7 @@ quantifiers(Kunen, 2007):
             example:
                 ∀x[x² > 4 ⟹ [x > 2 ∨ x < -2]]
                 is actually:
-                ∀x∈ℝ[x² > 4 ⟹ [x > 2 ∨ x < -2]]
+                ∀x ∈ ℝ[x² > 4 ⟹ [x > 2 ∨ x < -2]]
         - presumes (Kunen, 2007):
             - functions/operators such as ∧ ∨ > <
                 have precise meaning
@@ -19,7 +20,29 @@ quantifiers(Kunen, 2007):
             - objects used such as 2, 4, +-2
                 exist
                     in the domain of discourse
-
+    example usage:
+        - ∀ := for all:
+            for all Real numbers,
+                the sum of two Real numbers
+                    is a Real number.
+                ∀a,b ∈ ℝ, a+b ∈ ℝ
+        
+        - ∃ := there exists:
+            for all Rational numbers
+                there exists an inverse.
+                ∀a ∈ ℚ, ∃a⁻¹ such that a * a⁻¹ = 1
+            
+        - ∃! := there exists a unique one         
+            every positive Natural numbers
+                has a positive square root.
+                ∀a ∈ ℕ a > 0, ∃!b s.t. b² = a ∧ b > 0
+    NB: often omitted 
+        example:
+            commutative law: 
+                x ⋅ y = y ⋅ x
+                is equivalent to
+                ∀x,y ∈ ℝ, x ⋅ y = y ⋅ x
+ 
 number sets:
     ℕ := set of natural numbers
     ℤ⁺:= set of positive integers
@@ -40,7 +63,10 @@ propositional connectives:
     ∨       := or
     ¬       : not | negation
     ⟹       : implies
+        y ⟹ x is always equivalent to ¬y ∨ x
     ⟺       : if and only if
+
+    truth table:
 
 logical operators:
     > greater than
