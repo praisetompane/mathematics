@@ -1,0 +1,14 @@
+def foundations(Kunen, 2007:5):
+    - the foundations of mathematics
+        involves the axiomatic method.
+    - we define/select axioms
+        proof theorems from the axioms.
+
+    NB: the justification for the axioms
+            is part of the motivation or physics or philosophy
+            NOT part of the Mathematics itself.
+        the mathematics itself
+            consists of logical deductions
+                from axioms.
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
