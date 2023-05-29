@@ -50,6 +50,18 @@ number sets:
     ℝ := Real Numbers
     ℚ := Rational Numbers
 
+def sentence:   a statement with no free variables.
+                    in a given universe
+                        it MUST be True or False (Kunen, 2007:4).
+                
+                NB: The statement is True or False for the whole universe.
+            
+                Example:
+                    ∀x[x > 0 ⟹ ∃!y[y² = x ∧ y > 0]] (Kunen, 2007:4):
+                        Value       Universe
+                          True         ℕ
+                          False        ℝ
+
 ∴        := therefore
 ⁿ√x      := nᵗʰ root of x
 
