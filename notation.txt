@@ -62,6 +62,11 @@ def sentence:   a statement with no free variables.
                           True         ℕ
                           False        ℝ
 
+def formula:    a statement that makes an assertion about a variable.
+                    in a given universe 
+                        it MAY be True for some values of the variable
+                        or MAY be False for some values of the variable(Kunen, 2007:4)
+                        
 ∴        := therefore
 ⁿ√x      := nᵗʰ root of x
 
