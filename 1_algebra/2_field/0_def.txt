@@ -1,9 +1,9 @@
-def field: a set F with two operations + and *,  (F, +, *), is a field if it satisfies the axioms below(Censor, 2015):
+def field: a set F with two operations + and ×,  (F, +, ×), is a field if it satisfies the axioms below(Censor, 2015):
 
 axioms(Censor, 2015):
     F with respect to addition (F, +) is a commutative group.
-    F with respect to multiplication (F, *) is a commutative group.
-    + and * are related by distributivity
+    F with respect to multiplication (F, ×) is a commutative group.
+    + and × are related by distributivity
 
     (F, +) satisfies:
         closure: ∀ab ∈ F, a+b ∈ F
@@ -12,15 +12,15 @@ axioms(Censor, 2015):
         inverse: ∀a ∈ F, ∃(-a) ∈ F such that a + (-a) = 0 = identity
         commutativity: ∀ab ∈ F, a+b = b+a
     
-    (F, *) satisfies:
-        closure: ∀ab ∈ F, a*b ∈ F
-        associativity: ∀abc ∈ F, (a * b) * c = a * (b * c)
-        identity: ∃1 ∈ F such that  ∀a ∈ F, a * 1 = a
-        inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a * a⁻¹ = 1 = identity
-        commutativity: ∀ab ∈ F, a * b = ba
+    (F, ×) satisfies:
+        closure: ∀ab ∈ F, a×b ∈ F
+        associativity: ∀abc ∈ F, (a × b) × c = a × (b × c)
+        identity: ∃1 ∈ F such that  ∀a ∈ F, a × 1 = a
+        inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a × a⁻¹ = 1 = identity
+        commutativity: ∀ab ∈ F, a × b = ba
     
-    + and * are distributive:
-        ∀abc ∈ F, a * (b + c) = (a * b) + (a * c)
+    + and × are distributive:
+        ∀abc ∈ F, a × (b + c) = (a × b) + (a × c)
 
 References:
     Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=W5O2or-CA7s&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=3.
