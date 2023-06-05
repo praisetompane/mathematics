@@ -1,7 +1,7 @@
 symbols dictionary: https://wumbo.net/
                     https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
-quantifiers(Kunen, 2007):
+quantifiers(Kunen, 2007:4):
     ∀ := for all
     ∃ := there exists
     ∃! := there exists a unique one
@@ -75,15 +75,28 @@ constructors:
     ...      := infinite, with same pattern
     :=       := assignment
 
-propositional connectives:
+propositional connectives(Kunen, 2007:4):
     ∧       := and
     ∨       := or
     ¬       : not | negation
     ⟹       : implies
-        y ⟹ x is always equivalent to ¬y ∨ x
     ⟺       : if and only if
 
-    truth table:
+    truth table(Kunen, 2007:4): 
+        def T: True
+        def F: False
+        
+        φ   ψ   φ ∨ ψ    φ ∧ ψ      φ ⟹ ψ   φ ⟺ ψ
+        T   T   T        T          T        T
+        T   F   T        F          F        F
+        F   T   T        F          T        F     
+        F   F   F        F          T        T
+
+        φ   ¬φ
+        T   F
+        F   T
+
+        NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
 
 logical operators:
     > greater than
