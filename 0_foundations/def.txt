@@ -9,6 +9,20 @@ def foundations(Kunen, 2007:5):
             NOT part of the Mathematics itself.
         the mathematics itself
             consists of logical deductions
-                from axioms.
+                from axioms (Kunen, 2007:5).
+
+    axiomatic method examples:
+        - Geometry (Kunen, 2007:5)
+            Euclid Postulate(axiom) 1:
+                ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
+                    domain of discourse = all geometric objects.
+
+                english: any two distinct points
+                            determine a unique line.
+
+        - Set Theory: ???
+
+        - Group Theory: ???
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
