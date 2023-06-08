@@ -1,6 +1,6 @@
 def field: a set F with two operations + and ×,  (F, +, ×), is a field if it satisfies the axioms below(Censor, 2015):
 
-axioms(Censor, 2015):
+axioms (Censor, 2015):
     F with respect to addition (F, +) is a commutative group.
     F with respect to multiplication (F, ×) is a commutative group.
     + and × are related by distributivity
@@ -21,6 +21,29 @@ axioms(Censor, 2015):
     
     + and × are distributive:
         ∀abc ∈ F, a × (b + c) = (a × b) + (a × c)
+
+special Fields (Censor, 2015):
+    - a set with one element is a field.
+        example: {0} is a Field.
+        NB: it has no interesting characteristics.
+            Therefore the convention in Mathematics is 
+                the Set must have at least two different elements
+                    playing the role of zero and one
+                to be considered a Field.
+
+    - Zₙ(Finite Fields): 
+        - Fields with finite members(n).
+            - n is prime
+                i.e. number of members is prime.
+                    NB: There exists ones which this is False.
+        - + and × are called
+            addition modulo n
+            multiplication modulo n
+            example:
+                Z₅: Z sub 5
+                    - addition modulo 5
+                    - multiplication modulo 5 
+        see: 0_foundations/0_number_theory/types/modular_arithmetic.txt
 
 References:
     Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=W5O2or-CA7s&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=3.
