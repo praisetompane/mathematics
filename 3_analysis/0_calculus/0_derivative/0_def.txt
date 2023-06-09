@@ -1,0 +1,54 @@
+def derivative:
+
+interpretations (Jerison, 2007):
+    - geometric
+    - physical
+
+    - geometric (Jerison, 2007):
+        problem: find tangent line
+                    to some function f(x)
+                    at some point P = (x₀, y₀).
+
+            solution:
+                                ↑
+                              y -            /<--- tangent line
+                                | f(x)--->. /
+                                -        . /
+                                |     P . / 
+                                -      . / 
+                                |.....  /
+               ← |---|--|---|---|---|--/|---|---| →
+                                |     / x₀      x 
+                                -    /
+                                |
+                                -
+                                |
+                                -
+                                ↓
+
+            problem: how do we do this analytically?
+                def tangent line equation: y - y₀ = m(x - x₀)
+
+                data requirements:
+                    point(i.e. P): y₀ = f(x₀) = (x₀, y₀)
+                    slope: m = f'(x₀)
+                            NB: This is the derivative of f.
+
+                def f'(x₀)(i.e. the derivative of f at x₀): the slope of the tangen line
+                                                                to f(x)
+                                                                at a point P.
+ 
+
+
+
+importance of derivatives to ALL measurements.
+
+
+def differentiate:
+
+    - how to differentiate any function:
+
+
+References:
+    Jerison, D. Lecture 1: Rate of Change. 2007. Massachusetts Institute of Technology. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-1-derivatives/
+                
