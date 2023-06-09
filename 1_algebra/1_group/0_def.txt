@@ -1,30 +1,32 @@
-def group: a pair of a set G and an operation ◦ (G, ◦), is a group if
-    it satisfies the axioms below (Censor, 2015):
+def¹ group: a pair of a set G and an operation ◦ (G, ◦), is a group if
+    it satisfies the axioms below (Censor, 2015).
 
-    axioms (Censor, 2015):
-        - closure: ∀ a,b ∈ G, a◦b ∈ G
-            for any elements a and b of G
-                the results of applying operation ◦ 
-                    on a and b 
-                        is an element of G
+def² group: a 𝑚𝑜𝑑𝑒𝑙 (G, ∘) for the axioms 𝐺𝑃 = {γ₁, γ₂, γ₃, γ₄} (Kunen, 2007:5).
 
-        - associativity: ∀ a,b,c, (a◦b)◦c = a◦(b◦c)
-            for any elements a,b and c of G
-                the order of applying operation ◦
-                    on a,b and c produces 
-                        the same result
+𝐺𝑃: axioms (Censor, 2015):
+    - γ₁:  closure: ∀ a,b ∈ G, a◦b ∈ G
+                for any elements a and b of G
+                    the results of applying operation ◦ 
+                        on a and b 
+                            is an element of G
 
-        - identity: ∃ e ∈ G such that ∀ a ∈ G, a ◦ e = a
-            for any element a of G
-                there exists an element e of G
-                    such that when operation ◦ is applied to a and e
-                        the result is a
+    - γ₂: associativity: ∀ a,b,c, (a◦b)◦c = a◦(b◦c)
+                for any elements a,b and c of G
+                    the order of applying operation ◦
+                        on a,b and c produces 
+                            the same result
 
-        - inverse: ∀ a ∈ G, ∃ b ∈ G, such that a ◦ b = e
-            for any element a of G
-                there exists an b of G
-                    such that when operation ◦ is applied to a and b
-                        the result is e(i.e. the identity of the group G)
+    - γ₃: identity: ∃ e ∈ G such that ∀ a ∈ G, a ◦ e = a
+                for any element a of G
+                    there exists an element e of G
+                        such that when operation ◦ is applied to a and e
+                            the result is a
+
+    - γ₄: inverse: ∀ a ∈ G, ∃ b ∈ G, such that a ◦ b = e
+                for any element a of G
+                    there exists an b of G
+                        such that when operation ◦ is applied to a and b
+                            the result is e(i.e. the identity of the group G)
 
 def Abelian or commutative group:
     group (G,◦) is commutative/Abelian
@@ -39,3 +41,4 @@ def Abelian or commutative group:
 
 References:
     Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8kXSBav0n20&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=2.
+    Kunen, K. 2007. The Foundations of Mathematics.

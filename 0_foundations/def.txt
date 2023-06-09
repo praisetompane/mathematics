@@ -1,15 +1,27 @@
-def foundations(Kunen, 2007:5):
-    - the foundations of mathematics
-        involves the axiomatic method.
-    - we define/select axioms
-        proof theorems from the axioms.
+def foundations of mathematics (Kunen, 2007:5):
+    - involves/uses the axiomatic method.
 
-    NB: the justification for the axioms
-            is part of the motivation or physics or philosophy
-            NOT part of the Mathematics itself.
-        the mathematics itself
-            consists of logical deductions
-                from axioms (Kunen, 2007:5).
+        def axiomatic method (Kunen, 2007:5): we define/select axioms then
+                                                proof theorems from the axioms.
+
+            NB: the justification for the axioms
+                    is part of the motivation or physics or philosophy
+                    NOT part of the Mathematics itself.
+                the mathematics itself
+                    consists of logical deductions
+                        from axioms (Kunen, 2007:5).
+    
+    - defines these objects (Kunen, 2007:6-7):
+        def mathematical proof:
+
+        def mathematical statement:
+
+        def syntax:
+
+        def semantics: involves meaning or 𝑠𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 such as groups.
+
+        def Completeness Theorem:
+            - relates syntax and semantics
 
     axiomatic method examples:
         - Geometry (Kunen, 2007:5)
@@ -20,9 +32,26 @@ def foundations(Kunen, 2007:5):
                 english: any two distinct points
                             determine a unique line.
 
-        - Set Theory: ???
+        - Group Theory: based on these axioms: see: 1_algebra/1_group/0_def.txt
+            example:
+                𝐺𝑃 implies the cancellation ruls:
+                    𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
 
-        - Group Theory: ???
+        - Set Theory: ???
+    
+def predicate logic: a formal language
+                        with precise rules of formation. 
+                        just like computer programming languages(C, Java, etx) (Kunen, 2007:6).
+
+    def formal proof (Kunen, 2007:6): a finite sequence of sentences
+                                        written in this language
+                                        that obey 
+                                            a precisely defined rule of inference.
+                                            rules of inference = {modus ponens, ...}
+
+    syntactic objects (Kunen, 2007:6):
+        - predicate logic sentences
+        - formal proofs
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
