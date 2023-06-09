@@ -69,6 +69,7 @@ def formula:    a statement that makes an assertion about a variable.
                         
 ∴        := therefore
 ⁿ√x      := nᵗʰ root of x
+⊢        := proves that
 
 constructors:
     {}       := Set
@@ -109,6 +110,7 @@ set operators:
     \   := minus
     ∪   := addition
     ∈   := in (is element of) 
+    ⊆   := subset or equal
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.

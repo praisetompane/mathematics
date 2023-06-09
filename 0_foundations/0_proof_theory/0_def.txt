@@ -1,0 +1,5 @@
+def proof theory (Kunen, 2007:7):
+    studies the structure of formal proofs.
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
