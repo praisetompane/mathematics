@@ -7,10 +7,94 @@ def foundations of mathematics (Kunen, 2007:5):
             NB: the justification for the axioms
                     is part of the motivation or physics or philosophy
                     NOT part of the Mathematics itself.
+
                 the mathematics itself
                     consists of logical deductions
                         from axioms (Kunen, 2007:5).
-    
+
+        NB: every list of formal sentences
+                forms the axioms of some axiomatic theory (Kunen, 2007:7).   
+
+        - types of uses of the concept/word "axioms" (Kunen, 2007:47) NB: 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑙 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠:
+            - statements of faith
+            - definitional axioms
+
+            def statements of faith:
+                - statements that are obviously true,
+                    and thus require no proof.
+                - closest to truism.
+
+                example:
+                    Greek Classical View:
+                        make observations about Real Physical Space
+                            which are obviously true.
+                        from them we can derive other 
+                            non-obvious facts.
+                        
+                        therefore
+                            by studying Euclidean Geometry 
+                                one is studying structure of the real world.
+
+                            NB: Later Euclid's axioms were reduced to definitional ones;
+                                    as one way to describe a specific(flat) geometry.
+                                
+                                We learned his Geometry only approximates the Real Physical space
+                                    and there are other Geometries
+                                        predicated on different axioms.
+                        
+                        Something Interesting: The other non-obvious facts
+                                                    are derived without observation of the Physical Space.
+                        
+            def definitional axioms:
+                - defines a useful class of structure.
+                - captures the structure of things/ideas and proves theorems about them.
+                    NB: One finds various instances of these things/ideas 
+                            in various domains.
+                            domains = {Mathematics, Real Physical Space, Computation, ...}
+                - common in algebra
+
+                example:
+                    axioms of Groups define/captures what a Group is.
+                        see: 1_algebra/1_group/0_def.txt
+                        instances of Group:
+                            {
+                                (ℤ,+) = The Integers with respect to addition.
+                            }
+                    
+                    axioms of fields define/captures what a Field is: 
+                        see: 1_algebra/2_field/0_def.txt
+                        instances of Fields:
+                            {   (ℝ, +, ×) = The Real Numbers with respect to addition and multiplication,
+                                (ℂ, +, ×) = The Complex Numbers with respect to addition and multiplication,
+                                (ℚ, +, ×) = The Rational Numbers with respect to addition and multiplication,
+                                ...
+                            }
+
+        - axiomatic method examples(Kunen, 2007:5-9):
+            - Geometry (Kunen, 2007:5):
+                - these are definitional axioms.
+                    - they were statements of faith in Euclid's Geometry prior to Einstein's advances in Physics.
+
+                Euclid Postulate(axiom) 1:
+                    ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
+                        domain of discourse = all geometric objects.
+
+                    english: any two distinct points
+                                determine a unique line.
+
+            - Group Theory (Kunen, 2007:6):
+                - these are definitional axioms.
+                - based on these axioms: see: 1_algebra/1_group/0_def.txt
+                    GP is a 𝑠𝑒𝑡 of two sentences in 𝑝𝑟𝑒𝑑𝑖𝑐𝑎𝑡𝑒 𝑙𝑜𝑔𝑖𝑐  
+                example:
+                    𝐺𝑃 implies the cancellation rule:
+                        𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
+
+            - Set Theory (Kunen, 2007:7): 
+                - these are definitional axioms.
+                - based on Zermelo-Fraenkel with Choice axiom (ZFC).
+                - all of modern Mathematics is subsumed within Set theory.
+
     - defines these objects (Kunen, 2007:6-7):
         def mathematical proof:
 
@@ -23,21 +107,6 @@ def foundations of mathematics (Kunen, 2007:5):
         def Completeness Theorem:
             - relates syntax and semantics
 
-    axiomatic method examples:
-        - Geometry (Kunen, 2007:5)
-            Euclid Postulate(axiom) 1:
-                ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
-                    domain of discourse = all geometric objects.
-
-                english: any two distinct points
-                            determine a unique line.
-
-        - Group Theory: based on these axioms: see: 1_algebra/1_group/0_def.txt
-            example:
-                𝐺𝑃 implies the cancellation ruls:
-                    𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
-
-        - Set Theory: ???
     
 def predicate logic: a formal language
                         with precise rules of formation. 
