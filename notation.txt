@@ -1,7 +1,7 @@
 symbols dictionary: https://wumbo.net/
                     https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
 
-quantifiers(Kunen, 2007:4):
+quantifiers (Kunen, 2007:4):
     ∀ := for all
     ∃ := there exists
     ∃! := there exists a unique one
