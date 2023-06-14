@@ -1,4 +1,6 @@
 def set theory:
 
+def hereditary set:
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.

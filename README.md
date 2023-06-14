@@ -68,7 +68,9 @@ a formal classification scheme is maintained here:
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 * Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 
-# Legend
-Q: Question for later research
+# Legend:
+**Q**: Question for later research
+
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
