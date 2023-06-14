@@ -42,7 +42,7 @@ quantifiers (Kunen, 2007:4):
                 x ⋅ y = y ⋅ x
                 is equivalent to
                 ∀x,y ∈ ℝ, x ⋅ y = y ⋅ x
- 
+                
 number sets:
     ℕ := set of natural numbers
     ℤ⁺:= set of positive integers
@@ -72,9 +72,11 @@ def formula:    a statement that makes an assertion about a variable.
 ⊢        := proves that
 
 constructors:
-    {}       := Set
-    ...      := infinite, with same pattern
-    :=       := assignment
+    ...      := infinite, with same pattern.
+    :=       := assignment.
+    ()       := beginning of an expression.
+                function arguments grouping.
+                represent implicit multiplication.
 
 propositional connectives(Kunen, 2007:4):
     ∧       := and
@@ -106,11 +108,15 @@ logical operators:
     ≥ greater than or equal
     ≤ less than or equal
 
-set operators:
-    \   := minus
-    ∪   := addition
-    ∈   := in (is element of) 
-    ⊆   := subset or equal
+sets:
+    { element₁, element₂, ..., elementₙ }      := constructor
+        {}  := empty set
+    ∅       := empty set
+    operators:
+        \   := minus
+        ∪   := addition
+        ∈   := in (is element of) 
+        ⊆   := subset or equal
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
