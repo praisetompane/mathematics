@@ -34,7 +34,7 @@ interpretations (Jerison, 2007):
                     slope: m = f'(x₀)
                             NB: This is the derivative of f.
 
-                def f'(x₀)(i.e. the derivative of f at x₀): the slope of the tangen line
+                def f'(x₀)(i.e. the derivative of f at x₀): the slope of the tangent line
                                                                 to f(x)
                                                                 at a point P.
  
