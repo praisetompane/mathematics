@@ -1,0 +1,16 @@
+def theorem:
+    formal: a mathematical fact that is proved (Censor, 2013).
+
+    plain english: a sentence
+                    that is proved to be true.
+
+    structure (Censor, 2013):
+        - context/assumptions/setting
+            e.g. let, suppose
+        
+        - conclusion/consequence/result
+            e.g. Then some thing is True/ Therefore some thing is True
+            NB: This is what requires proof.
+        
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

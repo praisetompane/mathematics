@@ -1,3 +1,19 @@
 def calculus: relates two functions,
                 - distance and speed
-                - height and slope
+                - height and slope ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
+
+theorems:
+    - Fermat (Censor, 2015):
+        formal:
+            let f(x) be defined in/on (a, b)
+            AND let x₀ be a maximum or minimum point
+                at which f is differentiable.
+            Then f'(x₀) = 0.
+        
+        plain english:
+    
+    - 
+
+References:
+    Jerison, D. Lecture 1: Rate of Change. 2007. Massachusetts Institute of Technology. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-1-derivatives/
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
