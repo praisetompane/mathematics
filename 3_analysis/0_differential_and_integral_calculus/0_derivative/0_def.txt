@@ -38,17 +38,11 @@ interpretations (Jerison, 2007):
                                                                 to f(x)
                                                                 at a point P.
  
-
-
-
 importance of derivatives to ALL measurements.
-
 
 def differentiate:
 
     - how to differentiate any function:
 
-
 References:
     Jerison, D. Lecture 1: Rate of Change. 2007. Massachusetts Institute of Technology. https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-1-derivatives/
-                
