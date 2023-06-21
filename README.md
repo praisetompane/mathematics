@@ -1,6 +1,6 @@
 # What is Mathematics?
 
-def: a formal language with precise and unambiguous definitions of its words(+,-,\*, π,e, etc.) and grammar.⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾
+def: a formal language with precise and unambiguous definitions for its words(+,-,\*, π,e, etc.) and grammar ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
 
 a formal classification scheme is maintained here: 
 * https://zbmath.org/classification/
