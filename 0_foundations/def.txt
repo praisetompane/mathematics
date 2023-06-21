@@ -107,10 +107,15 @@ def foundations of mathematics (Kunen, 2007:5):
         def Completeness Theorem:
             - relates syntax and semantics
 
-    
-def predicate logic: a formal language
-                        with precise rules of formation. 
-                        just like computer programming languages(C, Java, etx) (Kunen, 2007:6).
+def propositional logic:
+    TBD
+
+def predicate logic or 
+    first-order logic or
+    first-order predicate logic: 
+        a formal language
+            with precise rules of formation. 
+            just like computer programming languages(C, Java, etx) (Kunen, 2007:6) (Sakharov).                                
 
     def formal proof (Kunen, 2007:6): a finite sequence of sentences
                                         written in this language
@@ -122,5 +127,15 @@ def predicate logic: a formal language
         - predicate logic sentences
         - formal proofs
 
+def second-order logic:
+    TBD
+
+def higher-order logic:
+    TBD
+
+def type-theory:
+
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
+    Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html 
