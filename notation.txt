@@ -110,13 +110,33 @@ logical operators:
 
 sets:
     { element₁, element₂, ..., elementₙ }      := constructor
-        {}  := empty set
-    ∅       := empty set
+    { element | predicate }
+        example:
+            all Real numbers greater than 5: { x| x > 5 }
+
+    {} or ∅ := empty set
+
     operators:
         \   := minus
         ∪   := addition
         ∈   := in (is element of) 
         ⊆   := subset or equal
 
+intervals (Censor, 2015):
+    () := open interval. 
+          set of ALL values between two endpoints.
+          excluding the endpoints.
+
+        example:
+            (2,5) = { x | 2 > x < 5 }
+
+    [] := closed interval. 
+          set of ALL values between two endpoints.
+          including the endpoints.
+
+        example:
+            [2,5] = { x | 2 ≥ x ≤ 5 }
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
