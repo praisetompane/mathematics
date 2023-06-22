@@ -1,30 +1,30 @@
 def function:
-    a relation F, is a function 
-        from a set A(domain) to a set B(codomain), if it satisfies the properties below(Epp, 2010:17):
+    formal: a relation F, is a function 
+                from a set A(domain) to a set B(codomain), if it satisfies the properties below(Epp, 2010:17):
 
-            1.  for all elements x in A,
-                    there is an element y in B
-                        such that (x,y) in F
-                i.e. ∀x ∈ A, ∃y ∈ B s.t. (x,y) ∈ F
+                    1.  for all elements x in A,
+                            there is an element y in B
+                                such that (x,y) in F
+                        i.e. ∀x ∈ A, ∃y ∈ B s.t. (x,y) ∈ F
 
-            2.  for all elements x in A,
-                for all elements y and z in B
-                    if (x,y) in F and (x,z) in F, then
-                        y = z
-                
-                i.e. ∀x ∈ A, ∀y,z ∈ B
-                        (x,y) ∈ F and (x,z) ∈ F, then
-                            y = z
+                    2.  for all elements x in A,
+                        for all elements y and z in B
+                            if (x,y) in F and (x,z) in F, then
+                                y = z
+                        
+                        i.e. ∀x ∈ A, ∀y,z ∈ B
+                                (x,y) ∈ F and (x,z) ∈ F, then
+                                    y = z
 
-                i.e. a member in A can map to ONLY
-                        one in member B.
-                        if it maps to two, they are the same.
+                        i.e. a member in A can map to ONLY
+                                one in member B.
+                                if it maps to two, they are the same.
 
-def function³ʳᵈ_ᵍʳᵃᵈᵉʳ: a map
-                            between two groups of things named A and B
-                            where
-                                each thing in group A
-                                    can only map to ONE thing in group B.
+    plain english: a mapping
+                    between two groups of things, named A and B
+                    where
+                        each thing in group A
+                            can only map to ONE thing in group B.
 
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
