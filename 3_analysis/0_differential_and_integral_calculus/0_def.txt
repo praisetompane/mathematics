@@ -3,12 +3,80 @@ def calculus: relates two functions,
                 - height and slope ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
 
 theorems:
-    - Fermat (Censor, 2015):
+    - Fermat or Interior Extremum (Censor, 2015):
         formal:
             let f(x) be defined in/on (a, b)
             AND let x₀ be a maximum or minimum point
                 at which f is differentiable.
             Then f'(x₀) = 0.
+
+            components:
+                def f: function
+                    see: 0_foundations/function.txt
+
+                def maximum: 
+                    formal:
+                        f(x₀) ≥ f(x), ∀x ∈ (a,b)
+
+                        in words: the value of f at x₀ (i.e. f(x₀))
+                                    is greater or equal
+                                        to all values of f 
+                                            at all values of x in the range (a,b)
+
+                    plain english: the point at which 
+                                        a function reaches its biggest value.
+
+                                        y
+                                        ↑
+                                        -          ... 
+                                        | f(x)--> .   .
+                                        -        .     .
+                                        |       .       .
+                       ← |---|--|---|---|---|---|---|---|---| → x
+                                        |       a   x₀  b   
+                                        -    
+                                        ↓
+
+                def minimum:
+
+                def differentiable:
+
+                    formal:
+
+                    plain english:
+
+                    intuition: for a function to be differentiable
+                                        the graph of the function
+                                            is smooth (has no cusps).
+    
+                def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
+                    see: 3_analysis/0_differential_and_integral_calculus/0_derivative/0_def.txt
+
+                    formal:
+
+                        in words:
+
+                    plain english:
+
+                    intuition:
+                        the slope of the tangent line
+                           at x₀
+                           is zero(0) 
+                        i.e. the tangent line is horizontal
+
+
+                                        y
+                                        ↑
+                                        -      ----...-------- <--- tangent line
+                                        | f(x)--> .   .
+                                        -        .     .
+                                        |       .       .
+                       ← |---|--|---|---|---|---|---|---|---| → x
+                                        |       a   x₀  b   
+                                        -    
+                                        ↓
+
+
         
         plain english:
     

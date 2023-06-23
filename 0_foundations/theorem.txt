@@ -5,11 +5,12 @@ def theorem:
                     that is proved to be true.
 
     structure (Censor, 2013):
-        - context/assumptions/setting
+        - context/assumptions/setting/data
             e.g. let, suppose
         
         - conclusion/consequence/result
             e.g. Then some thing is True/ Therefore some thing is True
+            
             NB: This is what requires proof.
         
 References:
