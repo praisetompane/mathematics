@@ -6,3 +6,6 @@ def x:
     plain english:
 
     intuition:
+
+    examples:
+        
