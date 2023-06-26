@@ -55,4 +55,4 @@
     
     ∴ True
     
-(ℂ, + , × )is a Field?
+(ℂ, + , × ) is a Field? : 
