@@ -1,0 +1,8 @@
+def formula: 
+    a statement that asserts a variable
+        in a given universe 
+            it MAY be True for some values of the variable
+            or MAY be False for some values of the variable(Kunen, 2007:4)
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.

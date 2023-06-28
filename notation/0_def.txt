@@ -1,0 +1,14 @@
+symbols dictionary: https://wumbo.net/
+                    https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html
+                        
+∴        := therefore
+ⁿ√x      := nᵗʰ root of x
+⊢        := proves that
+
+constructors:
+    ...      := infinite, with same pattern.
+    :=       := assignment.
+    ()       := beginning of an expression.
+                function arguments grouping.
+                represent implicit multiplication.
+

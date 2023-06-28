@@ -1,0 +1,39 @@
+def propositional logic:
+    TBD
+
+def predicate logic or 
+    first-order logic or
+    first-order predicate logic: 
+        a formal language
+            with precise rules of formation. 
+            just like computer programming languages(C, Java, etx) (Kunen, 2007:6) (Sakharov).                                
+
+    def formal proof (Kunen, 2007:6): a finite sequence of sentences
+                                        written in this language
+                                        that obey 
+                                            a precisely defined rule of inference.
+                                            rules of inference = {modus ponens, ...}
+
+    syntactic objects (Kunen, 2007:6):
+        - predicate logic sentences
+        - formal proofs
+    
+    binary relations used:
+        - =
+        - ∈ 
+        Q: how are = and ∈ binary relations
+
+        free variables
+
+def second-order logic:
+    TBD
+
+def higher-order logic:
+    TBD
+
+def type-theory:
+
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html 
