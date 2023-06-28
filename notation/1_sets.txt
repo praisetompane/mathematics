@@ -1,0 +1,13 @@
+sets:
+    { element₁, element₂, ..., elementₙ }      := constructor
+    { element | predicate }
+        example:
+            all Real numbers greater than 5: { x| x > 5 }
+
+    {} or ∅ := empty set
+
+    operators:
+        \   := minus
+        ∪   := addition
+        ∈   := in (is element of) 
+        ⊆   := subset or equal
