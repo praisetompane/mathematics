@@ -1,0 +1,27 @@
+universal properties (Censor, 2013):
+    def f: function
+        see: 0_foundations/function.txt
+
+    def differentiable (Censor, 2013):
+
+        formal:
+
+        plain english:
+
+        intuition: for a function to be differentiable
+                            the graph of the function
+                                is smooth (has no cusps).
+
+    def continuous (Censor, 2013):
+        formal:
+
+        plain english:
+
+        intuition: for a function to be continuous
+                        the graph of the function
+                            can be drawn without lifting the "pen/marker"
+                                off the "paper/board".
+                    i.e. no jumps between points in the graph.
+
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

@@ -1,0 +1,16 @@
+Rolle (Censor, 2013)
+    formal:
+        Let 
+            f(𝑥) be continuous on [a,b]
+            AND differentiable on (a,b),
+            such that f(a) = f(b).
+        Then
+            there exists a point c ∈ (a,b)
+            such that f'(c) = 0.
+    
+    plain english:
+
+    properties:
+
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
