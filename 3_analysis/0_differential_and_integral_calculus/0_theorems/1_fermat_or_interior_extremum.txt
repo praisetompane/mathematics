@@ -1,0 +1,66 @@
+Fermat or Interior Extremum (Censor, 2013):
+    formal:
+        Let 
+            f(x) be defined on (a, b)
+            AND let x₀ be a maximum or minimum point
+                at which f is differentiable.
+        Then f'(x₀) = 0.
+
+    plain english:
+
+    properties:
+
+        def maximum: 
+            formal:
+                f(x₀) ≥ f(x), ∀x ∈ (a,b)
+
+                in words: the value of f at x₀ (i.e. f(x₀))
+                            is greater or equal
+                                to all values of f 
+                                    at all values of x in the range (a,b)
+
+            plain english: the point at which 
+                                a function reaches its biggest value.
+
+                                y
+                                ↑
+                                -          ... 
+                                | f(x)--> .   .
+                                -        .     .
+                                |       .       .
+                ← |---|--|---|---|---|---|---|---|---| → x
+                                |       a   x₀  b   
+                                -    
+                                ↓
+
+        def minimum:
+
+        def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
+            see: 3_analysis/0_differential_and_integral_calculus/1_derivative/0_def.txt
+
+            formal:
+
+                in words:
+
+            plain english:
+
+            intuition:
+                the slope of the tangent line
+                    at x₀
+                    is zero(0) 
+                i.e. the tangent line is horizontal
+
+
+                                y
+                                ↑
+                                -      ----...-------- <--- tangent line
+                                | f(x)--> .   .
+                                -        .     .
+                                |       .       .
+                ← |---|--|---|---|---|---|---|---|---| → x
+                                |       a   x₀  b   
+                                -    
+                                ↓
+
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
