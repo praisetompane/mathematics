@@ -1,4 +1,4 @@
-logical operators:
+comparison operators:
     > greater than
     < less than
     = equal
