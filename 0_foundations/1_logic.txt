@@ -18,7 +18,7 @@ def predicate logic or
         - predicate logic sentences
         - formal proofs
     
-    binary relations used:
+    binary relations used in set theory:
         - =
         - ∈ 
         Q: how are = and ∈ binary relations
