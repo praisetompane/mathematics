@@ -6,21 +6,21 @@ axioms (Censor, 2015):
     + and × are related by distributivity
 
     (F, +) satisfies:
-        closure: ∀ab ∈ F, a+b ∈ F
-        associativity: ∀abc ∈ F, (a + b) + c = a + (b + c)
-        identity: ∃0 ∈ F such that ∀a ∈ F, a + 0 = a
-        inverse: ∀a ∈ F, ∃(-a) ∈ F such that a + (-a) = 0 = identity
-        commutativity: ∀ab ∈ F, a+b = b+a
+        (1) closure: ∀ab ∈ F, a+b ∈ F
+        (2) associativity: ∀abc ∈ F, (a + b) + c = a + (b + c)
+        (3) identity: ∃0 ∈ F such that ∀a ∈ F, a + 0 = a
+        (4) inverse: ∀a ∈ F, ∃(-a) ∈ F such that a + (-a) = 0 = identity
+        (5) commutativity: ∀ab ∈ F, a+b = b+a
     
     (F, ×) satisfies:
-        closure: ∀ab ∈ F, a×b ∈ F
-        associativity: ∀abc ∈ F, (a × b) × c = a × (b × c)
-        identity: ∃1 ∈ F such that  ∀a ∈ F, a × 1 = a
-        inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a × a⁻¹ = 1 = identity
-        commutativity: ∀ab ∈ F, a × b = ba
+        (6) closure: ∀ab ∈ F, a×b ∈ F
+        (7) associativity: ∀abc ∈ F, (a × b) × c = a × (b × c)
+        (8) identity: ∃1 ∈ F such that  ∀a ∈ F, a × 1 = a
+        (9) inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a × a⁻¹ = 1 = identity
+        (10) commutativity: ∀ab ∈ F, a × b = ba
     
     + and × are distributive:
-        ∀abc ∈ F, a × (b + c) = (a × b) + (a × c)
+        (11) ∀abc ∈ F, a × (b + c) = (a × b) + (a × c)
 
 special Fields (Censor, 2015):
     - a set with one element is a field.
