@@ -56,5 +56,49 @@ theorem 1 (Censor, 2015):
 
                     Q: Why is it sufficient to use only two zero elements?
 
+        - a × 0 = 0:
+            formal:
+
+            plain english:
+                apply identity axiom with respect to addition(+) to 0 in 𝑎 × 0 = 0:
+                    then 
+                        𝑎 × 0 = 0 rewrites to 𝑎 × (0 + 0) = 0 + 0 
+                
+                apply identity axiom with respect to addition(+) to 0 + 0 on RHS:
+                    then
+                        𝑎 × (0 + 0) = 0 + 0 rewrites to 𝑎 × (0 + 0) = 0
+
+                Then
+                    𝑎 × 0 = 0 AND 𝑎 × (0 + 0) = 0
+                    ∴ 𝑎 × 0 = 𝑎 × (0 + 0) 
+                        NB: since they both equal 0
+
+                apply distributive axiom to 𝑎 × (0 + 0):
+                    then 
+                        𝑎 × (0 + 0) = 𝑎 × 0 + 𝑎 × 0
+                    ∴ 𝑎 × 0 = 𝑎 × 0 + 𝑎 × 0
+ 
+                apply additive inverse axiom to 𝑎 × 0:
+                    then 
+                        𝑎 × 0 + (-(𝑎 × 0)) = 0
+                            ∴ additive inverse is -(𝑎 × 0)
+                    then 
+                        rewrite 𝑎 × 0 in 𝑎 × 0 + (-(𝑎 × 0)) to (𝑎 × 0 + 𝑎 × 0) [because after applying distributive axiom we showed this is true]
+                            ∴ 𝑎 × 0 + (-(𝑎 × 0)) = (𝑎 × 0 + 𝑎 × 0) + (-(𝑎 × 0))
+                
+                apply associativity with respect to addition(+) to RHS
+                    ∴ 𝑎 × 0 + (-(𝑎 × 0)) = 𝑎 × 0 + (𝑎 × 0 + (-(𝑎 × 0)))
+
+                apply number + its inverse = 0 to LHS and RHS
+                    apply to RHS (𝑎 × 0 + (-(𝑎 × 0))):
+                        ∴ 𝑎 × 0 + (-(𝑎 × 0)) = 𝑎 × 0 + 0 
+                        ∴ 𝑎 × 0 + (-(𝑎 × 0)) = 𝑎 × 0 
+
+                    apply to LHS 𝑎 × 0 + (-(𝑎 × 0)):
+                        ∴ 0  = 𝑎 × 0
+
+                Then
+                    0  = 𝑎 × 0 ⟹ 𝑎 × 0 = 0
+                        
 References:
     Censor, A. Algebra 1M - international. 04 - More properties of fields. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=D7bbZ-kf2-o&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=4.
