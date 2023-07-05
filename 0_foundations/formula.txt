@@ -29,7 +29,16 @@ def free variable (Weisstein):
                     that appears in a Logic formula
                     that exists outside the scope of the quantifier.
 
+def bound variable (Weisstein):
+    formal:
+        in words: a variable
+                    that appears in a Logic formula
+                    that is not free.
+                  also known as a dummy variable.
+
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
     Weisstein, Eric W. "Formula." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Formula.html 
     Weisstein, Eric W. "Free Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/FreeVariable.html 
+    Weisstein, Eric W. "Dummy Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/DummyVariable.html 
