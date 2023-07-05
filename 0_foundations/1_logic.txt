@@ -23,8 +23,6 @@ def predicate logic or
         - ∈ 
         Q: how are = and ∈ binary relations
 
-        free variables
-
 def second-order logic:
     TBD
 

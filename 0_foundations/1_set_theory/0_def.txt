@@ -2,5 +2,28 @@ def set theory:
 
 def hereditary set:
 
+axioms:
+    axiom 0: Set Existence
+             ∃x(x = x)
+
+    axiom 1: Extensibility
+             ∀z(z ∈ x ⟺ z ∈ y) ⟹ x = y
+
+    axiom 2: Foundation
+             ∃y(y ∈ x) ⟹ ∃y(y ∈ x ∧ ¬∃z(z ∈ x ∧ z ∈ y))
+
+    axiom 3: Comprehension Scheme
+             for each formula φ, without y free,
+                ∃y∀x(x ∈ y ⟺ x ∈ z ∧ φ(x))
+
+    axiom 4: Pairing
+             ∃z(x ∈ z ∧ y ∈ z)
+
+    axiom 5: Union
+    axiom 6: Replacement Scheme
+    axiom 7: Infinity
+    axiom 8: Power Set
+    axiom 9: Choice
+
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
