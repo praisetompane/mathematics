@@ -6,18 +6,18 @@ axioms (Censor, 2015):
     + and × are related by distributivity
 
     (F, +) satisfies:
-        (1) closure: ∀ab ∈ F, a+b ∈ F
-        (2) associativity: ∀abc ∈ F, (a + b) + c = a + (b + c)
-        (3) identity: ∃0 ∈ F such that ∀a ∈ F, a + 0 = a
-        (4) inverse: ∀a ∈ F, ∃(-a) ∈ F such that a + (-a) = 0 = identity
-        (5) commutativity: ∀ab ∈ F, a+b = b+a
+        axiom 1: closure: ∀ab ∈ F, a+b ∈ F
+        axiom 2: associativity: ∀abc ∈ F, (a + b) + c = a + (b + c)
+        axiom 3: identity: ∃0 ∈ F such that ∀a ∈ F, a + 0 = a
+        axiom 4: inverse: ∀a ∈ F, ∃(-a) ∈ F such that a + (-a) = 0 = identity
+        axiom 5: commutativity: ∀ab ∈ F, a+b = b+a
     
     (F, ×) satisfies:
-        (6) closure: ∀ab ∈ F, a×b ∈ F
-        (7) associativity: ∀abc ∈ F, (a × b) × c = a × (b × c)
-        (8) identity: ∃1 ∈ F such that  ∀a ∈ F, a × 1 = a
-        (9) inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a × a⁻¹ = 1 = identity
-        (10) commutativity: ∀ab ∈ F, a × b = ba
+        axiom 6: closure: ∀ab ∈ F, a×b ∈ F
+        axiom 7: associativity: ∀abc ∈ F, (a × b) × c = a × (b × c)
+        axiom 8: identity: ∃1 ∈ F such that  ∀a ∈ F, a × 1 = a
+        axiom 9: inverse: ∀a ∈ F, a≠0, ∃a⁻¹ ∈ F such that a × a⁻¹ = 1 = identity
+        axiom 10: commutativity: ∀ab ∈ F, a × b = b × a
     
     + and × are distributive:
         (11) ∀abc ∈ F, a × (b + c) = (a × b) + (a × c)
