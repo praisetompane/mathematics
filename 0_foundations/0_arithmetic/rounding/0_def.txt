@@ -25,10 +25,10 @@ General Nearest Rounding Algorithm (Khan Academy).
         place_value_to_round ={..., hundreds, tens, ones, tenths, hundredths, ...}
     
     Then                                                               
-        if number in preceding place value from place_value_to_round >= 5
+        if number in the preceding place value from place_value_to_round >= 5
             return next multiple of place_value_to_round for number
         else
-            return previous multiple of place_value_to_round for number
+            return the previous multiple of place_value_to_round for number
             
 References:
     Khan Academy. Rounding to the nearest 10 on the number line. https://www.khanacademy.org/math/cc-third-grade-math/imp-addition-and-subtraction/imp-rounding/v/rounding-to-the-nearest-10-number-line

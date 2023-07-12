@@ -54,5 +54,6 @@
                         5.8570965005313...      = 5.8570965005313...
     
     ∴ True
-    
+  
 (ℂ, + , × ) is a Field? : 
+    TODO: show if this is True or False
