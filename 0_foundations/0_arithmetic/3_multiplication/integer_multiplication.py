@@ -17,3 +17,5 @@ def multiply(factor_1, factor_2):
 print(multiply(+1, +2))  # 2
 print(multiply(-1, +2))  # -2
 print(multiply(-1, -2))  # 2
+print(multiply(-2, -2))  #4
+print(multiply(-7, -20))  # 140

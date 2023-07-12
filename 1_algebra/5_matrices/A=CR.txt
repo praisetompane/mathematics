@@ -1,4 +1,4 @@
-types:
+types (Strang, 2020):
     - columns and rows in the same direction
     - rank 2 matrix
     - symmetric matrix
