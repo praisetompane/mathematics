@@ -23,7 +23,7 @@ axioms:
              ∃A ∀Y ∀x (x ∈ Y ∧ Y ∈ F ⟹ x ∈ A)
 
     axiom 6: Replacement Scheme
-             foreach formula φ, without B free
+             for each formula φ, without B free
                 ∀x ∈ A ∃!y φ(x,y) ⟹ ??? 
 
     axiom 7: Infinity
