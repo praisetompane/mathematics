@@ -1,11 +1,24 @@
 def complex numbers:
-    let i = √-1 (Censor, 2015).
-    ∴ i² = -1
+    formal:
+        Let i = √-1 (Censor, 2015).
+                ∴ i² = -1
+        in words:
 
-complex number set(Censor, 2015):
-    ℂ = {a + bi | a, b ∈ ℝ}
+    plain english:
+
+    intuition:
+
+    examples:
+
+
+def complex number set(Censor, 2015):
+    formal:
+        ℂ = {a + bi | a, b ∈ ℝ}
+
     example: 1 + 7i = complex number
 
+def algebraically closed: TBD
+ 
 example expression:
     2 + 3i² + 7i
     2 + 3(-1) + 7i
@@ -13,11 +26,13 @@ example expression:
     -1 + 7i
     7i - 1
 
-x² = -1, has no solution in ℝ
-in complex field ℂ, a solution exists (Censor, 2015):
-    x² = -1
-    let x = i
-    i² = -1
+use case:
+    solution to equations:
+        x² = -1, has no solution in ℝ
+        in complex field ℂ, a solution exists (Censor, 2015):
+            x² = -1
+            let x = i
+            i² = -1
 
 References:
     Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
