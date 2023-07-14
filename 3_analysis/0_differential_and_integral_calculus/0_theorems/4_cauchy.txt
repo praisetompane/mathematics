@@ -1,0 +1,24 @@
+Cauchy (Censor, 2013)
+    formal:
+        Let 
+            f(𝑥) and g(x) be continuous on [a,b]
+            AND differentiable on (a,b).
+
+            Assume that:
+                ∀x ∈ (a,b), g'(x) ≠ 0.
+
+        Then
+            1. g(a) ≠ g(b)
+            2. ∃c ∈ (a,b)
+                such that:
+                   f'(c)    f(b) - f(a)
+                   ----- =  -----------
+                   g'(c)    g(b) - g(a)
+                   
+    plain english:
+
+    properties:
+
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+
