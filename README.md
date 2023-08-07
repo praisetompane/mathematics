@@ -6,14 +6,12 @@ a formal classification scheme is maintained here:
 * https://zbmath.org/classification/
 * https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 
+## History:
+* https://history-of-mathematics.org/
 
 # References:
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 * Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
-
-
-# History
-* https://history-of-mathematics.org/
 
 # Legend:
 **Q**: Question for later research
