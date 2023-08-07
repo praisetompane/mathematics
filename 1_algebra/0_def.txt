@@ -4,7 +4,9 @@ def algebra: field in mathematics in which we perform calculations with things t
             this is a calculation that has variables(x), parameters(a,b) and a number(0)
         y = mx 
             this is a calculation that has variables(y, x) and parameter(m)
-            
+    plain english:
+        studies mathematical objects and the rules for manipulating them.
+        
 def expression:
     a sentence
 
