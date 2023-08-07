@@ -1,0 +1,4 @@
+def applied mathematics: studies scientific concepts, principles and phenomena that is widely occurring & applied, that relates or unifies various disciplines. these are propagation, equilibrium, stability, optimization, computation, statistics and random processes (mit mathematics).
+
+References:
+    MIT Mathematics. https://math.mit.edu/academics/undergrad/major/course18/applied.php

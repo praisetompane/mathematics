@@ -1,4 +1,4 @@
-def geomtry: the study of the intrinsic shapes of mathematical objects (Frenkel).
+def geometry: the study of the intrinsic shapes of mathematical objects (Frenkel).
 
 def Cartesian: anything that derives from René Descartes' conception of Geometry (Stover, Christopher and Weisstein, Eric W).
                Geometry conceptualized as points/vector represented as an ordered tuple of real numbers(i.e. Cartesian coordinates)
