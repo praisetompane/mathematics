@@ -1,13 +1,14 @@
-Rolle (Censor, 2013)
+Legrange (Censor, 2013)
     formal:
         Let 
-            f(x) be continuous on [a,b]
+            f(𝑥) be continuous on [a,b]
             AND differentiable on (a,b),
-            such that f(a) = f(b).
         Then
             there exists a point c ∈ (a,b)
-            such that f'(c) = 0.
-    
+            such that: 
+                        f'(c) =  f(b) - f(a)
+                                -------------
+                                   b - a
     plain english:
 
     properties:

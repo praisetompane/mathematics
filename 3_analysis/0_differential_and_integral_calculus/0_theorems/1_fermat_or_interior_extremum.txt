@@ -1,7 +1,7 @@
 Fermat or Interior Extremum (Censor, 2013):
     formal:
         Let 
-            f(x) be defined on (a, b)
+            f(x) be defined on (a,b)
             AND let x₀ be a maximum or minimum point
                 at which f is differentiable.
         Then f'(x₀) = 0.
