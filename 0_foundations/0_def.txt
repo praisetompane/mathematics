@@ -1,3 +1,6 @@
+def mathematical logic:
+    field of study aimed at developing the foundations of mathematics.
+
 def foundations of mathematics (Kunen, 2007:5):
     - involves/uses the axiomatic method.
 

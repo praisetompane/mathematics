@@ -1,4 +1,4 @@
-def recursion theory (Kunen, 2007:9):
+def computability(recursion) theory (Kunen, 2007:9):
     theory of algorithms and computability.
 
     def decidability:
