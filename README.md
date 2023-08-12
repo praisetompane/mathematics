@@ -9,6 +9,11 @@ a formal classification scheme is maintained here:
 ## History:
 * https://history-of-mathematics.org/
 
+## Community:
+* https://aims.ac.za/
+* https://mathematicallogic.com
+* https://terrytao.wordpress.com/
+
 # References:
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 * Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
