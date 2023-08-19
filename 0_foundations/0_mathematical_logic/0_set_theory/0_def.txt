@@ -1,4 +1,5 @@
 def set theory:
+    study of the axioms from which we can derive all mathematics (Kunen, 2007:5).
 
 def hereditary set:
 

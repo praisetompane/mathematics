@@ -1,5 +1,58 @@
-def mathematical logic:
-    field of study aimed at developing the foundations of mathematics.
+def mathematical logic (Montalban, 2020):
+    studies the foundations of logic and formal systems.
+    goals:
+        - develop the foundations of mathematics using formal systems.
+
+def formal systems (Montalban, 2020): context to develop mathematics in a formal way.
+    components:
+        - language
+        - rules
+        - axioms
+        
+        def language: the means to create mathematical statements.
+            components:
+                - symbols
+                - grammar
+
+                def symbols: any printable(i.e. we can see) character.
+                    examples: { 0, 1, ×, +, ∈, ∨, ∧, ∃, ∀, (), ... }
+
+                    def vocabulary:
+                        0               := zero
+                        1               := one
+                        +               := plus
+                        ×               := times
+                        ∈               := belongs
+
+                    def logical symbols:
+                        fixed for first-order logic
+                        =               := equality
+                        ∧               := and
+                        ∨               := or
+                        ¬               := not
+                        ∃               := exists
+                        ∀               := forall
+                        x,y,z ...       := variable symbols
+                        (,)             := parenthesis
+
+                def grammar: how you can put the symbols together.
+
+        def rules: set of allowed logical steps.
+
+        def axioms: set of basic mathematical statements
+                        presumed to be true
+                            in this system.
+
+    use cases/value proposition:
+        - create a solid foundation for mathematics to:
+            - avoid paradoxes.
+        - formal systems can be studied in logic as mathematical objects which allows:
+            - studying mathematics(proofs, theorems, etc) using mathematics (i.e. meta mathematics)
+                example: Gödel’s theorem.
+        - computers can manipulate formal systems which allows:
+            - computer proof verification.
+            - computer-aided proof development.
+            - computer program verification.
 
 def foundations of mathematics (Kunen, 2007:5):
     - involves/uses the axiomatic method.
@@ -112,3 +165,4 @@ def foundations of mathematics (Kunen, 2007:5):
             
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf
