@@ -1,6 +1,11 @@
 # What is Mathematics?
 
-def: a formal language with precise and unambiguous definitions for its words(+,-,\*, π,e, etc.) and grammar ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
+def¹: mathematics is an art like music and painting (Lockhart, 2009: 3).
+
+def²: mathematics is about pure reason to get at the truth about something (Lockhart, 2009: 4).
+
+* the symbols are merely shorthands.
+     symbols such as ∧, ∨, +, ×, Σ.
 
 a formal classification scheme is maintained here: 
 * https://zbmath.org/classification/
@@ -8,15 +13,31 @@ a formal classification scheme is maintained here:
 
 ## History:
 * https://history-of-mathematics.org/
+* The history of mathematics: https://m.youtube.com/watch?v=2WcbPcGrQZU&pp=ygUnVGhlIEhJU1RPUlkgb2YgTUFUSEVNQVRJQ1MuIERvY3VtZW50YXJ5
+* https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
+
+## State of the art:
+Quanta Magazine: https://www.quantamagazine.org/mathematics/
 
 ## Community:
 * https://aims.ac.za/
 * https://mathematicallogic.com
 * https://terrytao.wordpress.com/
+* The South African Mathematical Society: http://www.sams.ac.za
+* Institute of Mathematics & its Applications: https://ima.org.uk
+* Mathematical Association of America: https://www.maa.org
+* American Mathematical Society: https://www.ams.org/mr-database
+* Clay Mathematics Institute: https://www.claymath.org/
+* https://mathoverflow.net/
+* https://math.stackexchange.com/
+* The African Mathematical Society https://aims.ac.za# mathematics
+
+## Mathematicians:
 
 # References:
 * Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 * Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
+* Lockhart, P. 2009. A Mathematician's Lament.
 
 # Legend:
 **Q**: Question for later research
