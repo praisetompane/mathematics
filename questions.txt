@@ -1,0 +1,2 @@
+Q: do any pair of numbers have a common multiple?
+    I want the proof of this or is it an axiom in current mathematics?

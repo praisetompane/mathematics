@@ -1,7 +1,6 @@
 def proof theory (Kunen, 2007:7):
     studies the structure of formal proofs.
 
-<<<<<<< HEAD
 def proof (Montalban, 2020):
     an argument
         that uses logical steps
@@ -10,11 +9,7 @@ def proof (Montalban, 2020):
 
     logical steps = rules
 
-
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
     Montalban, A. Math 125A -- Mathematical Logic. https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ.
-=======
-References:
-    Kunen, K. 2007. The Foundations of Mathematics.
->>>>>>> 413162c (docs(0_mathematical_logic):)
+
