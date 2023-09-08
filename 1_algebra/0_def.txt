@@ -1,4 +1,6 @@
-def algebra: field in mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers (Censor, 2015).
+def: a field about number and symmetry (Lockhart, 2009:8).
+
+def: a field in which we perform calculations with things that are not necessarily(i.e. not always) numbers (Censor, 2015).
     example:
         ax² + bx + c = 0
             this is a calculation that has variables(x), parameters(a,b) and a number(0)
@@ -6,7 +8,7 @@ def algebra: field in mathematics in which we perform calculations with things t
             this is a calculation that has variables(y, x) and parameter(m)
     plain english:
         studies mathematical objects and the rules for manipulating them.
-        
+
 def expression:
     a sentence
 
