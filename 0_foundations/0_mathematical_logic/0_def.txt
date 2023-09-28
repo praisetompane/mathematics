@@ -3,7 +3,19 @@ def mathematical logic (Montalban, 2020):
     goals:
         - develop the foundations of mathematics using formal systems.
 
-def formal systems (Montalban, 2020): context to develop mathematics in a formal way.
+def formal systems (Montalban, 2020):
+    context to develop mathematics in a formal way.
+
+    use cases/value proposition:
+        - have solid foundation for mathematics to:
+            - avoid paradoxes.
+        - can be studied in logic as mathematical objects which allows:
+            - studying mathematics(proofs, theorems, etc) using mathematics (i.e. meta mathematics)
+                example: Gödel’s theorem.
+        - computers can manipulate formal symbols which allows:
+            - computer proof verification.
+            - computer aided proof development.
+            - computer program verification.
     components:
         - language
         - rules
