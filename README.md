@@ -1,5 +1,7 @@
 # What is Mathematics?
 
+objective: an attempt at unpacking in layman's terms what mathematics is.
+
 def¹: mathematics is an art like music and painting (Lockhart, 2009: 3).
 
 def²: mathematics is about pure reason to get at the truth about something (Lockhart, 2009: 4).
