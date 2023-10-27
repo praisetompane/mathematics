@@ -1,0 +1,124 @@
+purpose: understand mathematics and create mathematics
+
+priority:
+    field update 
+    study
+
+field update:
+    https://www.quantamagazine.org/mathematics/
+    Institute of Mathematics & its Applications:  https://ima.org.uk : browse what is happening in mathematics.
+
+study:        
+    origins and history: why was mathematics created? what is mathematics? how is mathematics done?: 1 hour
+        degree module: n/a
+        readings:
+            - a mathematician’s lament. paul lockhart
+                - current position: pg. 1
+
+            - a mathematician’s apology. g. h. hardy
+                - current position: not started
+            
+            - what is mathematics?. richard courant.pdf
+                - current position: not started
+
+            - a course in pure mathematics. g. h. hardy
+                - current position: not started
+        videos:   
+            - The HISTORY of MATHEMATICS. Documentary: https://www.youtube.com/watch?v=2WcbPcGrQZU&t=1s  
+            - MathHistory: A course in the History of Mathematics: https://m.youtube.com/playlist?list=PL55C7C83781CF4316
+            - Six: An Elementary Course in Pure Mathematics. Dr N J Wildberger: https://www.youtube.com/watch?v=zrt0EKuGr5Q&list=PLzdiPTrEWyz4KD007Ge10dfrDVc4YwlYS&pp=iAQB
+        readings:
+        recitations:
+        assignments:
+        exams: 
+
+    elementary_mathematics: 1 hour
+        degree module: n/a
+        videos: 
+            - Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
+        readings:
+            - kent fundamentals of mathematics i
+                - current position: pg. 22: example 3
+
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
+
+            - kent fundamentals of mathematics ii
+                - current position: not started
+
+            - kent fundamentals of mathematics iii
+                - current position: not started
+                
+            - kent fundamentals of mathematics iv
+                - current position: not started
+        recitations:
+        assignments:
+        exams: 
+    
+    0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?: 1 hour
+        - mathematical logic: /3_mathematics/0_foundations/0_mathematical_logic
+            degree module: n/a
+            videos:
+                - mathematical_logic_math_125a
+                        - current position: 1 introduction to mathematical logic.mp4: 07:40
+
+                - intro_to_set_theory_math_135
+                        - current position: not started
+
+            readings:
+                a concise introduction to mathematical logic. wolfgang rautenberg
+                    - current position: not started
+
+                the foundations of mathematics. kenneth kunen:
+                    - current position: page 13, section 1.2: r1
+
+            recitations:
+            assignments:
+            exams:
+
+    1_algebra: 1 hour
+        - abstract algebra: /3_mathematics/1_algebra
+            degree module: unisa mat3702 | mit 18.701 | mit 18.702
+            videos: 
+                - technion_algebra_1m/05 - complex numbers.mp4
+                    current position: 00:00
+            readings:
+            recitations:
+            assignments:
+            exams: 
+
+    2_geometry: 1 hour
+        degree module: unisa mat3702 | mit 18.701 | mit 18.702
+        videos: 
+            - technion_algebra_1m/05 - complex numbers.mp4
+                current position: 00:00
+        readings:
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        recitations:
+        assignments:
+        exams: 
+
+    3_analysis: 1 hour       
+        - differential and integral calculus: 1 hour 
+            degree module: unisa mat1512 | mit 18.03 | mit 18.032 (formerly 18.034)
+            videos:     
+                - ./library/differential_and_integral_calculus_1
+                    - current position: calculus - 01.mp4: 10:59
+
+                - ./library/differential_and_integral_calculus_single_variable_mit_18.01_fall_2006
+                    - current position: lec 1  mit 1801 single variable calculus fall 2007.mp4: 10:56
+
+                - ./library/differential_and_integral_calculus_3blue1brown
+                    - current position: not started
+            readings:
+                - what is mathematics?. richard courant.pdf : chapter vi, viii
+            recitations:
+            assignments:
+            exams:
+==============================================================================================
+timeline:
+    see .plan.txt
+
+legend:
+    *: visited today/last session
+        nb: all subjects must be visited before a repeat visit.
