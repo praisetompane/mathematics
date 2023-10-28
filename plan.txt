@@ -213,44 +213,6 @@ BSc Honours Mathematics:
                     notes: 1_algebra/2_field
 
 Research in Mathematics:
-    https://www.youtube.com/watch?v=6aD-PggFODA
-
-    Before proceeding, attempt to create small(or big) NEW mathematics.
-    This is to test if you will be able to contribute to the field
-        or will only learn and follow the teaching route.
-    
-    NB: Even if you don't, you can proceed since you are also learning purely for interest.
-
-    Flow:
-        Meet with supervisor everyday over tea/coffee.
-        Share what has happened in the research.
-        NB: You drive the conversation.
-
-    Characteristics:
-        Intelligent(literate)
-        Strive to understand the deepest principles(axioms) behind a concept.
-
-    Masters Mathematics
-        20xx-January-01 - 20xx-December-31 [Max 3 years + 1 additional]
-            UNISA - MSc Mathematics
-                program: https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Mathematics-(98977)
-                research topics: https://www.unisa.ac.za/static/corporate_web/Content/Apply%20for%20admission/MD/Documents/Unisa-College-Science-Engineering-Technology-research-focus-areas-updated-2023.pdf
-                
-                DFMAT91 - Dissertation: Mathematics                     Pre-requisite: MPSET93
-
-    PhD Mathematics: 
-        20xx-January-01 - 20xx-December-31 [Max 6 years + 1 additional]
-            UNISA - PhD Mathematics
-                program: https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Doctor-of-Philosophy-in-Mathematics-(98979)
-                TFMAT01 - Thesis: Mathematics 	                        Pre-requisite: MPSET93
-
-                Why do it? Found an area of Mathematics I am interested in and have reached the limits of 
-                what we know in that area.
-                Decide to push past those limits and expand what we know.
-                Present results back to other Mathematicians.
-
-History:
-    https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
 
 Insights into Mathematics:
     * how do you craft the explanations/proofs?
