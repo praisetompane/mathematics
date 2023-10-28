@@ -1,5 +1,4 @@
 def multiply(factor_1, factor_2):
-
     def result_sign(sum):
         if factor_1 < 0 and factor_2 < 0:  # Signs the same
             return sum
@@ -17,5 +16,5 @@ def multiply(factor_1, factor_2):
 print(multiply(+1, +2))  # 2
 print(multiply(-1, +2))  # -2
 print(multiply(-1, -2))  # 2
-print(multiply(-2, -2))  #4
+print(multiply(-2, -2))  # 4
 print(multiply(-7, -20))  # 140

@@ -4,8 +4,10 @@
 
 """
 
+
 def invert_point(pi, pj, qx, qy):
-    return [2*qx - pi, 2*qy - pj]
+    return [2 * qx - pi, 2 * qy - pj]
+
 
 """
 References:
