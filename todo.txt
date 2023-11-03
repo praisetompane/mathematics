@@ -9,14 +9,23 @@ priority:
         - readings:            
             - what is mathematics?. richard courant.pdf
                 - current position: not started
+            - kent fundamentals of mathematics i
+                - current position: pg. 22: example 3
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
+            - kent fundamentals of mathematics ii
+                - current position: not started
+            - kent fundamentals of mathematics iii
+                - current position: not started
+            - kent fundamentals of mathematics iv
+                - current position: not started
             - a course in pure mathematics. g. h. hardy
                 - current position: not started
             - a mathematician’s apology. g. h. hardy
                 - current position: not started
         - videos:    
-            - MathHistory: A course in the History of Mathematics: https://m.youtube.com/playlist?list=PL55C7C83781CF4316
-            - Six: An Elementary Course in Pure Mathematics. Dr N J Wildberger: https://www.youtube.com/watch?v=zrt0EKuGr5Q&list=PLzdiPTrEWyz4KD007Ge10dfrDVc4YwlYS&pp=iAQB
-        - readings:
+            - Dr N J Wildberger. MathHistory: A course in the History of Mathematics: https://m.youtube.com/playlist?list=PL55C7C83781CF4316
+            - Dr N J Wildberger. Six: An Elementary Course in Pure Mathematics: https://www.youtube.com/watch?v=zrt0EKuGr5Q&list=PLzdiPTrEWyz4KD007Ge10dfrDVc4YwlYS&pp=iAQB
         - recitations:
         - assignments:
         - exams: 
@@ -28,6 +37,8 @@ priority:
                         - current position: 1 introduction to mathematical logic.mp4: 07:40
                 - intro_to_set_theory_math_135
                         - current position: not started
+                - Prof.Arindama Singh. Mathematics - Mathematical Logic. https://www.youtube.com/playlist?list=PL2EB5662A0D455A81
+                - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
             - readings:
                 - a concise introduction to mathematical logic. wolfgang rautenberg
                     - current position: not started
@@ -49,8 +60,6 @@ priority:
     - 2_geometry: 1 hour
         - degree module: unisa mat3702 | mit 18.701 | mit 18.702
         - videos: 
-            - technion_algebra_1m/05 - complex numbers.mp4
-                current position: 00:00
         - readings:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - recitations:
@@ -73,27 +82,10 @@ next:
                     - current position: not started
             - readings:
                 - what is mathematics?. richard courant.pdf : chapter vi, viii
+                - differential and integral calculus.richard courant
             - recitations:
             - assignments:
             - exams:
-    - elementary_mathematics: 1 hour
-        - degree module: n/a
-        - videos: 
-            - Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
-        - readings:
-            - kent fundamentals of mathematics i
-                - current position: pg. 22: example 3
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade
-            - kent fundamentals of mathematics ii
-                - current position: not started
-            - kent fundamentals of mathematics iii
-                - current position: not started
-            - kent fundamentals of mathematics iv
-                - current position: not started
-        - recitations:
-        - assignments:
-        - exams:
 - next field template
     - next_field: 1 hour
         - degree module:

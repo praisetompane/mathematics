@@ -1,3 +1,28 @@
+def arithmetic:
+    formal(Courant, Robbins, 1941:1-2):
+
+        in words:
+            the mathematical theory of natural numbers or positive integers (i.e. ℕ).
+
+            fundamental lows(axioms) of arithmetic:
+                a,b,c ∈ : a,b,c are positive numbers
+                1. a + b = b + a                : commutativity of addition
+                2. a × b = b × a                : commutativity of multiplication
+                3. a + (b + c) = (a + b) + c    : associativity of addition
+                4. a × (b × c) = (a × b) × c    : associativity of multiplication
+                5. a × (b + c) = a×b + a×c      : distributivity of addition and multiplication
+
+    plain english:
+
+    intuition:
+
+    examples:
+        
+
 def Peano axioms: TBD
 
 def fundamental theorem of arithmetic: TBD
+
+
+References:
+    Courant, R, Robbins, H. 1941. What is Mathematics?. 2nd ed.Oxford university Press.
