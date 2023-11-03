@@ -1,0 +1,15 @@
+def Langlands program (Frenkel): 
+    "continents" of mathematics²
+        * Number Theory: Explains numbers
+        * Harmonic Theory: Explains Harmonics/Waves
+        * Geometry: Explains the intrinsic shapes of mathematical objects
+
+def symmetry:
+    transformations that preserve
+        shape and position of an object.
+    - examples:
+        - sphere: ∞ symmetries
+        - square: 90°, 180°, 270°, 360° rotations.
+
+References:
+    Frenkel, E. https://worldscienceu.com/lessons/1-1-the-continents-of-mathematics-video/

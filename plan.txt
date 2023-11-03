@@ -20,7 +20,7 @@ BSc Mathematics:
                             PHY1505 - Mechanics (Physics)
                             EUP1501 - Ethical Information and Communication Technologies for Development Solutions
                 
-                2026-January-01 - 2026-December-31:
+                20xx-January-01 - 20xx-December-31:
                     Second Level:
                         Year Module (4 - 6 hours each per week)
                             MAT2611 - Linear Algebra 2                                      Pre-requisite:MAT1503
@@ -57,44 +57,6 @@ BSc Mathematics:
                             APM3713 - Special Relativity and Riemannian Geometry 	        Pre-requisite:MAT2615
                             MAT3701 - Linear Algebra III 	                                Pre-requisite:MAT2611
 
-                ==============================================================================================================================================================
-                Content:
-                    MAT1503 - Linear Algebra I:
-                        notes: 1_algebra/5_matrices
-                        resources:
-                            https://www.khanacademy.org/math/linear-algebra
-                            https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
-                            https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Linear-Algebra-–-MAT1503    
-                    MAT1512 - Calculus A:
-                        notes: 3_analysis/0_calculus
-                        resources: 
-                            3_mathematics/differential_and_integral_calculus_1
-                            https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
-                            https://www.khanacademy.org/math/calculus-1
-                            https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-                            * Deeper:
-                                https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
-                    COS1501 - Theoretical Computer Science I:
-                        notes: 4_computation/0_theory_of_computation
-                        resources: 
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Theoretical-Computer-Science-I-–-COS1501
-                            https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
-                    COS1511 - Introduction to Programming I: GET EXEMPTION
-                        notes: 4_computation/5_software_and_its_engineering/1_software_notations_and_tools/1_general_programming_languages
-                        resources:
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Introduction-to-Programming-I-–-COS1511
-
-                    APM1513 - Applied Linear Algebra
-                    MAT1613 - Calculus B
-                    APM1514 - Mathematical Modelling
-                    PHY1505 - Mechanics (Physics)
-                    EUP1501 - Ethical Information and Communication Technologies for Development Solutions
-                    MAT3702 - Abstract Algebra
-                        notes: 1_algebra
-                        resources:
-                            https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28V   uDAHJNrf3JCgT0GG_rjFVz0-j9
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Abstract-Algebra-–-MAT3702             
             ==============================================================================================================================================================
             MIT - Undergraduate BSC Mathematics:
                 program: http://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
@@ -142,24 +104,9 @@ BSc Mathematics:
                             - 'core'/abstract Mathematics that underpins/describes everything in Mathematics
                                 - algebra, number theory, category theory
                     
-                ==============================================================================================================================================================
-                Content:
-                    18.03 or 18.032 (formerly 18.034) (Differential Equations)
-                        prerequisites:
-                            18.01
-                                notes: 3_analysis/0_calculus
-                                resources: 
-                                    https://www.khanacademy.org/math/calculus-1
-                                    https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-                                    /Users/praisetompane/Documents/library/3_mathematics/1801_single_variable_calculus_fall_2006
-                            18.02
-                    18.701 (Algebra I)
-                        notes: 1_algebra
-                        resources: 
-                            https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/
-                            Technion: Algebra 1M
-                                .../library/.../technion_algebra_1M
-
+            ==============================================================================================================================================================
+            UCT: Undergraduate BSC Mathematics (Pure Mathematics)
+                program: https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
 BSc Honours Mathematics:
     20xx-January-01 - 20xx-December-31:
         UNISA - BSc Honours Mathematics
@@ -213,28 +160,7 @@ BSc Honours Mathematics:
                     notes: 1_algebra/2_field
 
 Research in Mathematics:
-
-Insights into Mathematics:
-    * how do you craft the explanations/proofs?
-        inspiration,  experience, trial and error, dumb luck (Lockhart, 2009: 4).
-
-    * " It’s not at all like science. There’s no 
-        experiment I can do with test tubes and equipment and whatnot that will tell me the truth about a 
-        figment of my imagination.  The only way to get at the truth about our imaginations is to use our 
-        imaginations, and that is hard work.    " - (Lockhart, 2009: 4)
-
-    def mathematician:
-        "A mathematician, like a painter or poet, is a  maker 
-        of patterns.  If his patterns are more permanent than 
-        theirs, it is because they are made with ideas." - G.H. Hardy
-
-        "So we get to play and imagine whatever we want and make patterns and ask questions about 
-    them."  - Lockhart, 2009: 4
-
-    Quotes:
-        "This is a major theme in mathematics: things are what you want them to 
-        be. You have endless choices; there is no reality to get in your way. " - Lockhart, 2009: 4
-
+    - ...
 
 course content template:
     readings:
