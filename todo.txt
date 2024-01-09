@@ -4,6 +4,7 @@ priority:
     - study
     - field update 
 - study:
+    - https://www.youtube.com/watch?v=didXE0HkSC8
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
@@ -40,9 +41,8 @@ priority:
             - MIT 18.01 Single Variable Calculus, 2006:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLpXfHEl2fzl6zCsNWhgdXLK6R-Yh2oUHG
-            - extras:
-                - https://www.khanacademy.org/math/calculus-1
-                - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+            - https://www.khanacademy.org/math/calculus-1
+            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
         - readings:
             - https://robertvirona.com/differential-equations-vs-calculus/
             - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
@@ -51,7 +51,7 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?: 
+    - computation/0_foundations:
         - degree module: UNISA COS1501
             - Purpose: To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
             This background is relevant to relational databases, the development of provably correct programs, and the analysis of algorithms. 
@@ -59,23 +59,16 @@ priority:
             - MIT 6.042J Mathematics For Computer Science
                 - in offline library
                 - playlist: https://www.youtube.com/playlist?list=PLB7540DEDD482705B
-            - MIT 18.404J Theory of Computation, Fall 2020:
-                - in offline library
-                - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
-            - Noson S. Yanofsky Theoretical Computer Science:
-                - in offline library
-                - playlist: https://www.youtube.com/watch?v=OS33r2Fk8YQ&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X
         - readings: 
             - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
                 - current position: pg. 6, exercise 1.1, question 4
             - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
-            - introduction_to_the_theory_of_computation_third_edition._michael_sipser.cengage_learning.pdf
-                - current position: Not Started
-            - Stanford Encyclopedia of Philosophy. The Church-Turing Thesis. https://plato.stanford.edu/entries/church-turing/.
-                - current position: Forgot => Start Over => Not Started
         - recitations:
         - assignments:
         - exams:
+    - practice mathematics:
+        - book problems
+        - khanacademy problems
 - field update:
     - https://www.quantamagazine.org/mathematics/
     - Institute of Mathematics & its Applications
@@ -153,6 +146,49 @@ next:
             - https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
         - assignments:
         - exams:
+    - linear algebra:
+        - degree module: UNISA MAT2611
+            - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
+             eigenvalues and eigenvectors, diagonalisation of matrices, orthogonality in Rn, 
+             Gram-Schmidt algorithm, orthogonal diagonalisation of symmetric matrices, 
+             linear transformations, change of basis and their matrix representations.
+            - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices - 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+    - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:     
+        - degree module: UNISA COS2601
+            - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint. 
+                Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and 
+                Mealy machines, transition graphs, the pumping lemma and decision problems.        - videos:
+            - MIT 18.404J Theory of Computation, Fall 2020:
+                - in offline library
+                - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+            - Noson S. Yanofsky Theoretical Computer Science:
+                - in offline library
+                - playlist: https://www.youtube.com/watch?v=OS33r2Fk8YQ&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X
+        - readings: 
+            - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
+            - introduction_to_the_theory_of_computation_third_edition._michael_sipser.cengage_learning.pdf
+                - current position: Not Started
+            - Stanford Encyclopedia of Philosophy. The Church-Turing Thesis. https://plato.stanford.edu/entries/church-turing/.
+                - current position: Forgot => Start Over => Not Started
+        - recitations:
+        - assignments:
+        - exams:
+    - ...
     - 1_algebra: 
         - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
         - videos: 
