@@ -43,6 +43,7 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 ## Mathematicians:
 - https://terrytao.wordpress.com/
 - https://njwildberger.com
+- https://www.math.columbia.edu/~woit/wordpress/
 
 # References:
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
