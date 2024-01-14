@@ -1,6 +1,0 @@
-number sets:
-    ℕ := set of natural numbers
-    ℤ⁺:= set of positive integers
-    ℤ := set of integers
-    ℝ := Real Numbers
-    ℚ := Rational Numbers

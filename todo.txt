@@ -3,12 +3,221 @@ purpose: understand mathematics.
 priority:
     - study
     - field update 
-- study:        
-    - origins and history: why was mathematics created? what is mathematics? how is mathematics done?: 1 hour
+- study:
+    - https://www.youtube.com/watch?v=didXE0HkSC8
+    - linear algebra:
+        - degree module: UNISA MAT1503
+            - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
+             non-homogeneous and homogeneous systems of linear equations, Gaussian and Jordan-Gauss elimination, matrices and matrix operations, 
+             elementary determinants by cofactor expansion, inverse of matrix using the adjoint, Cramer's rule, 
+             evaluating determinants using row/column reduction, properties of the determinant function, vectors in 2- , 3- and n- space, 
+             dot product, projections, cross product, areas of parallelograms and volumes of parallelepipeds determined by vectors, 
+             lines and planes in 3-space and complex numbers.
+        - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices - 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+    - 3_analysis: 
+        - degree module: UNISA MAT1512
+            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical, 
+            life and economic sciences. Some simple applications are covered. 
+            More advanced techniques and further applications are dealt with in module MAT1613.
+        - videos:     
+            - Technion Differential and Integral Calculus 1:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+            - MIT 18.01 Single Variable Calculus, 2006:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLpXfHEl2fzl6zCsNWhgdXLK6R-Yh2oUHG
+            - https://www.khanacademy.org/math/calculus-1
+            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+        - readings:
+            - https://robertvirona.com/differential-equations-vs-calculus/
+            - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - what is mathematics?. richard courant.pdf : chapter vi, viii
+            - differential and integral calculus.richard courant
+        - recitations:
+        - assignments:
+        - exams:
+    - computation/0_foundations:
+        - degree module: UNISA COS1501
+            - Purpose: To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
+            This background is relevant to relational databases, the development of provably correct programs, and the analysis of algorithms. 
+        - videos:
+            - MIT 6.042J Mathematics For Computer Science
+                - in offline library
+                - playlist: https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+        - readings: 
+            - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
+                - current position: pg. 6, exercise 1.1, question 4
+            - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
+        - recitations:
+        - assignments:
+        - exams:
+    - practice mathematics:
+        - book problems
+        - khanacademy problems
+- field update:
+    - https://www.quantamagazine.org/mathematics/
+    - Institute of Mathematics & its Applications
+==============================================================================================
+next:
+    - linear algebra:
+        - degree module: UNISA APM1513
+            - Purpose: To enable students to master and apply the following aspects of the numerical solution of systems of linear equations: 
+                    the method of least squares; linear programming (simplex method); 
+                    eigenvalues, eigenvectors, diagonalisation as well as some miscellaneous applications.        
+            - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices - 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+    - 3_analysis: 
+        - degree module: UNISA MAT1613
+            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical, 
+            life and economic sciences. Some simple applications are covered. 
+            More advanced techniques and further applications are dealt with in module MAT1613.
+        - videos:     
+            - Technion Differential and Integral Calculus 1:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+            - MIT 18.01 Single Variable Calculus, 2006:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLpXfHEl2fzl6zCsNWhgdXLK6R-Yh2oUHG
+            - extras:
+                - https://www.khanacademy.org/math/calculus-2
+                - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+        - readings:
+            - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - what is mathematics?. richard courant.pdf : chapter vi, viii
+            - differential and integral calculus.richard courant
+        - recitations:
+        - assignments:
+        - exams:
+    - Mathematical Modelling
+        - degree module: APM1514
+            - Purpose: To enable students to demonstrate a basic understanding of solution, equilibrium points and 
+            stability of difference equations and first order differential equations; applications to population models; 
+            harvesting strategies; epidemics; economics and other situations; simple optimization and applications.
+        - videos:
+            - DelftX: Modelling with Differential Equations
+                - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
+            - https://www.coursera.org/specializations/precalculus-data-modelling#courses
+        - readings:
+            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/ 
+        - assignments:
+        - exams:
+    - Mechanics (Physics)
+        - degree module: PHY1505
+            - Purpose: Vectors, static equilibrium, uniformly accelerated motion Newton's laws, work and energy, 
+            momentum, motion in a circle, rotational motion, mechanical properties of matter, vibrations.
+        - videos:
+            - MIT 8.01x - MIT Physics I: Classical Mechanics
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
+            - RICEx: Mechanics, Part 1:
+                - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-1?index=product&queryID=30ad8fa66108b51ebeb3545de3fa66a1&position=3&linked_from=autocomplete&c=autocomplete
+            - RICEx: Mechanics, Part 2:
+                - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-2?index=product&queryID=65d11aac9b6986591a096584ef1f5373&position=2&linked_from=autocomplete&c=autocomplete
+        - readings: 
+            - https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
+        - assignments:
+        - exams:
+    - linear algebra:
+        - degree module: UNISA MAT2611
+            - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
+             eigenvalues and eigenvectors, diagonalisation of matrices, orthogonality in Rn, 
+             Gram-Schmidt algorithm, orthogonal diagonalisation of symmetric matrices, 
+             linear transformations, change of basis and their matrix representations.
+            - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices - 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+    - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:     
+        - degree module: UNISA COS2601
+            - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint. 
+                Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and 
+                Mealy machines, transition graphs, the pumping lemma and decision problems.        - videos:
+            - MIT 18.404J Theory of Computation, Fall 2020:
+                - in offline library
+                - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
+            - Noson S. Yanofsky Theoretical Computer Science:
+                - in offline library
+                - playlist: https://www.youtube.com/watch?v=OS33r2Fk8YQ&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X
+        - readings: 
+            - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
+            - introduction_to_the_theory_of_computation_third_edition._michael_sipser.cengage_learning.pdf
+                - current position: Not Started
+            - Stanford Encyclopedia of Philosophy. The Church-Turing Thesis. https://plato.stanford.edu/entries/church-turing/.
+                - current position: Forgot => Start Over => Not Started
+        - recitations:
+        - assignments:
+        - exams:
+    - ...
+    - 1_algebra: 
+        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+        - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+        - readings:
+            - hhttps://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/readings/
+            - https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/readings/
+        - recitations:
+        - assignments:
+        - exams:
+    - 2_geometry: 
+        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+        - videos: 
+        - readings:
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - recitations:
+        - assignments:
+        - exams: 
+    - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
-        - readings:            
-            - what is mathematics?. richard courant.pdf
+        - videos:
+            - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
+        - readings:
+            - a concise introduction to mathematical logic. wolfgang rautenberg
                 - current position: not started
+            - the foundations of mathematics. kenneth kunen:
+                - current position: page 13, section 1.2: r1
             - kent fundamentals of mathematics i
                 - current position: pg. 22: example 3
             - https://www.khanacademy.org/math/k-8-grades
@@ -18,76 +227,23 @@ priority:
             - kent fundamentals of mathematics iii
                 - current position: not started
             - kent fundamentals of mathematics iv
-                - current position: not started
-            - a course in pure mathematics. g. h. hardy
-                - current position: not started
-            - a mathematician’s apology. g. h. hardy
-                - current position: not started
-        - videos:    
-            - Dr N J Wildberger. MathHistory: A course in the History of Mathematics: https://m.youtube.com/playlist?list=PL55C7C83781CF4316
-            - Dr N J Wildberger. Six: An Elementary Course in Pure Mathematics: https://www.youtube.com/watch?v=zrt0EKuGr5Q&list=PLzdiPTrEWyz4KD007Ge10dfrDVc4YwlYS&pp=iAQB
-            - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
+                - current position: not started 
         - recitations:
         - assignments:
-        - exams: 
-    - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?: 1 hour
-        - mathematical logic: /3_mathematics/0_foundations/0_mathematical_logic
-            - degree module: n/a
-            - videos:
-                - mathematical_logic_math_125a
-                        - current position: 1 introduction to mathematical logic.mp4: 07:40
-                - intro_to_set_theory_math_135
-                        - current position: not started
-                - Prof.Arindama Singh. Mathematics - Mathematical Logic. https://www.youtube.com/playlist?list=PL2EB5662A0D455A81
-            - readings:
-                - a concise introduction to mathematical logic. wolfgang rautenberg
-                    - current position: not started
-                - the foundations of mathematics. kenneth kunen:
-                    - current position: page 13, section 1.2: r1
-            - recitations:
-            - assignments:
-            - exams:
-    - 1_algebra: 1 hour
-        - abstract algebra: /3_mathematics/1_algebra
-            - degree module: unisa mat3702 | mit 18.701 | mit 18.702
-            - videos: 
-                - technion_algebra_1m/05 - complex numbers.mp4
-                    current position: 00:00
-            - readings:
-            - recitations:
-            - assignments:
-            - exams: 
-    - 2_geometry: 1 hour
-        - degree module: unisa mat3702 | mit 18.701 | mit 18.702
-        - videos: 
-        - readings:
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - exams:
+    - origins and history: why was mathematics created? what is mathematics? how is mathematics done?: 
+        - degree module: n/a
+        - videos:
+            - Insights into Mathematics MathHistory: A course in the History of Mathematics:
+                - in offline library    
+                - https://m.youtube.com/playlist?list=PL55C7C83781CF4316
+        - readings:            
+            - what is mathematics?. richard courant.pdf
+                - current position: not started
         - recitations:
         - assignments:
-        - exams: 
-- field update:
-    - https://www.quantamagazine.org/mathematics/
-    - Institute of Mathematics & its Applications
-==============================================================================================
-next:
-    - 3_analysis: 1 hour       
-        - differential and integral calculus: 1 hour 
-            degree module: unisa mat1512 | mit 18.03 | mit 18.032 (formerly 18.034)
-            videos:     
-                - ./library/differential_and_integral_calculus_1
-                    - current position: calculus - 01.mp4: 10:59
-                - ./library/differential_and_integral_calculus_single_variable_mit_18.01_fall_2006
-                    - current position: lec 1  mit 1801 single variable calculus fall 2007.mp4: 10:56
-                - ./library/differential_and_integral_calculus_3blue1brown
-                    - current position: not started
-            - readings:
-                - what is mathematics?. richard courant.pdf : chapter vi, viii
-                - differential and integral calculus.richard courant
-            - recitations:
-            - assignments:
-            - exams:
-- next field template
-    - next_field: 1 hour
+        - exams:
+    - next field template:
         - degree module:
         - videos:
         - readings: 
