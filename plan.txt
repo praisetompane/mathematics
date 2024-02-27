@@ -9,7 +9,7 @@ BSc Mathematics:
                             MAT1503 - Linear Algebra I
                             MAT1512 - Calculus A
                             COS1501 - Theoretical Computer Science I 
-                            COS1511 - Introduction to Programming I - GET EXEMPTION
+                            COS1511 - Introduction to Programming I                         - Done -  GET EXEMPTION
                 
                 20xx-January-01 - 20xx-December-31:
                     First Level: 
@@ -142,24 +142,10 @@ BSc Mathematics:
                             - 'core'/abstract Mathematics that underpins/describes everything in Mathematics
                                 - algebra, number theory, category theory
                     
-                ==============================================================================================================================================================
-                Content:
-                    18.03 or 18.032 (formerly 18.034) (Differential Equations)
-                        prerequisites:
-                            18.01
-                                notes: 3_analysis/0_calculus
-                                resources: 
-                                    https://www.khanacademy.org/math/calculus-1
-                                    https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-                                    /Users/praisetompane/Documents/library/3_mathematics/1801_single_variable_calculus_fall_2006
-                            18.02
-                    18.701 (Algebra I)
-                        notes: 1_algebra
-                        resources: 
-                            https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/
-                            Technion: Algebra 1M
-                                .../library/.../technion_algebra_1M
-
+            ==============================================================================================================================================================
+            UCT: Undergraduate BSC Mathematics (Pure Mathematics)
+                program: https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
+                
 BSc Honours Mathematics:
     20xx-January-01 - 20xx-December-31:
         UNISA - BSc Honours Mathematics
