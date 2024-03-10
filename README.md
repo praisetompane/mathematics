@@ -45,6 +45,19 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 - https://njwildberger.com
 - https://www.math.columbia.edu/~woit/wordpress/
 
+## git conventions:
+- **NB:** the master is locked and all changes must come through a Pull Request.
+- commit messages:
+    - provide concise commit messages that describe what you have done.
+        ```shell
+        # example:
+        git commit -m "feat(core): algorithm" -m"implement my new shiny faster algorithm"
+        ```
+    - screen shot of Githb view
+    - references: 
+        - https://www.conventionalcommits.org/en/v1.0.0/
+        - https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
+        
 # References:
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 - Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
