@@ -4,7 +4,6 @@ priority:
     - study
     - field update 
 - study:
-    - https://www.youtube.com/watch?v=didXE0HkSC8
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
@@ -16,7 +15,7 @@ priority:
         - videos: 
             - Technion Algebra 1M:
                 - in offline library
-                - lecture 11 - Matrices - 42 -  Determinants
+                - lecture 11 - Matrices to 42 -  Determinants
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
             - MIT 18.06 Linear Algebra, Spring 2005:
                 - in offline library
@@ -51,7 +50,7 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - computation/0_foundations:
+    - computer_science/0_foundations:
         - degree module: UNISA COS1501
             - Purpose: To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
             This background is relevant to relational databases, the development of provably correct programs, and the analysis of algorithms. 

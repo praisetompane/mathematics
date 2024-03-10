@@ -9,7 +9,7 @@ BSc Mathematics:
                             MAT1503 - Linear Algebra I
                             MAT1512 - Calculus A
                             COS1501 - Theoretical Computer Science I 
-                            COS1511 - Introduction to Programming I - GET EXEMPTION
+                            COS1511 - Introduction to Programming I                         - Done -  GET EXEMPTION
                 
                 20xx-January-01 - 20xx-December-31:
                     First Level: 
@@ -107,6 +107,7 @@ BSc Mathematics:
             ==============================================================================================================================================================
             UCT: Undergraduate BSC Mathematics (Pure Mathematics)
                 program: https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
+                
 BSc Honours Mathematics:
     20xx-January-01 - 20xx-December-31:
         UNISA - BSc Honours Mathematics
