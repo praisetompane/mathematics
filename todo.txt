@@ -4,7 +4,6 @@ priority:
     - study
     - field update 
 - study:
-    - https://www.youtube.com/watch?v=didXE0HkSC8
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
