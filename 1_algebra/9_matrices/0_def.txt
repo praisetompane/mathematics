@@ -1,0 +1,51 @@
+def¹: a chart of elments 
+        arranged in
+            rows and columns (Censor, 2015):
+
+    example:
+        A = ( 
+              1  0 π 
+              √2 𝑖 -3    
+            )
+
+        A is a matrix over ℂ
+
+    
+    general form:
+        A = (
+              a₁₁ a₁₂ a₁₃ ... a₁ₙ
+              a₂₁ a₂₂ a₂₃ ... a₂ₙ
+              a₃₁ a₃₂ a₃₃ ... a₃ₙ
+              .    .   .       .
+              .    .   .       .
+              .    .   .       .
+              aₘ₁  aₘ₂ aₘ₃ ...  aₘₙ 
+            )
+        
+        notation:
+            - aᵢⱼ is the entry in:
+                - row i
+                - column j
+                of the matrix
+            - A = Aₘₓₙ = (aᵢⱼ)
+                - matrix A has m rows AND n columns
+            - A ∈ Mₘₓₙ(ℂ)
+                - Mₘₓₙ = family of m × n matrices
+                - Mₘₓₙ(ℂ) = family of m × n matrices over the Complex Numbers
+                ∴ A ∈ Mₘₓₙ(ℂ) = A is a member of m × n matrices over the Complex Numbers
+            - if m = n, then
+                A ∈ Mₙ(ℂ)
+                - Mₙ = shorthand for Mₙₓₙ
+
+            - concepts:
+                - size of matrix: m × n
+                    - m = number of rows
+                    - n = number of columns
+                - square matrix: A = Aₙₓₙ
+                - main diagonal: all elements aᵢᵢ 
+                    NB: usually only associated with square matrices
+                            because last entry is aᵢᵢ 
+                            where i = last rown AND last column
+
+References:
+    Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=GzGtKIsPMTs&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=11.
