@@ -1,0 +1,64 @@
+def¹: a chart of elments 
+        arranged in
+            rows and columns (Censor, 2015):
+
+    example:
+        A = ( 
+              1  0 π 
+              √2 𝑖 -3    
+            )
+
+        A is a matrix over ℂ
+
+    
+    general form:
+        A = (
+              a₁₁ a₁₂ a₁₃ ... a₁ₙ
+              a₂₁ a₂₂ a₂₃ ... a₂ₙ
+              a₃₁ a₃₂ a₃₃ ... a₃ₙ
+              .    .   .       .
+              .    .   .       .
+              .    .   .       .
+              aₘ₁  aₘ₂ aₘ₃ ...  aₘₙ 
+            )
+
+        NB: MYINC: the columns are fixed forall m in the general form.
+            Q: Is this an interesting property?
+        
+        notation:
+            - aᵢⱼ is the entry in:
+                - row i
+                - column j
+                of the matrix
+            - A = Aₘₓₙ = (aᵢⱼ)
+                - matrix A has m rows AND n columns
+            - A ∈ Mₘₓₙ(ℂ)
+                - Mₘₓₙ = family of m × n matrices
+                - Mₘₓₙ(ℂ) = family of m × n matrices over the Complex Numbers
+                ∴ A ∈ Mₘₓₙ(ℂ) = A is a member of m × n matrices over the Complex Numbers
+            - if m = n, then
+                A ∈ Mₙ(ℂ)
+                - Mₙ = shorthand for Mₙₓₙ
+
+            - concepts:
+                - size of matrix: m × n
+                    - m = number of rows
+                    - n = number of columns
+                - square matrix: A = Aₙₓₙ
+                - main diagonal: all elements aᵢᵢ
+                    NB: i AND j = same value
+                        example:
+                            given A = A₃ₓ₃
+                            main diagonal = a₁₁, a₂₂, a₃₃ 
+                    NB: usually only associated with square matrices
+                            because row AND column numbers are equal
+                                therefore a full diagonal form
+                                    a₁₁ to aᵢᵢ is possible
+                            NB: in a rectangular matrix, this is not possible,
+                                    eventually we reach an entry aₘₙ where,
+                                        n > m
+                                        example:
+                                            in A = A₂ₓ₃
+
+References:
+    Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=GzGtKIsPMTs&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=11.
