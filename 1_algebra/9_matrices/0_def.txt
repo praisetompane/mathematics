@@ -21,6 +21,9 @@ def¹: a chart of elments
               .    .   .       .
               aₘ₁  aₘ₂ aₘ₃ ...  aₘₙ 
             )
+
+        NB: MYINC: the columns are fixed forall m in the general form.
+            Q: Is this an interesting property?
         
         notation:
             - aᵢⱼ is the entry in:
@@ -42,10 +45,20 @@ def¹: a chart of elments
                     - m = number of rows
                     - n = number of columns
                 - square matrix: A = Aₙₓₙ
-                - main diagonal: all elements aᵢᵢ 
+                - main diagonal: all elements aᵢᵢ
+                    NB: i AND j = same value
+                        example:
+                            given A = A₃ₓ₃
+                            main diagonal = a₁₁, a₂₂, a₃₃ 
                     NB: usually only associated with square matrices
-                            because last entry is aᵢᵢ 
-                            where i = last rown AND last column
+                            because row AND column numbers are equal
+                                therefore a full diagonal form
+                                    a₁₁ to aᵢᵢ is possible
+                            NB: in a rectangular matrix, this is not possible,
+                                    eventually we reach an entry aₘₙ where,
+                                        n > m
+                                        example:
+                                            in A = A₂ₓ₃
 
 References:
     Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=GzGtKIsPMTs&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=11.
