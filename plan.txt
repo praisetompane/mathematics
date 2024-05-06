@@ -3,16 +3,15 @@ BSc Mathematics:
             UNISA - Undergraduate - BSc Mathematics and Applied Mathematics:   
                 program: https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-–-MAM)
             
-                20xx-January-01 - 20xx-December-31:
-                    First Level: 
+                First Level:
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             MAT1503 - Linear Algebra I
                             MAT1512 - Calculus A
                             COS1501 - Theoretical Computer Science I 
                             COS1511 - Introduction to Programming I                         - Done -  GET EXEMPTION
-                
-                20xx-January-01 - 20xx-December-31:
-                    First Level: 
+                    
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             APM1513 - Applied Linear Algebra
                             MAT1613 - Calculus B
@@ -20,8 +19,8 @@ BSc Mathematics:
                             PHY1505 - Mechanics (Physics)
                             EUP1501 - Ethical Information and Communication Technologies for Development Solutions
                 
-                20xx-January-01 - 20xx-December-31:
-                    Second Level:
+                Second Level:
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             MAT2611 - Linear Algebra 2                                      Pre-requisite:MAT1503
                             MAT2612 - Introduction to Discrete Mathematics 	                Pre-requisite:COS1501 or MAT1512 or MAT1503
@@ -29,18 +28,16 @@ BSc Mathematics:
                             MAT2615 - Calculus in Higher Dimensions 	                    Pre-requisite:MAT1512 or MAT1503
                             PHY2601 - Classical Mechanics 	                                Pre-requisite:PHY1505, MAT1503 & MAT1512
                             PLS2607 - Philosophy of Science 	
-                    
-                20xx-January-01 - 20xx-December-31:
-                    Second Level:
+                        
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             APM2611 - Differential Equations 	                            Pre-requisite:MAT1512                                                                    Co-requisite:MAT1503, MAT1613
                             APM2613 - Numerical Methods I 	                                Pre-requisite:COS1511                                                               Co-requisite:MAT1512, MAT1503
                             APM2614 - Applied Dynamical Systems 	                        Pre-requisite:MAT1503
                             APM2616 - Computer Algebra 	                                    Pre-requisite:COS1511 and APM1513                                                                Co-requisite:MAT1512, MAT1503
                             COS2601 - Theoretical Computer Science II 	                    Pre-requisite:COS1501
-
-                20xx-January-01 - 20xx-December-31:
-                    Third Level:
+                Third Level:
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             MAT3702 - Abstract Algebra 	                                    Pre-requisite:MAT2611
                             MAT3705 - Complex Analysis                                  	Pre-requisite:MAT2615, MAT2613
@@ -48,8 +45,7 @@ BSc Mathematics:
                             MAT3707 - Discrete Mathematics: Combinatorics 	                Pre-requisite:MAT2612
                             MAT3711 - Real Analysis II 	                                    Pre-requisite:MAT2613
 
-                20xx-January-01 - 20xx-December-31:
-                    Third Level:
+                    20xx-January-01 - 20xx-December-31:
                         Year Module (4 - 6 hours each per week)
                             APM3701 - Partial Differential Equations 	                    Pre-requisite:APM2611 & MAT2615
                             APM3711 - Numerical Methods II 	                                Pre-requisite:APM2613

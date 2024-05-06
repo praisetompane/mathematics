@@ -4,7 +4,6 @@ priority:
     - study
     - field update 
 - study:
-    - https://www.youtube.com/watch?v=didXE0HkSC8
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
@@ -69,6 +68,8 @@ priority:
     - practice mathematics:
         - book problems
         - khanacademy problems
+    - guide:
+        - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 - field update:
     - https://www.quantamagazine.org/mathematics/
     - Institute of Mathematics & its Applications
@@ -146,6 +147,7 @@ next:
             - https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
         - assignments:
         - exams:
+=================================================second year=================================================
     - linear algebra:
         - degree module: UNISA MAT2611
             - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
@@ -188,27 +190,9 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - ...
-    - 1_algebra: 
-        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
-        - videos: 
-            - Technion Algebra 1M:
-                - in offline library
-                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
-        - readings:
-            - hhttps://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/readings/
-            - https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/readings/
-        - recitations:
-        - assignments:
-        - exams:
-    - 2_geometry: 
-        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
-        - videos: 
-        - readings:
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-        - recitations:
-        - assignments:
-        - exams: 
+=================================================third year=================================================
+
+=================================================research=================================================
     - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
         - videos:
@@ -243,12 +227,33 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - next field template:
-        - degree module:
-        - videos:
-        - readings: 
+    - 1_algebra: 
+        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+        - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+        - readings:
+            - hhttps://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/pages/readings/
+            - https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/pages/readings/
+        - recitations:
         - assignments:
         - exams:
+    - 2_geometry: 
+        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+        - videos: 
+        - readings:
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - recitations:
+        - assignments:
+        - exams: 
+
+- next field template:
+    - degree module:
+    - videos:
+    - readings: 
+    - assignments:
+    - exams:
 - timeline:
     see plan.txt
 
