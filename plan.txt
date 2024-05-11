@@ -155,10 +155,42 @@ BSc Honours Mathematics:
                 
                 MAT4834 - Rings and Fields 	                    Co-requisite:MAT4833
                     notes: 1_algebra/2_field
-
-Research in Mathematics:
+==============================================================================================================================================================
+Research:
+- sources: 
+    - Research in Mathematics: https://www.youtube.com/watch?v=6aD-PggFODA
+    - What is it like to be a Pure mathematician?: https://www.youtube.com/watch?v=f6YiFdUbrV0
+    - https://www.quantamagazine.org/mathematics/
+- sub-areas:
+    - Mathematical Logic
+    - Algebra
+    - Geometry
+    - Analysis
+- schools:
     - ...
+- companies | research labs:
+    - ...
+- priority:
+    - build: 4 hours
+    - study: 4 hours
 
+    - build:
+        - tasks:
+            - ...
+    - study:
+        - tasks:
+            - How do mathematicians publish? – Some trends: https://euromathsoc.org/magazine/articles/160?mc_cid=509a05b69f
+            - The Connoisseur of Number Sequences: https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/?mc_cid=509a05b69f
+            - Explore Research Level Maths with Channel Membership at Wild Egg Maths | N J Wildberger
+            - 2023-November-4: find a learning path for Research Scientists in Specialization.
+                    - https://www.youtube.com/watch?v=cuzVy4znhqU
+                    - example: https://github.com/praisetompane/From-0-to-Research-Scientist-resources-guide 
+            - 2023-November-4: decide on specific area.
+            - 2023-November-4 - 2023-MM-DD: learn how to conduct research
+                - courses already enrolled on Coursera
+                - 
+            - 2023-MM-DD: conduct research
+==============================================================================================================================================================
 course content template:
     readings:
     videos:
