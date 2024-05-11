@@ -197,31 +197,42 @@ BSc Honours Mathematics:
                 
                 MAT4834 - Rings and Fields 	                    Co-requisite:MAT4833
                     notes: 1_algebra/2_field
+==============================================================================================================================================================
+Research:
+- sources: 
+    - Research in Mathematics: https://www.youtube.com/watch?v=6aD-PggFODA
+    - What is it like to be a Pure mathematician?: https://www.youtube.com/watch?v=f6YiFdUbrV0
+    - https://www.quantamagazine.org/mathematics/
+- sub-areas:
+    - Mathematical Logic
+    - Algebra
+    - Geometry
+    - Analysis
+- schools:
+    - ...
+- companies | research labs:
+    - ...
+- priority:
+    - build: 4 hours
+    - study: 4 hours
 
-Research in Mathematics:
-
-Insights into Mathematics:
-    * how do you craft the explanations/proofs?
-        inspiration,  experience, trial and error, dumb luck (Lockhart, 2009: 4).
-
-    * " It’s not at all like science. There’s no 
-        experiment I can do with test tubes and equipment and whatnot that will tell me the truth about a 
-        figment of my imagination.  The only way to get at the truth about our imaginations is to use our 
-        imaginations, and that is hard work.    " - (Lockhart, 2009: 4)
-
-    def mathematician:
-        "A mathematician, like a painter or poet, is a  maker 
-        of patterns.  If his patterns are more permanent than 
-        theirs, it is because they are made with ideas." - G.H. Hardy
-
-        "So we get to play and imagine whatever we want and make patterns and ask questions about 
-    them."  - Lockhart, 2009: 4
-
-    Quotes:
-        "This is a major theme in mathematics: things are what you want them to 
-        be. You have endless choices; there is no reality to get in your way. " - Lockhart, 2009: 4
-
-
+    - build:
+        - tasks:
+            - ...
+    - study:
+        - tasks:
+            - How do mathematicians publish? – Some trends: https://euromathsoc.org/magazine/articles/160?mc_cid=509a05b69f
+            - The Connoisseur of Number Sequences: https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/?mc_cid=509a05b69f
+            - Explore Research Level Maths with Channel Membership at Wild Egg Maths | N J Wildberger
+            - 2023-November-4: find a learning path for Research Scientists in Specialization.
+                    - https://www.youtube.com/watch?v=cuzVy4znhqU
+                    - example: https://github.com/praisetompane/From-0-to-Research-Scientist-resources-guide 
+            - 2023-November-4: decide on specific area.
+            - 2023-November-4 - 2023-MM-DD: learn how to conduct research
+                - courses already enrolled on Coursera
+                - 
+            - 2023-MM-DD: conduct research
+==============================================================================================================================================================
 course content template:
     readings:
     videos:

@@ -188,7 +188,7 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - ...
+=================================================third year=================================================
     - 1_algebra: 
         - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
         - videos: 
@@ -201,8 +201,53 @@ next:
         - recitations:
         - assignments:
         - exams:
+=================================================research=================================================
+    - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
+        - degree module: n/a
+        - videos:
+            - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
+        - readings:
+            - a concise introduction to mathematical logic. wolfgang rautenberg
+                - current position: not started
+            - the foundations of mathematics. kenneth kunen:
+                - current position: page 13, section 1.2: r1
+            - kent fundamentals of mathematics i
+                - current position: pg. 22: example 3
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
+            - kent fundamentals of mathematics ii
+                - current position: not started
+            - kent fundamentals of mathematics iii
+                - current position: not started
+            - kent fundamentals of mathematics iv
+                - current position: not started 
+        - recitations:
+        - assignments:
+        - exams:
+    - origins and history: why was mathematics created? what is mathematics? how is mathematics done?: 
+        - degree module: n/a
+        - videos:
+            - Insights into Mathematics MathHistory: A course in the History of Mathematics:
+                - in offline library    
+                - https://m.youtube.com/playlist?list=PL55C7C83781CF4316
+        - readings:            
+            - what is mathematics?. richard courant.pdf
+                - current position: not started
+        - recitations:
+        - assignments:
+        - exams:
+    - 1_algebra: 
+        - degree module: n/a
+        - videos: 
+            - Technion Algebra 1M:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+        - readings:
+        - recitations:
+        - assignments:
+        - exams:
     - 2_geometry: 
-        - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+        - degree module:
         - videos: 
         - readings:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
