@@ -8,11 +8,18 @@ priority:
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
-             non-homogeneous and homogeneous systems of linear equations, Gaussian and Jordan-Gauss elimination, matrices and matrix operations, 
-             elementary determinants by cofactor expansion, inverse of matrix using the adjoint, Cramer's rule, 
-             evaluating determinants using row/column reduction, properties of the determinant function, vectors in 2- , 3- and n- space, 
-             dot product, projections, cross product, areas of parallelograms and volumes of parallelepipeds determined by vectors, 
-             lines and planes in 3-space and complex numbers.
+                non-homogeneous and homogeneous systems of linear equations, 
+                Gaussian and Jordan-Gauss elimination, 
+                matrices and matrix operations, 
+                elementary determinants by cofactor expansion, inverse of matrix using the adjoint, 
+                Cramer's rule, 
+                evaluating determinants using row/column reduction, 
+                properties of the determinant function, vectors in 2- , 3- and n- space, 
+                dot product, 
+                projections, 
+                cross product, 
+                areas of parallelograms and volumes of parallelepipeds determined by vectors, 
+                lines and planes in 3-space and complex numbers.
         - videos: 
             - Technion Algebra 1M:
                 - in offline library
@@ -53,8 +60,12 @@ priority:
         - exams:
     - computer_science/0_foundations:
         - degree module: UNISA COS1501
-            - Purpose: To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
-            This background is relevant to relational databases, the development of provably correct programs, and the analysis of algorithms. 
+            - Purpose: 
+                - To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
+                - This background is relevant to:
+                    - relational databases,
+                    - the development of provably correct programs, 
+                    - the analysis of algorithms. 
         - videos:
             - MIT 6.042J Mathematics For Computer Science
                 - in offline library
@@ -77,8 +88,11 @@ next:
     - linear algebra:
         - degree module: UNISA APM1513
             - Purpose: To enable students to master and apply the following aspects of the numerical solution of systems of linear equations: 
-                    the method of least squares; linear programming (simplex method); 
-                    eigenvalues, eigenvectors, diagonalisation as well as some miscellaneous applications.        
+                    - the method of least squares; 
+                    - linear programming (simplex method); 
+                    - eigenvalues,
+                    - eigenvectors, 
+                    - diagonalisation as well as some miscellaneous applications.        
             - videos: 
             - Technion Algebra 1M:
                 - in offline library
@@ -97,9 +111,16 @@ next:
         - exams:
     - 3_analysis: 
         - degree module: UNISA MAT1613
-            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical, 
-            life and economic sciences. Some simple applications are covered. 
-            More advanced techniques and further applications are dealt with in module MAT1613.
+            - Purpose: To equip students with basic skills in:
+                - differential calculus 
+                - integral calculus
+                
+                - which are essential for the:
+                    - physical, 
+                    - life 
+                    - economic sciences. 
+                Some simple applications are covered. 
+                More advanced techniques and further applications are dealt with in module MAT1613.
         - videos:     
             - Technion Differential and Integral Calculus 1:
                 - in offline library
@@ -119,9 +140,17 @@ next:
         - exams:
     - Mathematical Modelling
         - degree module: APM1514
-            - Purpose: To enable students to demonstrate a basic understanding of solution, equilibrium points and 
-            stability of difference equations and first order differential equations; applications to population models; 
-            harvesting strategies; epidemics; economics and other situations; simple optimization and applications.
+            - Purpose: To enable students to demonstrate a basic understanding of:
+                - solution, 
+                - equilibrium points 
+                - stability of difference equations
+                - first-order differential equations; 
+            
+            applications to:
+                - population models; 
+                - harvesting strategies; 
+                - epidemics; economics and other situations; 
+            simple optimization and applications.
         - videos:
             - DelftX: Modelling with Differential Equations
                 - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
@@ -149,8 +178,8 @@ next:
     - linear algebra:
         - degree module: UNISA MAT2611
             - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
-             eigenvalues and eigenvectors, diagonalisation of matrices, orthogonality in Rn, 
-             Gram-Schmidt algorithm, orthogonal diagonalisation of symmetric matrices, 
+             eigenvalues and eigenvectors, diagonalization of matrices, orthogonality in Rn, 
+             Gram-Schmidt algorithm, orthogonal diagonalization of symmetric matrices, 
              linear transformations, change of basis and their matrix representations.
             - videos: 
             - Technion Algebra 1M:
