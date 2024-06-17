@@ -1,18 +1,25 @@
 purpose: understand mathematics.
 
 priority:
-    - study
-    - field update 
-- study:
+    - learn
+    - field update
+- learn:
     - linear algebra:
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
-             non-homogeneous and homogeneous systems of linear equations, Gaussian and Jordan-Gauss elimination, matrices and matrix operations, 
-             elementary determinants by cofactor expansion, inverse of matrix using the adjoint, Cramer's rule, 
-             evaluating determinants using row/column reduction, properties of the determinant function, vectors in 2- , 3- and n- space, 
-             dot product, projections, cross product, areas of parallelograms and volumes of parallelepipeds determined by vectors, 
-             lines and planes in 3-space and complex numbers.
-        - videos: 
+                non-homogeneous and homogeneous systems of linear equations,
+                Gaussian and Jordan-Gauss elimination,
+                matrices and matrix operations,
+                elementary determinants by cofactor expansion, inverse of matrix using the adjoint,
+                Cramer's rule,
+                evaluating determinants using row/column reduction,
+                properties of the determinant function, vectors in 2- , 3- and n- space,
+                dot product,
+                projections,
+                cross product,
+                areas of parallelograms and volumes of parallelepipeds determined by vectors,
+                lines and planes in 3-space and complex numbers.
+        - videos:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 11 - Matrices to 42 -  Determinants
@@ -28,12 +35,12 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - 3_analysis: 
+    - 3_analysis:
         - degree module: UNISA MAT1512
-            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical, 
-            life and economic sciences. Some simple applications are covered. 
+            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
+            life and economic sciences. Some simple applications are covered.
             More advanced techniques and further applications are dealt with in module MAT1613.
-        - videos:     
+        - videos:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
@@ -52,13 +59,17 @@ priority:
         - exams:
     - computer_science/0_foundations:
         - degree module: UNISA COS1501
-            - Purpose: To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science. 
-            This background is relevant to relational databases, the development of provably correct programs, and the analysis of algorithms. 
-        - videos:
+            - Purpose:
+                - To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science.
+                - This background is relevant to:
+                    - relational databases,
+                    - the development of provably correct programs,
+                    - the analysis of algorithms.
+        - library:
             - MIT 6.042J Mathematics For Computer Science
                 - in offline library
                 - playlist: https://www.youtube.com/playlist?list=PLB7540DEDD482705B
-        - readings: 
+        - readings:
             - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
                 - current position: pg. 6, exercise 1.1, question 4
             - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
@@ -77,10 +88,13 @@ priority:
 next:
     - linear algebra:
         - degree module: UNISA APM1513
-            - Purpose: To enable students to master and apply the following aspects of the numerical solution of systems of linear equations: 
-                    the method of least squares; linear programming (simplex method); 
-                    eigenvalues, eigenvectors, diagonalisation as well as some miscellaneous applications.        
-            - videos: 
+            - Purpose: To enable students to master and apply the following aspects of the numerical solution of systems of linear equations:
+                    - the method of least squares;
+                    - linear programming (simplex method);
+                    - eigenvalues,
+                    - eigenvectors,
+                    - diagonalisation as well as some miscellaneous applications.
+            - library:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 11 - Matrices - 42 -  Determinants
@@ -96,12 +110,19 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - 3_analysis: 
+    - 3_analysis:
         - degree module: UNISA MAT1613
-            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical, 
-            life and economic sciences. Some simple applications are covered. 
-            More advanced techniques and further applications are dealt with in module MAT1613.
-        - videos:     
+            - Purpose: To equip students with basic skills in:
+                - differential calculus
+                - integral calculus
+
+                - which are essential for the:
+                    - physical,
+                    - life
+                    - economic sciences.
+                Some simple applications are covered.
+                More advanced techniques and further applications are dealt with in module MAT1613.
+        - library:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
@@ -120,22 +141,30 @@ next:
         - exams:
     - Mathematical Modelling
         - degree module: APM1514
-            - Purpose: To enable students to demonstrate a basic understanding of solution, equilibrium points and 
-            stability of difference equations and first order differential equations; applications to population models; 
-            harvesting strategies; epidemics; economics and other situations; simple optimization and applications.
-        - videos:
+            - Purpose: To enable students to demonstrate a basic understanding of:
+                - solution,
+                - equilibrium points
+                - stability of difference equations
+                - first-order differential equations;
+
+            applications to:
+                - population models;
+                - harvesting strategies;
+                - epidemics; economics and other situations;
+            simple optimization and applications.
+        - library:
             - DelftX: Modelling with Differential Equations
                 - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
             - https://www.coursera.org/specializations/precalculus-data-modelling#courses
         - readings:
-            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/ 
+            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
         - exams:
     - Mechanics (Physics)
         - degree module: PHY1505
-            - Purpose: Vectors, static equilibrium, uniformly accelerated motion Newton's laws, work and energy, 
+            - Purpose: Vectors, static equilibrium, uniformly accelerated motion Newton's laws, work and energy,
             momentum, motion in a circle, rotational motion, mechanical properties of matter, vibrations.
-        - videos:
+        - library:
             - MIT 8.01x - MIT Physics I: Classical Mechanics
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
@@ -143,7 +172,7 @@ next:
                 - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-1?index=product&queryID=30ad8fa66108b51ebeb3545de3fa66a1&position=3&linked_from=autocomplete&c=autocomplete
             - RICEx: Mechanics, Part 2:
                 - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-2?index=product&queryID=65d11aac9b6986591a096584ef1f5373&position=2&linked_from=autocomplete&c=autocomplete
-        - readings: 
+        - readings:
             - https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
         - assignments:
         - exams:
@@ -151,10 +180,10 @@ next:
     - linear algebra:
         - degree module: UNISA MAT2611
             - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
-             eigenvalues and eigenvectors, diagonalisation of matrices, orthogonality in Rn, 
-             Gram-Schmidt algorithm, orthogonal diagonalisation of symmetric matrices, 
+             eigenvalues and eigenvectors, diagonalization of matrices, orthogonality in Rn,
+             Gram-Schmidt algorithm, orthogonal diagonalization of symmetric matrices,
              linear transformations, change of basis and their matrix representations.
-            - videos: 
+            - library:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 11 - Matrices - 42 -  Determinants
@@ -170,18 +199,19 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:     
+    - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:
         - degree module: UNISA COS2601
-            - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint. 
-                Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and 
-                Mealy machines, transition graphs, the pumping lemma and decision problems.        - videos:
+            - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint.
+                Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and
+                Mealy machines, transition graphs, the pumping lemma and decision problems.
+        - library:
             - MIT 18.404J Theory of Computation, Fall 2020:
                 - in offline library
                 - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
             - Noson S. Yanofsky Theoretical Computer Science:
                 - in offline library
                 - playlist: https://www.youtube.com/watch?v=OS33r2Fk8YQ&list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X
-        - readings: 
+        - readings:
             - https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/
             - introduction_to_the_theory_of_computation_third_edition._michael_sipser.cengage_learning.pdf
                 - current position: Not Started
@@ -191,9 +221,9 @@ next:
         - assignments:
         - exams:
 =================================================third year=================================================
-    - 1_algebra: 
+    - 1_algebra:
         - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
-        - videos: 
+        - library:
             - Technion Algebra 1M:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
@@ -206,7 +236,7 @@ next:
 =================================================research=================================================
     - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
-        - videos:
+        - library:
             - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
         - readings:
             - a concise introduction to mathematical logic. wolfgang rautenberg
@@ -222,25 +252,25 @@ next:
             - kent fundamentals of mathematics iii
                 - current position: not started
             - kent fundamentals of mathematics iv
-                - current position: not started 
+                - current position: not started
         - recitations:
         - assignments:
         - exams:
-    - origins and history: why was mathematics created? what is mathematics? how is mathematics done?: 
+    - origins and history: why was mathematics created? what is mathematics? how is mathematics done?:
         - degree module: n/a
-        - videos:
+        - library:
             - Insights into Mathematics MathHistory: A course in the History of Mathematics:
-                - in offline library    
+                - in offline library
                 - https://m.youtube.com/playlist?list=PL55C7C83781CF4316
-        - readings:            
+        - readings:
             - what is mathematics?. richard courant.pdf
                 - current position: not started
         - recitations:
         - assignments:
         - exams:
-    - 1_algebra: 
+    - 1_algebra:
         - degree module: n/a
-        - videos: 
+        - library:
             - Technion Algebra 1M:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
@@ -248,19 +278,19 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - 2_geometry: 
+    - 2_geometry:
         - degree module:
-        - videos: 
+        - library:
         - readings:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - recitations:
         - assignments:
-        - exams: 
+        - exams:
 
 - next field template:
     - degree module:
-    - videos:
-    - readings: 
+    - library:
+    - readings:
     - assignments:
     - exams:
 - timeline:
