@@ -6,7 +6,7 @@ interpretations (Jerison, 2007):
 
     - geometric (Jerison, 2007):
         problem: find tangent line
-                    to some function f(x)
+                    to some function y = f(x)
                     at some point P = (x₀, y₀).
 
             solution:
@@ -37,11 +37,11 @@ interpretations (Jerison, 2007):
                 def f'(x₀)(i.e. the derivative of f at x₀): the slope of the tangent line
                                                                 to f(x)
                                                                 at a point P.
- 
-importance of derivatives to ALL measurements.
+
+use cases:
+    - importance of the derivative to ALL measurements.
 
 def differentiate:
-
     - how to differentiate any function:
 
 References:
