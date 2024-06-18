@@ -4,7 +4,7 @@ priority:
     - learn
     - field update
 - learn:
-    - linear algebra:
+    - linear algebra: 2 hours
         - degree module: UNISA MAT1503
             - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
                 non-homogeneous and homogeneous systems of linear equations,
@@ -35,7 +35,7 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - 3_analysis:
+    - 3_analysis: 2 hours
         - degree module: UNISA MAT1512
             - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
             life and economic sciences. Some simple applications are covered.
@@ -57,7 +57,7 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - computer_science/0_foundations:
+    - computation_and_information/0_foundations: 2 hours
         - degree module: UNISA COS1501
             - Purpose:
                 - To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science.
@@ -76,15 +76,43 @@ priority:
         - recitations:
         - assignments:
         - exams:
-    - practice mathematics:
-        - book problems
-        - khanacademy problems
+    - 0_foundations: 2 hours
+        what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
+        - degree module: n/a
+        - library:
+            - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
+        - readings:
+            - a concise introduction to mathematical logic. wolfgang rautenberg
+                - current position: not started
+            - the foundations of mathematics. kenneth kunen:
+                - current position: page 13, section 1.2: r1
+            - kent fundamentals of mathematics i
+                - current position: pg. 22: example 3
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
+            - kent fundamentals of mathematics ii
+                - current position: not started
+            - kent fundamentals of mathematics iii
+                - current position: not started
+            - kent fundamentals of mathematics iv
+                - current position: not started
+        - recitations:
+        - assignments:
+        - exams:
+    - 2_geometry: 2 hours
+        - degree module:
+        - library:
+        - readings:
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - recitations:
+        - assignments:
+        - exams:
     - guide:
         - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 - field update:
     - https://www.quantamagazine.org/mathematics/
     - Institute of Mathematics & its Applications
-==============================================================================================
+=============================================================================================================
 next:
     - linear algebra:
         - degree module: UNISA APM1513
@@ -233,29 +261,7 @@ next:
         - recitations:
         - assignments:
         - exams:
-=================================================research=================================================
-    - 0_foundations: what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
-        - degree module: n/a
-        - library:
-            - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
-        - readings:
-            - a concise introduction to mathematical logic. wolfgang rautenberg
-                - current position: not started
-            - the foundations of mathematics. kenneth kunen:
-                - current position: page 13, section 1.2: r1
-            - kent fundamentals of mathematics i
-                - current position: pg. 22: example 3
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade
-            - kent fundamentals of mathematics ii
-                - current position: not started
-            - kent fundamentals of mathematics iii
-                - current position: not started
-            - kent fundamentals of mathematics iv
-                - current position: not started
-        - recitations:
-        - assignments:
-        - exams:
+=================================================research===================================================
     - origins and history: why was mathematics created? what is mathematics? how is mathematics done?:
         - degree module: n/a
         - library:
@@ -268,25 +274,7 @@ next:
         - recitations:
         - assignments:
         - exams:
-    - 1_algebra:
-        - degree module: n/a
-        - library:
-            - Technion Algebra 1M:
-                - in offline library
-                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
-        - readings:
-        - recitations:
-        - assignments:
-        - exams:
-    - 2_geometry:
-        - degree module:
-        - library:
-        - readings:
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-        - recitations:
-        - assignments:
-        - exams:
-
+============================================================================================================
 - next field template:
     - degree module:
     - library:
