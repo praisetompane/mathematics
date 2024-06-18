@@ -1,4 +1,4 @@
-0_foundations/1_arithmetic/0_numbers/0_real_numbers/2_problems.txtdef numbers: names for quantities?
+def numbers: names for quantities?
 
     lines quantity    name
         |               one

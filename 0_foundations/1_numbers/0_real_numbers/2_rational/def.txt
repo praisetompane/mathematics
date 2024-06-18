@@ -1,0 +1,17 @@
+def rational numbers: any number that can be written as fraction of two integers
+                is a Rational number(Kent State Department of Mathematical Sciences, 2008:3).
+                i.e. a ratio of two integers (Censor, 2015).
+
+                ℚ = {m/n | m ∈ ℤ ∧ n ∈ ℤ ∧ n ≠ 0}
+                * Key is they can be represented as fractions(i.e. as ratios)
+
+            all integers are Rational numbers: Q: Is there of proof of this?
+
+def fraction: an integer divided by a nonzero integer.
+            Q: Does the numerator and denominator have to be integers?
+                e.g. are  pi/5, √5/9 not fractions?
+            Q: are they merely a way to represent division?
+                see: 0_foundations/1_arithmetic/4_divison
+
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
