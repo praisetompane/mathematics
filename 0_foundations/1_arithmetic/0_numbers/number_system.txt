@@ -8,7 +8,7 @@ types:
         Q: Can we only represent Real numbers?
         digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
         decimal expansion = the expression/representation of a number using the decimal system
-        decimal point/command = ./, 
+        decimal point/command = ./,
 
         ... 3       2       1      0    : places/positions, P
             1000s   100s    10s    1s   : place's/position's value
@@ -29,9 +29,18 @@ types:
             1000    200     30      4
             1000  + 200  +  30   +  4   = 1234
 
+        this is widely used(by humans) and is based on 10 (Kent State Department of Mathematical Sciences, 2008:3).
+            i.e.
+            10 ones                 = 1 ten
+            10 tens                 = 1 one-hundred
+            10 one-hundred          = 1 one-thousand
+            10 one-thousand         = 1 ten-thousand
+            10 ten-thousand         = 1 one-hundred-thousand
+            10 one-hundred-thousand = 1 one-million
+
 
     * binary = base-two numerical system for representing numbers (Khan Academy).
-        Q: Are all sets of numbers representable? 
+        Q: Are all sets of numbers representable?
         digits = {0, 1}
 
             ... 3       2       1      0    : places/positions, P
@@ -44,8 +53,8 @@ types:
                 1       1       1       0       0       0       0       1       0       0
                 2⁹*1    2⁸*1    2⁷*1    2⁶*0    2⁵*0    2⁴*0    2³*0    2²*1    2¹*0    2⁰*0
                 512*1   256*1   128*1   64*0    32*0    16*0    8*0     4*1     2*0     1*0
-                512     256     128     64      32      16      8       4       0       1   
-                512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900        
+                512     256     128     64      32      16      8       4       0       1
+                512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900
 
         binary number patterns (Khan Academy):
             * numbers with last bit on are odd
@@ -60,7 +69,7 @@ types:
                     example:
                         n = 4
                         formulaic solution: 2⁴ - 1 = 15
-                        
+
                         representation:
                             3       2       1       0
                             1       1       1       1
@@ -77,3 +86,4 @@ References:
     Khan Academy. Binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/a/bits-and-binary.
     Khan Academy. Patterns in binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/v/patterns-in-binary-numbers.
     Khan Academy. Hexadecimal number system. https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system.
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

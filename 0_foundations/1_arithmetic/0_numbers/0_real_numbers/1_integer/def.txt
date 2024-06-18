@@ -1,0 +1,9 @@
+def integers:
+    Measurement(Kent State Department of Mathematical Sciences, 2008:2):
+    * ℤ = {...,-3,-2,-1,0,1,2,3...} = Integers = Used when measurements/counts below zero we needed.
+    ∴ ℤ ⊂ ℝ
+        <---|---|---|---|---|---|---|--->
+            -3  -2  -1   0   1   2   3
+
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
