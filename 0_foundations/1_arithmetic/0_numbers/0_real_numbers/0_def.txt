@@ -1,0 +1,22 @@
+def real numbers: All numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
+  ℝ = ℚ ∪ 𝕀
+
+Q: Are theew categories for irrational numbers?
+  ________________________________________________________________
+  |                         Real Numbers                          |
+  |_______________________________________________________________|
+  |     Rational Numbers        |       Irrational Numbers        |
+  |_____________________________|_________________________________|
+  |            Integers         |                                 |
+  |     |___________________|   |                                 |
+  |     |Negative           |   |                                 |
+  |     |Non negative/Whole |   |                                 |
+  |     |Positive/Counting  |   |                                 |
+  |     |___________________|   |                                 |
+  |_____________________________|_________________________________|
+
+# Legend
+  Q: Question for later research
+
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
