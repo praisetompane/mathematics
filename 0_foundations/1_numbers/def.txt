@@ -1,4 +1,4 @@
-def: names for quantities?
+def numbers: names for quantities?
 
     lines quantity    name
         |               one
@@ -28,7 +28,7 @@ number vs numeral¹
             57 - decimal(base 10)
             111001 - binary
             LVII - roman numerals
-numeral = representation/description of a number² 
+numeral = representation/description of a number²
 
 References:
     Wildberger, N.J. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
