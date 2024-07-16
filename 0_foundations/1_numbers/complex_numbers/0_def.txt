@@ -5,18 +5,15 @@ def complex numbers:
         in words:
 
     plain english:
-
     intuition:
-
     examples:
-
 
 def complex number set(Censor, 2015):
     formal:
         ℂ = {a + bi | a, b ∈ ℝ}
 
     example: 1 + 7i = complex number
- 
+
 example expression:
     2 + 3i² + 7i
     2 + 3(-1) + 7i
@@ -26,13 +23,16 @@ example expression:
 
 use case:
     solution to equations:
-        x² = -1, has no solution in ℝ
+        x^2 + 1 = 0, has no solution in ℝ
         in complex field ℂ, a solution exists (Censor, 2015):
+            x² + 1 - 1 = 0 - 1
             x² = -1
-            let x = i
-            i² = -1
-    
-remark: in ℂ all equations have solutions.
+            solve equation:
+                let x = i
+                ∴ i² = -1
+                which is true in ℂ
+
+remark: in ℂ all equations have solutions (Censor, 2015).
             ℂ is an algebraically closed field.
 
 def algebraically closed: TBD
