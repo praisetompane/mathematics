@@ -1,0 +1,7 @@
+def Line (Wildberger, ???):
+    an orderd proportion 
+        of rational numbers < a: b: c >  where
+            a and b are NOT BOTH zero (i.e. one of them can be 0 at a time)
+
+    Line := <a:b:c> s.t. a ∧ b ≠ 0
+References:

@@ -1,0 +1,9 @@
+def mathematial model (Nayak, ????):
+    - representation of a system
+        with the aid of mathematical formulas .
+    - the structure obtained is the mathematical model.
+
+    def system: collection of entities.
+
+References:
+    - Nayak,AK. ???? Introduction to Mathematical Modeling. Mathematical Modeling：Analysis and Applications.

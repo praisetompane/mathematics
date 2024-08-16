@@ -1,11 +1,13 @@
 # What is Mathematics?
 
-objective: an attempt at unpacking in layman's terms what mathematics is.
+objective: an attempt at unpacking in layman's terms what mathematics is and how it is created.
 
 def¹: mathematics is an art like music and painting (Lockhart, 2009: 3).
 
 def²: mathematics is about pure reason to get at the truth about something (Lockhart, 2009: 4).
 
+def: how is it created?:
+    see: 0_foundations/1_numbers/0_real_numbers/0_def.txt
 
 plain english:
 - def: mathematics is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
