@@ -1,6 +1,10 @@
+def natural numbers (Wildberger, 2009): 
+  a sequence of |s
+  
 def natural numbers:
     Counting(Kent State Department of Mathematical Sciences, 2008:2):
     ℕ = {1,2,3,4,...}    = Natural Numbers = Used when we needed to count apples, goats etc.
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+  Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1

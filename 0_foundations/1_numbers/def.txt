@@ -1,12 +1,39 @@
-def numbers: names for quantities?
+Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
+  - in it we introduce:
+    - "|": NB: this be any symbol(i.e. O, (, etc))
+        | represents a single entity:
+            we name | as one
+    
+    - the idea of adding one(i.e."|") to itself.
+        - | and | = ||
+            we name || as two
+        - this produces a sequence of |s
 
-    lines quantity    name
+    - the idea of adding one to previously added ones(e.g. ||)
+        example:
+            || and | = |||
+                we name ||| as three
+
+    examples:
+                        name
         |               one
         ||              two
         |||             three
         ||||            four
         |||||           five
 
+def natural number(Wildberger, 2009): a string of ones(i.e. |)
+    - properties:
+        - they form a sequence(i.e. they are naturally ordered)
+            - for every natural number, we can assign a "successor" S:
+                example:
+                    S(|) = || = successor of | is ||
+                short form: ∀a,b ∈ ℕ, ∃b | S(a) = b    
+    - remarks: 
+        - this is our first Mathematical object.
+        - all Mathematical objects are based on the natural numbers.
+
+def numbers: names for quantities?
 
 Q: Where/When did give these quantities names?
 Q: Why do we count?
@@ -31,6 +58,6 @@ number vs numeral¹
 numeral = representation/description of a number²
 
 References:
-    Wildberger, N.J. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
+    Wildberger, N.J. Math Foundations. 2009. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
     John Dersch. 2012. 50 Centuries in 50 minutes (A Brief History of Mathematics). https://youtu.be/YsEcpS-hyXw
     1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020

@@ -114,7 +114,6 @@ next:
             - Purpose: To equip students with basic skills in:
                 - differential calculus 
                 - integral calculus
-                
                 - which are essential for the:
                     - physical, 
                     - life 
@@ -151,9 +150,12 @@ next:
                 - harvesting strategies; 
                 - epidemics; economics and other situations; 
             simple optimization and applications.
-        - videos:
+        - library:
+            - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
+            - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
             - DelftX: Modelling with Differential Equations
                 - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
+            - Mathematical and Computational Methods: https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
             - https://www.coursera.org/specializations/precalculus-data-modelling#courses
         - readings:
             - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/ 
