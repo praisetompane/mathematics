@@ -7,6 +7,8 @@ Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
         - remarks: 
             - this is our first Mathematical object.
             - all Mathematical objects are based on the natural numbers.
+
+        Q: do we require natural language to create Mathematics?
         
     - the idea of adding one(i.e."|") to itself.
         - | and | = ||
