@@ -29,9 +29,18 @@ def natural number(Wildberger, 2009): a string of ones(i.e. |)
                 example:
                     S(|) = || = successor of | is ||
                 short form: ∀a,b ∈ ℕ, ∃b | S(a) = b    
+            Q: Why do Natural numbers form a sequence?
+                MYINC:
+                    1. We start with |
+                    2. to get || we require | to exist, because we add | to | to get ||.
+                    3. to get ||| we require || to exist, because  we add | to || to get |||
+                    They come into existence in an order.
+
     - remarks: 
         - this is our first Mathematical object.
         - all Mathematical objects are based on the natural numbers.
+
+ 
 
 def numbers: names for quantities?
 
