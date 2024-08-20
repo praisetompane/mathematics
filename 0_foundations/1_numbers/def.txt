@@ -35,6 +35,25 @@ def natural number(Wildberger, 2009): a string of ones(i.e. |)
                     2. to get || we require | to exist, because we add | to | to get ||.
                     3. to get ||| we require || to exist, because  we add | to || to get |||
                     They come into existence in an order.
+        - relative size of natural numbers.
+            - i.e. which number is bigger than another?
+            example:
+                given: two numbers
+                        ||||
+                        ||||||
+                then:
+                        pair each one(i.e. |) in one number with a one in the other number.
+                then:
+                        the number left with unpaired ones is the larger of the two.
+            - abstract notation:
+                let:
+                    - n and m be natural numbers
+                then:
+                    - equality:
+                        n = m, if and only if, |s in n match |s in m
+                    - inequality:
+                        n < m , if and only if, |s in n are less than |s in m
+
 
     - remarks: 
         - this is our first Mathematical object.
