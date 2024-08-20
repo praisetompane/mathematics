@@ -3,11 +3,15 @@ Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
     - "|": NB: this be any symbol(i.e. O, (, etc))
         | represents a single entity:
             we name | as one
-    
+
+        - remarks: 
+            - this is our first Mathematical object.
+            - all Mathematical objects are based on the natural numbers.
+        
     - the idea of adding one(i.e."|") to itself.
         - | and | = ||
             we name || as two
-        - this produces a sequence of |s
+        - this produces a string of |s
 
     - the idea of adding one to previously added ones(e.g. ||)
         example:
@@ -15,7 +19,7 @@ Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
                 we name ||| as three
 
     examples:
-                        name
+        |s              name
         |               one
         ||              two
         |||             three
@@ -23,9 +27,11 @@ Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
         |||||           five
 
 def natural number(Wildberger, 2009): a string of ones(i.e. |)
+
+def natural numbers(Wildberger, 2009): a collection of these strings of ones.
     - properties:
-        - they form a sequence(i.e. they are naturally ordered)
-            - for every natural number, we can assign a "successor" S:
+        - they form a sequence(i.e. they are naturally ordered):
+            - for every natural number, we can associate/define/determine a "successor":
                 example:
                     S(|) = || = successor of | is ||
                 short form: ∀a,b ∈ ℕ, ∃b | S(a) = b    
@@ -35,7 +41,7 @@ def natural number(Wildberger, 2009): a string of ones(i.e. |)
                     2. to get || we require | to exist, because we add | to | to get ||.
                     3. to get ||| we require || to exist, because  we add | to || to get |||
                     They come into existence in an order.
-        - relative size of natural numbers.
+        - relative size of natural numbers:
             - i.e. which number is bigger than another?
             example:
                 given: two numbers
@@ -54,12 +60,6 @@ def natural number(Wildberger, 2009): a string of ones(i.e. |)
                     - inequality:
                         n < m , if and only if, |s in n are less than |s in m
 
-
-    - remarks: 
-        - this is our first Mathematical object.
-        - all Mathematical objects are based on the natural numbers.
-
- 
 
 def numbers: names for quantities?
 
