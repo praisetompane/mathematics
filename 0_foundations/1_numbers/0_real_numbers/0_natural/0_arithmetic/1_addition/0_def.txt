@@ -1,4 +1,13 @@
-def addition: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
+def addition¹ (Wildberger, 2009):
+    - join the ones from one natural numbers, with the ones from another.
+        - example: 
+            - given two natural numbers 
+                n = ||| 
+                m = |||||
+            - n add m = ||| and ||||| = ||||||||
+    - represented as n + m
+
+def addition²: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
         if a quantify exceeds the storage capacity of the current place value
             the excess quantity is stored in the next bigger place value.
@@ -72,4 +81,5 @@ properties:
         i.e. the numbers change position in the expression; "they commute"(Kent State Department of Mathematical Sciences, 2008:53).
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
