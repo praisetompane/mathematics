@@ -158,7 +158,7 @@ def foundations of mathematics (Kunen, 2007:5):
             - Set Theory (Kunen, 2007:7): 
                 - these are definitional axioms.
                 - based on Zermelo-Fraenkel with Choice axiom (ZFC).
-                - all of modern Mathematics is subsumed within Set theory.
+                - all of modern Mathematics is based on Set theory.
 
     - defines these objects (Kunen, 2007:6-7):
         def mathematical proof:
