@@ -1,4 +1,4 @@
-theorem: √2 ∈ ℚ (Censor, 2013)
+theorem: √2 ∉ ℚ (Censor, 2013)
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 02. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=ilPlX0DFL9Q&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV&index=2
