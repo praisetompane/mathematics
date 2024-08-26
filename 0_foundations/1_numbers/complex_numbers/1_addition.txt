@@ -1,0 +1,12 @@
+addition:
+    plain english: add the Real parts together and the Imaginary parts together.
+    formal:
+        (a+bi) + (c+di) = a + c + bi + di (Censor, 2015).
+    example:
+        (1 + 2i) + (3 - 5i)
+            = (1 + 3) + (2i - 5i)
+            = 4 + (-3i)
+            = 4 - 3i
+
+References:
+    Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
