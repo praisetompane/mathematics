@@ -1,0 +1,11 @@
+def add(Wildberger, 2009):
+    - join the ones from one natural numbers, with the ones from another.
+        - example: 
+            - given two natural numbers 
+                n = ||| 
+                m = |||||
+            - n add m = ||| and ||||| = ||||||||
+    - represented as n + m
+
+References:
+    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
