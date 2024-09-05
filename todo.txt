@@ -4,7 +4,7 @@ priority:
     - learn
     - field update
 - learn:
-    - 0_foundations: 2 hours
+    - 0_foundations: 
         what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
         - library:
@@ -35,7 +35,7 @@ priority:
     - Institute of Mathematics & its Applications
 next:
     =================================================first year=================================================
-        - linear algebra: 2 hours
+        - linear algebra: 
             - degree module: UNISA MAT1503
                 - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
                     non-homogeneous and homogeneous systems of linear equations,
@@ -66,7 +66,7 @@ next:
             - recitations:
             - assignments:
             - exams:
-        - 3_analysis: 2 hours
+        - 3_analysis: 
             - degree module: UNISA MAT1512
                 - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
                 life and economic sciences. Some simple applications are covered.
@@ -88,7 +88,7 @@ next:
             - recitations:
             - assignments:
             - exams:
-        - computation_and_information/0_foundations: 2 hours
+        - computation_and_information/0_foundations: 
             - degree module: UNISA COS1501
                 - Purpose:
                     - To introduce students to some concepts from Discrete Mathematics as a theoretical foundation for Computer Science.
@@ -107,7 +107,7 @@ next:
             - recitations:
             - assignments:
             - exams:
-        - 2_geometry: 2 hours
+        - 2_geometry: 
             - degree module:
             - library:
             - readings:
