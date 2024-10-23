@@ -6,9 +6,6 @@ def¹: mathematics is an art like music and painting (Lockhart, 2009: 3).
 
 def²: mathematics is about pure reason to get at the truth about something (Lockhart, 2009: 4).
 
-def: how is it created?:
-    see: 0_foundations/1_numbers/0_real_numbers/0_def.txt
-
 plain english:
 - def: mathematics is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
 - the symbols are merely shorthands.
@@ -18,6 +15,10 @@ plain english:
      - `∀` means: for all
      - `+` means: add[which you know from Grade 1 Mathematics]
      - `-` means: subtract[which you know from Grade 1 Mathematics]
+
+def: how is it created?:
+- [initialize mathematics from natural numbers](0_foundations/1_numbers/def.txt)
+- [initialize mathematics from axiomatic method](0_foundations/0_mathematical_logic/foundations_of_mathematics.txt)
 
 a formal classification scheme is maintained here: 
 * https://zbmath.org/classification/
