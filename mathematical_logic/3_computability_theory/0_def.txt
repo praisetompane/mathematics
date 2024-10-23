@@ -1,0 +1,12 @@
+def computability(recursion) theory (Kunen, 2007:9):
+    theory of algorithms and computability.
+
+    def decidability:
+        can we test for the set?
+
+        decidable:
+        
+        undecidable:
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
