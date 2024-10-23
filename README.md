@@ -17,8 +17,8 @@ plain english:
      - `-` means: subtract[which you know from Grade 1 Mathematics]
 
 def: how is it created?:
-- [initialize mathematics from natural numbers](0_foundations/1_numbers/def.txt)
-- [initialize mathematics from axiomatic method](0_foundations/0_mathematical_logic/foundations_of_mathematics.txt)
+- [initialize mathematics from natural numbers](0_foundations/1_numbers/foundations_of_mathematics_natural_numbers_basis.txt)
+- [initialize mathematics from axiomatic method](0_foundations/0_mathematical_logic/foundations_of_mathematics_axiomatic_basis.txt)
 
 a formal classification scheme is maintained here: 
 * https://zbmath.org/classification/

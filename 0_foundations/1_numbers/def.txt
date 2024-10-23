@@ -1,36 +1,4 @@
-Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
-  - in it we introduce:
-    - "|": NB: this be any symbol(i.e. O, (, etc))
-        | represents a single entity:
-            we name | as one
-
-        - remarks: 
-            - this is our first Mathematical object.
-            - all Mathematical objects are based on the natural numbers.
-
-        Q: do we require natural language to create Mathematics?
-        
-    - the idea of adding one(i.e."|") to itself.
-        - | and | = ||
-            we name || as two
-        - this produces a string of |s
-
-    - the idea of adding one to previously added ones(e.g. ||)
-        example:
-            || and | = |||
-                we name ||| as three
-
-    examples:
-        |s              name
-        |               one
-        ||              two
-        |||             three
-        ||||            four
-        |||||           five
-
-def natural number (Wildberger, 2009): a string of ones(i.e. |)
+def number: ???
 
 References:
-    Wildberger, N.J. Math Foundations. 2009. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
-    John Dersch. 2012. 50 Centuries in 50 minutes (A Brief History of Mathematics). https://youtu.be/YsEcpS-hyXw
     1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020
