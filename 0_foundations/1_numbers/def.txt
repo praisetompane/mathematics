@@ -1,4 +1,29 @@
 def number: ???
+    names for quantities?
+
+number vs numeral(Hamkins, 2020)
+        example:
+            number = fifty seven
+            numerals:
+                57 - decimal(base 10)
+                111001 - binary
+                LVII - roman numerals
+
+Qs:
+    Q: Where/When did give these quantities names?
+    Q: Why do we count?
+    Q: When did we start counting?
+    Q: Did we always count upto ten as homo sapiens?
+        hence base 10 system so natural?
+
+    Q: Where does the idea of "how many" things are there come from?
+    Q: Humans and other animals show case the ability to "know(by way of counting? Are there other ways to know how many things are there?" "how many" things are there.
+    Q: how many = numbers?
+    Q: does number theory tackle the origin of concept of "how many"?
+    Q: what is a number?
+    Q: what is counting?
+
 
 References:
-    1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020
+    Hamkins, JD. 2020. What is a number? https://youtu.be/uo1xDbsYAcU
+    Karagila, A. 2022. What is a Number? - Numberphile. https://www.youtube.com/watch?v=NHZt8eBKcRA

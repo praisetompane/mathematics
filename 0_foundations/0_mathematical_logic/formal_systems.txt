@@ -60,3 +60,6 @@ def formal systems (Montalban, 2020):
             - computer proof verification.
             - computer-aided proof development.
             - computer program verification.
+
+References:
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf

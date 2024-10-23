@@ -1,0 +1,39 @@
+def set theory:
+    study of the axioms from which we can derive all mathematics (Kunen, 2007:5).
+
+def set theory²: mathematical theory of sets
+    on which the rest of mathematics is based (Wildberger, 2015).
+
+def hereditary set:
+
+axioms:
+    axiom 0: Set Existence
+             ∃x(x = x)
+
+    axiom 1: Extensibility
+             ∀z(z ∈ x ⟺ z ∈ y) ⟹ x = y
+
+    axiom 2: Foundation
+             ∃y(y ∈ x) ⟹ ∃y(y ∈ x ∧ ¬∃z(z ∈ x ∧ z ∈ y))
+
+    axiom 3: Comprehension Scheme
+             for each formula φ, without y free,
+                ∃y∀x(x ∈ y ⟺ x ∈ z ∧ φ(x))
+
+    axiom 4: Pairing
+             ∃z(x ∈ z ∧ y ∈ z)
+
+    axiom 5: Union
+             ∃A ∀Y ∀x (x ∈ Y ∧ Y ∈ F ⟹ x ∈ A)
+
+    axiom 6: Replacement Scheme
+             for each formula φ, without B free
+                ∀x ∈ A ∃!y φ(x,y) ⟹ ??? 
+
+    axiom 7: Infinity
+    axiom 8: Power Set
+    axiom 9: Choice
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
