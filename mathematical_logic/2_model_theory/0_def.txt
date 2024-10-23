@@ -1,0 +1,5 @@
+def model theory (Kunen, 2007:7):
+    studies the mathematical structure of models.
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
