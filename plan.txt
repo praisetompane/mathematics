@@ -103,7 +103,11 @@ BSc Mathematics:
             ==============================================================================================================================================================
             UCT: Undergraduate BSC Mathematics (Pure Mathematics)
                 program: https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
-                
+            ==============================================================================================================================================================
+            UP: Undergraduate BSC Mathematics
+                program: https://www.up.ac.za/yearbooks/2022/pdf/programme/02133263
+            https://www.up.ac.za/faculty-of-natural-agricultural-sciences/programmes/programme/02133263/year/2025
+
 BSc Honours Mathematics:
     20xx-January-01 - 20xx-December-31:
         UNISA - BSc Honours Mathematics
