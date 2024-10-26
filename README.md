@@ -18,7 +18,7 @@ plain english:
 
 def: how is it created?:
 - [initialize mathematics from natural numbers](0_foundations/1_numbers/foundations_of_mathematics_natural_numbers_basis.txt)
-- [initialize mathematics from axiomatic method](0_foundations/0_mathematical_logic/foundations_of_mathematics_axiomatic_basis.txt)
+- [initialize mathematics from axiomatic method](0_foundations/foundations_of_mathematics_axiomatic_basis.txt)
 
 a formal classification scheme is maintained here: 
 * https://zbmath.org/classification/
@@ -44,9 +44,12 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 - The African Mathematical Society https://aims.ac.za# mathematics
 
 ## Mathematicians:
-- https://terrytao.wordpress.com/
-- https://njwildberger.com
+- Professor Loyiso G: https://www.youtube.com/watch?v=Fwstey-ryP4&list=LL&index=1&t=225s
+- Terry Tao: https://terrytao.wordpress.com/
+- Norman J Wildberger: https://njwildberger.com
+- Asaf Karagila: https://karagila.org
 - https://www.math.columbia.edu/~woit/wordpress/
+
 
 ## git conventions:
 - **NB:** the master is locked and all changes must come through a Pull Request.

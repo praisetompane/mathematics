@@ -1,4 +1,0 @@
-def number: ???
-
-References:
-    1. What is a number?, Joel David Hamkins, https://youtu.be/uo1xDbsYAcU, 2020
