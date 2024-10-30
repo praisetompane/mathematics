@@ -2,12 +2,12 @@ def number: ???
     names for quantities?
 
 number vs numeral(Hamkins, 2020)
-        example:
-            number = fifty seven
-            numerals:
-                57 - decimal(base 10)
-                111001 - binary
-                LVII - roman numerals
+    example:
+        number = fifty seven
+        numerals:
+            57 - decimal(base 10)
+            111001 - binary
+            LVII - roman numerals
 
 Qs:
     Q: Where/When did give these quantities names?

@@ -3,7 +3,7 @@ def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
     remarks:
       also known as Counting numbers.
 
-def natural number (Wildberger, 2009): a string of ones(i.e. |)
+def natural number (Wildberger, 2009): a string of ones(i.e. one = |)
 
     def natural numbers(Wildberger, 2009): a collection of these strings of ones.
         - properties:
