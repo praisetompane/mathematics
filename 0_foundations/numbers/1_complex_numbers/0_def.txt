@@ -11,17 +11,23 @@ def complex numbers:
 def complex number set(Censor, 2015):
     formal:
         ℂ = {a + bi | a, b ∈ ℝ}
+    examples: 
+        1 + 7i = complex number
+        example expression:
+            2 + 3i² + 7i
+            2 + 3(-1) + 7i
+            2 - 3 + 7i
+            -1 + 7i
+            7i - 1
+    parts:
+        given:
+            z = 1 + 2i
+        then:
+            parts:
+                Re(z) = 1 : Real Part
+                Im(z) = 2 : Imaginary Part
 
-    example: 1 + 7i = complex number
-
-example expression:
-    2 + 3i² + 7i
-    2 + 3(-1) + 7i
-    2 - 3 + 7i
-    -1 + 7i
-    7i - 1
-
-use case:
+use cases:
     solution to equations:
         x^2 + 1 = 0, has no solution in ℝ
         in complex field ℂ, a solution exists (Censor, 2015):

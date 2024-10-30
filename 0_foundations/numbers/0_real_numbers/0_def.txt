@@ -1,8 +1,3 @@
-def natural number: a strings of 1s(Wildberger, 2009):
-  - properties:
-    - they form a sequence.
-
-
 def real numbers: All numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
   ℝ = ℚ ∪ 𝕀
 
