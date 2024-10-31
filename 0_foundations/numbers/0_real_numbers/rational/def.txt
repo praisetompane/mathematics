@@ -5,8 +5,8 @@ def rational numbers: any number that can be written as a fraction of two intege
     * Key is they can be represented as fractions(i.e. as ratios)
 
 Q: Is there a formal proof for these?
-    - all integers are Rational numbers
-    - all natural numbers are Rational numbers
+    - all integers are Rational numbers(Kent State Department of Mathematical Sciences, 2008:3).
+    - all natural numbers are Rational numberss(Kent State Department of Mathematical Sciences, 2008:3).
 
 def fraction: an integer divided by a nonzero integer.
             Q: Does the numerator and denominator have to be integers?
