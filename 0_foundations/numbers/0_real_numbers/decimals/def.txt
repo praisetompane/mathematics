@@ -21,8 +21,5 @@ def decimals: these are also based on 10(Kent State Department of Mathematical S
 Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
   Yes, that's how we get infinite decimals (i.e the irrational numbers.)
 
-
-Q: are Rational and Irrational numbers decimal numbers?
-
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

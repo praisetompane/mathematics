@@ -15,9 +15,6 @@ Q: Are theew categories for irrational numbers?
   |     |___________________|   |                                 |
   |_____________________________|_________________________________|
 
-# Legend
-  Q: Question for later research
-
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
   Wildberger, N.J. 2009. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB  
