@@ -1,5 +1,4 @@
-def irrational numbers: Real numbers that are not Rational.
-                        They cannot be represented as fractions(ratios)(Kent State Department of Mathematical Sciences, 2008:3).
+def irrational numbers: Real numbers that cannot be represented as fractions(ratios)(Kent State Department of Mathematical Sciences, 2008:3).
                         They are infinite and non-repeating decimals (Khan Academy).
                         e.g. √2, √5 π, φ, ⅇ, etc
 
