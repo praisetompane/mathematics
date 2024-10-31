@@ -1,4 +1,11 @@
-def real numbers: All numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
+def real numbers¹(Censor, 2015):
+  infomal:
+    ℝ = {x | -∞ < x ∞ }
+  plain english:
+    the set of all numbers x
+      such that x is between negative infinity and positive infinity
+
+def real numbers²: all numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
   ℝ = ℚ ∪ 𝕀
 
 Q: Are theew categories for irrational numbers?
@@ -18,3 +25,4 @@ Q: Are theew categories for irrational numbers?
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
   Wildberger, N.J. 2009. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB  
+  Censor, A. Algebra 1M - international. 03 - Fields. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
