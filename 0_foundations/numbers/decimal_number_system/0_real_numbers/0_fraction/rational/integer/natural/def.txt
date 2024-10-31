@@ -1,0 +1,28 @@
+def natural numbers(Kent State Department of Mathematical Sciences, 2008:2):
+    - ℕ = {1,2,3,4,...}
+    - remarks:
+        also known as Counting numbers.
+
+use cases:
+    - count apples, goats etc.
+    - solution to equations:
+        example:
+            given:
+                equation₁: x + 1 = 5
+            then:
+                in Natural Numbers(i.e. ℕ), a solution exists (Censor, 2015):
+                    solve equation:
+                        x + 1 - 1 = 5 - 1 : substract 1 from both sides
+                        then:
+                            x = 5 - 1
+                            x = 4
+                        substituion test:
+                            let x = 4
+                                x + 1 = 5
+                                4 + 1 = 5
+                                5 = 5
+                                which is true
+
+References:
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1

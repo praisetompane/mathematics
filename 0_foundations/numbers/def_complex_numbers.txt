@@ -17,10 +17,10 @@ def complex number:
 def complex number set(Censor, 2015):
     formal:
         ℂ = {a + bi | a, b ∈ ℝ}
-    in words: the set of all numbers of the forma "a + bi"
+    plain english: the set of all numbers of the forma "a + bi"
                     where a and b are Real Numbers
 
-    examples: 
+    examples using decimal number system numbers notation: 
         1 + 7i = complex number
         example expression:
             2 + 3i² + 7i
@@ -38,7 +38,7 @@ def complex number set(Censor, 2015):
 
 use cases:
     - solution to equations:
-        example:
+        example using decimal number system numbers notation:
             given:
                 equation₁: x^2 + 1 = 0
             when:
