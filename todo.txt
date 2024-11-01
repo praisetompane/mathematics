@@ -7,7 +7,7 @@ priority:
     - 0_foundations: 
         what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
-        - library:
+        - lecture:
             - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
         - readings:
             - a concise introduction to mathematical logic. wolfgang rautenberg
@@ -30,7 +30,7 @@ priority:
 
     - 1_algebra: 
         - degree module:
-        - library:
+        - lecture:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 05 - Complex numbers
@@ -44,7 +44,7 @@ priority:
 
     - 2_geometry: 
         - degree module:
-        - library:
+        - lecture:
         - readings:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - recitations:
@@ -123,7 +123,7 @@ next:
                     - eigenvalues,
                     - eigenvectors,
                     - diagonalisation as well as some miscellaneous applications.
-            - library:
+            - lecture:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 11 - Matrices - 42 -  Determinants
@@ -151,7 +151,7 @@ next:
                     - economic sciences.
                 Some simple applications are covered.
                 More advanced techniques and further applications are dealt with in module MAT1613.
-        - library:
+        - lecture:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
@@ -182,7 +182,7 @@ next:
                 - harvesting strategies;
                 - epidemics; economics and other situations;
             simple optimization and applications.
-        - library:
+        - lecture:
             - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
             - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
             - DelftX: Modelling with Differential Equations
@@ -198,7 +198,7 @@ next:
         - degree module: PHY1505
             - Purpose: Vectors, static equilibrium, uniformly accelerated motion Newton's laws, work and energy,
             momentum, motion in a circle, rotational motion, mechanical properties of matter, vibrations.
-        - library:
+        - lecture:
             - MIT 8.01x - MIT Physics I: Classical Mechanics
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
@@ -217,7 +217,7 @@ next:
                 eigenvalues and eigenvectors, diagonalization of matrices, orthogonality in Rn,
                 Gram-Schmidt algorithm, orthogonal diagonalization of symmetric matrices,
                 linear transformations, change of basis and their matrix representations.
-                - library:
+                - lecture:
                 - Technion Algebra 1M:
                     - in offline library
                     - lecture 11 - Matrices - 42 -  Determinants
@@ -238,7 +238,7 @@ next:
                 - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint.
                     Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and
                     Mealy machines, transition graphs, the pumping lemma and decision problems.
-            - library:
+            - lecture:
                 - MIT 18.404J Theory of Computation, Fall 2020:
                     - in offline library
                     - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
@@ -257,7 +257,7 @@ next:
     =================================================third year=================================================
         - 1_algebra:
             - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
-            - library:
+            - lecture:
                 - Technion Algebra 1M:
                     - in offline library
                     - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
@@ -270,7 +270,7 @@ next:
     =================================================research===================================================
         - origins and history: why was mathematics created? what is mathematics? how is mathematics done?:
             - degree module: n/a
-            - library:
+            - lecture:
                 - Insights into Mathematics MathHistory: A course in the History of Mathematics:
                     - in offline library
                     - https://m.youtube.com/playlist?list=PL55C7C83781CF4316
@@ -283,7 +283,7 @@ next:
     ============================================================================================================
     - next field template:
         - degree module:
-        - library:
+        - lecture:
         - readings:
         - assignments:
         - exams:
