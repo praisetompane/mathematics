@@ -1,241 +1,237 @@
-BSc Mathematics:
-    20xx-January-01 - 20xx-December-31:
-            UNISA - Undergraduate - BSc Mathematics and Applied Mathematics:   
-                program: https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-–-MAM)
+==============================================================================================================================================================
+Massachusetts Institute of Technology:    
+    undergraduate: 
+        program:
+            BSc Mathematics (Course 18)
+            http://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
+            https://math.mit.edu/academics/undergrad/major/course18/pure.php
+            Mathematics subjects: http://catalog.mit.edu/subjects/18/
+        
+        Required Subjects 
+            18.03 or 18.032 (formerly 18.034) (Differential Equations)
+                [sufficiently advanced students may substitute 18.152 or 18.303]
+            18.100 (Real Analysis)
+                [equivalent:  18.100A, 18.100P and 18.100Q ]
+            18.701 (Algebra I)
+            18.702 (Algebra II)
+            18.901 (Introduction to Topology)
+        Restricted Electives
+            One of the following three Subjects
+                18.101 (Analysis and Manifolds)
+                18.102 (Introduction to Functional Analysis)
+                18.103 (Fourier Analysis — Theory and Applications)
+            One of the following six Seminars
+                18.104 (Seminar in Analysis)
+                18.504 (Seminar in Logic)
+                18.704 (Seminar in Algebra) * My Pick
+                18.784 (Seminar in Number Theory)
+                18.904 (Seminar in Topology)
+                18.994 (Seminar in Geometry)
+        two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher:
+            18.504 Seminar in Logic * My Pick
+            18.424 Seminar in Information Theory * My Pick
+        Units in Major	                                                                108
+        
+        Unrestricted Electives	                                                        84
+            two CI-M subjects requirement:
+                NB: 7 × 12 unit subjects
+                18.434 Seminar in Theoretical Computer Science                          12
+                18.784 (Seminar in Number Theory)                                       12
             
-                20xx-January-01 - 20xx-December-31:
-                    First Level: 
-                        Year Module (4 - 6 hours each per week)
-                            MAT1503 - Linear Algebra I
-                            MAT1512 - Calculus A
-                            COS1501 - Theoretical Computer Science I 
-                            COS1511 - Introduction to Programming I                         - Done -  GET EXEMPTION
-                
-                20xx-January-01 - 20xx-December-31:
-                    First Level: 
-                        Year Module (4 - 6 hours each per week)
-                            APM1513 - Applied Linear Algebra
-                            MAT1613 - Calculus B
-                            APM1514 - Mathematical Modelling
-                            PHY1505 - Mechanics (Physics)
-                            EUP1501 - Ethical Information and Communication Technologies for Development Solutions
-                
-                2026-January-01 - 2026-December-31:
-                    Second Level:
-                        Year Module (4 - 6 hours each per week)
-                            MAT2611 - Linear Algebra 2                                      Pre-requisite:MAT1503
-                            MAT2612 - Introduction to Discrete Mathematics 	                Pre-requisite:COS1501 or MAT1512 or MAT1503
-                            MAT2613 - Real Analysis I 	                                    Pre-requisite:MAT1613
-                            MAT2615 - Calculus in Higher Dimensions 	                    Pre-requisite:MAT1512 or MAT1503
-                            PHY2601 - Classical Mechanics 	                                Pre-requisite:PHY1505, MAT1503 & MAT1512
-                            PLS2607 - Philosophy of Science 	
-                    
-                20xx-January-01 - 20xx-December-31:
-                    Second Level:
-                        Year Module (4 - 6 hours each per week)
-                            APM2611 - Differential Equations 	                            Pre-requisite:MAT1512                                                                    Co-requisite:MAT1503, MAT1613
-                            APM2613 - Numerical Methods I 	                                Pre-requisite:COS1511                                                               Co-requisite:MAT1512, MAT1503
-                            APM2614 - Applied Dynamical Systems 	                        Pre-requisite:MAT1503
-                            APM2616 - Computer Algebra 	                                    Pre-requisite:COS1511 and APM1513                                                                Co-requisite:MAT1512, MAT1503
-                            COS2601 - Theoretical Computer Science II 	                    Pre-requisite:COS1501
+            five more 12 unit subjects:
+                since you want to study only Mathematics in this program,
+                select from here: http://catalog.mit.edu/subjects/18/.
 
-                20xx-January-01 - 20xx-December-31:
-                    Third Level:
-                        Year Module (4 - 6 hours each per week)
-                            MAT3702 - Abstract Algebra 	                                    Pre-requisite:MAT2611
-                            MAT3705 - Complex Analysis                                  	Pre-requisite:MAT2615, MAT2613
-                            MAT3706 - Ordinary Differential Equations 	                    Pre-requisite:APM2611
-                            MAT3707 - Discrete Mathematics: Combinatorics 	                Pre-requisite:MAT2612
-                            MAT3711 - Real Analysis II 	                                    Pre-requisite:MAT2613
+                We are interested in the:
+                    - foundational subjects that the rest of Mathematics is built on.
+                        - set theory, model theory, proof theory, recursion theory
+                    - 'core'/abstract Mathematics that underpins/describes everything in Mathematics
+                        - algebra, number theory, category theory
+    honours: 
 
-                20xx-January-01 - 20xx-December-31:
-                    Third Level:
-                        Year Module (4 - 6 hours each per week)
-                            APM3701 - Partial Differential Equations 	                    Pre-requisite:APM2611 & MAT2615
-                            APM3711 - Numerical Methods II 	                                Pre-requisite:APM2613
-                            APM3712 - Mechanics and Calculus of Variations 	                Pre-requisite:APM2611 & MAT2615
-                            APM3713 - Special Relativity and Riemannian Geometry 	        Pre-requisite:MAT2615
-                            MAT3701 - Linear Algebra III 	                                Pre-requisite:MAT2611
+    masters:
 
-                ==============================================================================================================================================================
-                Content:
-                    MAT1503 - Linear Algebra I:
-                        notes: 1_algebra/5_matrices
-                        resources:
-                            https://www.khanacademy.org/math/linear-algebra
-                            https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
-                            https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Linear-Algebra-–-MAT1503    
-                    MAT1512 - Calculus A:
-                        notes: 3_analysis/0_calculus
-                        resources: 
-                            3_mathematics/differential_and_integral_calculus_1
-                            https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
-                            https://www.khanacademy.org/math/calculus-1
-                            https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-                            * Deeper:
-                                https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
-                    COS1501 - Theoretical Computer Science I:
-                        notes: 4_computation/0_theory_of_computation
-                        resources: 
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Theoretical-Computer-Science-I-–-COS1501
-                            https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
-                    COS1511 - Introduction to Programming I: GET EXEMPTION
-                        notes: 4_computation/5_software_and_its_engineering/1_software_notations_and_tools/1_general_programming_languages
-                        resources:
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Introduction-to-Programming-I-–-COS1511
+    doctrate: 
 
+==============================================================================================================================================================
+University of Pretoria:
+    undergraduate: 
+        program:
+            - BSc (Mathematics) (02133263)
+            - https://www.up.ac.za/yearbooks/2022/pdf/programme/02133263
+            - https://www.up.ac.za/media/shared/114/Study%20programmes/2021/oda1-study-programme-math-21.zp201035.pdf
+            - https://www.up.ac.za/faculty-of-natural-agricultural-sciences/programmes/programme/02133263/year/2025
+    honours: 
+        program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2088537/bsc-honours-in-mathematics-programme-code-02240181
+
+    masters: 
+        program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2085225/msc-in-mathematics-programme-code-02250181
+
+    doctrate: 
+        program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2121683/phd-in-mathematical-sciences-programme-code-02260761
+
+    
+
+==============================================================================================================================================================
+Wits University:
+    undergraduate: 
+    
+    honours: 
+
+    masters:
+
+    doctrate: 
+
+==============================================================================================================================================================
+UNISA:
+    undergraduate: 
+        program:
+            BSc Mathematics and Applied Mathematics
+            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-–-MAM)
+    
+        First Level:
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
+                    MAT1503 - Linear Algebra I
+                    MAT1512 - Calculus A
+                    COS1501 - Theoretical Computer Science I 
+                    COS1511 - Introduction to Programming I                         - Done -  GET EXEMPTION
+            
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
                     APM1513 - Applied Linear Algebra
                     MAT1613 - Calculus B
                     APM1514 - Mathematical Modelling
                     PHY1505 - Mechanics (Physics)
                     EUP1501 - Ethical Information and Communication Technologies for Development Solutions
-                    MAT3702 - Abstract Algebra
-                        notes: 1_algebra
-                        resources:
-                            https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28V   uDAHJNrf3JCgT0GG_rjFVz0-j9
-                            https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Subjects-&-modules/All-modules/Abstract-Algebra-–-MAT3702             
-            ==============================================================================================================================================================
-            MIT - Undergraduate BSC Mathematics:
-                program: http://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
-                         https://math.mit.edu/academics/undergrad/major/course18/pure.php
-                Mathematics subjects: http://catalog.mit.edu/subjects/18/
+        Second Level:
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
+                    MAT2611 - Linear Algebra 2                                      Pre-requisite:MAT1503
+                    MAT2612 - Introduction to Discrete Mathematics 	                Pre-requisite:COS1501 or MAT1512 or MAT1503
+                    MAT2613 - Real Analysis I 	                                    Pre-requisite:MAT1613
+                    MAT2615 - Calculus in Higher Dimensions 	                    Pre-requisite:MAT1512 or MAT1503
+                    PHY2601 - Classical Mechanics 	                                Pre-requisite:PHY1505, MAT1503 & MAT1512
+                    PLS2607 - Philosophy of Science 	
                 
-                Required Subjects 
-                    18.03 or 18.032 (formerly 18.034) (Differential Equations)
-                        [sufficiently advanced students may substitute 18.152 or 18.303]
-                    18.100 (Real Analysis)
-                        [equivalent:  18.100A, 18.100P and 18.100Q ]
-                    18.701 (Algebra I)
-                    18.702 (Algebra II)
-                    18.901 (Introduction to Topology)
-                Restricted Electives
-                    One of the following three Subjects
-                        18.101 (Analysis and Manifolds)
-                        18.102 (Introduction to Functional Analysis)
-                        18.103 (Fourier Analysis — Theory and Applications)
-                    One of the following six Seminars
-                        18.104 (Seminar in Analysis)
-                        18.504 (Seminar in Logic)
-                        18.704 (Seminar in Algebra) * My Pick
-                        18.784 (Seminar in Number Theory)
-                        18.904 (Seminar in Topology)
-                        18.994 (Seminar in Geometry)
-                two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher:
-                    18.504 Seminar in Logic * My Pick
-                    18.424 Seminar in Information Theory * My Pick
-                Units in Major	                                                                108
-                
-                Unrestricted Electives	                                                        84
-                    two CI-M subjects requirement:
-                        NB: 7 × 12 unit subjects
-                        18.434 Seminar in Theoretical Computer Science                          12
-                        18.784 (Seminar in Number Theory)                                       12
-                    
-                    five more 12 unit subjects:
-                        since you want to study only Mathematics in this program,
-                        select from here: http://catalog.mit.edu/subjects/18/.
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
+                    APM2611 - Differential Equations 	                            Pre-requisite:MAT1512                                                                    Co-requisite:MAT1503, MAT1613
+                    APM2613 - Numerical Methods I 	                                Pre-requisite:COS1511                                                               Co-requisite:MAT1512, MAT1503
+                    APM2614 - Applied Dynamical Systems 	                        Pre-requisite:MAT1503
+                    APM2616 - Computer Algebra 	                                    Pre-requisite:COS1511 and APM1513                                                                Co-requisite:MAT1512, MAT1503
+                    COS2601 - Theoretical Computer Science II 	                    Pre-requisite:COS1501
+        Third Level:
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
+                    MAT3702 - Abstract Algebra 	                                    Pre-requisite:MAT2611
+                    MAT3705 - Complex Analysis                                  	Pre-requisite:MAT2615, MAT2613
+                    MAT3706 - Ordinary Differential Equations 	                    Pre-requisite:APM2611
+                    MAT3707 - Discrete Mathematics: Combinatorics 	                Pre-requisite:MAT2612
+                    MAT3711 - Real Analysis II 	                                    Pre-requisite:MAT2613
 
-                        We are interested in the:
-                            - foundational subjects that the rest of Mathematics is built on.
-                                - set theory, model theory, proof theory, recursion theory
-                            - 'core'/abstract Mathematics that underpins/describes everything in Mathematics
-                                - algebra, number theory, category theory
-                    
-            ==============================================================================================================================================================
-            UCT: Undergraduate BSC Mathematics (Pure Mathematics)
-                program: https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
-            ==============================================================================================================================================================
-            UP: Undergraduate BSC Mathematics
-                program: https://www.up.ac.za/yearbooks/2022/pdf/programme/02133263
-            https://www.up.ac.za/faculty-of-natural-agricultural-sciences/programmes/programme/02133263/year/2025
+            20xx-January-01 - 20xx-December-31:
+                Year Module (4 - 6 hours each per week)
+                    APM3701 - Partial Differential Equations 	                    Pre-requisite:APM2611 & MAT2615
+                    APM3711 - Numerical Methods II 	                                Pre-requisite:APM2613
+                    APM3712 - Mechanics and Calculus of Variations 	                Pre-requisite:APM2611 & MAT2615
+                    APM3713 - Special Relativity and Riemannian Geometry 	        Pre-requisite:MAT2615
+                    MAT3701 - Linear Algebra III 	                                Pre-requisite:MAT2611
 
-BSc Honours Mathematics:
-    20xx-January-01 - 20xx-December-31:
-        UNISA - BSc Honours Mathematics
-            HRMAT82 - Honours Research in Mathematics
+    honours: 
+        program:
+            BSc Honours Mathematics
 
-            NB: Choose 7 from below:
-            MAT4831 - Measure Theory and Integration 	
-            MAT4833 - Group Theory 	
-            MAT4834 - Rings and Fields 	                    Co-requisite:MAT4833
-            MAT4835 - Set Theory 	
-            MAT4836 - Topology 	Recommendation:Enrolled students for this module have to be connected to myUnisa throughout the year
-            MAT4837 - Introduction to Category Theory 	
-            MAT4838 - Category Theory 	
-            MAT4841 - Functional Analysis I 	
-            MAT4842 - Functional Analysis II 	            Pre-requisite:MAT4841
-            MAT4843 - Ordinary Differential Equations I 	
-            MAT4844 - Ordinary Differential Equations II 	Co-requisite:MAT4843
-            MAT4845 - Graph Theory I 	
-            MAT4846 - Graph Theory II 	                    Co-requisite:MAT4845
-            MAT4847 - Partial Differential Equations I 	
-            MAT4848 - Partial Differential Equations II 	Co-requisite:MAT4847
-            MAT4857 - Matrix Theory and Linear Algebra I 	
-            MAT4858 - Matrix Theory and Linear Algebra II
-            ==============================================================================================================================================================
-            Content:
-                MAT4837 - Introduction to Category Theory 
-                    notes: 0_foundations/4_category_theory
-                    resources: 
-                        /Users/praisetompane/Documents/library/3_mathematics/category_theory
-                        https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
-                        current position: begin Category Theory 12 What is a category.mp4 
-                
-                MAT4838 - Category Theory 
-                    notes: 0_foundations/4_category_theory
-                    resources:
-                        https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm
+        20xx-January-01 - 20xx-December-31:
+            UNISA - BSc Honours Mathematics
+                HRMAT82 - Honours Research in Mathematics
 
-                MAT4835 - Set Theory
-                    notes: 0_foundations/0_set_theory
-                
-                MAT4845 - Graph Theory I
-                    notes: applied_mathematics/graph_theory 	
-                
-                MAT4846 - Graph Theory II 	                    Co-requisite:MAT4845
-                    notes: applied_mathematics/graph_theory
-
-                MAT4833 - Group Theory 
-                    notes: 1_algebra/1_group
-                
+                NB: Choose 7 from below:
+                MAT4831 - Measure Theory and Integration 	
+                MAT4833 - Group Theory 	
                 MAT4834 - Rings and Fields 	                    Co-requisite:MAT4833
-                    notes: 1_algebra/2_field
-==============================================================================================================================================================
-Research:
-- sources: 
-    - Research in Mathematics: https://www.youtube.com/watch?v=6aD-PggFODA
-    - What is it like to be a Pure mathematician?: https://www.youtube.com/watch?v=f6YiFdUbrV0
-    - https://www.quantamagazine.org/mathematics/
-- sub-areas:
-    - Mathematical Logic
-    - Algebra
-    - Geometry
-    - Analysis
-- schools:
-    - ...
-- companies | research labs:
-    - ...
-- priority:
-    - build: 4 hours
-    - study: 4 hours
+                MAT4835 - Set Theory 	
+                MAT4836 - Topology 	Recommendation:Enrolled students for this module have to be connected to myUnisa throughout the year
+                MAT4837 - Introduction to Category Theory 	
+                MAT4838 - Category Theory 	
+                MAT4841 - Functional Analysis I 	
+                MAT4842 - Functional Analysis II 	            Pre-requisite:MAT4841
+                MAT4843 - Ordinary Differential Equations I 	
+                MAT4844 - Ordinary Differential Equations II 	Co-requisite:MAT4843
+                MAT4845 - Graph Theory I 	
+                MAT4846 - Graph Theory II 	                    Co-requisite:MAT4845
+                MAT4847 - Partial Differential Equations I 	
+                MAT4848 - Partial Differential Equations II 	Co-requisite:MAT4847
+                MAT4857 - Matrix Theory and Linear Algebra I 	
+                MAT4858 - Matrix Theory and Linear Algebra II
+                ==============================================================================================================================================================
+                Content:
+                    MAT4837 - Introduction to Category Theory 
+                        notes: 0_foundations/4_category_theory
+                        resources: 
+                            /Users/praisetompane/Documents/library/3_mathematics/category_theory
+                            https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+                            current position: begin Category Theory 12 What is a category.mp4 
+                    
+                    MAT4838 - Category Theory 
+                        notes: 0_foundations/4_category_theory
+                        resources:
+                            https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm
 
-    - build:
-        - tasks:
+                    MAT4835 - Set Theory
+                        notes: 0_foundations/0_set_theory
+                    
+                    MAT4845 - Graph Theory I
+                        notes: applied_mathematics/graph_theory 	
+                    
+                    MAT4846 - Graph Theory II 	                    Co-requisite:MAT4845
+                        notes: applied_mathematics/graph_theory
+
+                    MAT4833 - Group Theory 
+                        notes: 1_algebra/1_group
+                    
+                    MAT4834 - Rings and Fields 	                    Co-requisite:MAT4833
+                        notes: 1_algebra/2_field
+    masters:
+
+    doctrate:
+        - sources: 
+            - Research in Mathematics: https://www.youtube.com/watch?v=6aD-PggFODA
+            - What is it like to be a Pure mathematician?: https://www.youtube.com/watch?v=f6YiFdUbrV0
+            - https://www.quantamagazine.org/mathematics/
+        - sub-areas:
+            - Mathematical Logic
+            - Algebra
+            - Geometry
+            - Analysis
+        - schools:
             - ...
-    - study:
-        - tasks:
-            - How do mathematicians publish? – Some trends: https://euromathsoc.org/magazine/articles/160?mc_cid=509a05b69f
-            - The Connoisseur of Number Sequences: https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/?mc_cid=509a05b69f
-            - Explore Research Level Maths with Channel Membership at Wild Egg Maths | N J Wildberger
-            - 2023-November-4: find a learning path for Research Scientists in Specialization.
-                    - https://www.youtube.com/watch?v=cuzVy4znhqU
-                    - example: https://github.com/praisetompane/From-0-to-Research-Scientist-resources-guide 
-            - 2023-November-4: decide on specific area.
-            - 2023-November-4 - 2023-MM-DD: learn how to conduct research
-                - courses already enrolled on Coursera
-                - 
-            - 2023-MM-DD: conduct research
+        - companies | research labs:
+            - ...
+        - priority:
+            - build: 4 hours
+            - study: 4 hours
+
+            - build:
+                - tasks:
+                    - ...
+            - study:
+                - tasks:
+                    - How do mathematicians publish? – Some trends: https://euromathsoc.org/magazine/articles/160?mc_cid=509a05b69f
+                    - The Connoisseur of Number Sequences: https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/?mc_cid=509a05b69f
+                    - Explore Research Level Maths with Channel Membership at Wild Egg Maths | N J Wildberger
+                    - 2023-November-4: find a learning path for Research Scientists in Specialization.
+                            - https://www.youtube.com/watch?v=cuzVy4znhqU
+                            - example: https://github.com/praisetompane/From-0-to-Research-Scientist-resources-guide 
+                    - 2023-November-4: decide on specific area.
+                    - 2023-November-4 - 2023-MM-DD: learn how to conduct research
+                        - courses already enrolled on Coursera
+                        - 
+                    - 2023-MM-DD: conduct research
+
 ==============================================================================================================================================================
 course content template:
     readings:
