@@ -13,6 +13,5 @@ def quadratic equation:²
     Examples: 
         2x² + 4x + 2 = 0
         
-
 References:
     1,2 https://www.youtube.com/watch?v=UZTvYYoOrmI&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF&index=2
