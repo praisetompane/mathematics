@@ -16,26 +16,10 @@ def factors: numbers being multiplied in a multiplication sentence (Kent State D
         5 and 3 are factors of 15
 
 properties or laws (Kent State Department of Mathematical Sciences, 2008:53-54)(Khan Academy)(Wildberger, 2009) :
-    commutative
-    associatiative
-    distributive(Kent State Department of Mathematical Sciences, 2008:54):
-        4 * 7:
-            4 * (5 + 2)
-            4 * 5 + 4 * 2
-            20 + 8
-            ∴28
-        
-        6 * 9:
-            6 * (6 + 3)
-            6 * 6 + 6 * 3
-            36 + 18
-            ∴ 54
-
-         6 * 9:
-            6 * (10 - 1)
-            6 * 10 - 6 * 1
-            60 - 6
-            ∴ 54
+    commutative:
+        -
+    associatiative:
+        -
 
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
