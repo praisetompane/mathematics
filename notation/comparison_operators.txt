@@ -1,6 +1,0 @@
-comparison operators:
-    > greater than
-    < less than
-    = equal
-    ≥ greater than or equal
-    ≤ less than or equal

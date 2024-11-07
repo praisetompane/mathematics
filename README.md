@@ -27,8 +27,12 @@ a formal classification scheme is maintained here:
 - MoMath, Wolfram Research: https://history-of-mathematics.org/
 - NJ Wildberger. The history of mathematics: https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
 
+## Notation:
+- [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+
 ## State of the art:
 Quanta Magazine: https://www.quantamagazine.org/mathematics/
+
 
 ## Community:
 - https://aims.ac.za/
@@ -49,19 +53,7 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 - Asaf Karagila: https://karagila.org
 - https://www.math.columbia.edu/~woit/wordpress/
 
-## git conventions:
-- **NB:** the master is locked and all changes must come through a Pull Request.
-- commit messages:
-    - provide concise commit messages that describe what you have done.
-        ```shell
-        # example:
-        git commit -m "feat(core): algorithm" -m"implement my new shiny faster algorithm"
-        ```
-    - screen shot of Githb view
-    - references: 
-        - https://www.conventionalcommits.org/en/v1.0.0/
-        - https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
-        
+ 
 # References:
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 - Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
