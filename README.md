@@ -1,13 +1,13 @@
 # What is Mathematics?
 
-objective: an attempt at unpacking in layman's terms what mathematics is and how it is created.
+**objective**: an attempt at unpacking in layman's terms what mathematics is and how it is created.
 
-def¹: mathematics is an art like music and painting (Lockhart, 2009: 3).
+**def mathematics¹**: is an art like music and painting (Lockhart, 2009: 3).
 
-def²: mathematics is about pure reason to get at the truth about something (Lockhart, 2009: 4).
+**def mathematics²**: is about pure reason to get at the truth about something (Lockhart, 2009: 4).
 
-plain english:
-- def: mathematics is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
+**plain english**:
+- **def mathematics:** is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
 - the symbols are merely shorthands.
      symbols such as `∧`, `Σ`, `∀`, `+`, `×`.
      - `∧` means: AND
@@ -16,12 +16,13 @@ plain english:
      - `+` means: add[which you know from Grade 1 Mathematics]
      - `-` means: subtract[which you know from Grade 1 Mathematics]
 
-def: how is it created?:
+**formal classification scheme**:
+- - [ZBMATH](https://zbmath.org/classification/)
+
+**def how is it created?**:
 - [initialize mathematics from natural numbers](0_foundations/foundations_numbers_method.txt)
 - [initialize mathematics from axiomatic method](0_foundations/foundations_axiomatic_method.txt)
 
-a formal classification scheme is maintained here: 
-- https://zbmath.org/classification/
 
 ## History:
 - MoMath, Wolfram Research: https://history-of-mathematics.org/
@@ -31,8 +32,7 @@ a formal classification scheme is maintained here:
 - [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
 ## State of the art:
-Quanta Magazine: https://www.quantamagazine.org/mathematics/
-
+[Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 
 ## Community:
 - https://aims.ac.za/
@@ -53,12 +53,12 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 - https://www.math.columbia.edu/~woit/wordpress/
 
  
-# References:
+## References:
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 - Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 - Lockhart, P. 2009. A Mathematician's Lament.
 
-# Legend:
+## Legend:
 **Q**: Question for later research
 
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
