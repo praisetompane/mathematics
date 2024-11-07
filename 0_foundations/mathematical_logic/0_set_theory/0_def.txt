@@ -1,2 +1,2 @@
 def set theory:
-    see: 0_foundations/theories/0_set_theory
+    see: 0_foundations/1_set_theory
