@@ -31,11 +31,9 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
                 18
     Q: are there distributive laws between other pairs of operators?:
         - addition and addition
-        - addition and multiplication
         - addition and division
         - addition and substraction
 
-        - multiplication and addition
         - multiplication and multiplication
         - multiplication and division
         - multiplication and substraction
