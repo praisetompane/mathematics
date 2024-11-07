@@ -29,6 +29,27 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
                 12  + 3 × 2
                 12 + 6
                 18
+    Q: are there distributive laws between other pairs of operators?:
+        - addition and addition
+        - addition and multiplication
+        - addition and division
+        - addition and substraction
+
+        - multiplication and addition
+        - multiplication and multiplication
+        - multiplication and division
+        - multiplication and substraction
+
+        - substraction and addition
+        - substraction and multiplication
+        - substraction and division
+        - substraction and substraction
+
+        - division and addition
+        - division and multiplication
+        - division and division
+        - division and substraction
+        
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
     Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
