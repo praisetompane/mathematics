@@ -21,12 +21,11 @@ def: how is it created?:
 - [initialize mathematics from axiomatic method](0_foundations/foundations_of_mathematics_axiomatic_basis.txt)
 
 a formal classification scheme is maintained here: 
-* https://zbmath.org/classification/
-* https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
+- https://zbmath.org/classification/
 
 ## History:
-* MoMath, Wolfram Research: https://history-of-mathematics.org/
-* NJ Wildberger. The history of mathematics: https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
+- MoMath, Wolfram Research: https://history-of-mathematics.org/
+- NJ Wildberger. The history of mathematics: https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
 
 ## State of the art:
 Quanta Magazine: https://www.quantamagazine.org/mathematics/
@@ -48,7 +47,6 @@ Quanta Magazine: https://www.quantamagazine.org/mathematics/
 - Norman J Wildberger: https://njwildberger.com
 - Asaf Karagila: https://karagila.org
 - https://www.math.columbia.edu/~woit/wordpress/
-
 
 ## git conventions:
 - **NB:** the master is locked and all changes must come through a Pull Request.
