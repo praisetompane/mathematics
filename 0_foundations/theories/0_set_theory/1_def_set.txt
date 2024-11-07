@@ -1,4 +1,4 @@
-sets:
+def setᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ:
     { element₁, element₂, ..., elementₙ }      := constructor
     { element | predicate }
         example:
@@ -11,3 +11,6 @@ sets:
         ∪   := addition
         ∈   := in (is element of) 
         ⊆   := subset or equal
+
+References:
+    TBD
