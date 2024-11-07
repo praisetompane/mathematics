@@ -1,11 +1,15 @@
 def addition¹ (Wildberger, 2009):
-    - join the ones from one natural numbers, with the ones from another.
-        - example: 
-            - given two natural numbers 
-                n = ||| 
-                m = |||||
-            - n add m = ||| and ||||| = ||||||||
-    - represented as n + m
+    formal:
+        - the sum of natural numbers 𝑛 and 𝑚 
+            is the combination of the ones in 𝑛 with ones in 𝑚.
+        - represented as 𝑛 + 𝑚
+    plain english:
+        - join the ones from one natural number, with the ones from another.
+            - example: 
+                - given two natural numbers 
+                    n = ||| 
+                    m = |||||
+                - n add m = ||| and ||||| = ||||||||
 
 def addition²: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
@@ -76,9 +80,41 @@ If the quantity is whole quantity, we attempt the storage at the ones and work o
 If the quantity is a whole quantity, we attempt the storage at the tenths and work our up the lower places values until
     it is completely stored
 
-properties:
-    commutative
-        i.e. the numbers change position in the expression; "they commute"(Kent State Department of Mathematical Sciences, 2008:53).
+properties or laws (Wildberger, 2009) (Kent State Department of Mathematical Sciences, 2008:53):
+    - commutative
+        i.e. the numbers change position in the expression.
+    - associatiative
+    - successor : S(n) = n + |(i.e. one)
+
+    proofs(i.e. reasons for these laws):
+        - commutative:
+            - given:
+                numbers:
+                    - a = ||
+                    - b = |||
+            - then:
+                a + b = || and ||| = |||||
+                b + a = ||| and || = |||||
+            - therefore:
+                a + b = b + a
+            i.e. the order in which you join the ones(i.e. |)
+                in each number does not matter. it gives you the same result
+        
+        - associatiative:
+            - given:
+                numbers:
+                    - a = |||
+                    - b = ||||
+                    - c = ||
+            - then:
+                (a + b) + c = (||| and ||||) and || = |||||||||
+                a + (b + c) = ||| and (|||| and ||) = |||||||||
+            - therefore:
+                (a + b) + c = a + (b + c)
+            i.e. the groupings of the numbers
+                    and the order of addition of the groups
+                        does not matter. it gives you the same result.
+
 
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
