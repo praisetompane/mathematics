@@ -1,4 +1,4 @@
-intervals (Censor, 2015):
+def interval (Censor, 2015):
     () := open interval. 
           set of ALL values between two endpoints.
           excluding the endpoints.
