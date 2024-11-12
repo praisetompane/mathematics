@@ -1,2 +1,2 @@
 def complex numbers:    
-    see: 0_foundations/numbers/def_complex_numbers.txt
+    see: 0_foundations/0_numbers/def_complex_numbers.txt
