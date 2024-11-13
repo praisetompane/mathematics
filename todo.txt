@@ -46,7 +46,14 @@ priority:
         - degree module:
         - lecture:
         - readings:
+            - Get ready for Geometry: https://www.khanacademy.org/math/get-ready-for-geometry
+            - Geometry: https://www.khanacademy.org/math/geometry-home
+            - High school geometry: https://www.khanacademy.org/math/geometry
+            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+                - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                page 142 in pdf. page 117 in text.
         - recitations:
         - assignments:
         - exams:
