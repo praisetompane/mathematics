@@ -91,3 +91,6 @@ def foundations of mathematics (Kunen, 2007:5):
                 - these are definitional axioms.
                 - based on Zermelo-Fraenkel with Choice axiom (ZFC).
                 - all of modern Mathematics is based on Set theory.
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
