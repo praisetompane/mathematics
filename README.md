@@ -29,6 +29,7 @@
 - NJ Wildberger. The history of mathematics: https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
 
 ## Notation:
+- [Wumbo](https://wumbo.net/symbols/)
 - [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
 ## State of the art:
