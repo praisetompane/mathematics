@@ -17,7 +17,7 @@
      - `-` means: subtract[which you know from Grade 1 Mathematics]
 
 **formal classification scheme**:
-- - [ZBMATH](https://zbmath.org/classification/)
+- [ZBMATH](https://zbmath.org/classification/)
 
 **def how is it created?**:
 - [initialize mathematics from natural numbers](0_foundations/foundations_numbers_method.txt)
@@ -35,23 +35,24 @@
 [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 
 ## Community:
-- https://aims.ac.za/
-- https://mathematicallogic.com
-- The South African Mathematical Society: http://www.sams.ac.za
-- Institute of Mathematics & its Applications: https://ima.org.uk
-- Mathematical Association of America: https://www.maa.org
-- American Mathematical Society: https://www.ams.org/mr-database
-- Clay Mathematics Institute: https://www.claymath.org/
-- https://mathoverflow.net/
-- https://math.stackexchange.com/
-- The African Mathematical Society https://aims.ac.za# mathematics
+
+- [The South African Mathematical Society](http://www.sams.ac.za)
+- [The African Mathematical Society](https://aims.ac.za)
+- [Institute of Mathematics & its Applications](https://ima.org.uk)
+- [Mathematical Association of America](https://www.maa.org)
+- [American Mathematical Society](https://www.ams.org/mr-database)
+- [Clay Mathematics Institute](https://www.claymath.org/)
+- [Mathematical Logic](https://mathematicallogic.com)
+- [Math Overflow](https://mathoverflow.net/)
+- [Math Stackexchange](https://math.stackexchange.com/)
+
 
 ## Mathematicians:
-- Professor Loyiso G: https://www.youtube.com/watch?v=Fwstey-ryP4&list=LL&index=1&t=225s
-- Terry Tao: https://terrytao.wordpress.com/
-- Norman J Wildberger: https://njwildberger.com
-- Asaf Karagila: https://karagila.org
-- https://www.math.columbia.edu/~woit/wordpress/
+- [Professor Loyiso G](https://www.youtube.com/watch?v=Fwstey-ryP4&list=LL&index=1&t=225s)
+- [Terry Tao](https://terrytao.wordpress.com/)
+- [Norman J Wildberger](https://njwildberger.com)
+- [Asaf Karagila](https://karagila.org)
+- [Index](https://www.math.columbia.edu/~woit/wordpress/)
 
  
 ## References:
