@@ -38,7 +38,7 @@ def bound variable (Weisstein):
 
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.quati
+    Kunen, K. 2007. The Foundations of Mathematics.
     Weisstein, Eric W. "Formula." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Formula.html 
     Weisstein, Eric W. "Free Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/FreeVariable.html 
     Weisstein, Eric W. "Dummy Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/DummyVariable.html 

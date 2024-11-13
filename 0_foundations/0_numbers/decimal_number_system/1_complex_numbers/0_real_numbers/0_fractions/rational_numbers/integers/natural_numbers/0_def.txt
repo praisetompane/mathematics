@@ -1,8 +1,48 @@
-def natural numbers(Kent State Department of Mathematical Sciences, 2008:2):
+def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
     - ℕ = {1,2,3,4,...}
     - remarks:
         also known as Counting numbers.
 
+def natural number²(Wildberger, 2009): a string of ones(i.e. one = |)
+
+def natural numbers³(Wildberger, 2009): a collection(i.e. Set) of these strings of ones.
+    - properties:
+        - they form a sequence(i.e. they are naturally ordered):
+            - for every natural number, we can associate/define/determine a "successor":
+                example:
+                    S(|) = || = successor of | is ||
+
+                short form: ∀a,b ∈ ℕ, ∃b | S(a) = b ∧ b = a + |
+                
+                remark: this is our first Mathematical operator.
+
+            Q: Why do Natural numbers form a sequence?
+                MYINC:
+                    1. We start with |
+                    2. to get || we require | to exist, because we add | to | to get ||.
+                    3. to get ||| we require || to exist, because  we add | to || to get |||
+                    They come into existence in an order.
+
+        - relative size of natural numbers:
+            - i.e. which number is bigger than another?
+                example:
+                    given: two numbers
+                            ||||
+                            ||||||
+                    then:
+                            pair each one(i.e. |) in one number with a one in the other number.
+                    then:
+                            the number left with unpaired ones is the larger of the two.
+            - abstract notation:
+                let:
+                    - n and m be natural numbers
+                then:
+                    - equality:
+                        n = m, if and only if, |s in n match |s in m
+                            remark: this is our second Mathematical operator.
+                    - inequality:
+                        n < m , if and only if, |s in n are less than |s in m
+                            remark: this is our third Mathematical operator.
 use cases:
     - count apples, goats etc.
     - solution to equations:
