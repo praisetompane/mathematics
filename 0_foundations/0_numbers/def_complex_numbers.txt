@@ -13,13 +13,14 @@ def complex number:
     formal: a + bi | a, b ∈ ℝ    
     in words: a plus b multiplied by i(defined above)
 
-
-def complex number set(Censor, 2015):
-    formal:
-        ℂ = {a + bi | a, b ∈ ℝ}
-    plain english: the set of all numbers of the forma "a + bi"
-                    where a and b are Real Numbers
-
+    parts:
+        given:
+            z = 1 + 2i
+        then:
+            parts:
+                Re(z) = 1 : Real Part
+                Im(z) = 2 : Imaginary Part
+    
     examples using decimal number system numbers notation: 
         1 + 7i = complex number
         example expression:
@@ -28,13 +29,14 @@ def complex number set(Censor, 2015):
             2 - 3 + 7i
             -1 + 7i
             7i - 1
-    parts:
-        given:
-            z = 1 + 2i
-        then:
-            parts:
-                Re(z) = 1 : Real Part
-                Im(z) = 2 : Imaginary Part
+
+def complex number set(Censor, 2015):
+    formal:
+        ℂ = {a + bi | a, b ∈ ℝ}
+    plain english: the set of all numbers of the forma "a + bi"
+                    where a and b are Real Numbers
+
+
 
 use cases:
     - solution to equations:
