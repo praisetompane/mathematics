@@ -28,6 +28,59 @@ priority:
         - assignments:
         - exams:
 
+    - 1_algebra: 
+        - degree module:
+        - lecture:
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 05 - Complex numbers
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+
+        - readings:
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - recitations:
+        - assignments:
+        - exams:
+
+    - 2_geometry: 
+        - degree module:
+        - lecture:
+        - readings:
+            - Get ready for Geometry: https://www.khanacademy.org/math/get-ready-for-geometry
+            - Geometry: https://www.khanacademy.org/math/geometry-home
+            - High school geometry: https://www.khanacademy.org/math/geometry
+            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+                - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                page 142 in pdf. page 117 in text.
+        - recitations:
+        - assignments:
+        - exams:
+            
+    - 3_analysis: 
+        - degree module: UNISA MAT1512
+            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
+            life and economic sciences. Some simple applications are covered.
+            More advanced techniques and further applications are dealt with in module MAT1613.
+        - videos:
+            - Technion Differential and Integral Calculus 1:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+            - MIT 18.01 Single Variable Calculus, 2006:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLpXfHEl2fzl6zCsNWhgdXLK6R-Yh2oUHG
+            - https://www.khanacademy.org/math/calculus-1
+            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+        - readings:
+            - https://robertvirona.com/differential-equations-vs-calculus/
+            - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - what is mathematics?. richard courant.pdf : chapter vi, viii
+            - differential and integral calculus.richard courant
+        - recitations:
+        - assignments:
+        - exams:
+
     - guide:
         - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 - field update:
