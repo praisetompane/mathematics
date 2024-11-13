@@ -25,8 +25,7 @@
 
 
 ## History:
-- MoMath, Wolfram Research: https://history-of-mathematics.org/
-- NJ Wildberger. The history of mathematics: https://www.youtube.com/watch?v=dW8Cy6WrO94&list=PL55C7C83781CF4316
+- [MoMath + Wolfram](https://history-of-mathematics.org/)
 
 ## Notation:
 - [Wumbo](https://wumbo.net/symbols/)
