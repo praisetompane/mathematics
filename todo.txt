@@ -7,7 +7,7 @@ priority:
     - 0_foundations: 
         what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
         - degree module: n/a
-        - lecture:
+        - lectures:
             - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
         - readings:
             - a concise introduction to mathematical logic. wolfgang rautenberg
@@ -29,8 +29,8 @@ priority:
         - exams:
 
     - 1_algebra: 
-        - degree module:
-        - lecture:
+        - degree module: UNISA MAT1503
+        - lectures:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 05 - Complex numbers
@@ -44,11 +44,10 @@ priority:
 
     - 2_geometry: 
         - degree module:
-        - lecture:
-        - readings:
-            - Get ready for Geometry: https://www.khanacademy.org/math/get-ready-for-geometry
+        - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
             - High school geometry: https://www.khanacademy.org/math/geometry
+        - readings:
             - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
                 - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
             - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
@@ -63,7 +62,7 @@ priority:
             - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
             life and economic sciences. Some simple applications are covered.
             More advanced techniques and further applications are dealt with in module MAT1613.
-        - videos:
+        - lectures:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
                 - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
