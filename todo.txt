@@ -5,8 +5,7 @@ priority:
     - field update
 - learn:
     - 0_foundations: 
-        what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
-        - degree module: n/a
+        - degree module:
         - lectures:
             - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
         - readings:
@@ -29,7 +28,7 @@ priority:
         - exams:
 
     - 1_algebra: 
-        - degree module: UNISA MAT1503
+        - degree module: 
         - lectures:
             - Technion Algebra 1M:
                 - in offline library
@@ -58,10 +57,7 @@ priority:
         - exams:
             
     - 3_analysis: 
-        - degree module: UNISA MAT1512
-            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
-            life and economic sciences. Some simple applications are covered.
-            More advanced techniques and further applications are dealt with in module MAT1613.
+        - degree module: 
         - lectures:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
@@ -88,20 +84,7 @@ priority:
 next:
     =================================================first year=================================================
     - linear algebra: 
-        - degree module: UNISA MAT1503
-            - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
-                non-homogeneous and homogeneous systems of linear equations,
-                Gaussian and Jordan-Gauss elimination,
-                matrices and matrix operations,
-                elementary determinants by cofactor expansion, inverse of matrix using the adjoint,
-                Cramer's rule,
-                evaluating determinants using row/column reduction,
-                properties of the determinant function, vectors in 2- , 3- and n- space,
-                dot product,
-                projections,
-                cross product,
-                areas of parallelograms and volumes of parallelepipeds determined by vectors,
-                lines and planes in 3-space and complex numbers.
+        - degree module: 
         - videos:
             - Technion Algebra 1M:
                 - in offline library
@@ -119,17 +102,9 @@ next:
         - assignments:
         - exams:
 
-    
-    
     - linear algebra:
-        - degree module: UNISA APM1513
-            - Purpose: To enable students to master and apply the following aspects of the numerical solution of systems of linear equations:
-                    - the method of least squares;
-                    - linear programming (simplex method);
-                    - eigenvalues,
-                    - eigenvectors,
-                    - diagonalisation as well as some miscellaneous applications.
-            - lecture:
+        - degree module: 
+        - lecture:
             - Technion Algebra 1M:
                 - in offline library
                 - lecture 11 - Matrices - 42 -  Determinants
@@ -147,16 +122,7 @@ next:
         - exams:
 
     - 3_analysis:
-        - degree module: UNISA MAT1613
-            - Purpose: To equip students with basic skills in:
-                - differential calculus
-                - integral calculus
-                - which are essential for the:
-                    - physical,
-                    - life
-                    - economic sciences.
-                Some simple applications are covered.
-                More advanced techniques and further applications are dealt with in module MAT1613.
+        - degree module: 
         - lecture:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
@@ -176,18 +142,7 @@ next:
         - exams:
         
     - Mathematical Modelling
-        - degree module: APM1514
-            - Purpose: To enable students to demonstrate a basic understanding of:
-                - solution,
-                - equilibrium points
-                - stability of difference equations
-                - first-order differential equations;
-
-            applications to:
-                - population models;
-                - harvesting strategies;
-                - epidemics; economics and other situations;
-            simple optimization and applications.
+        - degree module: 
         - lecture:
             - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
             - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
@@ -201,9 +156,7 @@ next:
         - exams:
 
     - Mechanics (Physics)
-        - degree module: PHY1505
-            - Purpose: Vectors, static equilibrium, uniformly accelerated motion Newton's laws, work and energy,
-            momentum, motion in a circle, rotational motion, mechanical properties of matter, vibrations.
+        - degree module: 
         - lecture:
             - MIT 8.01x - MIT Physics I: Classical Mechanics
                 - in offline library
@@ -218,12 +171,8 @@ next:
         - exams:
     =================================================second year================================================
         - linear algebra:
-            - degree module: UNISA MAT2611
-                - Purpose: To understand and apply the following linear algebra concepts:vector spaces, rank of a matrix,
-                eigenvalues and eigenvectors, diagonalization of matrices, orthogonality in Rn,
-                Gram-Schmidt algorithm, orthogonal diagonalization of symmetric matrices,
-                linear transformations, change of basis and their matrix representations.
-                - lecture:
+            - degree module: 
+            - lecture:
                 - Technion Algebra 1M:
                     - in offline library
                     - lecture 11 - Matrices - 42 -  Determinants
@@ -240,10 +189,7 @@ next:
             - assignments:
             - exams:
         - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:
-            - degree module: UNISA COS2601
-                - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint.
-                    Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and
-                    Mealy machines, transition graphs, the pumping lemma and decision problems.
+            - degree module: 
             - lecture:
                 - MIT 18.404J Theory of Computation, Fall 2020:
                     - in offline library
@@ -262,7 +208,7 @@ next:
             - exams:
     =================================================third year=================================================
         - 1_algebra:
-            - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
+            - degree module:  | MIT 18.701 | MIT 18.702
             - lecture:
                 - Technion Algebra 1M:
                     - in offline library
@@ -300,5 +246,3 @@ next:
         *: visited today/last session
             nb: all subjects must be visited before a repeat visit.
 
-    ================================================completed================================================
-    2023-October-28: a mathematician’s lament. paul lockhart
