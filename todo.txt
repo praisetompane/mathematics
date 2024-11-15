@@ -5,8 +5,7 @@ priority:
     - field update
 - learn:
     - 0_foundations: 
-        what are the fundamental building blocks of mathematics and how are they used to build all of mathematics?:
-        - degree module: n/a
+        - degree module:
         - lectures:
             - Dr N J Wildberger. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB
         - readings:
@@ -29,7 +28,7 @@ priority:
         - exams:
 
     - 1_algebra: 
-        - degree module: UNISA MAT1503
+        - degree module: 
         - lectures:
             - Technion Algebra 1M:
                 - in offline library
@@ -58,10 +57,7 @@ priority:
         - exams:
             
     - 3_analysis: 
-        - degree module: UNISA MAT1512
-            - Purpose: To equip students with those basic skills in differential and integral calculus which are essential for the physical,
-            life and economic sciences. Some simple applications are covered.
-            More advanced techniques and further applications are dealt with in module MAT1613.
+        - degree module: 
         - lectures:
             - Technion Differential and Integral Calculus 1:
                 - in offline library
@@ -87,6 +83,7 @@ priority:
     - Institute of Mathematics & its Applications
 next:
     =================================================first year=================================================
+<<<<<<< HEAD
         - linear algebra: 
             - degree module: UNISA MAT1503
                 - Purpose: To enable students to understand and apply the following basic concepts in linear algebra:
@@ -267,6 +264,98 @@ next:
                 Gram-Schmidt algorithm, orthogonal diagonalization of symmetric matrices,
                 linear transformations, change of basis and their matrix representations.
                 - library:
+=======
+    - linear algebra: 
+        - degree module: 
+        - videos:
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices to 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+
+    - linear algebra:
+        - degree module: 
+        - lecture:
+            - Technion Algebra 1M:
+                - in offline library
+                - lecture 11 - Matrices - 42 -  Determinants
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
+            - MIT 18.06 Linear Algebra, Spring 2005:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+        - readings:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - recitations:
+        - assignments:
+        - exams:
+
+    - 3_analysis:
+        - degree module: 
+        - lecture:
+            - Technion Differential and Integral Calculus 1:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+            - MIT 18.01 Single Variable Calculus, 2006:
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLpXfHEl2fzl6zCsNWhgdXLK6R-Yh2oUHG
+            - extras:
+                - https://www.khanacademy.org/math/calculus-2
+                - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+        - readings:
+            - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - what is mathematics?. richard courant.pdf : chapter vi, viii
+            - differential and integral calculus.richard courant
+        - recitations:
+        - assignments:
+        - exams:
+        
+    - Mathematical Modelling
+        - degree module: 
+        - lecture:
+            - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
+            - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
+            - DelftX: Modelling with Differential Equations
+                - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
+            - Mathematical and Computational Methods: https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
+            - https://www.coursera.org/specializations/precalculus-data-modelling#courses
+        - readings:
+            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
+        - assignments:
+        - exams:
+
+    - Mechanics (Physics)
+        - degree module: 
+        - lecture:
+            - MIT 8.01x - MIT Physics I: Classical Mechanics
+                - in offline library
+                - https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
+            - RICEx: Mechanics, Part 1:
+                - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-1?index=product&queryID=30ad8fa66108b51ebeb3545de3fa66a1&position=3&linked_from=autocomplete&c=autocomplete
+            - RICEx: Mechanics, Part 2:
+                - https://www.edx.org/learn/mechanics/rice-university-mechanics-part-2?index=product&queryID=65d11aac9b6986591a096584ef1f5373&position=2&linked_from=autocomplete&c=autocomplete
+        - readings:
+            - https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/
+        - assignments:
+        - exams:
+    =================================================second year================================================
+        - linear algebra:
+            - degree module: 
+            - lecture:
+>>>>>>> 433c1ca (docs: admin)
                 - Technion Algebra 1M:
                     - in offline library
                     - lecture 11 - Matrices - 42 -  Determinants
@@ -283,11 +372,16 @@ next:
             - assignments:
             - exams:
         - computation/0_foundations: what is computation? what can we compute? what can we not compute? why do we compute?:
+<<<<<<< HEAD
             - degree module: UNISA COS2601
                 - This module together with COS3701 will acquaint students with the capabilities and limitations of computers from a theoretical viewpoint.
                     Module COS2601 covers formal languages, recursive definitions, regular expressions, finite automata, Moore and
                     Mealy machines, transition graphs, the pumping lemma and decision problems.
             - library:
+=======
+            - degree module: 
+            - lecture:
+>>>>>>> 433c1ca (docs: admin)
                 - MIT 18.404J Theory of Computation, Fall 2020:
                     - in offline library
                     - playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
@@ -305,8 +399,13 @@ next:
             - exams:
     =================================================third year=================================================
         - 1_algebra:
+<<<<<<< HEAD
             - degree module: UNISA MAT3702 | MIT 18.701 | MIT 18.702
             - library:
+=======
+            - degree module:  | MIT 18.701 | MIT 18.702
+            - lecture:
+>>>>>>> 433c1ca (docs: admin)
                 - Technion Algebra 1M:
                     - in offline library
                     - https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9
@@ -343,5 +442,3 @@ next:
         *: visited today/last session
             nb: all subjects must be visited before a repeat visit.
 
-    ================================================completed================================================
-    2023-October-28: a mathematician’s lament. paul lockhart
