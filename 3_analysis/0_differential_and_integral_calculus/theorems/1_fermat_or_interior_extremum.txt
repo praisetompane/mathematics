@@ -1,16 +1,18 @@
-Fermat or Interior Extremum (Censor, 2013):
-    formal:
-        Let 
-            f(x) be defined on (a,b)
+def Fermat or Interior Extremum (Censor, 2013):
+    - formal:
+        Let: 
+            f(x) be defined in (a,b)
             AND let x₀ be a maximum or minimum point
                 at which f is differentiable.
-        Then f'(x₀) = 0.
+        Then:
+            f'(x₀) = 0.
+            
+    - plain english:
+        - TBD
 
-    plain english:
-
-    properties:
-
-        def maximum: 
+    - properties:
+        - f(x) = function
+        - def maximum: 
             formal:
                 f(x₀) ≥ f(x), ∀x ∈ (a,b)
 
@@ -22,27 +24,36 @@ Fermat or Interior Extremum (Censor, 2013):
             plain english: the point at which 
                                 a function reaches its biggest value.
 
-                                y
-                                ↑
-                                -          ... 
-                                | f(x)--> .   .
-                                -        .     .
-                                |       .       .
+                                 y
+                                 ↑
+                                 |           . 
+                                 | f(x) →  .   .
+                                 |        .     .
+                                 |       .       .
                 ← |---|--|---|---|---|---|---|---|---| → x
-                                |       a   x₀  b   
-                                -    
-                                ↓
+                                 |       a   x₀  b   
+                                 |   
+                                 ↓
 
-        def minimum:
+        - def minimum:
+            - TBD
+        
+        - def f': 
+            formal
+                - 3_analysis/0_differential_and_integral_calculus/0_derivative/0_def.txt
+            plain english:
+                - the derivative of f
+                - pronouced f prime
 
-        def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
+
+        - def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
             see: 3_analysis/0_differential_and_integral_calculus/1_derivative/0_def.txt
 
-            formal:
+            - formal:
 
                 in words:
 
-            plain english:
+            - plain english:
 
             intuition:
                 the slope of the tangent line
@@ -51,16 +62,19 @@ Fermat or Interior Extremum (Censor, 2013):
                 i.e. the tangent line is horizontal
 
 
-                                y
-                                ↑
-                                -      ----...-------- <--- tangent line
-                                | f(x)--> .   .
-                                -        .     .
-                                |       .       .
+                                 y
+                                 ↑         
+                                 |       ----.---- ← tangent line
+                                 | f(x)  → .   .
+                                 |        .     .
+                                 |       .       .
                 ← |---|--|---|---|---|---|---|---|---| → x
-                                |       a   x₀  b   
-                                -    
-                                ↓
-
+                                 |       a   x₀  b   
+                                 |   
+                                 ↓
+        - def differentiable:
+            - formal
+            - plain english:
+                - graph/chart of the function has no cusps(pointy/sharp sections)(i.e. it is smooth)
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
