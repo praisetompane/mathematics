@@ -2,16 +2,6 @@ universal properties (Censor, 2013):
     def f: function
         see: 0_foundations/function.txt
 
-    def differentiable (Censor, 2013):
-
-        formal:
-
-        plain english:
-
-        intuition: for a function to be differentiable
-                            the graph of the function
-                                is smooth (has no cusps).
-
     def continuous (Censor, 2013):
         formal:
 
