@@ -1,6 +1,6 @@
 - def differentiable(Censor, 2013):
     - formal
-        - TDB
+        - TBD
     - plain english:
         - graph/chart of the function has no cusps(pointy/sharp sections)(i.e. it is smooth)
     - intuition: for a function to be differentiable

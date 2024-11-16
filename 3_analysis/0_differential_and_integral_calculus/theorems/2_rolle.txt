@@ -12,10 +12,10 @@ def Rolle (Censor, 2013)
 
     - properties:
         - def continuous:
-            - 
+            - see: 3_analysis/0_differential_and_integral_calculus/continuous.txt
 
         - def differentiable:
-            - see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt 
+            - see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
 
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
