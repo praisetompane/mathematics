@@ -58,8 +58,7 @@
         undergraduate: 
             - program:
                 - BSc (Mathematics) (02133263)
-                - https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
-                - study programme: https://www.up.ac.za/media/shared/114/Study%20programmes/2021/oda1-study-programme-math-21.zp201035.pdf
+                - programme plan: https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
                 - https://www.up.ac.za/faculty-of-natural-agricultural-sciences/programmes/programme/02133263/year/2025
         honours: 
             - program:
@@ -72,7 +71,7 @@
                 - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2121683/phd-in-mathematical-sciences-programme-code-02260761
                 - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
     ==============================================================================================================================================================
-    Wits University:
+    accreditation template:
         undergraduate: 
             - 
         honours: 
@@ -82,12 +81,3 @@
         doctrate: 
             -
     ==============================================================================================================================================================
-    
-    ==============================================================================================================================================================
-    course content template:
-        readings:
-        videos:
-            current position:
-        recitations:
-        assignments:
-        exams:
