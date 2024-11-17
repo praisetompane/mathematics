@@ -17,11 +17,12 @@ def Rolle (Censor, 2013)
         - def differentiable:
             - see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
 
-        - def function intuition chart:
+        - def intuition chart:
+                        f(x):
                                 y
                                 ↑         
                                 |       ----.---- ← tangent line
-                                | f(x)  → .   .
+                                |         .   .
                                 | f(a) → ............... ← f(b) : f(a) = f(b)
                                 |               .     .
                                 |                .   .
