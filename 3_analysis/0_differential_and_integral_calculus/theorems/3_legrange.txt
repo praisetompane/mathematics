@@ -1,17 +1,18 @@
-Legrange (Censor, 2013)
-    formal:
+def Legrange (Censor, 2013):
+    - formal:
         Let 
             f(𝑥) be continuous on [a,b]
-            AND differentiable on (a,b),
+            AND differentiable on (a,b)
         Then
             there exists a point c ∈ (a,b)
             such that: 
                         f'(c) =  f(b) - f(a)
                                 -------------
                                    b - a
-    plain english:
+    - plain english:
 
-    properties:
+    - properties:
+        - def function intuition chart:
 
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
