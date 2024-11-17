@@ -12,7 +12,7 @@ def Legrange (Censor, 2013):
     - plain english:
 
     - properties:
-        - def function intuition chart:
+        - def intuition chart:
 
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

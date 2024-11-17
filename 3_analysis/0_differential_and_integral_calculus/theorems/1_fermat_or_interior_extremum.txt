@@ -24,16 +24,16 @@ def Fermat or Interior Extremum (Censor, 2013):
             plain english: the point at which 
                                 a function reaches its biggest value.
 
-                                 y
-                                 ↑
-                                 |           . 
-                                 | f(x) →  .   .
-                                 |        .     .
-                                 |       .       .
-                ← |---|--|---|---|---|---|---|---|---| → x
-                                 |       a   x₀  b   
-                                 |   
-                                 ↓
+                                y
+                                ↑
+                                |           . 
+                                | f(x) →  .   .
+                                |        .     .
+                                |       .       .
+           ← |---|--|---|---|---|---|---|---|---| → x
+                                |       a   x₀  b   
+                                |   
+                                ↓
 
         - def minimum:
             - TBD
@@ -53,18 +53,17 @@ def Fermat or Interior Extremum (Censor, 2013):
                 in words:
 
             - plain english:
-
-        - def function intuition chart:
-            the slope of the tangent line
-                at x₀
-                is zero(0) 
-            i.e. the tangent line is horizontal
-
-
+                the slope of the tangent line
+                    at x₀
+                        is zero(0) 
+                i.e. the tangent line is horizontal
+                
+        - def intuition chart:
+                        f(x):
                                 y
                                 ↑         
                                 |       ----.---- ← tangent line
-                                | f(x)  → .   .
+                                |         .   .
                                 |        .     .
                                 |       .       .
             ← |---|--|---|---|--|---|---|---|---| → x
