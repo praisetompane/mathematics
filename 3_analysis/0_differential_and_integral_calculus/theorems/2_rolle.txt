@@ -22,7 +22,7 @@ def Rolle (Censor, 2013)
                                 ↑         
                                 |       ----.---- ← tangent line
                                 | f(x)  → .   .
-                                | f(a) → .     .       . ← f(b) : f(a) = f(b)
+                                | f(a) → ............... ← f(b) : f(a) = f(b)
                                 |               .     .
                                 |                .   .
                                 |             -----.---- ← tangent line  
