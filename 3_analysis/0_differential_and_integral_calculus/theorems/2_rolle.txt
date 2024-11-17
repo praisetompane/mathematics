@@ -17,5 +17,19 @@ def Rolle (Censor, 2013)
         - def differentiable:
             - see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
 
+        - def function intuition chart:
+                                y
+                                ↑         
+                                |       ----.---- ← tangent line
+                                | f(x)  → .   .
+                                | f(a) → .     .       . ← f(b) : f(a) = f(b)
+                                |               .     .
+                                |                .   .
+                                |             -----.---- ← tangent line  
+                                |
+                  ← |---|---|---|---|---|---|---|---|---| → x
+                                |        a  c      c   b  
+                                |      
+                                ↓            
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

@@ -45,7 +45,6 @@ def Fermat or Interior Extremum (Censor, 2013):
                 - the derivative of f
                 - pronouced f prime
 
-
         - def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
             see: 3_analysis/0_differential_and_integral_calculus/1_derivative/0_def.txt
 
@@ -55,23 +54,23 @@ def Fermat or Interior Extremum (Censor, 2013):
 
             - plain english:
 
-            intuition:
-                the slope of the tangent line
-                    at x₀
-                    is zero(0) 
-                i.e. the tangent line is horizontal
+        - def function intuition chart:
+            the slope of the tangent line
+                at x₀
+                is zero(0) 
+            i.e. the tangent line is horizontal
 
 
-                                 y
-                                 ↑         
-                                 |       ----.---- ← tangent line
-                                 | f(x)  → .   .
-                                 |        .     .
-                                 |       .       .
-                ← |---|--|---|---|---|---|---|---|---| → x
-                                 |       a   x₀  b   
-                                 |   
-                                 ↓
+                                y
+                                ↑         
+                                |       ----.---- ← tangent line
+                                | f(x)  → .   .
+                                |        .     .
+                                |       .       .
+            ← |---|--|---|---|--|---|---|---|---| → x
+                                |       a   x₀  b   
+                                |   
+                                ↓
         - def differentiable:
             - see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt         
             
