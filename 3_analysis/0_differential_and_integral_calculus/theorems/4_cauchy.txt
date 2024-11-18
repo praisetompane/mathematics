@@ -1,8 +1,9 @@
-Cauchy (Censor, 2013)
-    formal:
-        Let 
-            f(𝑥) and g(x) be continuous on [a,b]
-            AND differentiable on (a,b).
+def Cauchy (Censor, 2013):
+    - formal
+        Let: 
+            f(𝑥) and g(x) 
+                be continuous on [a,b]
+                AND differentiable on (a,b).
 
             Assume that:
                 ∀x ∈ (a,b), g'(x) ≠ 0.
@@ -15,10 +16,38 @@ Cauchy (Censor, 2013)
                    ----- =  -----------
                    g'(c)    g(b) - g(a)
                    
-    plain english:
+    - plain english:
 
-    properties:
+    - properties:
+        - def intuition chart:
 
+        - generalizes Legrange's theorem:
+            solution:
+                Let g(x) = x : a straight line
+
+                f'(c)    f(b) - f(a)
+                ----- =  -----------
+                g'(c)    g(b) - g(a)
+
+
+                f'(c)    f(b) - f(a)
+                ----- =  -----------
+                  1      g(b) - g(a)  : g'(c) = 1:
+                                            - because the derivative of x is 1
+                                            - because the derivitive of a stright line function at any point is 1.
+                                                i.e. its slope is 1(i.e. the rate of change between the points is 1)
+
+                         f(b) - f(a)
+                f'(c) =  -----------  : anything numerator divided by 1, equals the numberator
+                         g(b) - g(a) 
+
+
+                         f(b) - f(a)
+                f'(c) =  ----------- 
+                           b - a      : because g(b) = b and g(a) = a since g is defined as g(x) = x.
+                                            i.e. returns/equals the same value of its parameter.
+
+                    NB: This equation is Legrange's thereom.
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
 
