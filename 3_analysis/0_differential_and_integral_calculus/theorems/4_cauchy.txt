@@ -1,13 +1,14 @@
-Cauchy (Censor, 2013)
-    formal:
-        Let 
-            f(𝑥) and g(x) be continuous on [a,b]
-            AND differentiable on (a,b).
+def Cauchy (Censor, 2013):
+    - formal
+        Let: 
+            f(𝑥) and g(x) 
+                be continuous on [a,b]
+                AND differentiable on (a,b).
 
             Assume that:
                 ∀x ∈ (a,b), g'(x) ≠ 0.
 
-        Then
+        Then:
             1. g(a) ≠ g(b)
             2. ∃c ∈ (a,b)
                 such that:
@@ -15,10 +16,50 @@ Cauchy (Censor, 2013)
                    ----- =  -----------
                    g'(c)    g(b) - g(a)
                    
-    plain english:
+    - plain english:
 
-    properties:
+    - properties:
+        - def intuition chart:
+
+        - generalizes Legrange's theorem:
+            solution:
+                Let g(x) = x : a straight line
+                Then:
+                    f'(c)    f(b) - f(a)
+                    ----- =  -----------
+                    g'(c)    g(b) - g(a)
+
+
+                    f'(c)    f(b) - f(a)
+                    ----- =  -----------
+                      1      g(b) - g(a)  : g'(c) = 1:
+                                                - because the derivative of x is 1.
+                                                - because the derivitive of a stright line function at any point is 1.
+                                                    i.e. its slope is 1(i.e. the rate of change between the points is 1).
+
+                            f(b) - f(a)     f'(c) 
+                    f'(c) =  -----------  : -----  = f'(c): because any numerator divided by 1, equals the numerator.
+                            g(b) - g(a)       1 
+
+
+                             f(b) - f(a)
+                    f'(c) =  ----------- 
+                               b - a      : because g(b) = b and g(a) = a, since g is defined as g(x) = x.
+                                                i.e. returns/equals the same value of its parameter.
+
+                        NB: This equation is Legrange's thereom.
+
+    - mathematician lifetime: 1789 - 1857
+        - remarks: 
+            - invented/discovered and used the precise notion of the term "The Limit".
+                - other attributions:   
+                    - Karl Weierstrass: 1815 - 1897
+            - The Limit term is the foundatio of analysis and is used to define all structures in it, such as:
+                - continuity
+                - derivatives
+                - integrals
+                - series
+                - ...
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
-
+    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

@@ -1,5 +1,5 @@
-Rolle (Censor, 2013)
-    formal:
+def Rolle (Censor, 2013)
+    - formal:
         Let 
             f(x) be continuous on [a,b]
             AND differentiable on (a,b),
@@ -8,9 +8,35 @@ Rolle (Censor, 2013)
             there exists a point c ∈ (a,b)
             such that f'(c) = 0.
     
-    plain english:
+    - plain english:
 
-    properties:
+    - properties:
+        - def continuous:
+            - see: 3_analysis/0_differential_and_integral_calculus/continuous.txt
+
+        - def differentiable:
+            - see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
+
+        - def intuition chart:
+                        f(x):
+                                y
+                                ↑         
+                                |       ----.---- ← tangent line
+                                |         .   .
+                                | f(a) → ............... ← f(b) : f(a) = f(b) for endpoints a,b
+                                |               .     .
+                                |                .   .
+                                |             -----.---- ← tangent line  
+                                |
+                  ← |---|---|---|---|---|---|---|---|---| → x
+                                |        a  c      c   b  
+                                |      
+                                ↓        
+    - mathematician lifetime: 1652 - 1719
+        - remarks: 
+            - Calculus in use/introduced as foundation for other fields(Physic, etc),
+                using infinitesimals.
+            - other Mathematicians/Scientists in time frame: Newton's, Leibniz.
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
