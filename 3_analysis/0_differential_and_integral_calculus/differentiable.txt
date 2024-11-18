@@ -2,10 +2,13 @@
     - formal
         - TBD
     - plain english:
-        - graph/chart of the function has no cusps(pointy/sharp sections)(i.e. it is smooth)
-    - intuition: for a function to be differentiable
-                        the graph of the function
-                            is smooth (has no cusps).
+        - TBD
+    - intuition: 
+        - for a function to be differentiable:
+            - the graph/chart of the function
+                is smooth (has no cusps(pointy/sharp sections)).
+            - the derivative exists for 
+                every point. 
 
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
