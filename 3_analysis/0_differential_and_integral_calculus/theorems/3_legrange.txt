@@ -26,19 +26,19 @@ def Legrange (Censor, 2013):
                                 |        a  c      c   b  
                                 |      
                                 ↓     
-            NB: generalizes Rolle's thereom:
-                i.e. rolle's thereom is a special case where of Legrange's thereom where the value of f(a) equals the value f(b).
-                solution:
-                        f'(c) =  f(b) - f(a)
-                                -------------
-                                    b - a
-
-                        f'(c) =   0 : because the value f(a) equals f(b), their difference is zero(0).
-                                -----
+        - generalizes Rolle's thereom:
+            i.e. rolle's thereom is a special case where of Legrange's thereom where the value of f(a) equals the value f(b).
+            solution:
+                    f'(c) =  f(b) - f(a)
+                            -------------
                                 b - a
-                        
-                        f'(c) = 0 : because zero(0) divided by any number is zero.
 
-                
+                    f'(c) =   0 : because the value f(a) equals f(b), their difference is zero(0).
+                            -----
+                            b - a
+                    
+                    f'(c) = 0 : because zero(0) divided by any number is zero.
+
+            
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
