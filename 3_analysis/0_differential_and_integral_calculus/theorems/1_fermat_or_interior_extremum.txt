@@ -72,7 +72,9 @@ def Fermat or Interior Extremum (Censor, 2013):
                                 ↓
         - def differentiable:
             - see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt         
-            
-            
+    
+    - mathematician lifetime: 1601 - 1665
+        - remarks: layed out first steps in Calculus.
+
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

@@ -46,5 +46,10 @@ def Legrange (Censor, 2013):
                             such that f'(c) = 0.
                         NB: This is Rolle's theorem.
 
+    - mathematician lifetime: 1736 - 1813
+        - remarks: 
+            - Calculus in use/introduced as foundation for other fields(Physic, etc),
+                using infinitesimals.
+
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
