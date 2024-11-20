@@ -15,11 +15,38 @@ def Cauchy (Censor, 2013):
                    f'(c)    f(b) - f(a)
                    ----- =  -----------
                    g'(c)    g(b) - g(a)
-                   
-    - plain english:
 
+        in words:
+
+    - plain english:
+        for a parametric curve
+            there is a/re point/s
+                where the slope of the curve
+                    is precisely f(b) - f(a)
+                                 -----------
+                                 g(b) - g(a)
     - properties:
         - def intuition chart:
+            - presented as the parametric curve:
+                    {
+                        x = g(t)
+                        y = f(t)
+                    } 
+                    where a < t < b
+                                        ----.---- ← tangent line
+                                y         .   .
+                                ↑       .       .
+                                |      .         .   ----.---- ← tangent line
+                                |       .       .      .   . 
+                                | f(a) →.      .     .      .← f(b) 
+                                |             .      .
+                                |              .      .   
+                                |               .   .
+                                |             ----.---- ← tangent line
+                  ← |---|---|---|---|---|---|---|---|---|---| → x
+                                |      g(a) c     c     c  g(b)  
+                                |      
+                                ↓     
 
         - generalizes Legrange's theorem:
             solution:
