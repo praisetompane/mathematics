@@ -17,7 +17,7 @@ def Legrange (Censor, 2013):
                                 ↑         
                                 |       ----.---- ← tangent line
                                 |         .   .         . ← f(b) 
-                                | f(a) → ............... 
+                                | f(a) → .     .       . 
                                 |               .     .
                                 |                .   .
                                 |             -----.---- ← tangent line  
