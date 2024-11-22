@@ -330,8 +330,7 @@ next:
         - recitations:
         - assignments:
         - exams:
-============================================================================================================
-next₃:
+        
     - mathematical modelling:
         - lectures:
             - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
@@ -344,6 +343,9 @@ next₃:
             - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
         - exams:
+============================================================================================================
+next₃:
+
 ============================================================================================================
 - next field template:
     - lectures:
