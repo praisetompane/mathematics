@@ -1,35 +1,33 @@
-def foundations of mathematics(Wildberger, 2009):
-    - Mathematics begins with a blank/empty space(i.e. nothing):
-        - in it we introduce:
-            1. |: 
-               | represents a single entity:
-                    we name | as one
-                NB: this can be any symbol(i.e. *, -, ., etc)
+def foundations of mathematics:
+    Mathematics begins with a blank/empty space(i.e. nothing)(Wildberger, 2009):
+    - in it we introduce:
+        - "|": NB: this be any symbol(i.e. O, (, etc))
+            | represents a single entity:
+                we name | as one
 
-            2. the idea of adding one(i.e."|") to itself.
-                - | and | = ||
-                    we name || as two
-
-            3. iterate: the idea of adding | to what we already have.
-                - examples:
-                    || and |:
-                        we name ||| as three
-                    
-                    ||| and |:
-                        we name |||| as four
-                    
-                    |||| and |:
-                        we name ||||| as five
-
-                    ...
             - remarks: 
-                - These produce strings of |s
-                - These are our first Mathematical objects.
-                - These are the natural numbers.
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
-                - All Mathematical objects are based on the natural numbers.
+                - this is our first Mathematical object.
+                - all Mathematical objects are based on the natural numbers.
 
             Q: do we require natural language to create Mathematics?
+            
+        - the idea of adding one(i.e."|") to itself.
+            - | and | = ||
+                we name || as two
+            - this produces a string of |s
+
+        - the idea of adding one to previously added ones(e.g. ||)
+            example:
+                || and | = |||
+                    we name ||| as three
+
+        examples:
+            |s              name
+            |               one
+            ||              two
+            |||             three
+            ||||            four
+            |||||           five
 
 References:
-    Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?. https://www.wildegg.com/youtube-math-foundations-a.html.
+    Wildberger, N.J. Math Foundations. 2009. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1

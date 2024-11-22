@@ -119,7 +119,6 @@ next₂:
         - recitations:
         - assignments:
         - exams:
-
     - mathematical modelling:
         - lectures:
             - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
@@ -134,16 +133,6 @@ next₂:
         - exams:
 ============================================================================================================
 next₃:
-    - origins and history:
-        - lectures:
-            - Prof. N J Wildberger. Insights into Mathematics MathHistory: A course in the History of Mathematics:
-                - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger [dW8Cy6WrO94]: *
-        - readings:
-            - what is mathematics?. richard courant.pdf
-                - current position: not started
-        - recitations:
-        - assignments:
-        - exams:
 ============================================================================================================
 - next field template:
     - lectures:

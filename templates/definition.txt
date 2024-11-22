@@ -10,7 +10,4 @@ def x:
     - properties:
 
     - examples:
-
-    - use cases:
         
-References:
