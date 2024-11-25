@@ -1,16 +1,48 @@
-def setᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ:
-    { element₁, element₂, ..., elementₙ }      := constructor
-    { element | predicate }
-        example:
-            all Real numbers greater than 5: { x| x > 5 }
+def set(Hammack, 2018:3):
+    - formal:
+        { element₁, element₂, ..., elementₙ }      := constructor
+        { element | predicate }
+            example:
+                all Real numbers greater than 5: { x| x > 5 }
 
-    {} or ∅ := empty set
+        {} or ∅ := empty set
+        - in words:
 
-    operators:
-        \   := minus
-        ∪   := addition
-        ∈   := in (is element of) 
-        ⊆   := subset or equal
+    - plain english:
 
+    - intuition:
+
+    - properties:
+        - operators:
+            \   := minus
+            ∪   := addition
+            ∈   := in (is element of) 
+            ⊆   := subset or equal
+        
+        
+        - elements
+            - infinite
+            - finite
+            - equality
+    - examples:
+
+
+
+def empty set(Hammack, 2018):
+    - formal:
+        ∅ = {}
+
+        - in words:  set with no elements
+
+    - plain english:
+
+    - intuition:
+
+    - properties:
+        - cardinality:
+            |∅| = 0
+            NB: it is the only set with a cardinality of zero(0)
+    - examples:
+        
 References:
-    TBD
+    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
