@@ -1,0 +1,20 @@
+def integration(Hammack: 2020):
+    - formal:
+
+        - in words:
+
+    - plain english:
+        given:
+            a function 𝑓'
+        then:
+            find the function 𝑓
+            
+    - intuition:
+
+    - properties:
+
+    - examples:
+        
+References:
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html

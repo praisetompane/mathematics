@@ -1,0 +1,19 @@
+def fundamental_theorem_of_calculus¹(Hammack: 2020):
+    - formal:
+
+        - in words:
+            the Area under a function 𝑓'
+                between points 𝑥=0 and 𝑥=a 
+                is 𝑓(a) - 𝑓(0)
+                
+    - plain english:
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+
+References:
+    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html
+        

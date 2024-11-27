@@ -47,6 +47,8 @@
             - current: Calculus - 01: *
         - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
             - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
+        - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
+            - current: Hammack's Calculus I, Lecture 1
         - https://www.khanacademy.org/math/calculus-1
         - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
     - readings:
