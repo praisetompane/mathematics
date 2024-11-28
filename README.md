@@ -23,7 +23,6 @@
 - [initialize mathematics from natural numbers](0_foundations/foundations_numbers_method.txt)
 - [initialize mathematics from axiomatic method](0_foundations/foundations_axiomatic_method.txt)
 
-
 ## History:
 - [MoMath + Wolfram](https://history-of-mathematics.org/)
 
@@ -46,15 +45,15 @@
 - [Math Overflow](https://mathoverflow.net/)
 - [Math Stackexchange](https://math.stackexchange.com/)
 
-
 ## Mathematicians:
+- [Norman J Wildberger](https://njwildberger.com)
+- [Richard Hammack](https://richardhammack.github.io/index.html)
 - [Professor Loyiso G](https://www.youtube.com/watch?v=Fwstey-ryP4&list=LL&index=1&t=225s)
 - [Terry Tao](https://terrytao.wordpress.com/)
-- [Norman J Wildberger](https://njwildberger.com)
 - [Asaf Karagila](https://karagila.org)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 
- 
+
 ## References:
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 - Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
