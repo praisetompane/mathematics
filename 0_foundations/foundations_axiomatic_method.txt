@@ -1,4 +1,4 @@
-def foundations of mathematics (Kunen, 2007:5):
+def foundations of mathematics¹ (Kunen, 2007:5):
     - involves/uses the axiomatic method.
 
         def axiomatic method (Kunen, 2007:5): we define/select axioms then
@@ -91,6 +91,7 @@ def foundations of mathematics (Kunen, 2007:5):
                 - these are definitional axioms.
                 - based on Zermelo-Fraenkel with Choice axiom (ZFC).
                 - all of modern Mathematics is based on Set theory.
+
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
