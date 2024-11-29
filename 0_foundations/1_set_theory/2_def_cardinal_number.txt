@@ -1,6 +1,11 @@
-def cardinal number | cardinal | cardinality:
+def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
     formal:
-
+        for a finite set, it is denoted as |SET|
+            example:
+                Let:
+                    A = {}
+                Then:
+                    cardinality of A is |A|
         in words:
 
     plain english:  
@@ -51,5 +56,5 @@ def cardinal number sequence:
 
     examples:
 
-
 References:
+    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

@@ -1,0 +1,31 @@
+def set_builder_notation(Hammack, 2018:5):
+    - formal:
+        - set_name = { expression: rule }
+            parts:
+                - set_name = name of the set(usually a letter)
+                - :          = such that
+                - expression = 
+                - rule       = condition to be met to be included in the set 
+
+            reading rules:
+                expression = The set of all things of the form
+                :          = such that
+                rule       = 
+            example:
+                - A = {2n : n ∈ ℤ}
+                    read as set A 
+                        equals all values 
+                        where n is an integer
+        - in words:
+            set_name equals
+                all the 
+    - plain english:
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+
+References:
+    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

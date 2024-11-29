@@ -1,0 +1,8 @@
+Write each of the following sets in set-builder notation(Hammack, 2018:7):
+
+17. { 2, 4, 8, 16, 32, 64, ...}:
+    {2ⁿ: n ∈ ℤ ∧ n > 0}
+    example: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/exponential_growth.py
+    
+References:
+    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
