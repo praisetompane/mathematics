@@ -1,4 +1,4 @@
-def foundations of mathematics (Kunen, 2007:5):
+def foundations of mathematics¹ (Kunen, 2007:5):
     - involves/uses the axiomatic method.
 
         def axiomatic method (Kunen, 2007:5): we define/select axioms then

@@ -30,11 +30,14 @@
 - [Wumbo](https://wumbo.net/symbols/)
 - [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
+## Tools:
+- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org)
+- [LEAN](https://github.com/leanprover)
+- [mathlib4](https://github.com/leanprover-community/mathlib4)
 ## State of the art:
 [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 
 ## Community:
-
 - [The South African Mathematical Society](http://www.sams.ac.za)
 - [The African Mathematical Society](https://aims.ac.za)
 - [Institute of Mathematics & its Applications](https://ima.org.uk)
