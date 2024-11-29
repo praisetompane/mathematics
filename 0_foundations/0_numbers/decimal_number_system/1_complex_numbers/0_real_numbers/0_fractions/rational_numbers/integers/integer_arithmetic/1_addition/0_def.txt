@@ -1,9 +1,9 @@
 def addition¹ (Wildberger, 2009):
-    formal:
+    - formal:
         - the sum of natural numbers 𝑛 and 𝑚 
             is the combination of the ones in 𝑛 with ones in 𝑚.
         - represented as 𝑛 + 𝑚
-    plain english:
+    - plain english:
         - join the ones from one natural number, with the ones from another.
             - example: 
                 - given two natural numbers 
@@ -11,7 +11,105 @@ def addition¹ (Wildberger, 2009):
                     m = |||||
                 - n add m = ||| and ||||| = ||||||||
 
-def addition²: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
+    - properties
+        - laws (Wildberger, 2009) (Kent State Department of Mathematical Sciences, 2008:53):
+            - commutative
+                i.e. the numbers change position in the expression.
+            - associatiative
+
+            proofs(i.e. reasons for these laws):
+                - commutative:
+                    - given:
+                        numbers:
+                            - a = ||
+                            - b = |||
+                    - then:
+                        a + b = || and ||| = |||||
+                        b + a = ||| and || = |||||
+                    - therefore:
+                        a + b = b + a
+                    i.e. the order in which you join the ones(i.e. |)
+                        in each number does not matter. it gives you the same result
+                
+                - associatiative:
+                    - given:
+                        numbers:
+                            - a = |||
+                            - b = ||||
+                            - c = ||
+                    - then:
+                        (a + b) + c = (||| and ||||) and || = |||||||||
+                        a + (b + c) = ||| and (|||| and ||) = |||||||||
+                    - therefore:
+                        (a + b) + c = a + (b + c)
+                    i.e. the groupings of the numbers
+                            and the order of addition of the groups
+                                does not matter. it gives you the same result.
+
+def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
+    Models to understand the MEANING of addition:
+        Positive numbers:
+            Counting(Kent State Department of Mathematical Sciences, 2008:7):
+                To add 13 + 14
+                    Take two sets of  objects
+                        one contains 13 objects
+                        one contains 14 objects
+                    Gather the two sets, into one set
+                        count the objects in the new set = 27
+                    ∴ 13 + 14 = 27 => mathematical sentence to represent above
+                    
+            Climbing steps(Kent State Department of Mathematical Sciences, 2008:9)
+
+            Walking to the left and/or right on the number line from zero(Kent State Department of Mathematical Sciences, 2008)
+                negative = walk left
+                positive = walk right
+                x + y
+                Flow
+                    walk x positions
+                    from the x position
+                        walk y positions
+                            the answer is the next position you end up on.
+                Example
+                    5 + (-4)
+                                    -   -   -   -
+                                    *   *   *   *   * => walk 5 units to the right
+                    <---|---|---|---|---|---|---|---|---|---|---|-->  
+                    -3  -2  -1   0   1   2   3   4   5   6   7
+                    ∴ answer = 1
+
+
+                    5 + 3
+                                                        +   +   + walk 3 units to the right
+                                    +   +   +   +   +   => walk 5 units to the right
+                    <---|---|---|---|---|---|---|---|---|---|---|---|>  
+                    -3  -2  -1   0   1   2   3   4   5   6   7   8   9
+                    ∴ answer = 8
+
+            Examples:
+                8 + 7 = 15
+                6 + 8 = 14
+
+            Large(multiple place value) number addition:
+                place values:  
+                million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
+                Q:
+                    Why does it look like place values are read in groups of 3?
+                        i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
+                        
+        Negative numbers:
+                Negative and Positive numbers negate each other to zero(0)
+                    More specifically the positive and negative ones(1s) negate each other(Kent State Department of Mathematical Sciences, 2008:9)
+
+        
+        General Integer Addition algorithm(Kent State Department of Mathematical Sciences, 2008:10):
+                If addends(numbers) have same sign:
+                    add their absolute values
+                    attach the common sign
+                if addends(numbers) have different sign:
+                    subtract their absolute values(subtract the smaller smaller from larger)
+                    attach the sign of the largest absolute value
+
+def addition³: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
         if a quantify exceeds the storage capacity of the current place value
             the excess quantity is stored in the next bigger place value.
@@ -40,82 +138,46 @@ def addition²: the act of storing quantity into a place value(i.e. ...,the hund
                     Therefore
                         num = 1 ones
     
-If the quantity is whole quantity, we attempt the storage at the ones and work our way up the higher place values until 
-    it is completely stored
+            if the quantity is whole quantity, we attempt the storage at the ones and work our way up the higher place values until 
+                it is completely stored
 
-    It is counting 1 ones from your source quantity into the target.
-        Example:
-            Given:
-                num = ...000.000...
-                source quantity = 15
-                ∴ 15 + ...000.000... = 15 ones + ...000.000... ones
+                It is counting 1 ones from your source quantity into the target.
+                    Example:
+                        Given:
+                            num = ...000.000...
+                            source quantity = 15
+                            ∴ 15 + ...000.000... = 15 ones + ...000.000... ones
 
-            Then:
-                Take 1(one) from source quantity
-                    stored it in num's ones place value
-                    repeat until source quantity is empty
+                        Then:
+                            Take 1(one) from source quantity
+                                stored it in num's ones place value
+                                repeat until source quantity is empty
 
-                -----------------------------------------
-                15  ...000.000...
-                14  ...001.000...
-                13  ...002.000...   
-                12  ...003.000...
-                11  ...004.000...
-                10  ...005.000...
-                09  ...006.000...
-                08  ...007.000...
-                07  ...008.000... 
-                06  ...009.000...
-                05  ...010.000... NB: num's one place value max capacity reached. Therefore logic above applied 
-                04  ...011.000...
-                03  ...012.000...
-                02  ...013.000...   
-                01  ...014.000...   
-                00  ...015.000...   
-                         
-            Therefore: 
-                Addition is counting 1(ones) from a source quantity into a target quantity.
-                    Scaling the place value 1(ones) are stored as the ones place value reaches max capacity
+                            -----------------------------------------
+                            15  ...000.000...
+                            14  ...001.000...
+                            13  ...002.000...   
+                            12  ...003.000...
+                            11  ...004.000...
+                            10  ...005.000...
+                            09  ...006.000...
+                            08  ...007.000...
+                            07  ...008.000... 
+                            06  ...009.000...
+                            05  ...010.000... NB: num's one place value max capacity reached. Therefore logic above applied 
+                            04  ...011.000...
+                            03  ...012.000...
+                            02  ...013.000...   
+                            01  ...014.000...   
+                            00  ...015.000...   
+                                    
+                        Therefore: 
+                            Addition is counting 1(ones) from a source quantity into a target quantity.
+                                Scaling the place value 1(ones) are stored as the ones place value reaches max capacity
 
-If the quantity is a whole quantity, we attempt the storage at the tenths and work our up the lower places values until
-    it is completely stored
-
-properties or laws (Wildberger, 2009) (Kent State Department of Mathematical Sciences, 2008:53):
-    - commutative
-        i.e. the numbers change position in the expression.
-    - associatiative
-    - successor : S(n) = n + |(i.e. one)
-
-    proofs(i.e. reasons for these laws):
-        - commutative:
-            - given:
-                numbers:
-                    - a = ||
-                    - b = |||
-            - then:
-                a + b = || and ||| = |||||
-                b + a = ||| and || = |||||
-            - therefore:
-                a + b = b + a
-            i.e. the order in which you join the ones(i.e. |)
-                in each number does not matter. it gives you the same result
-        
-        - associatiative:
-            - given:
-                numbers:
-                    - a = |||
-                    - b = ||||
-                    - c = ||
-            - then:
-                (a + b) + c = (||| and ||||) and || = |||||||||
-                a + (b + c) = ||| and (|||| and ||) = |||||||||
-            - therefore:
-                (a + b) + c = a + (b + c)
-            i.e. the groupings of the numbers
-                    and the order of addition of the groups
-                        does not matter. it gives you the same result.
-
+Q: Do we know why we can count?
+Q: Do all "addable" mathematical objects have their number line equivalent?
 
 References:
-    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
-    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS. hhttps://www.wildegg.com/youtube-math-foundations-a.html.
