@@ -18,5 +18,5 @@ properties:
                     in current mathematics we have no way to do this, hence it is undefined.
             notation: 7/0 is undefined.
 
-references:
+References:
     Weisstein EW. "Undefined." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Undefined.html

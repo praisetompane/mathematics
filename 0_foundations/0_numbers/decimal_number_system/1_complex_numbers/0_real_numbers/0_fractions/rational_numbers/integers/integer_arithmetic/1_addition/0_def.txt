@@ -1,8 +1,11 @@
 def addition¹ (Wildberger, 2009):
     - formal:
-        - the sum of natural numbers 𝑛 and 𝑚 
-            is the combination of the ones in 𝑛 with ones in 𝑚.
-        - represented as 𝑛 + 𝑚
+
+        - in words:
+            - the sum of natural numbers 𝑛 and 𝑚 
+                is the combination of the ones in 𝑛 with ones in 𝑚.
+            - represented as 𝑛 + 𝑚
+
     - plain english:
         - join the ones from one natural number, with the ones from another.
             - example: 
@@ -45,69 +48,83 @@ def addition¹ (Wildberger, 2009):
                     i.e. the groupings of the numbers
                             and the order of addition of the groups
                                 does not matter. it gives you the same result.
+    - examples:
 
 def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
-    Models to understand the MEANING of addition:
-        Positive numbers:
-            Counting(Kent State Department of Mathematical Sciences, 2008:7):
-                To add 13 + 14
-                    Take two sets of  objects
-                        one contains 13 objects
-                        one contains 14 objects
-                    Gather the two sets, into one set
-                        count the objects in the new set = 27
-                    ∴ 13 + 14 = 27 => mathematical sentence to represent above
-                    
-            Climbing steps(Kent State Department of Mathematical Sciences, 2008:9)
+    - formal:
 
-            Walking to the left and/or right on the number line from zero(Kent State Department of Mathematical Sciences, 2008)
-                negative = walk left
-                positive = walk right
-                x + y
-                Flow
-                    walk x positions
-                    from the x position
-                        walk y positions
-                            the answer is the next position you end up on.
-                Example
-                    5 + (-4)
-                                    -   -   -   -
-                                    *   *   *   *   * => walk 5 units to the right
-                    <---|---|---|---|---|---|---|---|---|---|---|-->  
-                    -3  -2  -1   0   1   2   3   4   5   6   7
-                    ∴ answer = 1
-
-
-                    5 + 3
-                                                        +   +   + walk 3 units to the right
-                                    +   +   +   +   +   => walk 5 units to the right
-                    <---|---|---|---|---|---|---|---|---|---|---|---|>  
-                    -3  -2  -1   0   1   2   3   4   5   6   7   8   9
-                    ∴ answer = 8
-
-            Examples:
-                8 + 7 = 15
-                6 + 8 = 14
-
-            Large(multiple place value) number addition:
-                place values:  
-                million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
-                Q:
-                    Why does it look like place values are read in groups of 3?
-                        i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
-                        
-        Negative numbers:
-                Negative and Positive numbers negate each other to zero(0)
-                    More specifically the positive and negative ones(1s) negate each other(Kent State Department of Mathematical Sciences, 2008:9)
-
-        
-        General Integer Addition algorithm(Kent State Department of Mathematical Sciences, 2008:10):
+        - in words:
+            - General Integer Addition algorithm(Kent State Department of Mathematical Sciences, 2008:10):
                 If addends(numbers) have same sign:
                     add their absolute values
                     attach the common sign
                 if addends(numbers) have different sign:
                     subtract their absolute values(subtract the smaller smaller from larger)
                     attach the sign of the largest absolute value
+
+    - plain english:
+        - Models to understand the MEANING of addition:
+            - Positive numbers:
+                Counting(Kent State Department of Mathematical Sciences, 2008:7):
+                    To add 13 + 14
+                        Take two sets of  objects
+                            one contains 13 objects
+                            one contains 14 objects
+                        Gather the two sets, into one set
+                            count the objects in the new set = 27
+                        ∴ 13 + 14 = 27 => mathematical sentence to represent above
+                        
+                Climbing steps(Kent State Department of Mathematical Sciences, 2008:9)
+
+                Walking to the left and/or right on the number line from zero(Kent State Department of Mathematical Sciences, 2008)
+                    negative = walk left
+                    positive = walk right
+                    x + y
+                    Flow
+                        walk x positions
+                        from the x position
+                            walk y positions
+                                the answer is the next position you end up on.
+                    Example
+                        5 + (-4)
+                                        -   -   -   -
+                                        *   *   *   *   * => walk 5 units to the right
+                        <---|---|---|---|---|---|---|---|---|---|---|-->  
+                        -3  -2  -1   0   1   2   3   4   5   6   7
+                        ∴ answer = 1
+
+
+                        5 + 3
+                                                            +   +   + walk 3 units to the right
+                                        +   +   +   +   +   => walk 5 units to the right
+                        <---|---|---|---|---|---|---|---|---|---|---|---|>  
+                        -3  -2  -1   0   1   2   3   4   5   6   7   8   9
+                        ∴ answer = 8
+
+                Examples:
+                    8 + 7 = 15
+                    6 + 8 = 14
+
+                Large(multiple place value) number addition:
+                    place values:  
+                    million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
+                    Q:
+                        Why does it look like place values are read in groups of 3?
+                            i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
+                            
+            - Negative numbers:
+                Negative and Positive numbers negate each other to zero(0)
+                    More specifically the positive and negative ones(1s) negate each other(Kent State Department of Mathematical Sciences, 2008:9)
+
+    - intuition:
+        - laws (Kent State Department of Mathematical Sciences, 2008:53):
+            commutative:
+                -
+            associatiative:
+                -
+    - properties:
+
+    - examples:
 
 def addition³: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
