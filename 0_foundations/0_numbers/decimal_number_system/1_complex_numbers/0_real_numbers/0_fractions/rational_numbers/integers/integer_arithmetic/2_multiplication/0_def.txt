@@ -1,26 +1,49 @@
-def multiplication: repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
-    of multiple equal groups of something(Khan Academy)
+def multiplication²(Wildberger, 2009):
+    - formal:
 
-    Example:  
-        3 groups of five
-        3 fives 
-        5 + 5 + 5 = 15 or 5 x 3 = 15
-        5 is repeatedly added 3 times
+        - in words:
 
-structure: 
-    factor x factor = product
-    
-def factors: numbers being multiplied in a multiplication sentence (Kent State Department of Mathematical Sciences, 2008:19).
-    Example:    
-        5 x 3 = 15
-        5 and 3 are factors of 15
+    - plain english:
 
-properties or laws (Kent State Department of Mathematical Sciences, 2008:53-54)(Khan Academy)(Wildberger, 2009) :
-    commutative:
-        -
-    associatiative:
-        -
+    - intuition:
+        - laws (Wildberger, 2009) :
+            commutative:
+                -
+            associatiative:
+                -
+                
+    - properties:
 
+    - examples:
+
+def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
+    - formal:
+        - in words:
+            repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
+                of multiple equal groups of something(Khan Academy)
+        
+        - examples:  
+            3 groups of five
+            3 fives 
+            5 + 5 + 5 = 15 or 5 x 3 = 15
+            5 is repeatedly added 3 times
+
+    - plain english:
+
+    - intuition:
+
+    - properties:
+        - factors: numbers being multiplied in a multiplication sentence (Kent State Department of Mathematical Sciences, 2008:19).
+            - example:    
+                5 x 3 = 15
+                5 and 3 are factors of 15
+        - structure: 
+            factor x factor = product
+        - laws (Kent State Department of Mathematical Sciences, 2008:53-54) :
+            commutative:
+                -
+            associatiative:
+                -
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
     Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
