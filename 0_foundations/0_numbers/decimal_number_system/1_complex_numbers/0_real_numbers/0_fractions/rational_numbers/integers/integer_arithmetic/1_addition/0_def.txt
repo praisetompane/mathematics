@@ -16,7 +16,6 @@ def addition¹ (Wildberger, 2009):
             - commutative
                 i.e. the numbers change position in the expression.
             - associatiative
-            - successor : S(n) = n + |(i.e. one)
 
             proofs(i.e. reasons for these laws):
                 - commutative:
