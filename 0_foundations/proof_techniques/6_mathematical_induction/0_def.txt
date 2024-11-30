@@ -1,6 +1,8 @@
 def x:
     - formal:
 
+            - it is an axiom.
+            
         - in words:
 
     - plain english:
@@ -12,5 +14,6 @@ def x:
     - examples:
 
     - use cases:
-        
+        - computer science
+
 References:
