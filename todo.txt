@@ -3,6 +3,7 @@
     - readings: 
         - Book of Proof. Richard Hammack
             - current: Preface to the Third Edition
+        - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
         - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
         - Sets, Logic, Computation. The Open Logic Project
         - a concise introduction to mathematical logic. wolfgang rautenberg
