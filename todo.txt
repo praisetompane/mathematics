@@ -1,7 +1,7 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
-    - readings: 
-        - Book of Proof. Richard Hammack
+    - readings:
+        - Prof. Richard Hammack. Book of Proof. 
             - current: Preface to the Third Edition
         - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
         - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
@@ -13,7 +13,7 @@
     - assignments:
     - exams:
 
-- 0_foundations: 
+- 0_foundations:
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
             - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
@@ -29,21 +29,9 @@
     - assignments:
     - exams:
 
-- 03_mathematical_logic_and_foundations/03Exx_set_theory:
+- 1_algebra:
     - lectures:
-        - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.
-            - current: 2. Set Theory. Basic concepts
-    - readings:
-        - The Open Logic Project. 2021. Set Theory An Open Introduction
-            - https://github.com/OpenLogicProject/set-theory
-        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
-            - Chapter 1: Sets
-    - assignments:
-    - exams:
-
-- 15_linear_and_multilinear_algebra;matrix_theory:
-    - lectures:
-        - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering. 
+        - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
             - current: Lecture 05 - Complex numbers: *
         - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
             - current:
@@ -59,7 +47,7 @@
     - assignments:
     - exams:
 
-- 26_real_functions:
+- 3_analysis:
     - lectures:
         - calculus:
             - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering. 
@@ -83,76 +71,33 @@
     - assignments:
     - exams:
 
+- guide:
+    - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
+
 ============================================================================================================
 next₁:
-    - 00_general_and_overarching_topics;collections:
-        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations
-            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
-            - basics:
-                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger
-                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger
-            - others:
-                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger
-                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81
-                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82
-                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger
-                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger
-                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104
-                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210
-                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211
-            - more on real number:
-                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111
-                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger
-            - more on natural numbers:
-                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155
-                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157
-                
-        - readings:
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
-                - current position: pg. 22: example 3
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
-                - current position: not started
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade
-        - recitations:
-        - assignments:
-        - exams:
-
-    - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
-        - lectures:
-        - readings:
-            - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
-                - https://github.com/RichardHammack/RichardHammack.github.io
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Velleman, D.J. 2019. How to Prove It A Structured Approach
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
-        - assignments:
-        - exams:
-
-    - 12_field_theory_and_polynomials:
+    - 1_algebra/1_abstract_algebra:
         - lectures:
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - 20_group_theory_and_generalizations:
+    - linear algebra:
         - lectures:
+            - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
+                - lecture 11 - Matrices to 42 -  Determinants
+            - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
+                - current:
+            - extras:
+                - https://www.khanacademy.org/math/linear-algebra
+                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-============================================================================================================
-next₂:
-    - 51_geometry
+    - 2_geometry:
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
@@ -167,12 +112,10 @@ next₂:
         - assignments:
         - exams:
 
-    - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
+    - 3_analysis:
         - lectures:
-            - Mathematical Modeling : Analysis and Applications
-            - Edx: DelftX: MathMod1x: Modelling with Differential Equations
-            - Edx: GeorgetownX: PHYS-155  - Mathematical and Computational Methods
-            - Coursera: Precalculus through Data and Modelling Specialization
+            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
+                - current: None
         - readings:
             - https://ocw.Massachusetts Institute of Technology.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
@@ -182,6 +125,14 @@ next₂:
         - lectures:
         - readings:
             - Munkres, J.R. 2000. Topology. 2nd Edition
+        - recitations:
+        - assignments:
+        - exams:
+============================================================================================================
+next₂:
+    - 4_toppology:
+        - lectures:
+        - readings:
         - recitations:
         - assignments:
         - exams:
