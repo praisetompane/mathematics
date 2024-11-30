@@ -1,7 +1,22 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
-        - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley.
-            - current:  03. Logic. The Language Of Sentential Logic
+    - readings: 
+        - Book of Proof. Richard Hammack
+            - current: Preface to the Third Edition
+        - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+        - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
+        - Sets, Logic, Computation. The Open Logic Project
+        - a concise introduction to mathematical logic. wolfgang rautenberg
+            - current position: not started
+        - the foundations of mathematics. kenneth kunen:
+            - current position: page 13, section 1.2: r1
+    - assignments:
+    - exams:
+
+- 0_foundations: 
+    - lectures:
+        - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
+            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
     - readings:
         - Hinman, P.G. 2005. Fundamentals of Mathematical Logic.
         - Kunen, K. 2007. The Foundations of Mathematics.
