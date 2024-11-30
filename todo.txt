@@ -1,7 +1,7 @@
 - 0_foundations/mathematical_logic:
     - lectures:
-    - readings: 
-        - Book of Proof. Richard Hammack
+    - readings:
+        - Prof. Richard Hammack. Book of Proof. 
             - current: Preface to the Third Edition
         - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
         - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
@@ -13,7 +13,7 @@
     - assignments:
     - exams:
 
-- 0_foundations: 
+- 0_foundations:
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
             - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
@@ -32,17 +32,17 @@
     - assignments:
     - exams:
 
-- 1_algebra: 
+- 1_algebra:
     - lectures:
-        - Prof. Aviv Censor. Technion Algebra 1M:
+        - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
             - current: Lecture 05 - Complex numbers: *
     - readings:
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
     - recitations:
     - assignments:
     - exams:
-        
-- 3_analysis: 
+
+- 3_analysis:
     - lectures:
         - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
             - current: Calculus - 01: *
@@ -64,20 +64,20 @@
 - guide:
     - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 
-============================================================================================================  
+============================================================================================================
 next₁:
-    - 1_algebra/1_abstract_algebra: 
+    - 1_algebra/1_abstract_algebra:
         - lectures:
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - linear algebra: 
+    - linear algebra:
         - lectures:
-            - Prof. Aviv Censor. Technion Algebra 1M:
+            - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
                 - lecture 11 - Matrices to 42 -  Determinants
-            - Prof. Gilbert Strang. MIT 18.06 Linear Algebra, Spring 2005:
+            - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
                 - current:
             - extras:
                 - https://www.khanacademy.org/math/linear-algebra
@@ -88,7 +88,7 @@ next₁:
         - assignments:
         - exams:
 
-    - 2_geometry: 
+    - 2_geometry:
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
@@ -103,22 +103,22 @@ next₁:
         - assignments:
         - exams:
 
-    - 3_analysis: 
+    - 3_analysis:
         - lectures:
-            - Prof. Aviv Censor. Technion Differential and Integral Calculus 2:
+            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
                 - current: None
         - readings:
         - recitations:
         - assignments:
         - exams:
-============================================================================================================  
+============================================================================================================
 next₂:
     - 4_toppology:
         - lectures:
         - readings:
         - recitations:
         - assignments:
-        - exams:  
+        - exams:
 
     - mathematical modelling:
         - lectures:
