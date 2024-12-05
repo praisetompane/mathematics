@@ -8,28 +8,31 @@ theorem: √2 ∉ ℚ (Censor, 2013)
             type: proof by contradiction.
 
             0. √2 = m/n  
-            1. (√2)² = m²/n²                    : square each side of the equation.
+            1. (√2)² = m²/n²                                    : square each side of the equation.
                 result: 2 = m²/n²
-            2. 2 = m²/n²                        : multiply each side of the equation with n²/1.   
+            2. 2 = m²/n²                                        : multiply each side of the equation with n²/1.   
                 result: m² = 2n²
 
-            3. m² = 2n² => m² is even           : because 2n² is divisible by 2 and therefore even.
-                                                  m² has to be even since it is eqaul 2n²(which is even).
+            3. m² = 2n² => m² is even                           : because 2n² is divisible by 2 and therefore even.
+                                                                    m² has to be even since it is eqaul 2n²(which is even).
 
-            4. m² is even => m is even          : because only an even number can be squared to produce another even number.
+            4. m² is even => m is even                          : because only an even number can be squared to produce another even number.
             
-            5. 2n² is even                      : because any number mupliplied by 2 is even.
+            5. m is even => m is divisible by 2                 : because m being even means it has a factor 2
 
-            3. 2n² = m² => 2n² is even          : because any number mupliplied by 2 is even.
-            4. 2n² is even => m² is even        : because 2n² is even, m² has to be even for them to be equal.
-            5. 2n² is even => 
-            6. 
+            6. m is divisible by 2 => m² is divisible by 4      : Q: why?
 
-            5. m² and 2n² being even means they are divisible by 2, therefore are not 
-                                they are not in lowest terms and have a common factor of 2.
-                        this contradicts our initial conditions that they are in lowest form and no common factors.
-            ∴ √2 ∉ Q
-            QED
+            7. m² is divisible by 4 => 2n² is divisible by 4    : because 2n² equals m²
+
+            8. 2n² is divisible by 4 => n² is divisible by 2    : Q: why?
+
+            9. n² is divisible by 2  => n² is even              : numbers divisible by 2 are even
+
+            10. n² is even => n is even                         : because only an even number can be squared to produce another even number.
+
+            11. n is even AND m is even is a contradiction of the initial conditions to have m and n in reduced form.
+
+            ∴ √2 ∉ Q: QED
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 02. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=ilPlX0DFL9Q&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV&index=2
