@@ -20,7 +20,8 @@ theorem: √2 ∉ ℚ (Censor, 2013)
             
             5. m is even => m is divisible by 2                 : because m being even means it has a factor 2
 
-            6. m is divisible by 2 => m² is divisible by 4      : Q: why?
+            6. m is divisible by 2 => m² is divisible by 4      : because the square of an even number is divisible by four(4)
+                                                                    good explanation: https://pi.math.cornell.edu/~mec/2008-2009/ABjorndahl/crunch.html
 
             7. m² is divisible by 4 => 2n² is divisible by 4    : because 2n² equals m²
 
