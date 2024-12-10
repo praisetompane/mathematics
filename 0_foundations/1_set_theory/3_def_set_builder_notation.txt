@@ -1,31 +1,128 @@
 def set_builder_notation(Hammack, 2018:5):
-    - formal:
-        - set_name = { expression: rule }
-            parts:
-                - set_name = name of the set(usually a letter)
-                - :          = such that
-                - expression = 
-                - rule       = condition to be met to be included in the set 
+    - formal: set_name = {𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 : 𝑟𝑢𝑙𝑒}
+        - parts:
+            - set_name     = name of the set(usually a letter)
+            - :            = such that
+            - expression   = any mathematical expression
+            - rule         = condition to be met to be included in the set 
 
-            reading rules:
-                expression = The set of all things of the form
-                :          = such that
-                rule       = 
-            example:
-                - A = {2n : n ∈ ℤ}
-                    read as set A 
-                        equals all values 
-                        where n is an integer
-        - in words:
-            set_name equals
-                all the 
-    - plain english:
+        - reading rules:
+            - The set of all things of form 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛
+                such that 𝑟𝑢𝑙𝑒 (is true).
+
+            - example:
+                - E = {2𝑛 : 𝑛 ∈ ℤ}:
+                    E equals the set of all things of form 2𝑛
+                                such that 𝑛 is an element of ℤ.
+
+        - NB: The result of a set builder notation is a set.
+
+    - plain english: all values of the 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛,
+                        for the all the values of the variable/s that satisfy the 𝑟𝑢𝑙𝑒.
+
+        - algorithm:
+            step 1: get all values of the variable(s)(e.g. 𝑥) that satisfy the 𝑟𝑢𝑙𝑒.
+            step 2: for each of the values from step 1:
+                - apply the expression
+                - add the result to the output set
+            i.e. read ut from the Right side, to the Left side.
+            
+        - examples:
+            - E = {2𝑛 : 𝑛 ∈ ℤ}:
+                - all values of the 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 (2𝑛), 
+                    for all the values of variable(𝑛) that satisfy the 𝑟𝑢𝑙𝑒(n is an Integer).
+                
+                    - i.e. all values of 2𝑛, where 𝑛 takes all values of ℤ.
+                
+                - algorithm applied: 
+                    step 1: {-5,-4,-3,-2,-1,0,1,2,3,4,5,...} : ALL the integers
+                    step 2: 
+                        ...
+                        2(-5) = -10
+                        2(-4) = -8
+                        2(-3) = -6
+                        2(-2) = -4
+                        2(-1) = -2
+                        2(0)  = 0
+                        2(1)  = 2
+                        2(2)  = 4
+                        2(3)  = 6
+                        2(4)  = 8
+                        2(5)  = 10
+                        ...
+
+                    output{...,-6,-4,-2,0,2,4,6, ...} 
+
+            - B = {𝑥 : x ∈ ℤ, |2𝑥| < 4}
+                - all the values of the expression(𝑥)
+                    for all the values of the variable(𝑥) that satisfy the rule(|2𝑥| < 4)
+                
+                    - i.e. all the values of 𝑥, where the abosulte value of 2𝑥 is less than 4.
+
+                - algorithm applied: 
+                        step 1: 
+                            |2(-2)| = |4|, 4 < 4 = false
+                            |2(-1)| = |2|, 2 < 4 = true
+                            |2(0)|  = |0|, 0 < 4 = true
+                            |2(1)|  = |2|, 2 < 4 = true
+                            |2(2)|  = |4|, 4 < 4 = false
+
+                            ∴ |2𝑥| < 4 = {-1,0,1}
+
+                        step 2:
+                            NB: 𝑥 is the same as 1𝑥, hence we multiply step one's output by 1.
+                            1(-1) = -1
+                            1(0)  = 0
+                            1(1)  = 1
+
+                            ∴ output = {-1,0,1}
+
+                - A = {2𝑥: 𝑥 ∈ ℤ, |𝑥| < 4 }:
+                    - all values of the expression(2𝑥),
+                        for all values of the variable(𝑥), where 𝑥 is less than 4.
+
+                        i.e. all values of 2𝑥, where the abosulte of 𝑥 is less 4.
+
+                    - algorithm applied: 
+                        step 1: 
+                            |-4| = 4, 4 < 4 = false
+                            |-3| = 3, 3 < 4 = true
+                            |-2| = 2, 2 < 4 = true   
+                            |-1| = 1, 1 < 4 = true
+                            |0|  = 0, 0 < 4 = true
+                            |1|  = 1, 1 < 4 = true
+                            |2|  = 2, 2 < 4 = true
+                            |3|  = 3, 3 < 4 = true
+                            |4|  = 4, 4 < 4 = false
+
+                            ∴ output = {-3,-2,-1,0,1,2,3}
+
+                        step 2:
+                            2(-3) = -6
+                            2(-2) = -4
+                            2(-1) = -2
+                            2(0)  = 0
+                            2(1)  = 2
+                            2(2)  = 4
+                            2(3)  = 6
+                            ∴ output = {-6,-4,-2,0,2,4,6}
 
     - intuition:
 
+                
     - properties:
+        - variations:
+            - given:
+                A = {2𝑛 : 𝑛 ∈ ℤ}:
+            - then:
+                the below are equivalent to each other and the above defined set A:
+                    - {𝑛: 𝑛 is an even integer}
+                    - {𝑛: 𝑛 = 2𝑘, 𝑘 ∈ ℤ}
+                    - {𝑛 ∈ ℤ: 𝑛 is even}
+                    - {2𝑛 | 𝑛 ∈ ℤ} NB: notice | is used for such that.
 
-    - examples:
+    - use case:
+        - describe sets too big to fit all their elements in between the braces({}).
 
 References:
     Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
