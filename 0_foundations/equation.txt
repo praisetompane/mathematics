@@ -1,0 +1,25 @@
+def equation:
+    - formal:
+        - in words:
+
+    - plain english: a sentence that equates two sides
+    
+    - intuition:
+
+    - properties:
+        - parts:
+            given:  5x + 1 = 10
+            then:
+                5x + 1  = LHS
+                10      = RHS
+                x       = variable
+                {1, 10} = constant(s)
+                +       = operator
+                
+    - examples:
+        - 5x + 1 = 10
+    - use cases:
+
+
+References:
+    ???
