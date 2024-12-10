@@ -1,0 +1,17 @@
+def arithmetic¹(Censor, 2015): 
+    - formal:
+        the fundamental theorem of arithmetic?
+        - in words:
+
+    - plain english: a field in Mathematics in which we perform calculations with numbers.
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+
+    - use cases:
+    
+References:
+    Censor, A. Algebra 1M - international. 01 - Introduction. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=aefKXYYXT6I&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=1

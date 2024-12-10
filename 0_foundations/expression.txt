@@ -1,0 +1,21 @@
+def expression:
+    - formal:
+        - in words:
+
+    - plain english: a sentence
+
+    - intuition:
+
+    - properties:
+        - types:
+            - numerical expression
+            - algebraic expression
+
+    - examples:
+        - numerical expression: 1 + 1
+        - algebraic expression: x + 1
+    
+    - use cases:
+
+References:
+    ???
