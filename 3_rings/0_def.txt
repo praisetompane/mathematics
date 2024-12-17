@@ -1,6 +1,0 @@
-def ring¹(Sadowski, 2022): a set with two operations defined on it 
-            often called "addition" and "multiplication" 
-                which have their own axioms connected by a distributive law.
-
-References:
-    Sadowski C. What is it like to be a Pure mathematician?.2022. https://www.youtube.com/watch?v=f6YiFdUbrV0
