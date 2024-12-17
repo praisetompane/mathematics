@@ -13,7 +13,7 @@
     - assignments:
     - exams:
 
-- 0_foundations:
+- 00_numbers:
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
             - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
@@ -29,39 +29,37 @@
     - assignments:
     - exams:
 
-- 1_algebra:
+- 15_linear_and_multilinear_algebra;matrix_theory:
     - lectures:
         - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
             - current: Lecture 05 - Complex numbers: *
-        - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
+        - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
             - current:
-        - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
-        - Khan Academy. Linear algebra
-        - Edx: GTx - Explore the fundamentals of linear algebra
+        - extras:
+            - https://www.khanacademy.org/math/linear-algebra
+            - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
     - readings:
         - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-        - https://ocw.Massachusetts Institute of Technology.edu/courses/18-06sc-linear-algebra-fall-2011/
-        - https://github.com/OpenMathLib/OpenBLAS
+        - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
     - recitations:
     - assignments:
     - exams:
 
-- 3_analysis:
+- 26_real_functions:
     - lectures:
-        - calculus:
-            - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering. 
-                - current: Calculus - 01: *
-            - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
-                - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
-            - Hammack, R. 2020. Hammack's Calculus I
-                - current: Hammack's Calculus I, Lecture 1
-            - Censor, A. 2015. 104004 - Differential and Integral Calculus 2. Technion International School of Engineering.
-                - current: None
-                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-            - https://www.khanacademy.org/math/calculus-1
-            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
-            - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology.
+        - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
+            - current: Calculus - 01: *
+        - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
+            - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
+        - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
+            - current: Hammack's Calculus I, Lecture 1
+    
+        - https://www.khanacademy.org/math/calculus-1
+        - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+
+        - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
+            - current: None
     - readings:
         - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg.
         - https://ocw.Massachusetts Institute of Technology.edu/courses/18-01-single-variable-calculus-fall-2006/
@@ -76,28 +74,21 @@
 
 ============================================================================================================
 next₁:
-    - 1_algebra/1_abstract_algebra:
+    - 12_field_theory_and_polynomials:
         - lectures:
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - linear algebra:
+    - 20_group_theory_and_generalizations:
         - lectures:
-            - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
-                - lecture 11 - Matrices to 42 -  Determinants
-            - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
-                - current:
-            - extras:
-                - https://www.khanacademy.org/math/linear-algebra
-                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - 2_geometry:
+    - 51_geometry
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
@@ -112,32 +103,16 @@ next₁:
         - assignments:
         - exams:
 
-    - 3_analysis:
-        - lectures:
-            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
-                - current: None
-        - readings:
-            - https://ocw.Massachusetts Institute of Technology.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
-        - assignments:
-        - exams:
-
-    - 54_general_topology
+    - 54_General_topology
         - lectures:
         - readings:
-            - Munkres, J.R. 2000. Topology. 2nd Edition
         - recitations:
         - assignments:
         - exams:
+
 ============================================================================================================
 next₂:
-    - 4_toppology:
-        - lectures:
-        - readings:
-        - recitations:
-        - assignments:
-        - exams:
-
-    - 18_category_theory;homological_algebra
+    - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
             - Milewski, B. 2016. Category Theory For Programmers I
             - Milewski, B. 2017. Category Theory For Programmers II
@@ -149,7 +124,7 @@ next₂:
         - exams:
 ============================================================================================================
 next₃:
-    - 01_History_and_biography
+    - 01_History_and_biography 
         - lectures:
             - Wildberger, N.J. 2012. Insights into Mathematics Math History.
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
