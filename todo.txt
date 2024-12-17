@@ -1,4 +1,4 @@
-- 0_foundations/mathematical_logic:
+- 03_mathematical_logic_and_foundations:
     - lectures:
     - readings:
         - Prof. Richard Hammack. Book of Proof. 
@@ -13,7 +13,7 @@
     - assignments:
     - exams:
 
-- 0_foundations:
+- 00_numbers:
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
             - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
@@ -32,17 +32,23 @@
     - assignments:
     - exams:
 
-- 1_algebra:
+- 15_linear_and_multilinear_algebra;matrix_theory:
     - lectures:
         - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
             - current: Lecture 05 - Complex numbers: *
+        - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
+            - current:
+        - extras:
+            - https://www.khanacademy.org/math/linear-algebra
+            - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
     - readings:
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+        - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
     - recitations:
     - assignments:
     - exams:
 
-- 3_analysis:
+- 26_real_functions:
     - lectures:
         - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
             - current: Calculus - 01: *
@@ -50,8 +56,12 @@
             - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
         - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
             - current: Hammack's Calculus I, Lecture 1
+    
         - https://www.khanacademy.org/math/calculus-1
         - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+
+        - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
+            - current: None
     - readings:
         - https://robertvirona.com/differential-equations-vs-calculus/
         - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
@@ -66,29 +76,21 @@
 
 ============================================================================================================
 next₁:
-    - 1_algebra/1_abstract_algebra:
+    - 12_field_theory_and_polynomials:
         - lectures:
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - linear algebra:
+    - 20_group_theory_and_generalizations:
         - lectures:
-            - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
-                - lecture 11 - Matrices to 42 -  Determinants
-            - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
-                - current:
-            - extras:
-                - https://www.khanacademy.org/math/linear-algebra
-                - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
         - readings:
-            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
         - recitations:
         - assignments:
         - exams:
 
-    - 2_geometry:
+    - 51_geometry
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
@@ -103,24 +105,16 @@ next₁:
         - assignments:
         - exams:
 
-    - 3_analysis:
-        - lectures:
-            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
-                - current: None
-        - readings:
-        - recitations:
-        - assignments:
-        - exams:
-============================================================================================================
-next₂:
-    - 4_toppology:
+    - 54_General_topology
         - lectures:
         - readings:
         - recitations:
         - assignments:
         - exams:
 
-    - mathematical modelling:
+============================================================================================================
+next₂:
+    - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
             - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
             - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
@@ -134,7 +128,7 @@ next₂:
         - exams:
 ============================================================================================================
 next₃:
-    - origins and history:
+    - 01_History_and_biography 
         - lectures:
             - Prof. N J Wildberger. Insights into Mathematics MathHistory: A course in the History of Mathematics:
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger [dW8Cy6WrO94]: *
