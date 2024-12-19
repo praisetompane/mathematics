@@ -1,0 +1,34 @@
+def subset¹ (⊂ | ⊆ )(Montalban, 2020):
+    - formal:
+        given:
+            A and B
+        then:
+            A ⊂ B if ∀x ∈ A, ∃y ∈ B such that x = y
+
+        - in words:
+            every element in A exists in B.
+            
+    - plain english:
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+        1. 
+            given:
+                A = {2,3}
+                B = {2,3,5,6}
+            then:
+                A ⊂ B = True
+
+        2. 
+            given:
+                A = {1,2}
+                B = {3,2,4,5}
+            then:
+                A ⊈ B = True
+    - use cases:
+        
+References:
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf
