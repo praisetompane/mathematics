@@ -1,5 +1,7 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
+        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
+        - Antonio Montalban. 2020. Math 125A Mathematical Logic
     - readings:
         - Prof. Richard Hammack. Book of Proof. 
             - current: Preface to the Third Edition
