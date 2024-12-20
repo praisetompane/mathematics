@@ -57,7 +57,7 @@ def set_builder_notation(Hammack, 2018:5):
                 - all the values of the expression(𝑥)
                     for all the values of the variable(𝑥) that satisfy the rule(|2𝑥| < 4)
                 
-                    - i.e. all the values of 𝑥, where the abosulte value of 2𝑥 is less than 4.
+                    - i.e. all the values of 𝑥, where the absolute value of 2𝑥 is less than 4.
 
                 - algorithm applied: 
                         step 1: 
@@ -81,7 +81,7 @@ def set_builder_notation(Hammack, 2018:5):
                     - all values of the expression(2𝑥),
                         for all values of the variable(𝑥), where 𝑥 is less than 4.
 
-                        i.e. all values of 2𝑥, where the abosulte of 𝑥 is less 4.
+                        i.e. all values of 2𝑥, where the absolute of 𝑥 is less 4.
 
                     - algorithm applied: 
                         step 1: 

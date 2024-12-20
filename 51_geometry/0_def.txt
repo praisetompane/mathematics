@@ -4,7 +4,7 @@ def Cartesian: anything that derives from René Descartes' conception of Geometr
                Geometry conceptualized as points/vector represented as an ordered tuple of real numbers(i.e. Cartesian coordinates)
                     The plane is represented as below(called a Cartesian product of sets) (Stover, Christopher and Weisstein):
                         R² = IR x IR => 2D space
-                        IR³ = IR x IR x IR => Euclidian space
+                        IR³ = IR x IR x IR => Euclidean space
                         .
                         .
                         .

@@ -19,8 +19,8 @@ def binary: base-two numerical system for representing numbers (Khan Academy).
         * numbers with last bit on are odd
             i.e. any number + 1 is odd
             Q: any number, including complex numbers?
-        * given number of bit n,
-            we can determine maximum representable number
+        * given number of bits 𝑛,
+            we can determine the maximum representable number
                 formulaic: 2ⁿ - 1
                     Q: can we prove this ∀ numbers?
                 representation = all bit set to 1

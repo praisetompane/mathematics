@@ -43,7 +43,7 @@ def Fermat or Interior Extremum (Censor, 2013):
                 - 3_analysis/0_differential_and_integral_calculus/0_derivative/0_def.txt
             plain english:
                 - the derivative of f
-                - pronouced f prime
+                - pronounced f prime
 
         - def f'(x₀) = 0: the derivative of f at x₀ is zero(0)
             see: 3_analysis/0_differential_and_integral_calculus/1_derivative/0_def.txt
@@ -74,7 +74,7 @@ def Fermat or Interior Extremum (Censor, 2013):
             - see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt         
     
     - mathematician lifetime: 1601 - 1665
-        - remarks: layed out first steps in Calculus.
+        - remarks: laid out first steps in Calculus.
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

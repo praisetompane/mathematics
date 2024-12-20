@@ -3,7 +3,7 @@ def linear equations (Kent State Department of Mathematical Sciences, 2008:38):
         can be written in the form:
             ax + b = c
 
-def linear inequalities:
+def linear inequality:
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II. http://www.math.kent.edu/ebooks/10032/book.pdf.

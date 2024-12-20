@@ -22,7 +22,7 @@ def vector:
             v ≠ w
             v = w
     mathematics:
-      - any object with support for these opeartions:
+      - any object with support for these operations:
          - +: 
           - example:
             - v + w
@@ -32,9 +32,9 @@ def vector:
 
   an entity with a magnitude and direction
 
-  addition and subtraction: add/substract corresponding components
+  addition and subtraction: add/subtract corresponding components
 
-    why does the order of terms matter in addition and substration?
+    why does the order of terms matter in addition and subtraction?
 
       (a) - (b) != (b) - (a)
       (a) +  (b) != (b) + (a)
@@ -64,7 +64,7 @@ def vector:
 
         u = (3/5, 4/5) : (out unit vector)
 
-        proof(get magnitude using pythagoras therem)
+        proof(get magnitude using pythagoras theorem)
 
        ||u||=
        {

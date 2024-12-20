@@ -4,7 +4,7 @@ def i:
                 ∴ i² = -1
     plain english:
         define a new number "i"
-            whose value is the squareroot of -1.
+            whose value is the square root of -1.
 
         NB: This number does not exist in the Real numbers.
             There is no number you can square(i.e. multiply by itself an get a negative number)
@@ -33,7 +33,7 @@ def complex number:
 def complex number set(Censor, 2015):
     formal:
         ℂ = {a + bi | a, b ∈ ℝ}
-    plain english: the set of all numbers of the forma "a + bi"
+    plain english: the set of all numbers of the form "a + bi"
                     where 
                         a and b are Real Numbers
                         i is the imaginary unit (√-1)
@@ -48,7 +48,7 @@ use cases:
             then:
                 in Complex Numbers(i.e. ℂ), a solution exists (Censor, 2015):
                     solve equation:
-                        x² + 1 - 1 = 0 - 1  : substract 1 from both sides
+                        x² + 1 - 1 = 0 - 1  : subtract 1 from both sides
                         then:
                             x² = -1
                                 let x = i

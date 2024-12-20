@@ -10,7 +10,7 @@ def limit(Censor, 2013):
                 for 𝑓(𝑥) equals L 
                     if
                         for all epsilon(ϵ) greater than zero(0)
-                            there e𝑥ists delta(δ) greater than zero(0)
+                            there exists delta(δ) greater than zero(0)
                                 such that
                                     the absolute difference of 𝑥 and 𝑎 is greater than zero(0) AND less than delta(δ)
                                         implies
@@ -21,13 +21,13 @@ def limit(Censor, 2013):
         implies the absolute difference of 𝑓(𝑥) and L is less epsilon(ϵ)
             if 
                 for all epsilon(ϵ) greater than zero(0)
-                    there e𝑥ists a delta(δ) greater than zero(0)
+                    there exists a delta(δ) greater than zero(0)
                         such that the absolute difference of 𝑥 and 𝑎 is greater than zero(0) and less than delta(δ)
         NB: double check this description later
 
     intuition:
 
-    e𝑥amples: 
+    examples: 
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

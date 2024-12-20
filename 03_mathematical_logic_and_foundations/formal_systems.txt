@@ -6,7 +6,7 @@ def formal systems (Montalban, 2020):
             - avoid paradoxes.
         - can be studied in logic as mathematical objects which allows:
             - studying mathematics(proofs, theorems, etc) using mathematics (i.e. meta mathematics)
-                example: Gödel’s theorem.
+                example: Gödel's theorem.
         - computers can manipulate formal symbols which allows:
             - computer proof verification.
             - computer aided proof development.
@@ -55,7 +55,7 @@ def formal systems (Montalban, 2020):
             - avoid paradoxes.
         - formal systems can be studied in logic as mathematical objects which allows:
             - studying mathematics(proofs, theorems, etc) using mathematics (i.e. meta mathematics)
-                example: Gödel’s theorem.
+                example: Gödel's theorem.
         - computers can manipulate formal systems which allows:
             - computer proof verification.
             - computer-aided proof development.

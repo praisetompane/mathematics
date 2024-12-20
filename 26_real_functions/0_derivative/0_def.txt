@@ -10,7 +10,7 @@ def derivative¹(Hammack: 2020):
                         )
             
                       - (   
-                            the rate of chage of 𝑓(x)
+                            the rate of change of 𝑓(x)
                             with respect to x at x
                         )
 

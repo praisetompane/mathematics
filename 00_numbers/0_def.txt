@@ -26,5 +26,5 @@ Qs:
 
 References:
     Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
-    Hamkins, JD. 2020. What is a number? https://youtu.be/uo1xDbsYAcU
+    Hamkins, JD. 2020. What is a number?. https://youtu.be/uo1xDbsYAcU
     Karagila, A. 2022. What is a Number? - Numberphile. https://www.youtube.com/watch?v=NHZt8eBKcRA
