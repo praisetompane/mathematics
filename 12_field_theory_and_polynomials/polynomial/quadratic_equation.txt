@@ -9,9 +9,9 @@ def quadratic equation:²
         standard form: 
             ax² + bx + c = 0
                 where a,b,c ∈ ℝ
-        Q: What is a standard form of an equation?
+        Question: What is a standard form of an equation?
     Examples: 
         2x² + 4x + 2 = 0
         
 References:
-    1,2 https://www.youtube.com/watch?v=UZTvYYoOrmI&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF&index=2
+    ???

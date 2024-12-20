@@ -12,4 +12,4 @@ objective: think deeply about simple things (Woo, 2014)
             what if we would we could calculate the square root of a negative number?
 
 References:
-    Woo, E. Think deeply about simple things. https://www.youtube.com/watch?v=-YJSDJGyIaU
+    Woo, E. Think deeply about simple things.

@@ -6,7 +6,7 @@ def slope (Khan Academy):
             happens in 𝑦
                 for a change in 𝑥
             NB: It is a ratio of the change in y with respect to/proportional to the change in x.
-            Q: f(Δx) -> Δy
+            Question: f(Δx) -> Δy
                 is slope a function f,
                     from a Δ in 𝑥 to a Δ in y?: No, it is a ratio.
         - how steep a line is.

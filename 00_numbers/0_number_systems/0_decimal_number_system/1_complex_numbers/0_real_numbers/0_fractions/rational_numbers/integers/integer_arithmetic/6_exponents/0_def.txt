@@ -24,7 +24,7 @@ negative exponents(Khan Academy):
         (3⁻² * 3²)/3²
         3⁻²⁺²/3² : for (3⁻² * 3²) applied Product Law
         3⁰/3²: for 3⁰ applied Law[any non-zero number raised to 0 is 1]
-            Q: Why is any non-zero number raised to 0 equal to 1?
+            Question: Why is any non-zero number raised to 0 equal to 1?
         ∴ 1/3²
 
 Generalization(Khan Academy):

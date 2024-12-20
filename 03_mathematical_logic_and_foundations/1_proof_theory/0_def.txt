@@ -11,5 +11,5 @@ def proof (Montalban, 2020):
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
-    Montalban, A. Math 125A -- Mathematical Logic. https://www.youtube.com/playlist?list=PLjJhPCaCziSRSUtQiTA_yx5TJ76G_EqUJ.
+    Montalban, A. Math 125A -- Mathematical Logic.
 

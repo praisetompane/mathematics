@@ -89,7 +89,7 @@ NB: there are important Mathematical concepts that require all three statement t
         
         for all positive real numbers ϵ, there is an integer N such that
         for all integers n, if n > N, then -ϵ < aₙ - L < ϵ
-        Q: we need to come back to this definition.
+        Question: we need to come back to this definition.
 
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 

@@ -7,7 +7,7 @@ def Point: (Wildberger, ???)
         example: [3/4,8/2]
 
 
-Q: can we perform arithmetic operations on Points?
+Question: can we perform arithmetic operations on Points?
     i.e. *, /, +, -
     
 References:

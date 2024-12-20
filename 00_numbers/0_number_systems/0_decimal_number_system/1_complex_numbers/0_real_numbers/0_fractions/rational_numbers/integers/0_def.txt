@@ -5,7 +5,7 @@ def integers:
         <---|---|---|---|---|---|---|--->
             -3  -2  -1   0   1   2   3
 
-Q: Why isn't there a -0(i.e. negative zero?)
+Question: Why isn't there a -0(i.e. negative zero?)
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

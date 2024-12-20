@@ -8,7 +8,7 @@ def Fermat or Interior Extremum (Censor, 2013):
             f'(x₀) = 0.
             
     - plain english:
-        - TBD
+        - ???
 
     - properties:
         - f(x) = function
@@ -36,7 +36,7 @@ def Fermat or Interior Extremum (Censor, 2013):
                                 ↓
 
         - def minimum:
-            - TBD
+            - ???
         
         - def f': 
             formal
@@ -77,4 +77,4 @@ def Fermat or Interior Extremum (Censor, 2013):
         - remarks: laid out first steps in Calculus.
 
 References:
-    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering.

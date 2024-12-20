@@ -1,5 +1,5 @@
-def: raising a number to the power of 2 ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾ Q: Is there a better def?
-    4 squared is 16: Q: What does it mean to square a number?
+def: raising a number to the power of 2 ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾ Question: Is there a better def?
+    4 squared is 16: Question: What does it mean to square a number?
 
     square root(16) is 4: the root(i.e. base) of the squared representation of the number.
 
@@ -18,4 +18,4 @@ Example:
 References:
 
 General References: 
-    Eric Buffington. Squares and Square Roots (Simplifying Math). https://www.youtube.com/watch?v=sWmW2Is-R2w
+    Eric Buffington. Squares and Square Roots (Simplifying Math).

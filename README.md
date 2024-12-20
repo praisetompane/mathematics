@@ -53,7 +53,7 @@
 ## Mathematicians:
 - [Norman J Wildberger](https://njwildberger.com)
 - [Richard Hammack](https://richardhammack.github.io/index.html)
-- [Professor Loyiso G](https://www.youtube.com/watch?v=Fwstey-ryP4&list=LL&index=1&t=225s)
+- [Professor Loyiso G](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
 - [Terry Tao](https://terrytao.wordpress.com/)
 - [Asaf Karagila](https://karagila.org)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)

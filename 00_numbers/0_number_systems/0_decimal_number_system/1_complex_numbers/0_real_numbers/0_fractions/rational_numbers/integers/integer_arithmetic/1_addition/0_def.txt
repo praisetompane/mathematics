@@ -108,7 +108,7 @@ def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
                 Large(multiple place value) number addition:
                     place values:  
                     million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
-                    Q:
+                    Question:
                         Why does it look like place values are read in groups of 3?
                             i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
                             
@@ -192,8 +192,8 @@ def addition³: the act of storing quantity into a place value(i.e. ...,the hund
                             Addition is counting 1(ones) from a source quantity into a target quantity.
                                 Scaling the place value 1(ones) are stored as the ones place value reaches max capacity
 
-Q: Do we know why we can count?
-Q: Do all "addable" mathematical objects have their number line equivalent?
+Question: Do we know why we can count?
+Question: Do all "addable" mathematical objects have their number line equivalent?
 
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

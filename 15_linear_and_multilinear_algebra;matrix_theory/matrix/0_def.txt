@@ -23,7 +23,7 @@ def¹: a chart of elements
             )
 
         NB: MYINC: the columns are fixed forall m in the general form.
-            Q: Is this an interesting property?
+            Question: Is this an interesting property?
         
         notation:
             - aᵢⱼ is the entry in:
@@ -61,4 +61,4 @@ def¹: a chart of elements
                                             in A = A₂ₓ₃
 
 References:
-    Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=GzGtKIsPMTs&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=11.
+    Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering.

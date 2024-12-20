@@ -20,25 +20,25 @@
 - 00_numbers:
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
-            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
+            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
             - basics:
-                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger [91c5Ti6Ddio]
-                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger [wPEYoW0Mj1U]
+                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger 
+                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger 
             - others:
-                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger [UsQsV8VsCxw]
-                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 [xReU2BJGEw4]
-                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 [xE4DdIwPh2s]
-                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger [YYnYatWV-pU]
-                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger [lcIbCZR0HbU]
-                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 [pE01mIrsw74]
-                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 [DMJeJp3RoWI]
-                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 [gqjiDfiZjps]
+                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger 
+                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 
+                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 
+                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger 
+                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger 
+                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 
+                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 
+                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 
             - more on real number:
-                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 [6JjPA3msnbo]
-                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger [jlnBo3APRlU]
+                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 
+                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger 
             - more on natural numbers:
-                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 [r4dqPaIn4m8]
-                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 [WoWGfjYv-cQ]
+                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 
+                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 
             
     - readings:
         - kent fundamentals of mathematics i
@@ -62,8 +62,8 @@
         - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
             - current:
         - extras:
-            - https://www.khanacademy.org/math/linear-algebra
-            - https://www.edx.org/professional-certificate/gtx-introductory-linear-algebra
+            - khanacademy: Linear algebra
+            - Edx: GTx: Explore the fundamentals of linear algebra
     - readings:
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
@@ -77,8 +77,8 @@
             - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
                 - current: Calculus - 01: *
             - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
-                - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
-            - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
+                - current: Lecture 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
+            - Richard Hammack. Hammack's Calculus I.
                 - current: Hammack's Calculus I, Lecture 1
         
             - https://www.khanacademy.org/math/calculus-1
@@ -89,16 +89,12 @@
         - analysis:
             - Dr. Casey Rodriguez. 2020. MIT 18.100A Real Analysis
     - readings:
-        - https://robertvirona.com/differential-equations-vs-calculus/
         - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
         - what is mathematics?. richard courant.pdf : chapter vi, viii
         - differential and integral calculus.richard courant
     - recitations:
     - assignments:
     - exams:
-
-- guide:
-    - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 
 ============================================================================================================
 next₁:
@@ -142,12 +138,10 @@ next₁:
 next₂:
     - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
-            - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
-            - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
-            - DelftX: Modelling with Differential Equations
-                - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
-            - Mathematical and Computational Methods: https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
-            - https://www.coursera.org/specializations/precalculus-data-modelling#courses
+            - Mathematical Modeling : Analysis and Applications
+            - Edx: DelftX: MathMod1x: Modelling with Differential Equations
+            - Edx: GeorgetownX: PHYS-155 : Mathematical and Computational Methods:
+            - Coursera: Precalculus through Data and Modelling Specialization
         - readings:
             - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
@@ -157,7 +151,7 @@ next₃:
     - 01_History_and_biography 
         - lectures:
             - Prof. N J Wildberger. Insights into Mathematics MathHistory: A course in the History of Mathematics:
-                - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger [dW8Cy6WrO94]: *
+                - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
         - readings:
             - what is mathematics?. richard courant.pdf
                 - current position: not started

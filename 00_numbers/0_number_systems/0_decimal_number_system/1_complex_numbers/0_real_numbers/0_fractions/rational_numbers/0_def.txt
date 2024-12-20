@@ -6,7 +6,7 @@ def rational numbers¹: any number that can be written as a fraction of two inte
 
 def rational numbers²: Real numbers that can be written as a fraction and therefore can be plotted on a number line(Kent State Department of Mathematical Sciences, 2008:3).
 
-Q: Is there a formal proof for these?
+Question: Is there a formal proof for these?
     - all integers are Rational numbers(Kent State Department of Mathematical Sciences, 2008:3).
     - all natural numbers are Rational numbers(Kent State Department of Mathematical Sciences, 2008:3).
 

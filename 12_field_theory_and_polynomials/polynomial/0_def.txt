@@ -1,7 +1,7 @@
-def terms: parts of an algebraic expression, operated on by + or-.(Q: only + or -?)
+def terms: parts of an algebraic expression, operated on by + or-.(Question: only + or -?)
     Examples:
-        4xz + 3x - 3 => 3 terms
-        4x³y - 3y² => 2 terms
+        4𝑥𝑧  + 3𝑥  - 3 has 3 terms
+        4𝑥³𝑦 - 3𝑦²     has 2 terms
 
 def polynomial: 
     algebraic expression with more than one term.
@@ -17,17 +17,17 @@ def polynomial:
         - 1 term = monomial
             Examples:
                 7
-                4x² 
-                5xy⁴
+                4𝑥² 
+                5𝑥𝑦⁴
         - 2 terms = binomial
             Examples:
-                4x - 7
-                3xy + 4x
+                4𝑥 - 7
+                3𝑥𝑦 + 4𝑥
         - 3 terms = trinomial
             Examples:
-                3 + a + b
-                3cd + a + 8
+                3 + 𝑎 + 𝑏
+                3𝑐𝑑 + 𝑎 + 8
         - higher number of terms
             Examples:
-                8x + a + b + c
-                9y - a - b + c + x²
+                8𝑥 + 𝑎 + 𝑏 + 𝑐
+                9𝑦 - 𝑎 - 𝑏  + 𝑐 + 𝑥²

@@ -19,13 +19,13 @@ def decimal: these are also based on 10(Kent State Department of Mathematical Sc
                 "and" represents the decimal
             1.0034 = one and thirty-four ten thousandths
 
-    Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
+    Question: Can we infinitely divide the space between 2 digits? [within a chosen base]
     Yes, that's how we get infinite decimals (i.e the irrational numbers.)
 
 
 def decimal number system:
     base-ten positional numerical system for representing Real(ℝ) numbers (Weisstein):
-        Q: Can we only represent Real numbers?
+        Question: Can we only represent Real numbers?
         digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
         decimal expansion = the expression/representation of a number using the decimal system
         decimal point/command = ./,
@@ -58,9 +58,7 @@ def decimal number system:
             10 ten-thousand         = 1 one-hundred-thousand
             10 one-hundred-thousand = 1 one-million
 
-Q: Why numbers after the decimal point, start with tenth and not ones?:
-    https://byjus.com/question-answer/why-isn-t-ones-place-not-there-in-decimal-part-of-decimals/
-    https://www.quora.com/Why-are-digits-after-a-decimal-point-not-pronounced-as-they-are
+Question: Why do numbers after the decimal point, start with tenth and not ones?:
 
 References:
     Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.

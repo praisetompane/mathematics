@@ -35,8 +35,8 @@ def comparison:
 
     Something Interesting:
       Equality in the Set of Negative numbers(ℝ⁻) is opposite to Equality in the Set of Positive numbers(ℝ⁺).
-      Q: can we prove this for all Real Numbers?
-      Q: Does this apply to Complex Numbers?
+      Question: can we prove this for all Real Numbers?
+      Question: Does this apply to Complex Numbers?
 
         Examples:
           Positives                 Negatives
@@ -70,5 +70,5 @@ def comparison:
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
-  Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8kXSBav0n20&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=2.
+  Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering.
   Khan Academy. Intro to rational & irrational numbers. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:irrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers.

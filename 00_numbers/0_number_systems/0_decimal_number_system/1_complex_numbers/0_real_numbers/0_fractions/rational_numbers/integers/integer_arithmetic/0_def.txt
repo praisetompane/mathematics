@@ -19,9 +19,9 @@ def arithmetic:
     examples:
         
 
-def Peano axioms: TBD
+def Peano axioms: ???
 
-def fundamental theorem of arithmetic: TBD
+def fundamental theorem of arithmetic: ???
 
 
 References:

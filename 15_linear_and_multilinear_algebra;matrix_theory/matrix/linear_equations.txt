@@ -61,7 +61,7 @@ methods to solve:
                 x + 60 = 700
                 x = 700 - 60
                 x = 640
-                ∴ no solution? Q: I made the equation, it this possible?
+                ∴ no solution? Question: I made the equation, it this possible?
 
 
 

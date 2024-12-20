@@ -1,8 +1,8 @@
 def continuous (Censor, 2013):
     formal:
-        - TBD
+        - ???
     plain english:
-        - TBD
+        - ???
     intuition: for a function to be continuous
                     the graph of the function
                         can be drawn without lifting the "pen/marker"
@@ -10,4 +10,4 @@ def continuous (Censor, 2013):
                 i.e. no jumps between points in the graph.
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.

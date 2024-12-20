@@ -6,7 +6,7 @@ def absolute value: the distance on the number line
         Example: 
             |4| = 4 because, 4 is a distance of 4 from zero(0)
             |-4| = 4 because, -4 is a distance of 4 from zero(0)
-        Q: Can we not have negative distance?
+        Question: Can we not have negative distance?
 
         |6| = 6, because, 6 is a distance of 6 unit from zero(0)(see below number line)
                           *   *   *   *   *   * = 6 distance units

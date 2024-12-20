@@ -16,9 +16,9 @@ def differentiation¹(Hammack: 2020):
         
 - def differentiable(Censor, 2013):
     - formal
-        - TBD
+        - ???
     - plain english:
-        - TBD
+        - ???
     - intuition: 
         - for a function to be differentiable:
             - the graph/chart of the function
@@ -29,5 +29,5 @@ def differentiation¹(Hammack: 2020):
 
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
-    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.
+    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University.

@@ -70,7 +70,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                     -1 x (10)
                     ∴ -10
 
-                    Q: Why does multiplication by -1 result in a negative?
+                    Question: Why does multiplication by -1 result in a negative?
 
             -1 x 3:
                 same as 3x(-1):
@@ -127,5 +127,5 @@ References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
     Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
     Khan Academy. Distributive property when multiplying. https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying?modal=1
-    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
+    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.
     
