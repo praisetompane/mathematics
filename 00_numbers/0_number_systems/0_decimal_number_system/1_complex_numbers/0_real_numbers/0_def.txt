@@ -1,5 +1,5 @@
 def real numbers¹(Censor, 2015):
-  infomal:
+  informal:
     ℝ = {x | -∞ < x ∞ }
   plain english:
     the set of all numbers x

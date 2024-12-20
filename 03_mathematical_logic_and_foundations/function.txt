@@ -1,6 +1,6 @@
 def function:
     formal: a relation F, is a function 
-                from a set A(domain) to a set B(codomain), if it satisfies the properties below(Epp, 2010:17):
+                from a set A(domain) to a set B(co-domain), if it satisfies the properties below(Epp, 2010:17):
 
                     1. ∀x ∈ A, ∃y ∈ B s.t. (x,y) ∈ F
                     
@@ -49,7 +49,7 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
             NB: x is an n-tuple.
                     i.e. a list of multiple variables.
                         that list can be a list of 1 variable.
-                This allows mutli-variable functions.
+                This allows Multivariable functions.
 
         in words:
             the set of all 

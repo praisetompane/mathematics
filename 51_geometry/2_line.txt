@@ -1,5 +1,5 @@
 def Line (Wildberger, ???):
-    an orderd proportion 
+    an ordered proportion 
         of rational numbers < a: b: c >  where
             a and b are NOT BOTH zero (i.e. one of them can be 0 at a time)
 

@@ -14,7 +14,7 @@ theorem: √2 ∉ ℚ (Censor, 2013)
                 result: m² = 2n²
 
             3. m² = 2n² => m² is even                           : because 2n² is divisible by 2 and therefore even.
-                                                                    m² has to be even since it is eqaul 2n²(which is even).
+                                                                    m² has to be even since it is equal 2n²(which is even).
 
             4. m² is even => m is even                          : because only an even number can be squared to produce another even number.
             

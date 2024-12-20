@@ -26,7 +26,7 @@ def Legrange (Censor, 2013):
                                 |        a  c      c   b  
                                 |      
                                 ↓     
-        - generalizes Rolle's thereom:
+        - generalizes Rolle's theorem:
             solution:
                 Let
                     f(b) = f(a) : in Rolle's theorem f(b) = f(a).

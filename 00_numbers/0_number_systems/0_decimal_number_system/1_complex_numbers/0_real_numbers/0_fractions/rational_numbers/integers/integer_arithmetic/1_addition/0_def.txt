@@ -18,7 +18,7 @@ def addition¹ (Wildberger, 2009):
         - laws (Wildberger, 2009) (Kent State Department of Mathematical Sciences, 2008:53):
             - commutative
                 i.e. the numbers change position in the expression.
-            - associatiative
+            - associative
 
             proofs(i.e. reasons for these laws):
                 - commutative:
@@ -34,7 +34,7 @@ def addition¹ (Wildberger, 2009):
                     i.e. the order in which you join the ones(i.e. |)
                         in each number does not matter. it gives you the same result
                 
-                - associatiative:
+                - associative:
                     - given:
                         numbers:
                             - a = |||
@@ -120,7 +120,7 @@ def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
         - laws (Kent State Department of Mathematical Sciences, 2008:53):
             commutative:
                 -
-            associatiative:
+            associative:
                 -
     - properties:
 
@@ -197,4 +197,4 @@ Q: Do all "addable" mathematical objects have their number line equivalent?
 
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
-    Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS. hhttps://www.wildegg.com/youtube-math-foundations-a.html.
+    Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS. https://www.wildegg.com/youtube-math-foundations-a.html.

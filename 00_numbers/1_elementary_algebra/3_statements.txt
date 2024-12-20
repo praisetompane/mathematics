@@ -3,7 +3,7 @@ kinds(Epp, 2010:2):
     * conditional
     * existential
 
-    defs:
+    def:
         * universal: says that a certain property applies to all members of a set (Epp, 2010:2).
         * conditional: says that if one thing is true, then some other thing has to also be true (Epp, 2010:2).
         * existential: says that for a given property that may be true of false, there
