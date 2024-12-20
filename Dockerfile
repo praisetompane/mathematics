@@ -5,8 +5,7 @@ WORKDIR /mathematics
 COPY . .
 
 RUN export DEBIAN_FRONTEND=noninteractive
-RUN sudo apt-get update
-RUN sudo apt-get clean
-RUN sudo rm -rf /var/lib/apt/lists/*
+RUN apt-get update \
+    && apt-get install -y aspell
 
 RUN pipenv install
