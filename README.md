@@ -1,4 +1,5 @@
 # What is Mathematics?
+![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
 **objective**: an attempt at unpacking in layman's terms what mathematics is and how it is created.
 
