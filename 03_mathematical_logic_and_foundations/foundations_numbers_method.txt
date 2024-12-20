@@ -1,7 +1,6 @@
 def foundations of mathematics(Wildberger, 2009):
-    - formal:
-
-        - in words:
+    - formal: ???
+        - in words: ???
 
     - plain english:
         - Mathematics begins with a blank/empty space(i.e. nothing):
@@ -27,10 +26,9 @@ def foundations of mathematics(Wildberger, 2009):
                             we name ||||| as five
                         ...
                 - remarks: 
-                    - These produce strings of |s
-                    - These are our first Mathematical objects.
                     - These are the natural numbers.
                         see: 00_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
+                    - These are our first Mathematical objects.
                     - All Mathematical objects are based on the natural numbers.
 
                 Q: do we require natural language to create Mathematics?
