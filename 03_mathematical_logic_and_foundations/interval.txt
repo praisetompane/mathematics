@@ -14,4 +14,4 @@ def interval (Censor, 2015):
             [2,5] = { x | 2 ≥ x ≤ 5 }
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV
+    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.

@@ -18,4 +18,4 @@ Example:
 References:
 
 General References: 
-    Eric Buffington. Squares and Square Roots (Simplifying Math). https://www.youtube.com/watch?v=sWmW2Is-R2w
+    Eric Buffington. Squares and Square Roots (Simplifying Math).

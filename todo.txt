@@ -78,7 +78,7 @@
                 - current: Calculus - 01: *
             - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
                 - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
-            - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
+            - Richard Hammack. Hammack's Calculus I.
                 - current: Hammack's Calculus I, Lecture 1
         
             - https://www.khanacademy.org/math/calculus-1
@@ -89,16 +89,12 @@
         - analysis:
             - Dr. Casey Rodriguez. 2020. MIT 18.100A Real Analysis
     - readings:
-        - https://robertvirona.com/differential-equations-vs-calculus/
         - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
         - what is mathematics?. richard courant.pdf : chapter vi, viii
         - differential and integral calculus.richard courant
     - recitations:
     - assignments:
     - exams:
-
-- guide:
-    - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 
 ============================================================================================================
 next₁:
@@ -142,7 +138,7 @@ next₁:
 next₂:
     - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
-            - Mathematical Modeling : Analysis and Applications: https://www.youtube.com/playlist?list=PLLy_2iUCG87DcqOcslyw2WB8XpSFUE0zF
+            - Mathematical Modeling : Analysis and Applications
             - https://learning.edx.org/course/course-v1:GeorgetownX+PHYS-155+1T2024/home
             - DelftX: Modelling with Differential Equations
                 - https://www.edx.org/learn/differential-equations/delft-university-of-technology-modelling-with-differential-equations?index=product&queryID=a07f46c72e1b72c920ba82f3b5fcc131&position=2&linked_from=autocomplete&c=autocomplete
