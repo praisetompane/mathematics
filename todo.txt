@@ -3,15 +3,17 @@
         - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
         - Antonio Montalban. 2020. Math 125A Mathematical Logic
     - readings:
-        - Prof. Richard Hammack. Book of Proof. 
-            - current: Preface to the Third Edition
-        - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-        - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
-        - Sets, Logic, Computation. The Open Logic Project
-        - a concise introduction to mathematical logic. wolfgang rautenberg
-            - current position: not started
-        - the foundations of mathematics. kenneth kunen:
-            - current position: page 13, section 1.2: r1
+        - logic and proofs:
+            - Prof. Richard Hammack. Book of Proof. 
+                - current: Preface to the Third Edition
+            - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+            - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
+            - Sets, Logic, Computation. The Open Logic Project
+        - mathematical_logic:
+            - a concise introduction to mathematical logic. wolfgang rautenberg
+                - current position: not started
+            - the foundations of mathematics. kenneth kunen:
+                - current position: page 13, section 1.2: r1
     - assignments:
     - exams:
 
@@ -19,6 +21,25 @@
     - lectures:
         - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
             - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger [-96tlu_sShM]: *
+            - basics:
+                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger [91c5Ti6Ddio]
+                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger [wPEYoW0Mj1U]
+            - others:
+                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger [UsQsV8VsCxw]
+                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 [xReU2BJGEw4]
+                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 [xE4DdIwPh2s]
+                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger [YYnYatWV-pU]
+                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger [lcIbCZR0HbU]
+                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 [pE01mIrsw74]
+                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 [DMJeJp3RoWI]
+                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 [gqjiDfiZjps]
+            - more on real number:
+                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 [6JjPA3msnbo]
+                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger [jlnBo3APRlU]
+            - more on natural numbers:
+                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 [r4dqPaIn4m8]
+                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 [WoWGfjYv-cQ]
+            
     - readings:
         - kent fundamentals of mathematics i
             - current position: pg. 22: example 3
@@ -52,18 +73,21 @@
 
 - 26_real_functions:
     - lectures:
-        - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
-            - current: Calculus - 01: *
-        - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
-            - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
-        - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
-            - current: Hammack's Calculus I, Lecture 1
-    
-        - https://www.khanacademy.org/math/calculus-1
-        - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+        - calculus:
+            - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
+                - current: Calculus - 01: *
+            - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
+                - current: Lec 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
+            - Richard Hammack. Hammack's Calculus I. https://www.youtube.com/playlist?list=PLmvTkFr4eZzQRLBGzbc5sZokmP-PqyNSJ
+                - current: Hammack's Calculus I, Lecture 1
+        
+            - https://www.khanacademy.org/math/calculus-1
+            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
 
-        - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
-            - current: None
+            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
+                - current: None
+        - analysis:
+            - Dr. Casey Rodriguez. 2020. MIT 18.100A Real Analysis
     - readings:
         - https://robertvirona.com/differential-equations-vs-calculus/
         - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
