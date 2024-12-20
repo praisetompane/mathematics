@@ -5,7 +5,7 @@ def binary relation (Epp, 2010:442):
                         are related by some condition (Epp, 2010:14).
 
             a mathematical structure R is a relation
-                between sets A(domain) and B(codomain), if the properties below are satisfied (Epp, 2010:14):
+                between sets A(domain) and B(co-domain), if the properties below are satisfied (Epp, 2010:14):
             
                 1. there exists x in A and
                     y in B such that

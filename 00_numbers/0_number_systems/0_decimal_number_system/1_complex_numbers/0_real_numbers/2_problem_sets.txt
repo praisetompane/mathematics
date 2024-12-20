@@ -12,7 +12,7 @@ Which set/sets of numbers do the numbers belong?
      they are real numbers that are representable as Fractions
 
      1/2 = already Fraction
-                                           GCD = 5
+     Greatest Common Divisor = 5
      -3.5 =  (-3/5 * 10)/10 = -35/10 = (-35/5)/(10/5) = -7/2
 
 Plot on number line

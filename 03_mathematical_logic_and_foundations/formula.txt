@@ -16,8 +16,8 @@ def formula:
 
         examples:
             - equations
-            - equalities
-            - inequalities
+            - equality
+            - inequality
             - identities
             .
             .

@@ -58,7 +58,7 @@ def decimal number system:
             10 ten-thousand         = 1 one-hundred-thousand
             10 one-hundred-thousand = 1 one-million
 
-Q: Why numbers after the decimal point, start with tenth and not oneth?:
+Q: Why numbers after the decimal point, start with tenth and not ones?:
     https://byjus.com/question-answer/why-isn-t-ones-place-not-there-in-decimal-part-of-decimals/
     https://www.quora.com/Why-are-digits-after-a-decimal-point-not-pronounced-as-they-are
 

@@ -9,7 +9,7 @@ def multiplication²(Wildberger, 2009):
         - laws (Wildberger, 2009) :
             commutative:
                 -
-            associatiative:
+            associative:
                 -
                 
     - properties:
@@ -121,7 +121,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
         - laws (Kent State Department of Mathematical Sciences, 2008:53-54) :
             commutative:
                 -
-            associatiative:
+            associative:
                 -
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
