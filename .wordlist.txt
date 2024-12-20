@@ -26,6 +26,11 @@ ZFC
 Zermelo
 René
 Stover
+praisetompane
+quantamagazine
+richardhammack
+njwildberger
+
 
 curvilinear
 Multivariable
@@ -71,6 +76,9 @@ quora
 realpython
 wildegg
 worldscienceu
+mathlib
+mathoverflow
+oeis
 
 
 TODO
@@ -173,13 +181,6 @@ leanprover
 maa
 mathematica
 mathematicallogic
-mathlib
-mathoverflow
-njwildberger
-oeis
-praisetompane
-quantamagazine
-richardhammack
 ryP
 sams
 shorthands
