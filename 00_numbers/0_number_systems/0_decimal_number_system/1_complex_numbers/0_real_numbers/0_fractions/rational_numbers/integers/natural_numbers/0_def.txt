@@ -30,19 +30,29 @@ def natural numbers³(Wildberger, 2009): a collection(i.e. Set) of these strings
                             ||||
                             ||||||
                     then:
-                            pair each one(i.e. |) in one number with a one in the other number.
+                        pair each one(i.e. |) in one number with a one in the other number.
                     then:
-                            the number left with unpaired ones is the larger of the two.
+                        the number left with unpaired ones is the larger of the two.
             - abstract notation:
                 let:
                     - n and m be natural numbers
                 then:
                     - equality:
-                        n = m, if and only if, |s in n match |s in m
-                            remark: this is our second Mathematical operator.
+                        formal:
+                            n = m ⟺ |s in n match |s in m
+
+                            in words:
+                                n equals m, if and only if, |s in n match |s in m
+                        remark: this is our second Mathematical operator.
+
                     - inequality:
-                        n < m , if and only if, |s in n are less than |s in m
-                            remark: this is our third Mathematical operator.
+                        formal:
+                            n < m ⟺ |s in n are less than |s in m
+
+                            in words:
+                                n is less than m , if and only if, |s in n are less than |s in m
+                                    remark: this is our third Mathematical operator.
+                    
 use cases:
     - count apples, goats etc.
     - solution to equations:
