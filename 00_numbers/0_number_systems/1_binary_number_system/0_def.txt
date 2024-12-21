@@ -38,6 +38,5 @@ def binary: base-two numerical system for representing numbers (Khan Academy).
                         8   +   4   +   2   +   1 = 15
 
 References:
-    Khan Academy. Binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/a/bits-and-binary.
-    Khan Academy. Patterns in binary numbers. https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/v/patterns-in-binary-numbers.
-
+    Khan Academy. Computers and the Internet. Binary numbers.
+    Khan Academy. Computers and the Internet. Patterns in binary numbers.

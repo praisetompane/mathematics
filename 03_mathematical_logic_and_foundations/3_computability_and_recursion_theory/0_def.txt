@@ -1,5 +1,5 @@
 def computability(recursion) theory (Kunen, 2007:9):
-    theory of algorithms and computability.
+    - plain english: theory of algorithms and computability.
 
     def decidability:
         can we test for the set?

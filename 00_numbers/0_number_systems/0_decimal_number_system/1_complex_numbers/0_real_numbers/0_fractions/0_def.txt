@@ -1,9 +1,9 @@
 def fraction: an integer divided by a nonzero integer(Kent State Department of Mathematical Sciences, 2008:3).
     i.e. a ratio of two integers (Censor, 2015).
-            Q: Does the numerator and denominator have to be integers?
-                e.g. are  pi/5, √5/9 not fractions?
-            Q: are they merely a way to represent division?
+            Question: Does the numerator and denominator have to be integers?
+                e.g. are  π/5, √5/9 not fractions?
+            Question: are they merely a way to represent division?
                 see: 0_foundations/1_arithmetic/4_division
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

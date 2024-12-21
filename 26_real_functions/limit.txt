@@ -1,33 +1,33 @@
 def limit(Censor, 2013):
-    formal:
-            lim     𝑓(𝑥) = L if
-            𝑥->𝑎 
-                ∀ϵ>0 ∃δ>0 s.t 
-                0 < |𝑥 - 𝑎| < δ ⟹ |𝑓(𝑥) - L| < ϵ
+    - formal:
+        𝑙𝑖𝑚     𝑓(𝑥) = 𝐿 𝑖𝑓
+        𝑥->𝑎 
+            ∀ϵ>0 ∃δ>0 𝑠.𝑡 
+            0 < |𝑥 - 𝑎| < δ ⟹ |𝑓(𝑥) - 𝐿| < ϵ
             
-        in words:
+        - in words:
             the limit as 𝑥 approaches 𝑎
-                for 𝑓(𝑥) equals L 
+                for 𝑓(𝑥) equals 𝐿 
                     if
                         for all epsilon(ϵ) greater than zero(0)
                             there exists delta(δ) greater than zero(0)
                                 such that
                                     the absolute difference of 𝑥 and 𝑎 is greater than zero(0) AND less than delta(δ)
                                         implies
-                                            the absolute difference of 𝑓(𝑥) and L is less than epsilon(ϵ)
+                                            the absolute difference of 𝑓(𝑥) and 𝐿 is less than epsilon(ϵ)
             
-    plain english:
-        the limit as 𝑥 approaches 𝑎 for 𝑓(𝑥) equals L
-        implies the absolute difference of 𝑓(𝑥) and L is less epsilon(ϵ)
+    - plain english:
+        the limit as 𝑥 approaches 𝑎 for 𝑓(𝑥) equals 𝐿
+        implies the absolute difference of 𝑓(𝑥) and 𝐿 is less epsilon(ϵ)
             if 
                 for all epsilon(ϵ) greater than zero(0)
                     there exists a delta(δ) greater than zero(0)
                         such that the absolute difference of 𝑥 and 𝑎 is greater than zero(0) and less than delta(δ)
         NB: double check this description later
 
-    intuition:
+    - intuition:
 
-    examples: 
+    - examples: 
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

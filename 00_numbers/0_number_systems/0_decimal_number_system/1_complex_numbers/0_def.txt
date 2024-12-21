@@ -1,62 +1,60 @@
-def i:
-    formal:
-        Let i = √-1 (Censor, 2015).
+def 𝑖:
+    - formal:
+        Let 𝑖  = √-1 (Censor, 2015).
                 ∴ i² = -1
-    plain english:
-        define a new number "i"
-            whose value is the square root of -1.
+    - plain english: define a new number "i", 
+                        whose value is the square root of -1.
 
-        NB: This number does not exist in the Real numbers.
-            There is no number you can square(i.e. multiply by itself an get a negative number)
+                NB: This number does not exist in the Real numbers.
+                    There is no number you can square(i.e. multiply by itself an get a negative number)
 
 def complex number:
-    formal: a + bi | a, b ∈ ℝ    
-    in words: a plus b multiplied by i(defined above)
+    - formal: 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ  
+        - in words: 𝑎 plus 𝑏 multiplied by i(defined above)
 
-    parts:
-        given:
-            z = 1 + 2i
-        then:
-            parts:
-                Re(z) = 1 : Real Part
-                Im(z) = 2 : Imaginary Part
+    - properties:
+        - parts:
+            - given:
+                𝑧 = 1 + 2𝑖
+            - then:
+                - parts:
+                    Re(𝑧) = 1 : Real Part
+                    Im(𝑧) = 2 : Imaginary Part
     
-    examples using decimal number system numbers notation: 
-        1 + 7i = complex number
-        example expression:
-            2 + 3i² + 7i
-            2 + 3(-1) + 7i
-            2 - 3 + 7i
-            -1 + 7i
-            7i - 1
+    - examples:
+        - 1 + 7𝑖
+        - example expression:
+            2 + 3𝑖² + 7𝑖
+            2 + 3(-1) + 7𝑖
+            2 - 3 + 7𝑖
+            -1 + 7𝑖
+            7𝑖 - 1
+
+    - use cases:
+        - solution to equations:
+            example using decimal number system numbers notation:
+                given:
+                    equation₁: 𝑥² + 1 = 0
+                when:
+                    equation₁ has no solution in ℝ
+                then:
+                    in Complex Numbers(i.e. ℂ), a solution exists (Censor, 2015):
+                        solve equation:
+                            𝑥² + 1 - 1 = 0 - 1   : subtract 1 from both sides
+                            then:
+                                𝑥² = -1
+                                    𝑙𝑒𝑡 𝑥 = 𝑖
+                                    ∴ 𝑖² = -1
+                                    which is true in ℂ
 
 def complex number set(Censor, 2015):
-    formal:
-        ℂ = {a + bi | a, b ∈ ℝ}
-    plain english: the set of all numbers of the form "a + bi"
-                    where 
-                        a and b are Real Numbers
+    - formal: ℂ = {𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ}
+    - plain english: the set of all numbers of the form "𝑎 + 𝑏𝑖" where,  
+                        𝑎 and 𝑏  are Real Numbers and,
                         i is the imaginary unit (√-1)
 
-use cases:
-    - solution to equations:
-        example using decimal number system numbers notation:
-            given:
-                equation₁: x^2 + 1 = 0
-            when:
-                equation₁ has no solution in ℝ
-            then:
-                in Complex Numbers(i.e. ℂ), a solution exists (Censor, 2015):
-                    solve equation:
-                        x² + 1 - 1 = 0 - 1  : subtract 1 from both sides
-                        then:
-                            x² = -1
-                                let x = i
-                                ∴ i² = -1
-                                which is true in ℂ
-
-remark: in ℂ all equations have solutions (Censor, 2015).
-            ℂ is an algebraically closed field.
+    - remark: in ℂ all equations have solutions (Censor, 2015).
+                ℂ is an algebraically closed field.
 
 def algebraically closed: TBD
 

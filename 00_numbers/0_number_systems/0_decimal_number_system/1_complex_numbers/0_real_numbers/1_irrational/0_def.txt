@@ -5,5 +5,5 @@ def irrational numbers: Real numbers that cannot be represented as fractions(rat
                 𝕀 = {x | x ∈ ℝ ∧ x ∉ ℚ}
                 𝕀 = ℝ \ ℚ = Real numbers - Rational numbers
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
-  Khan Academy. Intro to rational & irrational numbers. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:irrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers.
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+  Khan Academy. Algebra 1 Intro to rational & irrational numbers.

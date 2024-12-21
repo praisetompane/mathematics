@@ -1,17 +1,17 @@
 def derivative¹(Hammack: 2020):
-    - formal:
+    - formal: ???
             
         - in words:
             - the derivative of a function 𝑓 
                 is another function 𝑓', for which
                 𝑓'(x) = (
                             the slope of the tangent line to 
-                                y=𝑓(x) at point (x, 𝑓(x))
+                                𝑦=𝑓(x) at point (𝑥, 𝑓(x))
                         )
             
                       - (   
                             the rate of change of 𝑓(x)
-                            with respect to x at x
+                            with respect to 𝑥 at 𝑥
                         )
 
     - plain english:
@@ -29,8 +29,8 @@ interpretations (Jerison, 2007):
 
     - geometric (Jerison, 2007):
         problem: find tangent line
-                    to some function y = f(x)
-                    at some point P = (x₀, y₀).
+                    to some function 𝑦 = 𝑓(𝑥)
+                    at some point 𝑃 = (𝑥₀, 𝑦₀).
 
             solution:
                                 ↑
