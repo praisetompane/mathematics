@@ -39,9 +39,9 @@ def Fermat or Interior Extremum (Censor, 2013):
             - ???
         
         - def f': 
-            formal
+            - formal
                 - 3_analysis/0_differential_and_integral_calculus/0_derivative/0_def.txt
-            plain english:
+            - plain english:
                 - the derivative of f
                 - pronounced f prime
 

@@ -1,7 +1,10 @@
 def mathematical logic (Montalban, 2020):
-    studies the foundations of logic and formal systems.
-    goals:
-        - develop the foundations of mathematics using formal systems.
+    - formal: ???
+        - in words: ???
+
+    - plain english: studies the foundations of logic and formal systems.
+                    goals:
+                        - develop the foundations of mathematics using formal systems.
 
     - defines these objects (Kunen, 2007:6-7):
         def mathematical proof:

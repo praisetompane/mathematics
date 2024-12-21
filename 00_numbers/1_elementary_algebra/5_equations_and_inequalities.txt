@@ -1,7 +1,5 @@
 def linear equations (Kent State Department of Mathematical Sciences, 2008:38):
-    - a linear equation with respect to one variable
-        can be written in the form:
-            ax + b = c
+    - a linear equation with respect to one variable can be written in the form: 𝑎𝑥 + 𝑏 = 𝑐
 
 def linear inequality:
 

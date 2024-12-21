@@ -1,14 +1,11 @@
-def simple graph:   a graph without loops and multi edges (Leighton, van Dijk, 2010).
-                        loop: edge e | e = {x₁, x₁}
-                        multi edge:  E = {
-                                            {x₁,x₂},
-                                            {x₂,x₁}
-                                        }
-                                i.e. 2 different edges connecting same vertices
+def simple graph: a graph without loops and multi edges (Leighton, van Dijk, 2010).
+    def loop: E = {x₁, x₁}
+    def multi edge: E = {{𝑥₁,𝑥₂}, {𝑥₂,𝑥₁}}
+                    i.e. 2 different edges connecting same vertices
 
-def max_edges: n(n - 1)/2
-    n = number of members
-    (n - 1) = the universe of members that can be paired with 
+def max_edges: 𝑛(𝑛 - 1)/2
+    𝑛 = number of members
+    (𝑛 - 1) = the universe of members that can be paired with 
     since we disallow multi edges, we remove the duplicate pairings. hence  division by 2
     
 

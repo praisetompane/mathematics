@@ -1,13 +1,16 @@
 def proof theory (Kunen, 2007:7):
-    studies the structure of formal proofs.
+    - formal: ???
+    - plain english: studies the structure of formal proofs.
 
 def proof (Montalban, 2020):
-    an argument
-        that uses logical steps
-        to show a mathematical statement
-        follows from certain assumptions.
 
-    logical steps = rules
+    - plain english:
+        an argument
+            that uses logical steps
+            to show a mathematical statement
+            follows from certain assumptions.
+
+    - def logical steps = rules
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
