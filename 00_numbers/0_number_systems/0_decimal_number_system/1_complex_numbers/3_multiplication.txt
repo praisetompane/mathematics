@@ -1,6 +1,5 @@
-multiplication:
-    plain english: multiply the two complex numbers as algebraic expressions (Censor, 2015).
-    formal:
+def multiplication:
+    - formal:
         (𝑎+𝑏𝑖)(𝑐+𝑑𝑖)
         𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖𝑖
         𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖²
@@ -13,6 +12,8 @@ multiplication:
         
         algebraic simplification
         𝑎𝑐 - 𝑏𝑑 + (𝑎𝑑+ 𝑏𝑐)𝑖: 
+        
+    - plain english: multiply the two complex numbers as algebraic expressions (Censor, 2015).
 
 References:
     Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering.

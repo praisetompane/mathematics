@@ -1,19 +1,18 @@
 def slope (Khan Academy):
-    formal: 
-        Δy/Δx
-    plain english:
+    - formal: 
+        Δ𝑦/Δ𝑥
+    
+    - plain english:
         - how much change
             happens in 𝑦
                 for a change in 𝑥
-            NB: It is a ratio of the change in y with respect to/proportional to the change in x.
+            NB: It is a ratio of the change in y with respect to/proportional to the change in 𝑥.
             Question: f(Δx) -> Δy
-                is slope a function f,
-                    from a Δ in 𝑥 to a Δ in y?: No, it is a ratio.
+                is slope a function 𝑓, from a Δ in 𝑥 to a Δ in y?: No, it is a ratio.
+
         - how steep a line is.
         - how quickly does it increase
         - how quickly does it decrease
-    
-
 
 References:
     Khan Academy. Intro to slope. https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope/v/introduction-to-slope

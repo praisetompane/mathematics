@@ -5,27 +5,27 @@ def set theory²: a language perfectly suited to describing and explaining all t
 
 axioms:
     axiom 0: Set Existence
-             ∃x(x = x)
+             ∃𝑥(𝑥 = 𝑥)
 
     axiom 1: Extensibility
-             ∀z(z ∈ x ⟺ z ∈ y) ⟹ x = y
+             ∀𝑧(𝑧 ∈ 𝑥 ⟺ 𝑧 ∈ 𝑦) ⟹ 𝑥 = 𝑦
 
     axiom 2: Foundation
-             ∃y(y ∈ x) ⟹ ∃y(y ∈ x ∧ ¬∃z(z ∈ x ∧ z ∈ y))
+             ∃𝑦(𝑦 ∈ 𝑥) ⟹ ∃𝑦(𝑦 ∈ 𝑥 ∧ ¬∃𝑧(𝑧 ∈ 𝑥 ∧ 𝑧 ∈ 𝑦))
 
     axiom 3: Comprehension Scheme
              for each formula φ, without y free,
-                ∃y∀x(x ∈ y ⟺ x ∈ z ∧ φ(x))
+                ∃𝑦∀𝑥(𝑥 ∈ 𝑦 ⟺ 𝑥 ∈ 𝑧 ∧ φ(𝑥))
 
     axiom 4: Pairing
-             ∃z(x ∈ z ∧ y ∈ z)
+             ∃𝑧(𝑥 ∈ 𝑧 ∧ 𝑦 ∈ 𝑧)
 
     axiom 5: Union
-             ∃A ∀Y ∀x (x ∈ Y ∧ Y ∈ F ⟹ x ∈ A)
+             ∃𝐴 ∀𝑌 ∀𝑥 (𝑥 ∈ 𝑌 ∧ 𝑌 ∈ 𝐹 ⟹ 𝑥 ∈ 𝐴)
 
     axiom 6: Replacement Scheme
              for each formula φ, without B free
-                ∀x ∈ A ∃!y φ(x,y) ⟹ ??? 
+                ∀𝑥 ∈ 𝐴 ∃!𝑦 φ(𝑥,𝑦) ⟹ ??? 
 
     axiom 7: Infinity
     axiom 8: Power Set

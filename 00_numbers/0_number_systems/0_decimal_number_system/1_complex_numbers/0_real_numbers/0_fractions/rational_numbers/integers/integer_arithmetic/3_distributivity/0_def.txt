@@ -49,5 +49,5 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
         - division and subtraction
         
 References:
-    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
     Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.

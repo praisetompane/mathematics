@@ -2,7 +2,7 @@ def calculus: relates two functions,
                 - distance and speed
                 - height and slope ⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
 
-    plain english:
+    - plain english:
         studies limits and related theories. usually in the context of real and complex numbers and functions.
 
 References:

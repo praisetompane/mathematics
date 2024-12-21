@@ -3,23 +3,23 @@ def¹: a chart of elements
             rows and columns (Censor, 2015):
 
     example:
-        A = ( 
+        𝐴 = ( 
               1  0 π 
               √2 𝑖 -3    
             )
 
-        A is a matrix over ℂ
+        𝐴 is a matrix over ℂ
 
     
     general form:
-        A = (
-              a₁₁ a₁₂ a₁₃ ... a₁ₙ
-              a₂₁ a₂₂ a₂₃ ... a₂ₙ
-              a₃₁ a₃₂ a₃₃ ... a₃ₙ
+        𝐴 = (
+              𝑎₁₁ 𝑎₁₂ 𝑎₁₃ ... 𝑎₁ₙ
+              𝑎₂₁ 𝑎₂₂ 𝑎₂₃ ... 𝑎₂ₙ
+              𝑎₃₁ 𝑎₃₂ 𝑎₃₃ ... 𝑎₃ₙ
               .    .   .       .
               .    .   .       .
               .    .   .       .
-              aₘ₁  aₘ₂ aₘ₃ ...  aₘₙ 
+              𝑎ₘ₁  𝑎ₘ₂ 𝑎ₘ₃ ...  𝑎ₘₙ 
             )
 
         NB: MYINC: the columns are fixed forall m in the general form.
@@ -30,25 +30,25 @@ def¹: a chart of elements
                 - row i
                 - column j
                 of the matrix
-            - A = Aₘₓₙ = (aᵢⱼ)
-                - matrix A has m rows AND n columns
-            - A ∈ Mₘₓₙ(ℂ)
+            - 𝐴 = Aₘₓₙ = (aᵢⱼ)
+                - matrix 𝐴 has m rows AND n columns
+            - 𝐴 ∈ Mₘₓₙ(ℂ)
                 - Mₘₓₙ = family of m × n matrices
                 - Mₘₓₙ(ℂ) = family of m × n matrices over the Complex Numbers
-                ∴ A ∈ Mₘₓₙ(ℂ) = A is a member of m × n matrices over the Complex Numbers
+                ∴ 𝐴 ∈ Mₘₓₙ(ℂ) = 𝐴 is a member of m × n matrices over the Complex Numbers
             - if m = n, then
-                A ∈ Mₙ(ℂ)
+                𝐴 ∈ Mₙ(ℂ)
                 - Mₙ = shorthand for Mₙₓₙ
 
             - concepts:
                 - size of matrix: m × n
                     - m = number of rows
                     - n = number of columns
-                - square matrix: A = Aₙₓₙ
+                - square matrix: 𝐴 = Aₙₓₙ
                 - main diagonal: all elements aᵢᵢ
                     NB: i AND j = same value
                         example:
-                            given A = A₃ₓ₃
+                            given 𝐴 = A₃ₓ₃
                             main diagonal = a₁₁, a₂₂, a₃₃ 
                     NB: usually only associated with square matrices
                             because row AND column numbers are equal
@@ -58,7 +58,7 @@ def¹: a chart of elements
                                     eventually we reach an entry aₘₙ where,
                                         n > m
                                         example:
-                                            in A = A₂ₓ₃
+                                            in 𝐴 = A₂ₓ₃
 
 References:
     Censor, A. Algebra 1M - international. 11 - Matrices. 2015. Technion - International School Of Engineering.
