@@ -7,7 +7,7 @@
 
 **def mathematics²**(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
 
-**def side of Mathematics³:**(Hammack, 2018:viii):
+**def side of Mathematics:**(Hammack, 2018:viii):
 - computation focused:
      - primary goals:
           - solve equations.
@@ -18,8 +18,8 @@
           - ...
           - use the above-mentioned computations to answer practical questions about the real world.
 
-     **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretial side.
-- theoretial focused:
+     **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretical side.
+- theoretical focused:
      - primary goals:
           - understand Mathematical structures.
           - prove Mathematical statements.
