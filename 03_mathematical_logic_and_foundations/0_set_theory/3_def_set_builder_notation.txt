@@ -125,4 +125,4 @@ def set_builder_notation(Hammack, 2018:5):
         - describe sets too big to fit all their elements in between the braces({}).
 
 References:
-    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
