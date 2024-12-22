@@ -34,4 +34,4 @@ axioms:
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
     Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
-    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

@@ -3,9 +3,27 @@
 
 **objective**: an attempt at unpacking in layman's terms what mathematics is and how it is created.
 
-**def mathematics¹**: is an art like music and painting (Lockhart, 2009: 3).
+**def mathematics¹**(Lockhart, 2009: 3): is an art like music and painting.
 
-**def mathematics²**: is about pure reason to get at the truth about something (Lockhart, 2009: 4).
+**def mathematics²**(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
+
+**def side of Mathematics³:**(Hammack, 2018:viii):
+- computation focused:
+     - primary goals:
+          - solve equations.
+          - compute derivatives.
+          - compute integrals.
+          - multiply matrices.
+          - find determinants.
+          - ...
+          - use the above-mentioned computations to answer practical questions about the real world.
+
+     **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretial side.
+- theoretial focused:
+     - primary goals:
+          - understand Mathematical structures.
+          - prove Mathematical statements.
+          - invent or discover new Mathematical theorems and theories.
 
 **plain english**:
 - **def mathematics:** is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
@@ -63,6 +81,7 @@
 - Mathematics Subject Classification. 2020. https://zbmath.org/classification/
 - Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
 - Lockhart, P. 2009. A Mathematician's Lament.
+- Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
 
 ## Legend:
 **Q**: Question for later research

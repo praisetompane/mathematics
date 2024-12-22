@@ -126,4 +126,4 @@ use cases:
     - All of mathematics can be described with sets(Hammack, 2018:3).
 
 References:
-    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
