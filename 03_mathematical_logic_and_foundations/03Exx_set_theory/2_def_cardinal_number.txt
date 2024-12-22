@@ -55,4 +55,4 @@ def cardinal number sequence:
     examples:
 
 References:
-    Richard Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
