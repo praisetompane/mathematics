@@ -1,0 +1,6 @@
+def: ???
+
+References:
+    Bartosz Milewski. 2016. Category Theory For Programmers I
+    Bartosz Milewski. 2017. Category Theory For Programmers II
+    Bartosz Milewski. 2018. Category Theory For Programmers III
