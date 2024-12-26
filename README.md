@@ -39,8 +39,8 @@
 - [ZBMATH](https://zbmath.org/classification/)
 
 **def how is it created?**:
-- [initialize mathematics from natural numbers](1_mathematical_logic_and_foundations/foundations_numbers_method.txt)
-- [initialize mathematics from axiomatic method](1_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
+- [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
+- [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
 
 ## History:
 - [MoMath + Wolfram](https://history-of-mathematics.org/)
