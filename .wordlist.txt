@@ -84,6 +84,9 @@ num's
 numpy
 py
 sqrt
+pipenv
+pyspelling
+
 
 # institutions
 cengage

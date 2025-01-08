@@ -1,5 +1,20 @@
-def geometry: the study of the intrinsic shapes of mathematical objects (Frenkel).
+def geometry: 
+    - formal: ???
 
+        - in words: ???
+    - plain english: 
+        the study of the intrinsic shapes of mathematical objects (Frenkel).
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 def Cartesian: anything that derives from René Descartes' conception of Geometry (Stover, Christopher and Weisstein, Eric W).
                Geometry conceptualized as points/vector represented as an ordered tuple of real numbers(i.e. Cartesian coordinates)
                     The plane is represented as below(called a Cartesian product of sets) (Stover, Christopher and Weisstein):

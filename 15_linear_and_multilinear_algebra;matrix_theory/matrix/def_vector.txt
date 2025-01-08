@@ -1,0 +1,81 @@
+def vector:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: 
+      - an entity with a magnitude and direction
+
+      - 3blue1brown:
+        - physics:
+          - arrows pointing in space:
+            - properties:/magnitude
+              - length
+              - direction
+            - examples:
+              v = ->
+              w = ->
+              y = <-
+              ∴ 
+                v = w
+                y ≠ v ≠ w
+        - computer science:
+          - list of numbers
+            - example:
+              v = [1, 6]
+              w = [7, 9]
+              y = [1, 6]
+              ∴
+                v ≠ w
+                v = w
+        - mathematics:
+          - any object with support for these operations:
+            - +: 
+              - example:
+                - v + w
+            - * by scalar:
+              - example:
+                - v * 5
+
+    - intuition: ???
+
+    - properties: ???
+
+      - addition and subtraction: add/subtract corresponding components
+
+        why does the order of terms matter in addition and subtraction?
+
+          (a) - (b) != (b) - (a)
+          (a) +  (b) != (b) + (a)
+
+      - multiplication/division: ???
+
+      - unit vectors:
+        - a vector with a magnitude of 1
+
+        - getting the unit vector of another vector (vector in the same direction with
+        a magnitude of 1):
+
+          1. divide the components of the vector by the magnitude of the vector
+
+              a = (3,4)
+              ||a|| = 5
+              {
+                sqrt(3^2 + 4 ^2)
+                sqrt(9 + 16)
+                sqrt(25)
+                = 5
+                :apply pythagoras theorem
+              }
+
+              u = (3/5, 4/5) : (out unit vector)
+
+              proof(get magnitude using pythagoras theorem)
+
+            ||u||=
+            {
+                sqrt( (3/5)^2 + (4/5)^2 )
+                sqrt( 9/25 + 16/ 25)
+                sqrt(25/25)
+                sqrt(1) = 1 : correct
+            }

@@ -1,19 +1,29 @@
-def theorem:
-    formal: a mathematical fact that is proved (Censor, 2013).
+def theorem(Censor, 2013):
+    - formal: a mathematical fact that is proved .
 
-    plain english: a sentence
+    - plain english: a sentence
                     that is proved to be true.
 
-    structure (Censor, 2013):
-        - context/assumptions/setting/data
-            e.g. let, suppose
-        
-        - conclusion/consequence/result
-            e.g. Then some thing is True/ Therefore some thing is True
+    - intuition: ???
+
+    - properties: 
+        - structure:
+            - context/assumptions/setting/data
+                e.g. let, suppose
             
-            NB: This is what requires proof.
-        examples:
-            3_analysis/0_differential_and_integral_calculus/theorems
+            - conclusion/consequence/result
+                e.g. Then some thing is True/ Therefore some thing is True
+                
+                NB: This is what requires proof.
+            examples:
+                3_analysis/0_differential_and_integral_calculus/theorems
+
+    - examples: ???
+
+    - use cases:
+        - building block for Mathematical theories(i.e. fields)
         
+    - proof: N/A
+
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.

@@ -1,5 +1,5 @@
 def function:
-    formal: a relation F, is a function 
+    - formal: a relation F, is a function 
                 from a set A(domain) to a set B(co-domain), if it satisfies the properties below(Epp, 2010:17):
 
                     1. ∀x ∈ A, ∃y ∈ B s.t. (x,y) ∈ F
@@ -24,17 +24,25 @@ def function:
     
     
 
-    plain english: a mapping
+    - plain english: a mapping
                     between two groups of things, named A and B
                     where
                         each thing in group A
                             can only map to ONE thing in group B.
 
-    intuition:
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱᴼⁿˢ_ⁿᵉᵉᵈᵉᵈ⁾:
     NB: uniquely represents a function
-    formal:
+    - formal:
         given: f: X ⟶ Y
 
         then:
@@ -51,14 +59,21 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
                         that list can be a list of 1 variable.
                 This allows Multivariable functions.
 
-        in words:
+        - in words:
             the set of all 
                 ordered pairs of (x,y)
                 where y = f(x)
 
-    plain english:
+    - plain english: ???
 
-    intuition:
+    - intuition: ???
 
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.

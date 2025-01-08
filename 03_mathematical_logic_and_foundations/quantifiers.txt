@@ -1,4 +1,4 @@
-quantifiers (Kunen, 2007:4) (Weisstein):
+def quantifiers (Kunen, 2007:4) (Weisstein):
     ∀ := for all : universal quantifier
     ∃ := there exists : existential quantifier or general quantifier
     ∃! := there exists a unique one

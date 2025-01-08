@@ -1,25 +1,46 @@
-given:
-    directed G:
-        with:
-            - 𝑉 = {0, 1, 2, 3, 4, 5}
-            - 𝐸 = {
-                    {0,1}, 
-                    {0,4},
-                    {0,5},
-                    {1,3},
-                    {1,4},
-                    {2,1},
-                    {3,2},
-                    {3,4}
-                }
-then:
-    breadth_first_search flow(bfs)          
-        0
-            1, 4, 5
-        3
-            2
+def graph_search_algorithms(Leighton, van Dijk, 2010):
+    - formal: ???
 
-    depth_first_search flow (dfs)
-        0, 1, 3, 4
-        2
-        5
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - types:
+            - breadth first search(BFS)
+            - depth first search(DFS)
+
+    - examples:
+        given:
+            directed G:
+                with:
+                    - 𝑉 = {0, 1, 2, 3, 4, 5}
+                    - 𝐸 = {
+                            {0,1}, 
+                            {0,4},
+                            {0,5},
+                            {1,3},
+                            {1,4},
+                            {2,1},
+                            {3,2},
+                            {3,4}
+                        }
+        then:
+            breadth_first_search flow(bfs)          
+                0
+                    1, 4, 5
+                3
+                    2
+
+            depth_first_search flow (dfs)
+                0, 1, 3, 4
+                2
+                5
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+    Prof. Tom Leighton, Dr. Marten van Dijk. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/.

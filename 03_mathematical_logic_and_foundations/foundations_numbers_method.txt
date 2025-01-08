@@ -33,13 +33,15 @@ def foundations of mathematics(Wildberger, 2009):
 
                 Question: do we require natural language to create Mathematics?
 
-    - intuition:
+    - intuition: ???
 
-    - properties:
+    - properties: ???
 
-    - examples:
+    - examples: ???
 
-    - use cases:
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?. https://www.wildegg.com/youtube-math-foundations-a.html.

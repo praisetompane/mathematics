@@ -1,27 +1,40 @@
-def graph(Leighton, van Dijk, 2010): graph G is a set of sets 𝑉 and 𝐸:
-            𝑉 = nonempty set of items called vertices/nodes.
-            𝐸 = set of 2-item sets, which are subsets of 𝑉 called edges
-                𝐸 = {{𝑎,𝑏} : 𝑎,𝑏 ∈ 𝑉}.
-            ∴ 𝐸 ⊂ 𝑉
+def graph(Leighton, van Dijk, 2010): 
+    - formal: ???
 
-example:
-      x₂-----x₆ 
-   e₁/
-    /
-   x₁---------x₄
-    \          \
-     x₅         x₃
+        - in words: 
+            graph G is a set of sets 𝑉 and 𝐸:
+                𝑉 = nonempty set of items called vertices/nodes.
+                𝐸 = set of 2-item sets, which are subsets of 𝑉 called edges
+                    𝐸 = {{𝑎,𝑏} : 𝑎,𝑏 ∈ 𝑉}.
+                ∴ 𝐸 ⊂ 𝑉
 
-𝐺 = {𝑉, 𝐸}
-𝑉 = { 𝑥₁, 𝑥₂, 𝑥₃, 𝑥₄, 𝑥₅, 𝑥₆ }
-𝐸 = {
-        {𝑥₁, 𝑥₂},
-        {𝑥₁, 𝑥₅},
-        {𝑥₁, 𝑥₄},
-        {𝑥₂, 𝑥₆},
-        {𝑥₄, 𝑥₃}
-    }
+    - plain english: ???
 
+    - intuition: ???
+
+    - properties: ???      
+
+    - examples:
+            x₂-----x₆ 
+         e₁/
+          /
+        x₁---------x₄
+          \          \
+           x₅         x₃
+
+        𝐺 = {𝑉, 𝐸}
+        𝑉 = { 𝑥₁, 𝑥₂, 𝑥₃, 𝑥₄, 𝑥₅, 𝑥₆ }
+        𝐸 = {
+                {𝑥₁, 𝑥₂},
+                {𝑥₁, 𝑥₅},
+                {𝑥₁, 𝑥₄},
+                {𝑥₂, 𝑥₆},
+                {𝑥₄, 𝑥₃}
+            }
+
+    - use cases: ???
+        
+    - proof: ???
+    
 References: 
     Leighton T., van Dijk M. Mathematics For Computer Science. 2010. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/.
-

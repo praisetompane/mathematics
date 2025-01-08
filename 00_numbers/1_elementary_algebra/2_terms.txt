@@ -1,0 +1,26 @@
+def term:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english:  parts of an algebraic expression, operated on by + or-.(Question: only + or -?).
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - 4𝑥𝑧  + 3𝑥  - 3 has 3 terms:
+            - term 1: 4𝑥𝑧 
+            - term 2: 3𝑥
+            - term 3: 3
+
+        - 4𝑥³𝑦 - 3𝑦² has 2 terms:
+            - term 1: 4𝑥³𝑦 
+            - term 2: 3𝑦²
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

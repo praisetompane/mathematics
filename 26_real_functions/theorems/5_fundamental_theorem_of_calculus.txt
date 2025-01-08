@@ -6,14 +6,16 @@ def fundamental_theorem_of_calculus¹(Hammack: 2020):
                 between points 𝑥=0 and 𝑥=a 
                 is 𝑓(a) - 𝑓(0)
                 
-    - plain english:
+    - intuition: ???
 
-    - intuition:
+    - properties: ???
 
-    - properties:
+    - examples: ???
 
-    - examples:
-
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
     Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html
         

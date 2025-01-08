@@ -1,22 +1,33 @@
 def division:
-    plain english: split m into n equal parts.
-    notation: m/n
+    - formal: ???
 
-example:
-    plain english: split 5 into 2 equal parts
-    result: 2.5 and 2.5
-    notation: 5/2
+        - in words: ???
 
-    plain english: split 2 into 1 equal part
-    result: 2
-    notation: 2/1 = 2
+    - plain english: split m into n equal parts.
 
-properties:
-    - division by zero is undefined (Weisstein, 2024)
-            plain english: split 7 into 0 equal parts
-            result: we cannot split a 7 into zero parts.
-                    in current mathematics we have no way to do this, hence it is undefined.
-            notation: 7/0 is undefined.
+    - intuition: ???
+
+    - properties: 
+        - notation: m/n
+        - division by zero is undefined (Weisstein, 2024)
+                plain english: split 7 into 0 equal parts
+                result: we cannot split a 7 into zero parts.
+                        in current mathematics we have no way to do this, hence it is undefined.
+                notation: 7/0 is undefined.
+
+    - examples:
+        plain english: split 5 into 2 equal parts
+        result: 2.5 and 2.5
+        notation: 5/2
+
+        plain english: split 2 into 1 equal part
+        result: 2
+        notation: 2/1 = 2
+
+    - use cases: 
+        - share a cake with family/friends
+        
+    - proof: ???
 
 References:
     Weisstein E.W. "Undefined." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Undefined.html

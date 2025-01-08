@@ -3,11 +3,43 @@ def simple graph: a graph without loops and multi edges (Leighton, van Dijk, 201
     def multi edge: E = {{𝑥₁,𝑥₂}, {𝑥₂,𝑥₁}}
                     i.e. 2 different edges connecting same vertices
 
-def max_edges: 𝑛(𝑛 - 1)/2
-    𝑛 = number of members
-    (𝑛 - 1) = the universe of members that can be paired with 
-    since we disallow multi edges, we remove the duplicate pairings. hence  division by 2
-    
+
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def max_edges:
+    - formal: 
+        max_edges = 𝑛(𝑛 - 1)/2, where:
+            - 𝑛 = number of members.
+            - (𝑛 - 1) = the universe of members that can be paired with. 
+            - /2 = we disallow multi edges, we remove the duplicate pairings. hence division by 2
+        - in words:
+        
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Prof. Tom Leighton, Dr. Marten van Dijk. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/.

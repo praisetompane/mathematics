@@ -1,9 +1,9 @@
 def multiplication²(Wildberger, 2009):
-    - formal:
+    - formal: ???
 
-        - in words:
+        - in words: ???
 
-    - plain english:
+    - plain english: ???
 
     - intuition:
         - laws (Wildberger, 2009) :
@@ -12,9 +12,13 @@ def multiplication²(Wildberger, 2009):
             associative:
                 -
                 
-    - properties:
+    - properties: ???
 
-    - examples:
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
     - formal:
@@ -39,9 +43,9 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
             5 + 5 + 5 = 15 or 5 x 3 = 15
             5 is repeatedly added 3 times
 
-    - plain english:
+    - plain english: ???
 
-    - intuition:
+    - intuition: ???
 
     - properties:
         - factors: numbers being multiplied in a multiplication sentence (Kent State Department of Mathematical Sciences, 2008:19).
@@ -123,6 +127,13 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                 -
             associative:
                 -
+    
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.http://www.math.kent.edu/ebooks/10031/book.pdf.
     Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication

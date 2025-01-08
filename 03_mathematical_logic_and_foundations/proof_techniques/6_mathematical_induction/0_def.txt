@@ -1,19 +1,19 @@
-def x:
-    - formal:
+def mathematical_induction:
+    - formal: ???
 
-            - it is an axiom.
-            
-        - in words:
+        - in words: ???
+        
+    - plain english: ???
 
-    - plain english:
+    - intuition: ???
 
-    - intuition:
+    - properties: ???
 
-    - properties:
-
-    - examples:
+    - examples: ???
 
     - use cases:
         - computer science
+        
+    - proof:    it is an axiom.
 
-References:
+References: ???

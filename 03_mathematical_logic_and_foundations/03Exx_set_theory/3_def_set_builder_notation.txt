@@ -107,8 +107,7 @@ def set_builder_notation(Hammack, 2018:5):
                             2(3)  = 6
                             ∴ output = {-6,-4,-2,0,2,4,6}
 
-    - intuition:
-
+    - intuition: ???
                 
     - properties:
         - variations:
@@ -121,8 +120,12 @@ def set_builder_notation(Hammack, 2018:5):
                     - {𝑛 ∈ ℤ: 𝑛 is even}
                     - {2𝑛 | 𝑛 ∈ ℤ} NB: notice | is used for such that.
 
-    - use case:
+    - examples: ???
+
+    - use cases:
         - describe sets too big to fit all their elements in between the braces({}).
+
+    - proof: ???
 
 References:
     Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
