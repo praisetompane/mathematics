@@ -6,17 +6,22 @@ def differentiation¹(Hammack: 2020):
                 a function 𝑓
             then:
                 find the function 𝑓'
-    - plain english:
 
-    - intuition:
+    - plain english: ???
 
-    - properties:
+    - intuition: ???
 
-    - examples:
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
         
 - def differentiable(Censor, 2013):
-    - formal
-        - TBD
+    - formal:
+        - ???
     - plain english:
         - TBD
     - intuition: 
@@ -26,7 +31,13 @@ def differentiation¹(Hammack: 2020):
             - the derivative exists for 
                 every point. 
 
+    - properties: ???
 
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

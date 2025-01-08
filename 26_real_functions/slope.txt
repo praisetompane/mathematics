@@ -1,7 +1,7 @@
 def slope (Khan Academy):
-    - formal: 
-        Δ𝑦/Δ𝑥
-    
+    - formal: Δ𝑦/Δ𝑥
+        - in words: ???
+
     - plain english:
         - how much change
             happens in 𝑦
@@ -13,6 +13,16 @@ def slope (Khan Academy):
         - how steep a line is.
         - how quickly does it increase
         - how quickly does it decrease
+        
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Khan Academy. Intro to slope. https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope/v/introduction-to-slope

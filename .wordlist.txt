@@ -63,7 +63,14 @@ notational
 num
 num's
 py
+<<<<<<< HEAD
 ary
+=======
+sqrt
+pipenv
+pyspelling
+
+>>>>>>> 0642e2e (fix: apply definition template for consistency, highlight missing information and add concept ordering.)
 
 
 Cengage

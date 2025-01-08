@@ -1,41 +1,57 @@
-def binary: base-two numerical system for representing numbers (Khan Academy).
-    Q: Are all sets of numbers representable?
-    digits = {0, 1}
+def binary(Khan Academy): 
+    - formal: ???
 
-        ... 3       2       1      0    : places/positions, P
-            8s      4s      2s     1s   : place's/position's value
-            2³      2²      2¹     2⁰   : 2ⁿ | n ∈ P : each place represents a power of 2, hence base 2.
+        - in words: ???
 
-    example:
-        900
-            9       8       7       6       5       4       3       2       1       0
-            1       1       1       0       0       0       0       1       0       0
-            2⁹*1    2⁸*1    2⁷*1    2⁶*0    2⁵*0    2⁴*0    2³*0    2²*1    2¹*0    2⁰*0
-            512*1   256*1   128*1   64*0    32*0    16*0    8*0     4*1     2*0     1*0
-            512     256     128     64      32      16      8       4       0       1
-            512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900
+    - plain english: 
+        base-two numerical system for representing numbers (Khan Academy).
+            Question: Are all sets of numbers representable?
+            digits = {0, 1}
 
-    binary number patterns (Khan Academy):
-        * numbers with last bit on are odd
-            i.e. any number + 1 is odd
-            Q: any number, including complex numbers?
-        * given number of bits 𝑛,
-            we can determine the maximum representable number
-                formulaic: 2ⁿ - 1
-                    Q: can we prove this ∀ numbers?
-                representation = all bit set to 1
+                ... 3       2       1      0    : places/positions, P
+                    8s      4s      2s     1s   : place's/position's value
+                    2³      2²      2¹     2⁰   : 2ⁿ | n ∈ P : each place represents a power of 2, hence base 2.
 
-                example:
-                    n = 4
-                    formulaic solution: 2⁴ - 1 = 15
+            example:
+                900:
+                    9       8       7       6       5       4       3       2       1       0
+                    1       1       1       0       0       0       0       1       0       0
+                    2⁹*1    2⁸*1    2⁷*1    2⁶*0    2⁵*0    2⁴*0    2³*0    2²*1    2¹*0    2⁰*0
+                    512*1   256*1   128*1   64*0    32*0    16*0    8*0     4*1     2*0     1*0
+                    512     256     128     64      32      16      8       4       0       1
+                    512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900
 
-                    representation:
-                        3       2       1       0
-                        1       1       1       1
-                        2³*1    2²*1    2¹*1    2⁰*1
-                        8*1     4*1     2*1     1*1
-                        8       4       2       1
-                        8   +   4   +   2   +   1 = 15
+
+    - intuition: ???
+
+    - properties: 
+        binary number patterns (Khan Academy):
+            * numbers with last bit on are odd
+                i.e. any number + 1 is odd
+                Question: any number, including complex numbers?
+            * given number of bits 𝑛,
+                we can determine the maximum representable number
+                    formulaic: 2ⁿ - 1
+                        Question: can we prove this ∀ numbers?
+                    representation = all bit set to 1
+
+                    example:
+                        n = 4
+                        formulaic solution: 2⁴ - 1 = 15
+
+                        representation:
+                            3       2       1       0
+                            1       1       1       1
+                            2³*1    2²*1    2¹*1    2⁰*1
+                            8*1     4*1     2*1     1*1
+                            8       4       2       1
+                            8   +   4   +   2   +   1 = 15
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Khan Academy. Computers and the Internet. Binary numbers.

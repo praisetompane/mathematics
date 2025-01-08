@@ -9,11 +9,15 @@ def integration(Hammack: 2020):
         then:
             find the function 𝑓
             
-    - intuition:
+    - intuition: ???
 
-    - properties:
+    - properties: ???
 
-    - examples:
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
         
 References:
     Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering. https://www.youtube.com/watch?v=E-n78C_-biI&list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

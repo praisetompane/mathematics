@@ -87,6 +87,8 @@ def Cauchy (Censor, 2013):
                 - integrals
                 - series
                 - ...
-
+    
+    - proof: ???
+    
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

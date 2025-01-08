@@ -13,17 +13,38 @@ def arithmetic:
                     4. associativity of multiplication               : 𝑎 × (𝑏 × 𝑐) = (𝑎 × 𝑏) × 𝑐
                     5. distributivity of addition and multiplication : 𝑎 × (𝑏 + 𝑐) = 𝑎×𝑏 + 𝑎×𝑐 
 
-    - plain english:
 
-    - intuition:
+    - plain english: ???
 
-    - examples:
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
         
 
 def Peano axioms: TBD
 
-def fundamental theorem of arithmetic: TBD
+    def Peano arithmetic:
+        - formal: ???
 
+            - in words: ???
+
+        - plain english: ???
+
+        - intuition: ???
+
+        - properties: ???
+
+        - examples: ???
+
+        - use cases: ???
+            
+        - proof: ???
 
 References:
     Courant, R, Robbins, H. 1941. What is Mathematics?. 2nd ed.Oxford university Press.

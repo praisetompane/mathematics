@@ -9,15 +9,15 @@ def density_of_the_irrationals(Censor, 2013)::
     - plain english:
         between any two distinct Real numbers, there exists at least one Irrational number.
 
-    - intuition:
+    - intuition: ???
 
-    - properties:
+    - properties: ???
 
-    - examples:
+    - examples: ???
 
-    - use cases:
-    
-    - proof:
+    - use cases: ???
+        
+    - proof: ???
     
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 012 2013. Technion - International School Of Engineering.

@@ -1,5 +1,5 @@
-def (Censor, 2015):
-    formal:
+def cancellation with respect to addition and multiplication(Censor, 2015):
+    - formal:
         if a + b = a + c, then b = c
             cancellation with respect to addition.
         if a × b = a × c, then b = c (a ≠ 0)

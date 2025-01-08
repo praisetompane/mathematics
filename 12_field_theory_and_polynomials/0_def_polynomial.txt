@@ -1,0 +1,44 @@
+def polynomial: 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english:
+        algebraic expression with more than one term.
+        poly = many
+        nomial = part(Terms in the context of algebraic expressions)
+
+    - intuition: ???
+
+    - properties:
+        - types:
+            - 1 term = monomial
+            - 2 terms = binomial
+            - 3 terms = trinomial
+            - higher number of terms
+
+            - 1 term = monomial
+                Examples:
+                    7
+                    4𝑥² 
+                    5𝑥𝑦⁴
+            - 2 terms = binomial
+                Examples:
+                    4𝑥 - 7
+                    3𝑥𝑦 + 4𝑥
+            - 3 terms = trinomial
+                Examples:
+                    3 + 𝑎 + 𝑏
+                    3𝑐𝑑 + 𝑎 + 8
+            - higher number of terms
+                Examples:
+                    8𝑥 + 𝑎 + 𝑏 + 𝑐
+                    9𝑦 - 𝑎 - 𝑏  + 𝑐 + 𝑥²
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References: ???

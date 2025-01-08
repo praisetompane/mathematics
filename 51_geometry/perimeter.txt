@@ -1,5 +1,21 @@
-def perimeter: the length around a polygon (Khan Academy).
-     the length of a boundary around an area.
+def perimeter (Khan Academy): 
+     - formal: ???
+
+        - in words: 
+          - the length around a polygon.
+          - the length of a boundary around an area.
      
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 References:
     Khan Academy. Perimeter: introduction.https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter.

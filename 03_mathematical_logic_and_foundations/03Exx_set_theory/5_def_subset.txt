@@ -8,11 +8,11 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
         - in words:
             every element in A exists in B.
             
-    - plain english:
+    - plain english: ???
 
-    - intuition:
+    - intuition: ???
 
-    - properties:
+    - properties: ???
 
     - examples:
         1. 
@@ -28,7 +28,10 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
                 𝐵 = {3,2,4,5}
             then:
                 𝐴 ⊈ 𝐵  = True
-    - use cases:
+                
+    - use cases: ???
+        
+    - proof: ???
         
 References:
     Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf

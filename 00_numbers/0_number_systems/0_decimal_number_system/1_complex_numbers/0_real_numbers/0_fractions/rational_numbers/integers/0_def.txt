@@ -1,11 +1,25 @@
-def integers:
-    Measurement(Kent State Department of Mathematical Sciences, 2008:2):
-    * ℤ = {...,-3,-2,-1,0,1,2,3...} = Integers = Used when measurements/counts below zero we needed.
-    ∴ ℤ ⊂ ℝ
-        <---|---|---|---|---|---|---|--->
-            -3  -2  -1   0   1   2   3
+def integers(Kent State Department of Mathematical Sciences, 2008:2):
+    - formal: 
+        * ℤ = {...,-3,-2,-1,0,1,2,3...} = Integers = Used when measurements/counts below zero we needed.
+        ∴ ℤ ⊂ ℝ
+            <---|---|---|---|---|---|---|--->
+               -3  -2  -1   0   1   2   3
+        
+        - in words: ???
 
-Q: Why isn't there a -0(i.e. negative zero?)
+    - plain english: all the negative, non-negative and positive whole numbers.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+Question: Why isn't there a -0(i.e. negative zero?)
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

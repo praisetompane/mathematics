@@ -1,5 +1,20 @@
-def number: ???
-    names for quantities?
+def number: 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: names for quantities?
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 
 number vs numeral(Hamkins, 2020)
     example:

@@ -1,14 +1,27 @@
-def Point: (Wildberger, ???)
-    - Int² := Integer Point
-        - ordered pair of integer numbers
-        example: [2,3]
-    - Rat² := Rational Point
-        - ordered pair of rational numbers
-        example: [3/4,8/2]
+def Point: (Wildberger, ???):
+    - formal: ???
 
+        - in words: 
+            - Int² := Integer Point
+                - ordered pair of integer numbers
+                example: [2,3]
+            - Rat² := Rational Point
+                - ordered pair of rational numbers
+                example: [3/4,8/2]
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 Q: can we perform arithmetic operations on Points?
     i.e. *, /, +, -
     
-References:
+References: ???
   

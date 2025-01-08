@@ -1,10 +1,41 @@
-def rational numbers¹: any number that can be written as a fraction of two integers(Kent State Department of Mathematical Sciences, 2008:3).
-    i.e. a ratio of two integers (Censor, 2015).
+def rational numbers¹: 
+    - formal: ???
 
-    ℚ = {m/n | m ∈ ℤ ∧ n ∈ ℤ ∧ n ≠ 0}
-    * Key is they can be represented as fractions(i.e. as ratios)
+        - in words: any number that can be written as a fraction of two integers(Kent State Department of Mathematical Sciences, 2008:3).
+                i.e. a ratio of two integers (Censor, 2015).
 
-def rational numbers²: Real numbers that can be written as a fraction and therefore can be plotted on a number line(Kent State Department of Mathematical Sciences, 2008:3).
+                ℚ = {m/n | m ∈ ℤ ∧ n ∈ ℤ ∧ n ≠ 0}
+                * Key is they can be represented as fractions(i.e. as ratios)
+
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+def rational numbers²: 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: Real numbers that can be written as a fraction and therefore can be plotted on a number line(Kent State Department of Mathematical Sciences, 2008:3).
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 Q: Is there a formal proof for these?
     - all integers are Rational numbers(Kent State Department of Mathematical Sciences, 2008:3).

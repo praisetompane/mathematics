@@ -1,74 +1,89 @@
-def comparison:
-  when comparing Real Numbers, the number most left on the number line is the lesser of the two (Kent State Department of Mathematical Sciences, 2008:5).
-    Examples:
-      -5 < -4 = True
-        How?
-          Given:
-            -5 of "some things"
-            Acquire 1 of those "some things"
-              Then
-                You have -4 of "some things".
-                Getting 1 more of "some things" get yous to -4 of "some things"
-                ∴ -4 > -5
-          Because -4 is further to the Right on the number line than -5
-                  -5 is further to the Left on the number line than -4
+def comparison(Kent State Department of Mathematical Sciences, 2008:5):
+    - formal: ???
 
-      4.23 < 4.2 = False
-        How?
-          4.23 is further to the Right on the number line(by 0.03 units)
-            headed closer 4.3, which is greater that 4.2
+        - in words: ???
 
-      -10 >= -11 = True
-        Because -10 is further to the Right on the number line
-                -11 is further to the Left on the number line
-
-      7.01 < 7.1 = True
-        Because 7.1 is further to the Right on the number line
-                7.01 is further to the Left on the number line
-
-      Given:
-        you owe $4
-        your friend owes $3
-      Then:
-        you have a larger debt than your friend.
-        ∴ you have "less" money [Assuming you have the same total money]
-
-    Something Interesting:
-      Equality in the Set of Negative numbers(ℝ⁻) is opposite to Equality in the Set of Positive numbers(ℝ⁺).
-      Q: can we prove this for all Real Numbers?
-      Q: Does this apply to Complex Numbers?
-
+    - plain english: 
+      when comparing Real Numbers, the number most left on the number line is the lesser of the two.
         Examples:
-          Positives                 Negatives
-            4 < 5 = True              -4 < -5 = False
-            6 > 7 = False             -6 > -7 = True
-            10 >= 100 = False         -10 >= -100 = True
+          -5 < -4 = True
+            How?
+              Given:
+                -5 of "some things"
+                Acquire 1 of those "some things"
+                  Then
+                    You have -4 of "some things".
+                    Getting 1 more of "some things" get yous to -4 of "some things"
+                    ∴ -4 > -5
+              Because -4 is further to the Right on the number line than -5
+                      -5 is further to the Left on the number line than -4
 
-    Something Interesting:
-      Given two Negative numbers
-        The number with a greater absolute value is less than the other
+          4.23 < 4.2 = False
+            How?
+              4.23 is further to the Right on the number line(by 0.03 units)
+                headed closer 4.3, which is greater that 4.2
 
-      Examples:
-        -4 and -5
-          |-4| = 4, |-5| = 5
+          -10 >= -11 = True
+            Because -10 is further to the Right on the number line
+                    -11 is further to the Left on the number line
 
-          5 > 4
-          ∴ -5 < -4
+          7.01 < 7.1 = True
+            Because 7.1 is further to the Right on the number line
+                    7.01 is further to the Left on the number line
 
-        -71.24 and -71.2
-          |-71.24| = 71.24, |-71.2| = 71.2
+          Given:
+            you owe $4
+            your friend owes $3
+          Then:
+            you have a larger debt than your friend.
+            ∴ you have "less" money [Assuming you have the same total money]
 
-          71.24 > 71.2
-          ∴ -71.24 < 71.2
+        Something Interesting:
+          Equality in the Set of Negative numbers(ℝ⁻) is opposite to Equality in the Set of Positive numbers(ℝ⁺).
+          Question: can we prove this for all Real Numbers?
+          Question: Does this apply to Complex Numbers?
 
-    Something Interesting:
-      with < and  >, the mouth of sign always eats the big number (Kent State Department of Mathematical Sciences, 2008:5).
+            Examples:
+              Positives                 Negatives
+                4 < 5 = True              -4 < -5 = False
+                6 > 7 = False             -6 > -7 = True
+                10 >= 100 = False         -10 >= -100 = True
 
-    Something Interesting:
-      The "value" of a number is determined by its position on the number line.
-        Then its position on the number line determines whether it is <,=,> than other numbers
+        Something Interesting:
+          Given two Negative numbers
+            The number with a greater absolute value is less than the other
 
+          Examples:
+            -4 and -5
+              |-4| = 4, |-5| = 5
+
+              5 > 4
+              ∴ -5 < -4
+
+            -71.24 and -71.2
+              |-71.24| = 71.24, |-71.2| = 71.2
+
+              71.24 > 71.2
+              ∴ -71.24 < 71.2
+
+        Something Interesting:
+          with < and  >, the mouth of sign always eats the big number (Kent State Department of Mathematical Sciences, 2008:5).
+
+        Something Interesting:
+          The "value" of a number is determined by its position on the number line.
+            Then its position on the number line determines whether it is <,=,> than other numbers
+
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
-  Censor, A. Algebra 1M - international.02 - Sets of numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8kXSBav0n20&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=2.
   Khan Academy. Intro to rational & irrational numbers. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:irrational-numbers/x2f8bb11595b61c86:irrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers.

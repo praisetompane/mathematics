@@ -1,0 +1,19 @@
+def Pythagoras theorem:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - mathematician lifetime: 600 BCE
+        
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

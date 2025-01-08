@@ -1,4 +1,7 @@
-def bipartite_graph: a simple graph
+def bipartite graph(Epp, 2010:641):
+    - formal: ???
+
+        - in words: a simple graph
                         whose vertex set can be partitioned into:
                             two disjoint and non-empty subsets of V₁ and V₂
                         such that:
@@ -6,7 +9,18 @@ def bipartite_graph: a simple graph
                                 Q: Is it at least one connection or can there be a V₁ member with no connection?
                             - no vertices in V₁ are connected to other vertices in V₁.
                             - no vertices in V₂ are connected to other vertices in V₂.
-                        (Epp, 2010:641).
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 

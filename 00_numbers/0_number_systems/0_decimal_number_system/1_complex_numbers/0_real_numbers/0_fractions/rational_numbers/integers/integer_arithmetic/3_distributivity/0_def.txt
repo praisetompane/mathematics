@@ -1,5 +1,5 @@
 def distributive laws/properties of addition and multiplication(Kent State Department of Mathematical Sciences, 2008:54):
-    formal:
+    - formal:
         given:
             numbers:
                 - n
@@ -15,10 +15,14 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
             
             - law 2: (k + n) × m = (k × m) + (n × m) 
                           = k × m + n × m
-    plain english:
+    - plain english:
         - properties/laws that connect addition(+) and multiplication(×).
-        
-    examples:
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
         - law 1: 2 × (3 + 4):
                 2 × 3 + 2 × 4
                 6 + 2 × 4
@@ -29,7 +33,12 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
                 12  + 3 × 2
                 12 + 6
                 18
-    Q: are there distributive laws between other pairs of operators?:
+
+    - use cases: ???
+        
+    - proof: ???
+        
+    Question: are there distributive laws between other pairs of operators?:
         - addition and addition
         - addition and division
         - addition and subtraction

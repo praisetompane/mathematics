@@ -5,14 +5,29 @@ def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
         - in words:
             the set of ALL non-negative numbers from 0, with each next number, equal to the previous plus 1.
 
-    - remark: sometimes they are defined without 0.
+    - plain english: ???
 
+    - intuition: ???
+
+    - properties:
+        - remark: sometimes they are defined without 0.
+
+    - proof: ???
+    
 def natural number²(Wildberger, 2009): 
     - formal: ???
         - in words: ???
 
     - plain english: a string of ones(i.e. one = |)
 
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - proof: ???
+    
 def natural numbers³(Wildberger, 2009): 
     - formal: ???
         - in words: ???

@@ -1,66 +1,94 @@
-def decimal: these are also based on 10(Kent State Department of Mathematical Sciences, 2008:3).
-    The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)(Kent State Department of Mathematical Sciences, 2008:3).
-        examples: 
-            0 to 1:
-                0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1
-                    0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
-                    10 's' between 0 and 1
+def decimal¹(Kent State Department of Mathematical Sciences, 2008:3): 
+    - formal: ???
 
-            0 to 0.1:
-                s is split into 10 equal spaces as well(i.e hundredths)
-                0    s|   s|   s|   s|   s|   s|   s|   s|   s|  s 0.1
-                    0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+        - in words: ???
 
-    system = ... ,tens, ones . tenths, hundredths, thousandths, ten-thousandths, hundred-thousandths, millionths, ...
+    - plain english: 
+        these are also based on 10.
+            The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)(Kent State Department of Mathematical Sciences, 2008:3).
+                examples: 
+                    0 to 1:
+                        0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1
+                            0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+                            10 's' between 0 and 1
 
-        e.g. 13.453 = thirteen and four hundred fifty-three thousandths
-                .453 is read like non decimal number + the ending place at the end
-                    i.e. four hundred fifty-three  + thousandths
-                "and" represents the decimal
-            1.0034 = one and thirty-four ten thousandths
+                    0 to 0.1:
+                        s is split into 10 equal spaces as well(i.e hundredths)
+                        0    s|   s|   s|   s|   s|   s|   s|   s|   s|  s 0.1
+                            0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
 
-    Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
-    Yes, that's how we get infinite decimals (i.e the irrational numbers.)
+            system = ... ,tens, ones . tenths, hundredths, thousandths, ten-thousandths, hundred-thousandths, millionths, ...
 
+                e.g. 13.453 = thirteen and four hundred fifty-three thousandths
+                        .453 is read like non decimal number + the ending place at the end
+                            i.e. four hundred fifty-three  + thousandths
+                        "and" represents the decimal
+                    1.0034 = one and thirty-four ten thousandths
+
+            Question: Can we infinitely divide the space between 2 digits? [within a chosen base]
+            Yes, that's how we get infinite decimals (i.e the irrational numbers.)
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def decimal number system:
-    base-ten positional numerical system for representing Real(ℝ) numbers (Weisstein):
-        Q: Can we only represent Real numbers?
-        digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-        decimal expansion = the expression/representation of a number using the decimal system
-        decimal point/command = ./,
+    - formal: ???
 
-        ... 3       2       1      0    : places/positions, P
-            1000s   100s    10s    1s   : place's/position's value
-            10³     10²     10¹    10⁰  : 10ⁿ | n ∈ P : each place represents a power of 10, hence base 10.
+        - in words: ???
 
-        example:
-            900
+    - plain english: 
+        base-ten positional numerical system for representing Real(ℝ) numbers (Weisstein):
+            Question: Can we only represent Real numbers?
+            digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+            decimal expansion = the expression/representation of a number using the decimal system
+            decimal point/command = ./,
 
-            3       2       1       0
-            10³*0   10²*9   10¹*0   10⁰*0
-                    100*9   10*0    1*0
-            0   +   900  +  0    +  0   = 900
+            ... 3       2       1      0    : places/positions, P
+                1000s   100s    10s    1s   : place's/position's value
+                10³     10²     10¹    10⁰  : 10ⁿ | n ∈ P : each place represents a power of 10, hence base 10.
 
-            1234
-            3       2       1       0
-            10³*1   10²*2   10¹*3   10⁰*4
-            1000*1  100*2   10*3    1*4
-            1000    200     30      4
-            1000  + 200  +  30   +  4   = 1234
+            example:
+                900
 
-        this is widely used(by humans) and is based on 10 (Kent State Department of Mathematical Sciences, 2008:3).
-            i.e.
-            10 ones                 = 1 ten
-            10 tens                 = 1 one-hundred
-            10 one-hundred          = 1 one-thousand
-            10 one-thousand         = 1 ten-thousand
-            10 ten-thousand         = 1 one-hundred-thousand
-            10 one-hundred-thousand = 1 one-million
+                3       2       1       0
+                10³*0   10²*9   10¹*0   10⁰*0
+                        100*9   10*0    1*0
+                0   +   900  +  0    +  0   = 900
 
-Q: Why numbers after the decimal point, start with tenth and not ones?:
-    https://byjus.com/question-answer/why-isn-t-ones-place-not-there-in-decimal-part-of-decimals/
-    https://www.quora.com/Why-are-digits-after-a-decimal-point-not-pronounced-as-they-are
+                1234
+                3       2       1       0
+                10³*1   10²*2   10¹*3   10⁰*4
+                1000*1  100*2   10*3    1*4
+                1000    200     30      4
+                1000  + 200  +  30   +  4   = 1234
+
+            this is widely used(by humans) and is based on 10 (Kent State Department of Mathematical Sciences, 2008:3).
+                i.e.
+                10 ones                 = 1 ten
+                10 tens                 = 1 one-hundred
+                10 one-hundred          = 1 one-thousand
+                10 one-thousand         = 1 ten-thousand
+                10 ten-thousand         = 1 one-hundred-thousand
+                10 one-hundred-thousand = 1 one-million
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+Question: Why do numbers after the decimal point, start with tenth and not ones?:
 
 References:
     Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.

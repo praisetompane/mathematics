@@ -1,7 +1,7 @@
-def (Censor, 2015):
-    formal:
+def ∀ab ∈ F, if a × b = 0 then a = 0 ∨ b = 0(Censor, 2015):
+    - formal:
         ∀ab ∈ F, if a × b = 0 then a = 0 ∨ b = 0
-    plain english:
+    - plain english:
         for a and b in F
             if the expression "a × b" is equal to zero
             then either a or b is zero
@@ -9,7 +9,7 @@ def (Censor, 2015):
         i.e. there are no zero divisors in a Field
             NB: There are structures in which this is not true.
                 non zero values can multiple to zero
-proof:
+- proof:
     Let a × b = 0
     Then:
         if a = 0,

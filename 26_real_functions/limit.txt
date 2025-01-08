@@ -23,11 +23,17 @@ def limit(Censor, 2013):
                 for all epsilon(ϵ) greater than zero(0)
                     there exists a delta(δ) greater than zero(0)
                         such that the absolute difference of 𝑥 and 𝑎 is greater than zero(0) and less than delta(δ)
-        NB: double check this description later
+        NB: double check this description later.
 
-    - intuition:
+    - intuition: ???
 
-    - examples: 
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering. https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV

@@ -1,0 +1,27 @@
+def sentence(Kunen, 2007:4):   
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ?
+        a statement with no free variables, 
+            in a given universe, which MUST be True or False.
+                
+        NB: The statement is True or False for the whole universe.
+    
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: 
+        ∀x[x > 0 ⟹ ∃!y[y² = x ∧ y > 0]] (Kunen, 2007:4):
+            Value       Universe
+                True         ℕ
+                False        ℝ
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
