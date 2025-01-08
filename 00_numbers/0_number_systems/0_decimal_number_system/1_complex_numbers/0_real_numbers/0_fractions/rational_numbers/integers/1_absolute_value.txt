@@ -37,5 +37,34 @@ def absolute value(Kent State Department of Mathematical Sciences, 2008:7):
 
     - proof: ???
 
+def absolute value(Censor, 2013):
+    - formal: 
+        ∀𝑥 ∈ ℝ, |𝑥| = {
+                            𝑥   , when 𝑥 >= 0
+                                                    or maximum{𝑥 , -𝑥}
+                            -𝑥  , when 𝑥 < 0
+                      }
+
+        - in words:
+            - the absolute value of 𝑥 is:
+                - 𝑥, when 𝑥 is greater or equal to zero(0)
+                - -𝑥, when x is less than zero(0)(i.e. negative)
+
+            - the absolute value of 𝑥 is,
+                the maximum value of the set of values 𝑥 and -𝑥.
+
+    - plain english: 
+    
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Censor, A. 2013. Differential and Integral Calculus 1. Calculus - 03. Technion - International School Of Engineering.
