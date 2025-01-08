@@ -109,6 +109,7 @@ wildegg
 worldscienceu
 wumbo
 zbmath
+zulipchat
 
 
 # acronyms
@@ -138,6 +139,7 @@ joma
 leanprover
 maa
 mathematicallogic
+Prover
 ryp
 sams
 shorthands

@@ -1,0 +1,23 @@
+def density_of_the_rationals(Censor, 2013)::
+    - formal: ∀𝑥<𝑦 ∈ ℝ, ∃𝑞 ∈ ℚ s.t. 𝑥 < 𝑞 < 𝑦
+  
+        - in words:
+            for any interval between 𝑥 and 𝑦 in the Real numbers,
+            where 𝑥 is less than 𝑦,
+            there exists a number 𝑞 between 𝑥 and 𝑦 that belongs in the Rational numbers.
+           
+    - plain english:
+        between any two distinct Real numbers, there exists at least one Rational number.
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+
+    - use cases:
+        
+    - proof:
+    
+References:
+    Censor, A. Differential and Integral Calculus 1. Calculus - 012 2013. Technion - International School Of Engineering.
