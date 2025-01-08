@@ -54,10 +54,12 @@
 - [LEAN](https://github.com/leanprover)
 - [mathlib4](https://github.com/leanprover-community/mathlib4)
 - [Mathematica](https://www.wolfram.com/mathematica/)
+
 ## State of the art:
 [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
 
 ## Community:
+- [Lean Prover](https://leanprover.zulipchat.com/)
 - [The South African Mathematical Society](http://www.sams.ac.za)
 - [The African Mathematical Society](https://aims.ac.za)
 - [Institute of Mathematics & its Applications](https://ima.org.uk)

@@ -76,9 +76,9 @@ quora
 realpython
 wildegg
 worldscienceu
-mathlib
-mathoverflow
-oeis
+wumbo
+zbmath
+zulipchat
 
 
 TODO
@@ -181,7 +181,8 @@ leanprover
 maa
 mathematica
 mathematicallogic
-ryP
+Prover
+ryp
 sams
 shorthands
 stackexchange
