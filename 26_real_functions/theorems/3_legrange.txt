@@ -51,5 +51,7 @@ def Legrange (Censor, 2013):
             - Calculus in use/introduced as foundation for other fields(Physic, etc),
                 using infinitesimals.
 
+    - proof: ???
+    
 References:
     Censor, A. Differential and Integral Calculus 1. Calculus - 01. 2013. Technion - International School Of Engineering.

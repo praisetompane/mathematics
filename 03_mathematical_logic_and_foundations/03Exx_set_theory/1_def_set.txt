@@ -9,17 +9,19 @@ def set(Hammack, 2018:3):
             - {1,2,3,4}
             - {...,-2,-1,0,1,2,...}
 
-    - types of sets:
-        - finite: a set with a fixed number of elements.
-            example: {-1, 0, 1, 2}
-
-        - infinite: a set with infinitely many elements.
-            example: {..., -2, -1, 0, 1, 2, ...}
+    - plain english: ???
 
     - intuition:
         a box with things in it.
 
     - properties:
+        - types of sets:
+            - finite: a set with a fixed number of elements.
+                example: {-1, 0, 1, 2}
+
+            - infinite: a set with infinitely many elements.
+                example: {..., -2, -1, 0, 1, 2, ...}
+
         - elements := things in the collection
             - elements of a set can be anything:
                 - examples:
@@ -83,47 +85,49 @@ def set(Hammack, 2018:3):
                     - 2,4 ∈ A   : means 2 and 4 are in A
                     - 5 ∉ A     : means 5 is not an element of A OR 5 is not in A OR 5 not in A
 
-    - significant sets with reserved letters(Hammack, 2018:6):
-        - ℕ = {0,1,2,3,4,5,...}                     : Natural numbers
-        - ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}      : Integers
-        - ℚ = {m/n : m,n ∈ ℤ ∧ n ≠ 0 }              : Rational numbers
-        - ℝ = all numbers on the number line        : Real numbers
-        - ℂ = {a + bi : a,b ∈ ℝ}                    : Complex numbers
-        - ∅ = {}                                    : empty set
+        - significant sets with reserved letters(Hammack, 2018:6):
+            - ℕ = {0,1,2,3,4,5,...}                     : Natural numbers
+            - ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}      : Integers
+            - ℚ = {m/n : m,n ∈ ℤ ∧ n ≠ 0 }              : Rational numbers
+            - ℝ = all numbers on the number line        : Real numbers
+            - ℂ = {a + bi : a,b ∈ ℝ}                    : Complex numbers
+            - ∅ = {}                                    : empty set
 
-            - details:
-                - def ℕ = {0,1,2,3,4,5,...}:
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
-                
-                - def ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}:
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/0_def.txt
+                - details:
+                    - def ℕ = {0,1,2,3,4,5,...}:
+                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
+                    
+                    - def ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}:
+                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/0_def.txt
 
-                - def ℚ = {m/n : m,n ∈ ℤ ∧ n ≠ 0 }:
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/0_def.txt
+                    - def ℚ = {m/n : m,n ∈ ℤ ∧ n ≠ 0 }:
+                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/0_def.txt
 
-                - def ℝ:
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_def.txt
+                    - def ℝ:
+                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_def.txt
 
-                - def ℂ = {a + bi : a,b ∈ ℝ} :
-                    see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_def.txt
+                    - def ℂ = {a + bi : a,b ∈ ℝ} :
+                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_def.txt
 
-                - def empty set(i.e. ∅)(Hammack, 2018):
-                    - formal:
-                        ∅ = {}
-                        - in words:  set with no elements
+                    - def empty set(i.e. ∅)(Hammack, 2018):
+                        - formal:
+                            ∅ = {}
+                            - in words:  set with no elements
 
-                    - intuition:
-                        - an empty box
-                        
-                    - properties:
-                        - cardinality:
-                            |∅| = 0
-                            NB: it is the only set with a cardinality of zero(0)
+                        - intuition:
+                            - an empty box
+                            
+                        - properties:
+                            - cardinality:
+                                |∅| = 0
+                                NB: it is the only set with a cardinality of zero(0)
 
-def hereditary set:
+        def hereditary set:
 
-use cases:
-    - All of mathematics can be described with sets(Hammack, 2018:3).
+    - use cases:
+        - Described all of mathematics.
+
+    - proof: ???
 
 References:
     Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

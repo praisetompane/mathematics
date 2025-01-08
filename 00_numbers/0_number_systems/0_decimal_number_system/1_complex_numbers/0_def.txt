@@ -7,11 +7,24 @@ def 𝑖:
 
                 NB: This number does not exist in the Real numbers.
                     There is no number you can square(i.e. multiply by itself an get a negative number)
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def complex number:
     - formal: 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ  
         - in words: 𝑎 plus 𝑏 multiplied by i(defined above)
 
+    - plain english: ???
+
+    - intuition: ???
+    
     - properties:
         - parts:
             - given:
@@ -49,14 +62,26 @@ def complex number:
 
 def complex number set(Censor, 2015):
     - formal: ℂ = {𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ}
+
+        - in words: ???
+
     - plain english: the set of all numbers of the form "𝑎 + 𝑏𝑖" where,  
                         𝑎 and 𝑏  are Real Numbers and,
                         i is the imaginary unit (√-1)
 
-    - remark: in ℂ all equations have solutions (Censor, 2015).
-                ℂ is an algebraically closed field.
+    - intuition: ???
 
-def algebraically closed: ???
+    - properties:
+        - remark: in ℂ all equations have solutions (Censor, 2015).
+            ℂ is an algebraically closed field.
+
+        - algebraically closed: ???
+    
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering.

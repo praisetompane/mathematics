@@ -1,10 +1,11 @@
 def expression:
-    - formal:
-        - in words:
+    - formal: ???
+
+        - in words: ???
 
     - plain english: a sentence
 
-    - intuition:
+    - intuition: ???
 
     - properties:
         - types:
@@ -17,5 +18,7 @@ def expression:
     
     - use cases:
 
+    - proof: ???
+    
 References:
     ???

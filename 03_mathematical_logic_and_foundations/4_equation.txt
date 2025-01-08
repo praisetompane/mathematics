@@ -1,10 +1,11 @@
 def equation:
-    - formal:
-        - in words:
+    - formal: ???
 
-    - plain english: a sentence that equates two sides
+        - in words: ???
+
+    - plain english: a sentence that equates two sides.
     
-    - intuition:
+    - intuition: ???
 
     - properties:
         - parts:
@@ -18,8 +19,10 @@ def equation:
                 
     - examples:
         - 5x + 1 = 10
-    - use cases:
 
+    - use cases: ???
+
+    - proof: ???
 
 References:
     ???

@@ -1,17 +1,47 @@
 def quadratic polynomial:¹ 
-    a polynomial of the form:
-        ax² + bx + c, where
-            a ≠ 0
-        with degree = 2
+
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: 
+        a polynomial of the form:
+            ax² + bx + c, where
+                a ≠ 0
+            with degree = 2
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def quadratic equation:² 
-    a quadratic polynomial equated to some value.
-        standard form: 
-            ax² + bx + c = 0
-                where a,b,c ∈ ℝ
-        Question: What is a standard form of an equation?
-    Examples: 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: 
+        a quadratic polynomial equated to some value.
+            standard form: 
+                ax² + bx + c = 0
+                    where a,b,c ∈ ℝ
+            Question: What is a standard form of an equation?
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
         2x² + 4x + 2 = 0
+
+    - use cases: ???
+        
+    - proof: ???
         
 References:
     ???

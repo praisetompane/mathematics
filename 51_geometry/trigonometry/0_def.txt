@@ -1,1 +1,16 @@
-# 3_trigonometry
+def trigonometry:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+    
+References: ???

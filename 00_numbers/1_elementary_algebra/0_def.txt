@@ -2,10 +2,9 @@ def algebra¹(Lockhart, 2009:8):
     - plain english: a field about number and symmetry
 
 def algebra²(Censor, 2015): 
-    - formal:
-        - in words:
+    - formal: ???
 
-        - examples:
+        - in words: ???
 
     - plain english: a field in Mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers.
 
@@ -20,31 +19,5 @@ def algebra²(Censor, 2015):
             this is a calculation that has variables(y, x) and parameter(m)
     - use cases:
     
-def expression:
-    a sentence
-
-    types:
-        numerical expression
-        algebraic expression
-
-    numerical expression
-        1 + 1
-    
-    algebraic expression:
-        x + 1
-
-def equation:
-    a sentence that equates two sides
-
-    algebraic equation: Question: Do we have non algebraic equations?
-        5x + 1 = 10
-
-        names of parts:
-            5x + 1  = LHS
-            10      = RHS
-            x       = variable
-            {1, 10} = constant(s)
-            +       = operator
-
 References:
     Censor, A. Algebra 1M - international. 01 - Introduction. 2015. Technion - International School Of Engineering.

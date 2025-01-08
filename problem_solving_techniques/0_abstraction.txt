@@ -1,11 +1,26 @@
-def abstraction: extraction of the properties
-                    of a concrete structure 
-                        to reveal its abstract structure (Censor, 2015).
-            abstract structure = the set of properties
+def abstraction(Censor, 2015):
+    - formal: ???
 
-given an understanding of the abstract structure
-    we can understand at once 
-        anything that has this abstract structure(Censor, 2015).
+        - in words: extraction of the properties,
+                    of a concrete structure 
+                        to reveal its abstract structure.
+                                    
+            def abstract structure: the set of properties.
+    
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        given an understanding of the abstract structure,
+            we can understand at once 
+                anything that has this abstract structure(Censor, 2015).
+        
+    - proof: ???
 
 References:
     Censor, A. Algebra 1M. 2015. Technion - International School Of Engineering.

@@ -11,9 +11,15 @@ def cardinal number | cardinal | cardinality:
                         A = {}
                         |A| := cardinality of set A
 
-    - intuition:
+    - intuition: ???
 
-    - examples:
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def infinite cardinal number::
     - formal: ???
@@ -22,31 +28,44 @@ def infinite cardinal number::
     - plain english: number of elements in an infinite set.
                         this number is in the infinite cardinals(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ).
 
-    - intuition:
+    - intuition: ???
 
-    - examples:
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def infinite cardinals:
     - formal:
         {ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ }(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
         - in words:
 
-    - plain english:
+    - intuition: ???
 
-    - intuition:
+    - properties: ???
 
-    - examples:
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def cardinal number sequence:
     - formal: 0, 1, 2, 3,..., n, ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ, ...(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
         - in words:
 
-    - plain english:
+    - intuition: ???
 
-    - intuition:
+    - properties: ???
 
-    - examples:
+    - examples: ???
 
+    - use cases: ???
+        
+    - proof: ???
 
 References:
     ???

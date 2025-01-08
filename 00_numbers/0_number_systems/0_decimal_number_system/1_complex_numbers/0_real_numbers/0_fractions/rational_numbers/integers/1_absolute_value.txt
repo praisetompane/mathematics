@@ -1,27 +1,41 @@
-def absolute value: the distance on the number line 
-                        from zero to a number
-                        regardless of the sign(i.e. direction) of the number (Kent State Department of Mathematical Sciences, 2008:7).
-    
-    absolute value is always positive(non negative), as it is DISTANCE from zero (Kent State Department of Mathematical Sciences, 2008:7).
-        Example: 
-            |4| = 4 because, 4 is a distance of 4 from zero(0)
-            |-4| = 4 because, -4 is a distance of 4 from zero(0)
-        Question: Can we not have negative distance?
+def absolute value(Kent State Department of Mathematical Sciences, 2008:7): 
+    - formal: ???
 
-        |6| = 6, because, 6 is a distance of 6 unit from zero(0)(see below number line)
-                          *   *   *   *   *   * = 6 distance units
-        <---|---|---|---|---|---|---|---|---|---|---|-->  
-           -3  -2  -1   0   1   2   3   4   5   6   7
+        - in words: ???
 
-    Why do we need this?
-        To get the distance from a origin point(location)
-            to another point(location)
+    - plain english: 
+        the distance on the number line, 
+            from zero to a number,
+            regardless of the sign(i.e. direction) of the number (Kent State Department of Mathematical Sciences, 2008:7).
+            
+    - intuition: ???
 
-    Notation:
-        |x|, where x is a single number
-             if x an expression/mathematical statement
-                it must be reduced/simplified to a single number first (Kent State Department of Mathematical Sciences, 2008:7).
-                    i.e. the arithmetic/algebra must be performed first before apply the absolute function
+    - properties:
+        - absolute value is always positive(non negative), as it is DISTANCE from zero (Kent State Department of Mathematical Sciences, 2008:7).
+            Example: 
+                |4| = 4 because, 4 is a distance of 4 from zero(0)
+                |-4| = 4 because, -4 is a distance of 4 from zero(0)
+            Question: Can we not have negative distance?
+
+            |6| = 6, because, 6 is a distance of 6 unit from zero(0)(see below number line)
+                              *   *   *   *   *   * = 6 distance units
+            <---|---|---|---|---|---|---|---|---|---|---|-->  
+            -3  -2  -1   0   1   2   3   4   5   6   7
+
+        - notation:
+            |x|, where x is a single number
+                if x an expression/mathematical statement
+                    it must be reduced/simplified to a single number first (Kent State Department of Mathematical Sciences, 2008:7).
+                        i.e. the arithmetic/algebra must be performed first before apply the absolute function
+
+    - examples: ???
+
+    - use cases: ???
+        Why do we need this?
+            To get the distance from a origin point(location)
+                to another point(location)
+
+    - proof: ???
 
 References:
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

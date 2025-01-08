@@ -1,5 +1,25 @@
+def n-ary relation (Epp, 2010:442): 
+    - formal: the totality
+                of 𝑛 ordered members 
+                    of 𝑛 sets 
+                        whose members
+                            are related/satisfy by some condition.
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 def binary relation (Epp, 2010:442):   
-    formal: the totality
+    - formal: the totality
                 of ordered pairs
                     whose members
                         are related by some condition (Epp, 2010:14).
@@ -13,19 +33,22 @@ def binary relation (Epp, 2010:442):
 
                 2. R is a subset of A x B (i.e. Cartesian product of set A and B)
                     
-    plain english: a subgroup of ordered pairs
+    - plain english: a subgroup of ordered pairs
                         from a bigger group
                             connected
                                 based on a condition.
 
-def n-ary relation (Epp, 2010:442): 
-    formal: the totality
-                of 𝑛 ordered members 
-                    of 𝑛 sets 
-                        whose members
-                            are related/satisfy by some condition.
+    - intuition: ???
 
-    plain english:
+    - properties: ???
 
+    - examples: ???
+
+    - use cases:
+        - represent/model algorithms.
+        - represent/model functions
+        
+    - proof: ???
+    
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.

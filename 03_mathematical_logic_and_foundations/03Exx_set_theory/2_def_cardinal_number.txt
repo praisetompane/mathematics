@@ -1,5 +1,5 @@
 def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
-    formal:
+    - formal:
         for a finite set,
             this is the number of elements in the set,
             denoted as |set_name|
@@ -11,48 +11,74 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
                     |A| = 2
                     i.e. cardinality/size of A is 2.
 
-        in words:
+        - in words: ???
 
-    plain english:  
+    - plain english: ???
 
-    intuition:
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
         
-    examples:
+    - proof: ???
 
 def infinite cardinal number::
-    formal:
+    - formal: ???
 
-        in words:
+        - in words: ???
 
-    plain english:
+    - plain english:
         number of elements in an infinite set.
             this number is in the infinite cardinals(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ).
 
-    intuition:
+    - intuition: ???
 
-    examples:
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 
 def infinite cardinals:
-    formal:
+    - formal:
         {ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ }(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
-        in words:
 
-    plain english:
+        - in words: ???
 
-    intuition:
+    - plain english: ???
 
-    examples:
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 def cardinal number sequence:
-    formal:
+    - formal:
         0, 1, 2, 3,..., n, ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ, ...(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
         in words:
 
-    plain english:
+    - plain english: ???
 
-    intuition:
+    - intuition: ???
 
-    examples:
+    - properties: ???
 
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
     Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

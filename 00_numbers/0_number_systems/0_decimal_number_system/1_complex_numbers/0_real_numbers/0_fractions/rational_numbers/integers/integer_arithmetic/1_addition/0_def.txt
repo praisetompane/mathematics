@@ -14,6 +14,8 @@ def addition¹ (Wildberger, 2009):
                     m = |||||
                 - n add m = ||| and ||||| = ||||||||
 
+    - intuition: ???
+
     - properties
         - laws (Wildberger, 2009) (Kent State Department of Mathematical Sciences, 2008:53):
             - commutative
@@ -48,7 +50,9 @@ def addition¹ (Wildberger, 2009):
                     i.e. the groupings of the numbers
                             and the order of addition of the groups
                                 does not matter. it gives you the same result.
-    - examples:
+    - examples: ???
+        
+    - proof: ???
 
 def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
     - formal:
@@ -122,9 +126,11 @@ def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
                 -
             associative:
                 -
-    - properties:
+    - properties: ???
 
-    - examples:
+    - examples: ???
+        
+    - proof: ???
 
 def addition³: the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
     during this act:
@@ -192,6 +198,11 @@ def addition³: the act of storing quantity into a place value(i.e. ...,the hund
                             Addition is counting 1(ones) from a source quantity into a target quantity.
                                 Scaling the place value 1(ones) are stored as the ones place value reaches max capacity
 
+
+- use cases: ???
+    - counting apples, sheep, etc.
+    - accounting
+    
 Question: Do we know why we can count?
 Question: Do all "addable" mathematical objects have their number line equivalent?
 
