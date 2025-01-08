@@ -75,7 +75,7 @@
     - lectures:
         - calculus:
             - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
-                - current: Calculus - 01: *
+                - current: Calculus - 03: *
             - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
                 - current: Lecture 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
             - Richard Hammack. Hammack's Calculus I.
@@ -168,3 +168,5 @@ next₃:
 legend:
     *: S visit complete
     **: R3 visit complete
+
+=================================================completed==================================================
