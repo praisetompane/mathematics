@@ -1,0 +1,27 @@
+def commutative or Abelian group:
+    - formal: ???
+        - in words:
+            a group (𝐺,◦) is commutative/Abelian,
+                if it satisfies the Group definition axiom and commutativity axiom below (Censor, 2015).
+
+            - commutativity axiom:
+                - formal: ∀𝑎,𝑏, 𝑎◦𝑏 = 𝑏◦𝑎
+                - in words:
+                    for any element 𝑎 and 𝑏 of 𝐺
+                        swapping 𝑎 and 𝑏 order
+                            when applying operation ◦
+                                produces the same result
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+    Censor, A. 2015. Algebra 1M - international. 02 - Sets of numbers. Technion - International School Of Engineering.

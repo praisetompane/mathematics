@@ -1,0 +1,148 @@
+def multiplication²(Wildberger, 2009):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition:
+        - laws (Wildberger, 2009) :
+            commutative:
+                -
+            associative:
+                -
+                
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
+    - formal:
+        - in words:
+            - repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
+                of multiple equal groups of something(Khan Academy)
+        
+            - Generalization Multiplication Algorithm(Kent State Department of Mathematical Sciences, 2008:21):
+                Multiplication signs = { x, *, · , ()() }
+                1. Multiply the numbers, ignoring the signs
+                    1.1. If the signs are the same, result = Positive
+                    1.2. If signs are different, result = Negative
+
+                2. Alternatively, In the repeated addition addition form
+                    Count number of negative numbers
+                        If even, then result = Positive
+                        If odd, then result = Negative
+
+        - examples:  
+            3 groups of five
+            3 fives 
+            5 + 5 + 5 = 15 or 5 x 3 = 15
+            5 is repeatedly added 3 times
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - factors: numbers being multiplied in a multiplication sentence (Kent State Department of Mathematical Sciences, 2008:19).
+            - example:    
+                5 x 3 = 15
+                5 and 3 are factors of 15
+        - structure: 
+            factor x factor = product
+        
+        - models(ways to think about multiplication):
+            5 x (-4):
+                -4 + (-4) + (-4) + (-4) + (-4) = -20
+
+                N N | N N | N N | N N | N N |  => N N N N N N N N N N
+                N N | N N | N N | N N | N N |     N N N N N N N N N N
+
+                Generalization(Kent State Department of Mathematical Sciences, 2008:21):
+                    N x P = N       OR      P x N = N
+
+                4 x (-1):
+                    -1 + (-1) + (-1) + (-1) = -4 [Follow rules of addition]
+                
+                -2 x 5:
+                    -1*5 x 5
+                    -1 x (5 + 5)
+                    -1 x (10)
+                    ∴ -10
+
+                    Q: Why does multiplication by -1 result in a negative?
+
+            -1 x 3:
+                same as 3x(-1):
+                    -1 + (-1) + (-1) = -3
+
+                Generalization:
+                    -1x(any_number) = opposite of any_number
+                    -1x4 = -4
+                        because -4 is the opposite of 4
+
+            -3 x (-4):
+                Sol 1:
+                    same -1*3 x (-4) (i.e. opposite of 3 times 4)
+                        3 x (-4): temporarily remove opposite
+                        -4 + (-4) + (-4)
+                        -12
+                    apply opposite removed from -3
+                        -1 x (-12)
+                    ∴ 12, opposite of -12 is 12
+                
+                Sol 2:
+                    opposite of 3 x opposite of 4
+                    -1x3 x -1x4
+                    3 x 4[multiply the "main/subject" numbers. Keep record "opposition" number]
+                        3 x 4
+                        4 + 4 + 4 = 12
+                    apply first "opposition" number
+                        opposite of 12 = -12
+                            -1 x 12 = -12
+                    apply second "opposition" number
+                        opposite of -12 = 12
+                            -1 x (-12)
+                    ∴ 12
+
+                Generalization(Kent State Department of Mathematical Sciences, 2008:21):
+                    N x N = P       OR      P x P = P
+
+                    N x N = P:  
+                        N1 x N2 => The opposite of the opposite of N = N        
+                            -1*N x -1*N
+                            -1*(-1) x N*N
+                                -1*(-1) = opposite of opposite
+                                N*N = repeated addition
+                                ∴ opposite of opposite of repeated addition
+                    P x P = P:
+                        P1 x P2 => just repeated addition of P2, P1 times
+
+        - laws (Kent State Department of Mathematical Sciences, 2008:53-54) :
+            commutative:
+                -
+            associative:
+                -
+    
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
+    Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
+    Khan Academy. Distributive property when multiplying. https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying?modal=1
+<<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/2_multiplication/0_def.txt
+    Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=2
+=======
+    Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS.
+
+
+>>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/2_multiplication/0_multiplication.txt
+    

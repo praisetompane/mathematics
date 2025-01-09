@@ -1,6 +1,8 @@
-def foundations of mathematics¹ (Kunen, 2007:5):
-    - involves/uses the axiomatic method.
+def foundations_axiomatic_method¹ (Kunen, 2007:5):
+    - formal: ???
+        - in words: ???
 
+    - plain english: involves/uses the axiomatic method.
         def axiomatic method (Kunen, 2007:5): we define/select axioms then
                                                 proof theorems from the axioms.
 
@@ -12,36 +14,24 @@ def foundations of mathematics¹ (Kunen, 2007:5):
                     consists of logical deductions
                         from axioms (Kunen, 2007:5).
 
-        - types of uses of the concept/word "axioms" (Kunen, 2007:47) NB: 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑙 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠:
+    - intuition: ???
+
+    - properties:
+        - types of uses of the concept/word "axioms"(Kunen, 2007:47):
             - statements of faith
             - definitional axioms
 
+            NB: 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑙 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠
+
             def statements of faith:
-                - statements that are obviously true,
-                    and thus require no proof.
+                - statements that are obviously true, and thus require no proof.
                 - closest to truism.
 
-                example:
+                - example:
                     Greek Classical View:
-                        make observations about Real Physical Space
-                            which are obviously true.
-                        from them we can derive other 
-                            non-obvious facts.
-                        
-                        therefore
-                            by studying Euclidean Geometry 
-                                one is studying structure of the real world.
-
-                            NB: Later Euclid's axioms were reduced to definitional ones;
-                                    as one way to describe a specific(flat) geometry.
-                                
-                                We learned his Geometry only approximates the Real Physical space
-                                    and there are other Geometries
-                                        predicated on different axioms.
-                        
-                        Something Interesting: The other non-obvious facts
-                                                    are derived without observation of the Physical Space.
-                        
+                        - make observations about Real Physical Space, which are obviously true.
+                        - then from them, we can derive other non-obvious facts.
+                               
             def definitional axioms:
                 - defines a useful class of structure.
                 - captures the structure of things/ideas and proves theorems about them.
@@ -50,16 +40,16 @@ def foundations of mathematics¹ (Kunen, 2007:5):
                             domains = {Mathematics, Real Physical Space, Computation, ...}
                 - common in algebra
 
-                example:
+                - example:
                     axioms of Groups define/captures what a Group is.
-                        see: 1_algebra/1_group/0_def.txt
+                        see: 20_group_theory_and_generalizations
                         instances of Group:
                             {
                                 (ℤ,+) = The Integers with respect to addition.
                             }
                     
                     axioms of fields define/captures what a Field is: 
-                        see: 1_algebra/2_field/0_def.txt
+                        see: 12_field_theory_and_polynomials
                         instances of Fields:
                             {   (ℝ, +, ×) = The Real Numbers with respect to addition and multiplication,
                                 (ℂ, +, ×) = The Complex Numbers with respect to addition and multiplication,
@@ -67,31 +57,34 @@ def foundations of mathematics¹ (Kunen, 2007:5):
                                 ...
                             }
 
-        - axiomatic method examples(Kunen, 2007:5-9):
-            - Geometry (Kunen, 2007:5):
-                - these are definitional axioms.
-                    - they were statements of faith in Euclid's Geometry prior to Einstein's advances in Physics.
+    - examples: axiomatic method examples(Kunen, 2007:5-9):
+        - Geometry (Kunen, 2007:5):
+            - these are definitional axioms.
+                - they were statements of faith in Euclid's Geometry prior to Einstein's advances in Physics.
 
-                Euclid Postulate(axiom) 1:
-                    ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
-                        domain of discourse = all geometric objects.
+            Euclid Postulate(axiom) 1:
+                ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
+                    domain of discourse = all geometric objects.
 
-                    english: any two distinct points
-                                determine a unique line.
+                english: any two distinct points
+                            determine a unique line.
 
-            - Group Theory (Kunen, 2007:6):
-                - these are definitional axioms.
-                - based on these axioms: see: 1_algebra/1_group/0_def.txt
-                    GP is a 𝑠𝑒𝑡 of two sentences in 𝑝𝑟𝑒𝑑𝑖𝑐𝑎𝑡𝑒 𝑙𝑜𝑔𝑖𝑐  
-                example:
-                    𝐺𝑃 implies the cancellation rule:
-                        𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
+        - Group Theory (Kunen, 2007:6):
+            - these are definitional axioms.
+            - based on these axioms: see: 20_group_theory_and_generalizations
+                GP is a 𝑠𝑒𝑡 of two sentences in 𝑝𝑟𝑒𝑑𝑖𝑐𝑎𝑡𝑒 𝑙𝑜𝑔𝑖𝑐  
+            example:
+                𝐺𝑃 implies the cancellation rule:
+                    𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
 
-            - Set Theory (Kunen, 2007:7): 
-                - these are definitional axioms.
-                - based on Zermelo-Fraenkel with Choice axiom (ZFC).
-                - all of modern Mathematics is based on Set theory.
+        - Set Theory (Kunen, 2007:7): 
+            - these are definitional axioms.
+            - based on Zermelo-Fraenkel with Choice axiom (ZFC).
+            - all of modern Mathematics is based on Set theory.
 
-
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
     Kunen, K. 2007. The Foundations of Mathematics.

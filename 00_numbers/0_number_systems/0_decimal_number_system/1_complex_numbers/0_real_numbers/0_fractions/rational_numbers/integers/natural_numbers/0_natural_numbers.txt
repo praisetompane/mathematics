@@ -1,0 +1,121 @@
+def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
+    - formal: 
+        - ℕ = {1,2,3,4,...}
+
+        - in words:
+            the set of ALL non-negative numbers from 0, with each next number, equal to the previous plus 1.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - remark: sometimes they are defined without 0.
+
+    - proof: ???
+    
+def natural number²(Wildberger, 2009): 
+    - formal: ???
+        - in words: ???
+
+    - plain english: a string of ones(i.e. one = |)
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - proof: ???
+    
+def natural numbers³(Wildberger, 2009): 
+    - formal: ???
+        - in words: ???
+
+    - plain english: a collection(i.e. Set) of these strings of ones.
+    
+    - properties:
+        1. they form a sequence(i.e. they are naturally ordered):
+            - plain english: for every natural number, we can associate/define/determine a "successor":
+                - example:
+                    S(|) = || = successor of | is ||
+
+            - abstract notation: S(a) = a + |
+                S = successor
+
+            - remark: this is our first Mathematical operator/operation.
+
+            - Q: Why do Natural numbers form a sequence?
+                MYINC:
+                    1. We start with |
+                    2. to get || we require | to exist, because we add | to | to get ||.
+                    3. to get ||| we require || to exist, because  we add | to || to get |||
+                    They come into existence in an order.
+
+        2. they have relative size to each other:
+            - plain english: which number appears first in the sequence.
+                - example:
+                    - given: two numbers
+                            ||||
+                            ||||||
+                    - then:
+                        - pair each one(i.e. |) in one number with a one in the other number.
+                    - then:
+                        - the number left with unpaired ones is the larger of the two.
+                        
+                    - therefore:
+                        - |||| comes before |||||| in the sequence of Natural numbers.
+                        - |||||| is greater than ||||, because it has || left after pairing all the |s from |||| with itself.
+
+            - abstract notation:
+                - let:
+                    - 𝑛 and 𝑚 be natural numbers
+                - then:
+                    - equality:
+                        - formal: 𝑛 = 𝑚 ⟺ |s in 𝑛 match |s in 𝑚.
+
+                            - in words:
+                                𝑛 equals 𝑚, if and only if, |s in 𝑛 match |s in 𝑚.
+
+                        - remark: this is our second Mathematical operator.
+
+                    - inequality:
+                        - formal: 𝑛 < m ⟺ |s in n are less than |s in 𝑚.
+
+                            - in words:
+                                𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
+
+                        - remark: this is our third Mathematical operator.
+
+- examples:
+    - || = two
+    - ||||| = five
+    - ||| = three
+
+- use cases:
+    - count apples, goats etc.
+    - solution to equations:
+        - example:
+            - given:
+                equation₁: x + 1 = 5
+            - then:
+                x + 1 - 1 = 5 - 1
+                x + 0 = 5 - 1
+                x = 4
+            - substitution test:
+                let:
+                    x = 4
+                then:
+                    x + 1 = 5
+                    4 + 1 = 5
+                    5 = 5, which is true
+
+            - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation. 
+References:
+<<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+    Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
+=======
+    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS.
+>>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_natural_numbers.txt

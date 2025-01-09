@@ -1,0 +1,48 @@
+def algebra¹(Lockhart, 2009:8):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: a field about number and symmetry
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+def algebra²(Censor, 2015): 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: a field in Mathematics in which we perform calculations with things that are not necessarily(i.e. not always) numbers.
+
+    - intuition:
+
+    - properties:
+
+    - examples:
+        - 𝑎𝑥² + 𝑏𝑥 + 𝑐 = 0
+            this is a calculation that has variables(x), parameters(a,b) and a number(0)
+        - 𝑦 = 𝑚𝑥 
+            this is a calculation that has variables(y, x) and parameter(m)
+    - use cases:
+
+
+def symmetry(Frenkel):
+    - formal: ???
+
+        - in words: ???
+        
+    transformations that preserve
+        shape and position of an object.
+    - examples:
+        - sphere: ∞ symmetries
+        - square: 90°, 180°, 270°, 360° rotations.
+
+References:
+    Censor, A. 2015. Algebra 1M - international. 01 - Introduction. Technion - International School Of Engineering.
+    Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.

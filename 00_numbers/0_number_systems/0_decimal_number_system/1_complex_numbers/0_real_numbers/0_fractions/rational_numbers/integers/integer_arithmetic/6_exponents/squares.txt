@@ -16,6 +16,11 @@ Example:
     square root(16) = 4
 
 References:
+<<<<<<< HEAD
 
 General References: 
     Eric Buffington. Squares and Square Roots (Simplifying Math). https://www.youtube.com/watch?v=sWmW2Is-R2w
+=======
+    Buffington E. Squares and Square Roots (Simplifying Math).
+    
+>>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.)

@@ -19,4 +19,8 @@ de addition (Censor, 2015):
     - proof: ???
     
 References:
+<<<<<<< HEAD
     Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
+=======
+    Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
+>>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.)

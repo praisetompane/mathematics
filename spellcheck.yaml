@@ -5,7 +5,7 @@ matrix:
       ignore-case: true
     dictionary:
       wordlists:
-        - .wordlist.txt
+        - .spellcheck_exceptions_dictionary.txt
       encoding: utf-8
     pipeline:
       - pyspelling.filters.html:

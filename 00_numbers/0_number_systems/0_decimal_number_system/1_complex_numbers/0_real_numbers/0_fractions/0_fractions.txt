@@ -1,0 +1,21 @@
+def fraction(Kent State Department of Mathematical Sciences, 2008:3): 
+    - formal: ???
+
+        - in words: 
+            an number divided by a non-zero number.
+                i.e. a ratio of two numbers
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

@@ -1,0 +1,52 @@
+def set theory¹(Kunen, 2007:10-11):
+    - formal:
+        - axioms:
+            axiom 0: Set Existence
+                    ∃𝑥(𝑥 = 𝑥)
+
+            axiom 1: Extensibility
+                    ∀𝑧(𝑧 ∈ 𝑥 ⟺ 𝑧 ∈ 𝑦) ⟹ 𝑥 = 𝑦
+
+            axiom 2: Foundation
+                    ∃𝑦(𝑦 ∈ 𝑥) ⟹ ∃𝑦(𝑦 ∈ 𝑥 ∧ ¬∃𝑧(𝑧 ∈ 𝑥 ∧ 𝑧 ∈ 𝑦))
+
+            axiom 3: Comprehension Scheme
+                    for each formula φ, without y free,
+                        ∃𝑦∀𝑥(𝑥 ∈ 𝑦 ⟺ 𝑥 ∈ 𝑧 ∧ φ(𝑥))
+
+            axiom 4: Pairing
+                    ∃𝑧(𝑥 ∈ 𝑧 ∧ 𝑦 ∈ 𝑧)
+
+            axiom 5: Union
+                    ∃𝐴 ∀𝑌 ∀𝑥 (𝑥 ∈ 𝑌 ∧ 𝑌 ∈ 𝐹 ⟹ 𝑥 ∈ 𝐴)
+
+            axiom 6: Replacement Scheme
+                    for each formula φ, without B free
+                        ∀𝑥 ∈ 𝐴 ∃!𝑦 φ(𝑥,𝑦) ⟹ ??? 
+
+            axiom 7: Infinity
+            axiom 8: Power Set
+            axiom 9: Choice
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def set theory²: a language perfectly suited to describing and explaining all types of mathematical structures(Hammack, 2018).
+
+def set theory³: mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
+    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

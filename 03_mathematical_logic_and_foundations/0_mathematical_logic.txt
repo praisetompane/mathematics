@@ -1,0 +1,34 @@
+def mathematical logic (Montalban, 2020):
+    - formal: ???
+        - in words: ???
+
+    - plain english: studies the foundations of logic and formal systems.
+                    goals:
+                        - develop the foundations of mathematics using formal systems.
+
+    - intuition: ???
+
+    - defines these objects (Kunen, 2007:6-7):
+        def mathematical proof:
+
+        def mathematical statement:
+
+        def syntax:
+
+        def semantics: involves meaning or 𝑠𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒𝑠 such as groups.
+
+        def Completeness Theorem:
+            - relates syntax and semantics
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+NB: every list of formal sentences
+        forms the axioms of some axiomatic theory (Kunen, 2007:7).   
+            
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf

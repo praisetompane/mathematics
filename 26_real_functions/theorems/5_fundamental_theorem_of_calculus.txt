@@ -17,5 +17,4 @@ def fundamental_theorem_of_calculus¹(Hammack: 2020):
     - proof: ???
     
 References:
-    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html
-        
+    Hammack, R. 2020. MATH 200: Calculus I. Hammack's Calculus I, Lecture 1： A Thumbnail Sketch of Calculus I. Virginia Commonwealth University. 

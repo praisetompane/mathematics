@@ -27,7 +27,7 @@ def foundations of mathematics(Wildberger, 2009):
                         ...
                 - remarks: 
                     - These are the natural numbers.
-                        see: 00_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
+                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers
                     - These are our first Mathematical objects.
                     - All Mathematical objects are based on the natural numbers.
 
@@ -44,4 +44,4 @@ def foundations of mathematics(Wildberger, 2009):
     - proof: ???
 
 References:
-    Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?. https://www.wildegg.com/youtube-math-foundations-a.html.
+    Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?. 
