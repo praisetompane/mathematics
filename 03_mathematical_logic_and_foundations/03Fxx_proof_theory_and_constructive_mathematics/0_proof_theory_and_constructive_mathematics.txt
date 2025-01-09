@@ -1,0 +1,45 @@
+def proof theory (Kunen, 2007:7):
+    - formal: ???
+
+        - in words: ???
+        
+    - plain english: studies the structure of formal proofs.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def proof (Montalban, 2020):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english:
+        - an argument
+            that uses logical steps
+            to show a mathematical statement
+            follows from certain assumptions.
+
+        - def logical steps = rules
+        
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Montalban, A. 2020. Math 125A -- Mathematical Logic. Introduction to Mathematical Logic.
+    
+

@@ -1,15 +1,24 @@
 def Langlands program (Frenkel): 
-    "continents" of mathematics²
-        * Number Theory: Explains numbers
-        * Harmonic Theory: Explains Harmonics/Waves
-        * Geometry: Explains the intrinsic shapes of mathematical objects
+    - formal: ???
 
-def symmetry:
-    transformations that preserve
-        shape and position of an object.
-    - examples:
-        - sphere: ∞ symmetries
-        - square: 90°, 180°, 270°, 360° rotations.
+        - in words: ???
+    
+        - plain english: 
+
+            - "continents" of mathematics²
+                * Number Theory: Explains numbers
+                * Harmonic Theory: Explains Harmonics/Waves
+                * Geometry: Explains the intrinsic shapes of mathematical objects
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
 
 References:
-    Frenkel, E. https://worldscienceu.com/lessons/1-1-the-continents-of-mathematics-video/
+    Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.

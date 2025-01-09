@@ -8,7 +8,7 @@ def statement(Epp, 2010:2):
     - intuition: ???
 
     - properties:
-        - kinds(Epp, 2010:2):
+        - types:
             - universal
             - conditional
             - existential

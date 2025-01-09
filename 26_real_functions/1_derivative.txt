@@ -1,0 +1,69 @@
+def derivative¹(Hammack: 2020):
+    - formal: ???
+            
+        - in words:
+            - the derivative of a function 𝑓 
+                is another function 𝑓', for which
+                𝑓'(x) = (
+                            the slope of the tangent line to 
+                                𝑦=𝑓(x) at point (𝑥, 𝑓(x))
+                        )
+            
+                      - (   
+                            the rate of change of 𝑓(x)
+                            with respect to 𝑥 at 𝑥
+                        )
+
+    - plain english:
+
+    - intuition:
+
+    - properties:
+
+        - interpretations (Jerison, 2007):
+            - geometric
+            - physical
+
+            - geometric (Jerison, 2007):
+                problem: find tangent line
+                            to some function 𝑦 = 𝑓(𝑥)
+                            at some point 𝑃 = (𝑥₀, 𝑦₀).
+
+                    solution:
+                                        ↑
+                                    y -            /<--- tangent line
+                                        |         /
+                                        -       ./
+                                        |    P ./   y = f(x)
+                                        -    . / 
+                                        |. .  /
+                       ← |---|--|---|---|---|/-|---|---| →
+                                        |   /  x₀      x 
+                                        -  /
+                                        |
+                                        -
+                                        |
+                                        -
+                                        ↓
+
+                    problem: how do we do this analytically?
+                        def tangent line equation: y - y₀ = m(x - x₀)
+
+                        data requirements:
+                            point(i.e. P): y₀ = f(x₀) = (x₀, y₀)
+                            slope: m = f'(x₀)
+                                    NB: This is the derivative of f.
+
+                        def f'(x₀)(i.e. the derivative of f at x₀): the slope of the tangent line
+                                                                        to f(x)
+                                                                        at a point P.
+
+use cases:
+    - important to ALL measurements.
+
+References:
+    Jerison, D. 2006. MIT 18.01 Single Variable Calculus. Lecture 1: Rate of Change. Massachusetts Institute of Technology.
+    Hammack, R. 2020. MATH 200: Calculus I. Hammack's Calculus I, Lecture 1： A Thumbnail Sketch of Calculus I. Virginia Commonwealth University.
+
+
+    

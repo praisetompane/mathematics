@@ -4,6 +4,16 @@ def model theory (Kunen, 2007:7):
         
     - plain english: studies the mathematical structure of models.
 
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
     see: https://github.com/praisetompane/logic
     
 References:

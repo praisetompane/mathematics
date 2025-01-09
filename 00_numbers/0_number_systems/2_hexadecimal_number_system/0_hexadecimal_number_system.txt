@@ -1,0 +1,20 @@
+def hexadecimal numbers(Khan Academy): 
+
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: base-16 positional numerical system.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References:
+    Khan Academy. Algebra. Hexadecimal number system.

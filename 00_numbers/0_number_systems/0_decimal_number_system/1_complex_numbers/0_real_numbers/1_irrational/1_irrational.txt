@@ -1,0 +1,27 @@
+def irrational numbers(Kent State Department of Mathematical Sciences, 2008:3): 
+    - formal: ???
+
+        - in words: Real numbers that cannot be represented as fractions(ratios).
+                      They are infinite and non-repeating decimals (Khan Academy).
+                      e.g. √2, √5 π, φ, ⅇ, etc
+
+                  𝕀 = {x | x ∈ ℝ ∧ x ∉ ℚ}
+                  𝕀 = ℝ \ ℚ = Real numbers - Rational numbers
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+  Khan Academy. ALGEBRA 1: UNIT 15. Algebra 1 Intro to rational & irrational numbers.
+
+

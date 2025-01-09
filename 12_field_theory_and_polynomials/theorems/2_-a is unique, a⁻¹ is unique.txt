@@ -1,5 +1,6 @@
 def -a is unique, a⁻¹ is unique(Censor, 2015):
     - formal:
         -a is unique, a⁻¹ is unique
+        
 References:
-    Censor, A. Algebra 1M - international. 04 - More properties of fields. 2015. Technion - International School Of Engineering.
+    Censor, A. 2015. Algebra 1M - international. 04 - More properties of fields. Technion - International School Of Engineering.

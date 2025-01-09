@@ -44,4 +44,4 @@ def a × 0 (Censor, 2015):
             0  = 𝑎 × 0 ⟹ 𝑎 × 0 = 0
 
 References:
-    Censor, A. Algebra 1M - international. 04 - More properties of fields. 2015. Technion - International School Of Engineering.
+    Censor, A. 2015. Algebra 1M - international. 04 - More properties of fields. Technion - International School Of Engineering.
