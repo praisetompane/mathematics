@@ -1,15 +1,17 @@
-objective: think deeply about simple things (Woo, 2014)
-    - ask why, then why, ... whyₙ
-        example: why is π unusual
-                    why is this answer true?
+def solution_flow (Woo, 2014):
+
+    objective: think deeply about simple things
+        - ask why, then why, ... whyₙ
+            example: why is π unusual
                         why is this answer true?
+                            why is this answer true?
 
-    - ask what if ...?
-        there common things we say we cannot do.
-            in mathematics you can always try and observe the behavior.
+        - ask what if ...?
+            there common things we say we cannot do.
+                in mathematics you can always try and observe the behavior.
 
-        example:
-            what if we would we could calculate the square root of a negative number?
+            example:
+                what if we would we could calculate the square root of a negative number?
 
 References:
     Woo, E. Think deeply about simple things.

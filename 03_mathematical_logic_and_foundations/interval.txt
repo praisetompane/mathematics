@@ -1,17 +1,33 @@
 def interval (Censor, 2015):
-    () := open interval. 
-          set of ALL values between two endpoints.
-          excluding the endpoints.
+    - formal: ???
 
-        example:
-            (2,5) = { x | 2 > x < 5 }
+        - in words: ???
 
-    [] := closed interval. 
-          set of ALL values between two endpoints.
-          including the endpoints.
+    - plain english: ???
 
-        example:
-            [2,5] = { x | 2 ≥ x ≤ 5 }
+    - intuition: ???
 
+    - properties:
+      - types:
+        - () := open interval. 
+              set of ALL values between two endpoints.
+              excluding the endpoints.
+
+            example:
+                (2,5) = { x | 2 > x < 5 }
+
+        - [] := closed interval. 
+              set of ALL values between two endpoints.
+              including the endpoints.
+
+            example:
+                [2,5] = { x | 2 ≥ x ≤ 5 }
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.
+    Censor, A. 2013. Differential and Integral Calculus 1. Technion - International School Of Engineering.

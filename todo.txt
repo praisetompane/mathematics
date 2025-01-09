@@ -61,6 +61,7 @@
             - current: Lecture 05 - Complex numbers: *
         - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
             - current:
+        - Strang, G. 2020. A 2020 Vision of Linear Algebra.
         - extras:
             - khanacademy: Linear algebra
             - Edx: GTx: Explore the fundamentals of linear algebra

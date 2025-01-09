@@ -20,5 +20,5 @@ def integration(Hammack: 2020):
     - proof: ???
         
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.
-    Hammack, R. MATH 200: Calculus I. 2020. Virginia Commonwealth University. https://richardhammack.github.io/Math200/index.html
+    Censor, A. 2013. Differential and Integral Calculus 1. Calculus - 01. Technion - International School Of Engineering.
+    Hammack, R. 2020. MATH 200: Calculus I. Hammack's Calculus I, Lecture 1： A Thumbnail Sketch of Calculus I. Virginia Commonwealth University.

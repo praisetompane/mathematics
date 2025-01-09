@@ -38,4 +38,4 @@ def absolute value(Kent State Department of Mathematical Sciences, 2008:7):
     - proof: ???
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

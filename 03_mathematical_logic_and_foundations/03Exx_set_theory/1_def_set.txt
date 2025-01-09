@@ -95,19 +95,19 @@ def set(Hammack, 2018:3):
 
                 - details:
                     - def ℕ = {0,1,2,3,4,5,...}:
-                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
+                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/
                     
                     - def ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}:
-                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/0_def.txt
+                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/
 
                     - def ℚ = {m/n : m,n ∈ ℤ ∧ n ≠ 0 }:
-                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/0_def.txt
+                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/
 
                     - def ℝ:
-                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_real_numbers/0_def.txt
+                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/
 
                     - def ℂ = {a + bi : a,b ∈ ℝ} :
-                        see: 0_foundations/0_numbers/decimal_number_system/1_complex_numbers/0_def.txt
+                        see:/mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/
 
                     - def empty set(i.e. ∅)(Hammack, 2018):
                         - formal:
@@ -124,6 +124,10 @@ def set(Hammack, 2018:3):
 
         def hereditary set:
 
+    - examples: ???
+        - first four integers from zero = {0,1,2,3}
+        - first 4 prime numbers = {2,3,7,11}
+        
     - use cases:
         - Described all of mathematics.
 

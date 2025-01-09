@@ -13,7 +13,14 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
 
         - in words: ???
 
-    - plain english: ???
+    - plain english:
+        number of elements in a set.
+        for finite sets, this number is in ℕ (ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
+            i.e. it is a Natural number.
+
+                notation:
+                    A = {}
+                    |A| := cardinality of set A
 
     - intuition: ???
 

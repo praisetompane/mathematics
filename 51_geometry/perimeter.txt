@@ -18,4 +18,4 @@ def perimeter (Khan Academy):
     - proof: ???
 
 References:
-    Khan Academy. Perimeter: introduction.https://www.khanacademy.org/math/cc-third-grade-math/3rd-perimeter/imp-perimeter/v/introduction-to-perimeter.
+    Khan Academy. 3RD GRADE UNIT 11. Perimeter: introduction.

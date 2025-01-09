@@ -1,0 +1,20 @@
+def linear equations (Kent State Department of Mathematical Sciences, 2008:38):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: an equation that produces a line.
+
+    - intuition: ???
+
+    - properties:
+        - a linear equation with respect to one variable can be written in the form, 𝑎𝑥 + 𝑏 = 𝑐:
+        
+    - examples: ???
+
+    - use cases: ???
+    
+    - proof: ???
+
+References:
+  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II.

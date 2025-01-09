@@ -24,11 +24,11 @@ def function:
     
     
 
-    - plain english: a mapping
-                    between two groups of things, named A and B
-                    where
-                        each thing in group A
-                            can only map to ONE thing in group B.
+    - plain english: a mapping,
+                        between two groups of things, named A and B
+                        where
+                            each thing in group A
+                                can only map to ONE thing in group B.
 
     - intuition: ???
 
@@ -75,5 +75,6 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
     - use cases: ???
         
     - proof: ???
+    
 References:
     Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.

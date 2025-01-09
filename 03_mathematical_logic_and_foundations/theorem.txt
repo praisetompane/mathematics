@@ -1,5 +1,7 @@
 def theorem(Censor, 2013):
-    - formal: a mathematical fact that is proved .
+    - formal: ???
+
+        - in words: a mathematical fact that is proved.
 
     - plain english: a sentence
                     that is proved to be true.
@@ -16,7 +18,7 @@ def theorem(Censor, 2013):
                 
                 NB: This is what requires proof.
             examples:
-                3_analysis/0_differential_and_integral_calculus/theorems
+                /26_real_functions/theorems
 
     - examples: ???
 
@@ -26,4 +28,4 @@ def theorem(Censor, 2013):
     - proof: N/A
 
 References:
-    Censor, A. Differential and Integral Calculus 1. 2013. Technion - International School Of Engineering.
+    Censor, A. 2013. Differential and Integral Calculus 1. Technion - International School Of Engineering.

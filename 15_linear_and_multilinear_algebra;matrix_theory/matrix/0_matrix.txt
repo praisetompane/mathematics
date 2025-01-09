@@ -1,0 +1,138 @@
+def matrix¹(Strang, 2020):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: square or rectangle of numbers, with special features.
+
+    - intuition: ???
+
+    - properties: 
+        - types (Strang, 2020):
+            - columns and rows in the same direction
+            - rank 2 matrix
+            - symmetric matrix
+            - orthogonal matrix (perpendicular)
+
+            - columns and rows in the same direction:
+                Example:
+                    A₀ = [  1 3  2
+                            4 12 8
+                            2 6  4 
+                        ]
+                    
+                        row_2 = 4 * row_1. NB: Is it just row 1 scaled by 4
+                                = 2 * row_3. NB: Is it just row 3 scaled by 2
+                        row_3 = 2 * row_1. NB: Is it just row 1 scaled by 2
+                        
+                        NB: The "vectors" are pointing in the same direction.
+                            They just have different magnitude(length)
+
+                        col_2 = 3 * col_1. NB: Is it just col 1 scaled by 3
+                        col_3 = 2 * col_1. NB: It is just col 1 scaled by 2
+
+                        OBSERVATION⁴:
+                            When the rows are in the same direction, the columns are too.
+
+            - orthogonal matrix (perpendicular):
+                expresses rotation of the plane.
+
+            - A = CR : Independent columns  |   |
+                                            |   | * |       |
+                                            |   |
+                a matrix A is a product of a Column matrix(C) and row matrix(R)
+            
+            - A = LU : Triangular matrices L and U  |\ o |        |\   |
+                                                    | \  |    *   | \  |
+                                                    |  \ |        |  \ |
+                                                    |   \|        | o \|
+            
+            - A = QR: Orthogonal columns in Q       |    |        |\   |
+                                                    |q₁qₙ|    *   | \  |
+                                                    |    |        |  \ |
+                                                    |    |        | o \|
+                            
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def matrix²(Censor, 2015): 
+    - formal: ???
+
+        - in words: 
+            a chart of elements 
+                arranged in
+                    rows and columns
+
+    
+    - plain english: ???
+
+    - intuition: ???
+    
+    - properties:
+        - general form:
+                𝐴 = (
+                    𝑎₁₁ 𝑎₁₂ 𝑎₁₃ ... 𝑎₁ₙ
+                    𝑎₂₁ 𝑎₂₂ 𝑎₂₃ ... 𝑎₂ₙ
+                    𝑎₃₁ 𝑎₃₂ 𝑎₃₃ ... 𝑎₃ₙ
+                    .    .   .       .
+                    .    .   .       .
+                    .    .   .       .
+                    𝑎ₘ₁  𝑎ₘ₂ 𝑎ₘ₃ ...  𝑎ₘₙ 
+                    )
+
+                NB: MYINC: the columns are fixed forall m in the general form.
+                    Question: Is this an interesting property?
+                
+                notation:
+                    - aᵢⱼ is the entry in:
+                        - row i
+                        - column j
+                        of the matrix
+                    - 𝐴 = Aₘₓₙ = (aᵢⱼ)
+                        - matrix 𝐴 has m rows AND n columns
+                    - 𝐴 ∈ Mₘₓₙ(ℂ)
+                        - Mₘₓₙ = family of m × n matrices
+                        - Mₘₓₙ(ℂ) = family of m × n matrices over the Complex Numbers
+                        ∴ 𝐴 ∈ Mₘₓₙ(ℂ) = 𝐴 is a member of m × n matrices over the Complex Numbers
+                    - if m = n, then
+                        𝐴 ∈ Mₙ(ℂ)
+                        - Mₙ = shorthand for Mₙₓₙ
+
+                    - concepts:
+                        - size of matrix: m × n
+                            - m = number of rows
+                            - n = number of columns
+                        - square matrix: 𝐴 = Aₙₓₙ
+                        - main diagonal: all elements aᵢᵢ
+                            NB: i AND j = same value
+                                example:
+                                    given 𝐴 = A₃ₓ₃
+                                    main diagonal = a₁₁, a₂₂, a₃₃ 
+                            NB: usually only associated with square matrices
+                                    because row AND column numbers are equal
+                                        therefore a full diagonal form
+                                            a₁₁ to aᵢᵢ is possible
+                                    NB: in a rectangular matrix, this is not possible,
+                                            eventually we reach an entry aₘₙ where,
+                                                n > m
+                                                example:
+                                                    in 𝐴 = A₂ₓ₃
+    - examples:
+        𝐴 = ( 
+              1  0 π 
+              √2 𝑖 -3    
+            )
+
+        𝐴 is a matrix over ℂ
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+    Censor, A. 2015. Algebra 1M - international. 11 - Matrices. Technion - International School Of Engineering.
+    Strang, G. 2020. Part 1: The Column Space of a Matrix. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/the-column-space-of-a-matrix/

@@ -45,10 +45,6 @@ def degree:
             number of edges incident to a node/vertex
                     is the degree of node/vertex (Leighton, van Dijk, 2010).
                 
-                in 0_def.txt example:
-                    deg(x₂) = 2
-                    i.e. there are two edges connected to x₂
-
     - plain english: ???
 
     - intuition: ???
@@ -63,5 +59,4 @@ def degree:
 
 
 References:
-    Prof. Tom Leighton, Dr. Marten van Dijk. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-6-graph-theory-and-coloring/. 2010
-    
+    Leighton T, van Dijk, M. 2010. MIT 6.042J Mathematics For Computer Science. Lecture 6: Graph Theory and Coloring. Massachusetts Institute of Technology.

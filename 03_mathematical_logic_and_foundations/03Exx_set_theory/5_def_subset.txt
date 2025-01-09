@@ -34,4 +34,4 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
     - proof: ???
         
 References:
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. Set Theory. Basic concepts.
