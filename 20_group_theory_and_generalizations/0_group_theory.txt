@@ -1,0 +1,20 @@
+def group_theory.:
+    - formal: ???
+        Q: Is there a Formal logic formula that can represent this whole field/subject?
+        
+        - in words: ???
+
+    - plain english: a branch of Mathematics, that studies algebraic structures known as Groups⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
+        see: 20_group_theory_and_generalizations/1_group.txt
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

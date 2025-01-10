@@ -1,19 +1,11 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
-        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
         - Antonio Montalban. 2020. Math 125A Mathematical Logic
     - readings:
-        - logic and proofs:
-            - Prof. Richard Hammack. Book of Proof. 
-                - current: Preface to the Third Edition
-            - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
-            - Sets, Logic, Computation. The Open Logic Project
-        - mathematical_logic:
-            - a concise introduction to mathematical logic. wolfgang rautenberg
-                - current position: not started
-            - the foundations of mathematics. kenneth kunen:
-                - current position: page 13, section 1.2: r1
+        - a concise introduction to mathematical logic. wolfgang rautenberg
+            - current position: not started
+        - the foundations of mathematics. kenneth kunen:
+            - current position: page 13, section 1.2: r1
     - assignments:
     - exams:
 
@@ -99,6 +91,25 @@
 
 ============================================================================================================
 next₁:
+    03_mathematical_logic_and_foundations:
+        - 03Exx_set_theory:
+            - lectures:
+                - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
+            - readings:
+            - assignments:
+            - exams:
+
+        - 03Fxx_proof_theory_and_constructive_mathematics:
+            - lectures:
+            - readings:
+                - Prof. Richard Hammack. Book of Proof. 
+                    - current: Preface to the Third Edition
+                - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+                - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
+                - Sets, Logic, Computation. The Open Logic Project
+            - assignments:
+            - exams:
+        
     - 12_field_theory_and_polynomials:
         - lectures:
         - readings:
@@ -128,7 +139,7 @@ next₁:
         - assignments:
         - exams:
 
-    - 54_General_topology
+    - 54_general_topology
         - lectures:
         - readings:
         - recitations:

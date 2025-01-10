@@ -129,7 +129,8 @@ def set(Hammack, 2018:3):
         - first 4 prime numbers = {2,3,7,11}
         
     - use cases:
-        - Described all of mathematics.
+        - describe all types of mathematical structures(Hammack, 2018:ix).
+        - contain arbitrary objects, non-mathematical and mathematical objects.
 
     - proof: ???
 

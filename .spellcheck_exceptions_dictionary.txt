@@ -159,3 +159,8 @@ alg
 abjorndahl
 mec
 xcae
+
+
+# Mathematics Subject Classification – MSC2020
+Exx
+Fxx

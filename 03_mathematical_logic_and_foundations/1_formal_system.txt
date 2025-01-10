@@ -1,10 +1,9 @@
-def formal systems (Montalban, 2020):
+def formal system(Montalban, 2020):
     - formal: ???
 
         - in words: ???
 
-    - plain english: 
-        context to develop mathematics in a formal way.
+    - plain english: context to develop Mathematics in a formal way.
 
     - intuition: ???
             
@@ -13,7 +12,7 @@ def formal systems (Montalban, 2020):
         - rules
         - axioms
         
-        - def language: the means to create mathematical statements.
+        - def language: the means to create Mathematical statements.
             components:
                 - symbols
                 - grammar
@@ -43,18 +42,19 @@ def formal systems (Montalban, 2020):
 
         - def rules: set of allowed logical steps.
 
-        - def axioms: set of basic mathematical statements
+        - def axioms: set of basic Mathematical statements
                         presumed to be true
                             in this system.
 
     - examples: ???
     
     - use cases:
-        - create a solid foundation for mathematics to:
+        - create a solid foundation for Mathematics to:
             - avoid paradoxes.
-        - can be studied in logic as mathematical objects which allows:
-            - studying mathematics(proofs, theorems, etc) using mathematics (i.e. meta mathematics)
-                example: Gödel's theorem.
+            - ...
+        - formal systems can be studied in logic as Mathematical objects which allows:
+            - studying Mathematics(proofs, theorems, etc) using Mathematics (i.e. meta-Mathematics)
+                example: Gödel's theorems.
         - computers can manipulate formal symbols which allows:
             - computer proof verification.
             - computer aided proof development.
