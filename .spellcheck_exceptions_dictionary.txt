@@ -2,6 +2,7 @@
 Asaf
 Aviv
 Buffington
+Chlipala
 Courant
 Dijk
 Epp
@@ -65,10 +66,13 @@ https
 lhs
 lieson
 lim
+modus
 monomial
 multivariable
 nomial
+OrderLogic
 peano
+ponens
 representable
 rhs
 trinomial
