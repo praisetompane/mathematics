@@ -178,5 +178,7 @@ next₃:
     - exams:
 
 legend:
-    *: S visit complete
-    **: R3 visit complete
+    *: SQ visit complete
+    **: R1 visit complete
+    ***: R2 visit complete
+    ****: R3 visit complete
