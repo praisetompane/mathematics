@@ -1,0 +1,20 @@
+def real_functions:
+    - formal: ???
+        Q: Is there a Formal logic formula that can represent this whole field/subject?
+        
+        - in words: ???
+
+    - plain english: functions over the Real numbers(i.e. ℝ)
+        see(for function definition): 03_mathematical_logic_and_foundations/6_function.txt
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

@@ -1,0 +1,20 @@
+def field_theory: 
+    - formal: ???
+        Q: Is there a Formal logic formula that can represent this whole field/subject?
+        
+        - in words: ???
+
+    - plain english: a branch of Mathematics, that studies algebraic structures known as Fields⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾.
+        see: 12_field_theory_and_polynomials/1_field.txt
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

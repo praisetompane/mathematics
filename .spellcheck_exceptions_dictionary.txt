@@ -38,25 +38,7 @@ Computability
 monomial
 nomial
 trinomial
-<<<<<<< HEAD:.wordlist.txt
-Abelian
-Peano
-Extremum
-cardinality
-representable
-contrapositive
-lim
-LHS
-RHS
-distributivity
-decidability
-DummyVariable
-FreeVariable
-definitional
-LiesOn
-=======
 sentential
->>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):.spellcheck_exceptions_dictionary.txt
 
 
 numpy
@@ -67,14 +49,10 @@ notational
 num
 num's
 py
-<<<<<<< HEAD
-ary
-=======
 sqrt
 pipenv
 pyspelling
 
->>>>>>> 0642e2e (fix: apply definition template for consistency, highlight missing information and add concept ordering.)
 
 
 Cengage
@@ -274,11 +252,13 @@ wPEYoW
 xReU
 zF
 
-APRlU
-Aviv
-BJGEw
-Cy
-DMJeJp
-DcqOcslyw
-DdIwPh
-Ddio
+# urls
+alg
+abjorndahl
+mec
+xcae
+
+
+# Mathematics Subject Classification – MSC2020
+Exx
+Fxx

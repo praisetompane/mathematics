@@ -30,7 +30,10 @@ def set theory¹(Kunen, 2007:10-11):
 
         - in words: ???
 
-    - plain english: ???
+    Q: Does an object need to satisfy these axioms to be considered a set?
+
+    - plain english: a branch Mathematics that studies sets.
+        see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_set.txt
 
     - intuition: ???
 
@@ -38,15 +41,12 @@ def set theory¹(Kunen, 2007:10-11):
 
     - examples: ???
 
-    - use cases: ???
+    - use cases: 
+        - foundational system for Mathematics.
+        - mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
         
     - proof: ???
-
-def set theory²: a language perfectly suited to describing and explaining all types of mathematical structures(Hammack, 2018).
-
-def set theory³: mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
 
 References:
     Kunen, K. 2007. The Foundations of Mathematics.
     Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
-    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
