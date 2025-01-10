@@ -1,6 +1,8 @@
 # authors
+AndreaSchmidt
 Asaf
 Aviv
+Bren
 Buffington
 Chlipala
 Courant
@@ -8,6 +10,8 @@ Dijk
 Epp
 Fraenkel
 Frenkel
+Grimson
+Guttag
 Gödel
 Gödel's
 Hamkins
@@ -66,6 +70,8 @@ https
 lhs
 lieson
 lim
+memoisable
+memoisation
 modus
 monomial
 multivariable
@@ -110,9 +116,11 @@ mathworld
 momath
 numberphile
 ocw
+OpenCourseWare
 oeis
 quora
 realpython
+UCI
 wildegg
 worldscienceu
 wumbo
@@ -157,6 +165,11 @@ txt
 woit
 yaml
 za
+
+
+# places
+Jozi
+
 
 # urls
 alg
