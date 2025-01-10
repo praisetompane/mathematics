@@ -1,3 +1,14 @@
+# authors
+Asaf
+Aviv
+Buffington
+Chlipala
+Courant
+Dijk
+Epp
+Fraenkel
+Frenkel
+Gödel
 Gödel's
 Gödel
 Rolle
@@ -33,10 +44,25 @@ njwildberger
 
 
 curvilinear
-Multivariable
-Computability
+decidability
+definitional
+dfs
+distributivity
+dummyvariable
+extremum
+freevariable
+https
+lhs
+lieson
+lim
+modus
 monomial
 nomial
+OrderLogic
+peano
+ponens
+representable
+rhs
 trinomial
 sentential
 
