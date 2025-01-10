@@ -1,6 +1,8 @@
 # authors
+AndreaSchmidt
 Asaf
 Aviv
+Bren
 Buffington
 Chlipala
 Courant
@@ -8,6 +10,8 @@ Dijk
 Epp
 Fraenkel
 Frenkel
+Grimson
+Guttag
 Gödel
 Gödel's
 Gödel
@@ -55,6 +59,8 @@ https
 lhs
 lieson
 lim
+memoisable
+memoisation
 modus
 monomial
 nomial
@@ -80,15 +86,28 @@ pipenv
 pyspelling
 
 
-
-Cengage
-MathWorld
-DelftX
-GeorgetownX
-MathHistory
-Numberphile
+# institutions
+cengage
+coursera
+delftx
+edu
+Edx
+georgetownx
+GTx
+mathematica
+mathhistory
+mathlib
+MathMod
+mathoverflow
+mathworld
+momath
+numberphile
+ocw
+OpenCourseWare
+oeis
 quora
 realpython
+UCI
 wildegg
 worldscienceu
 wumbo
@@ -277,6 +296,11 @@ tlu
 wPEYoW
 xReU
 zF
+
+
+# places
+Jozi
+
 
 # urls
 alg
