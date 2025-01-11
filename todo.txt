@@ -1,4 +1,4 @@
-- 03_mathematical_logic_and_foundations:
+- 03_mathematical_logic_and_foundations/03Bxx_general_logic:
     - lectures:
         - Antonio Montalban. 2020. Math 125A Mathematical Logic
     - readings:
@@ -9,41 +9,10 @@
     - assignments:
     - exams:
 
-- 00_numbers:
+- 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
-        - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
-            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
-            - basics:
-                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger 
-                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger 
-            - others:
-                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger 
-                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 
-                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 
-                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger 
-                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger 
-                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 
-                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 
-                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 
-            - more on real number:
-                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 
-                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger 
-            - more on natural numbers:
-                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 
-                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 
-            
+        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
     - readings:
-        - kent fundamentals of mathematics i
-            - current position: pg. 22: example 3
-        - https://www.khanacademy.org/math/k-8-grades
-            - current position: 3rd grade
-        - kent fundamentals of mathematics ii
-            - current position: not started
-        - kent fundamentals of mathematics iii
-            - current position: not started
-        - kent fundamentals of mathematics iv
-            - current position: not started
-    - recitations:
     - assignments:
     - exams:
 
@@ -91,6 +60,7 @@
 
 ============================================================================================================
 next₁:
+<<<<<<< Updated upstream
     03_mathematical_logic_and_foundations:
         - 03Exx_set_theory:
             - lectures:
@@ -98,17 +68,58 @@ next₁:
             - readings:
             - assignments:
             - exams:
+=======
+    - 00_numbers:
+        - lectures:
+            - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
+                - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
+                - basics:
+                    from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger 
+                    to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger 
+                - others:
+                    66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger 
+                    81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 
+                    82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 
+                    89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger 
+                    93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger 
+                    104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 
+                    210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 
+                    211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 
+                - more on real number:
+                    from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 
+                    to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger 
+                - more on natural numbers:
+                    from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 
+                    to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 
+                
+        - readings:
+            - kent fundamentals of mathematics i
+                - current position: pg. 22: example 3
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
+            - kent fundamentals of mathematics ii
+                - current position: not started
+            - kent fundamentals of mathematics iii
+                - current position: not started
+            - kent fundamentals of mathematics iv
+                - current position: not started
+        - recitations:
+        - assignments:
+        - exams:
+    
+    - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
+        - lectures:
+>>>>>>> Stashed changes
 
-        - 03Fxx_proof_theory_and_constructive_mathematics:
-            - lectures:
-            - readings:
-                - Prof. Richard Hammack. Book of Proof. 
-                    - current: Preface to the Third Edition
-                - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-                - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
-                - Sets, Logic, Computation. The Open Logic Project
-            - assignments:
-            - exams:
+        - readings:
+            - Prof. Richard Hammack. Book of Proof. 
+                - current: Preface to the Third Edition
+            - Heather Macbeth. The Mechanics of Proof. Math 2001. Fordham University. https://hrmacbeth.github.io/math2001/
+            - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+            - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
+            - Sets, Logic, Computation. The Open Logic Project
+        - assignments:
+        - exams:
         
     - 12_field_theory_and_polynomials:
         - lectures:
@@ -124,6 +135,9 @@ next₁:
         - assignments:
         - exams:
 
+
+============================================================================================================
+next₂:
     - 51_geometry
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
@@ -139,15 +153,6 @@ next₁:
         - assignments:
         - exams:
 
-    - 54_general_topology
-        - lectures:
-        - readings:
-        - recitations:
-        - assignments:
-        - exams:
-
-============================================================================================================
-next₂:
     - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
             - Mathematical Modeling : Analysis and Applications
@@ -156,6 +161,13 @@ next₂:
             - Coursera: Precalculus through Data and Modelling Specialization
         - readings:
             - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
+        - assignments:
+        - exams:
+        
+    - 54_general_topology
+        - lectures:
+        - readings:
+        - recitations:
         - assignments:
         - exams:
 ============================================================================================================

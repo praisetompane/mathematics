@@ -2,12 +2,14 @@
 AndreaSchmidt
 Asaf
 Aviv
+Bernay
 Bren
 Buffington
 Chlipala
 Courant
 Dijk
 Epp
+Fordham
 Fraenkel
 Frenkel
 Grimson
@@ -29,6 +31,8 @@ Lockhart
 Loyiso
 Montalban
 Myinc
+von
+Neumann
 Nga
 Njwildberger
 Nongxa
@@ -51,8 +55,11 @@ ZFC
 Rautenberg
 Zach
 
+
 # concepts
 abelian
+axiomatize
+axiomatized
 bfs
 cardinality
 cartesiancoordinates
@@ -130,6 +137,7 @@ zulipchat
 
 # acronyms
 bce
+NGB
 bsc
 doctrate
 ebooks
@@ -176,6 +184,7 @@ alg
 abjorndahl
 mec
 xcae
+hrmacbeth
 
 
 # Mathematics Subject Classification – MSC2020

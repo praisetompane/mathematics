@@ -26,7 +26,8 @@ def mathematical logic (Montalban, 2020):
 
     - use cases:
         - develop the foundations for Mathematics using formal systems.
-
+            see: 03_mathematical_logic_and_foundations/1_formal_system.txt
+    
     - proof: N/A
 
             
