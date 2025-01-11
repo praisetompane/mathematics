@@ -1,4 +1,4 @@
-def proof: a method for ascertaining truth (Leighton, 2010).
+def proof¹(Leighton, 2010): a method for ascertaining truth:
     example proofs (Leighton, 2010): 
     # in science
         experimentation and observation
@@ -27,18 +27,45 @@ def proof: a method for ascertaining truth (Leighton, 2010).
 
         a sequence of logical deductions to ascertain truth.
 
-def proof¹ (Kunen, 2007:6): a finite sequence of sentences
+def proof² (Kunen, 2007:6): a finite sequence of sentences
                                 written in this language
                                 that obey 
                                     a precisely defined rule of inference.
                                     rules of inference = {modus ponens, ...}
     
-def proof² (Montalban, 2020): an argument
-                            that uses
-                                logical steps
-                            to show
-                                that a mathematical statement
-                                follows from certain axioms.
+def proof³ (Montalban, 2020):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english:
+        - an argument
+            that uses 
+                logical steps
+            to show 
+                a mathematical statement
+                follows from certain assumptions.
+
+        - def logical steps = rules
+        
+    - intuition: ???
+
+    - properties:
+        - requires:
+            - a formal language to express the Mathematical statement.
+                see: properties/language in 03_mathematical_logic_and_foundations/1_formal_system.txt.
+
+            - explicit list of logical steps we are allowed to use called rules.
+                see: properties/rules in 03_mathematical_logic_and_foundations/1_formal_system.txt.
+
+            - assumptions, which are the axioms.
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
 types (Leighton, 2010): 
     1. direct 
     2. indirect
@@ -96,4 +123,4 @@ in computing we desire to prove:
 
 References: 
     Kunen, K. 2007. The Foundations of Mathematics.
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory.
+    Montalban, A. 2020. Math 125A -- Mathematical Logic. Introduction to Mathematical Logic.

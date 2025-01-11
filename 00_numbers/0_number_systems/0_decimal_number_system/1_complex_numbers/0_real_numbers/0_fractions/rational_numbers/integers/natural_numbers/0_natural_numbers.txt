@@ -11,6 +11,7 @@ def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
 
     - properties:
         - remark: sometimes they are defined without 0.
+        - axiomatized using Peano axioms.
 
     - proof: ???
     

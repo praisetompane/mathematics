@@ -7,13 +7,13 @@ def formal system(Montalban, 2020):
 
     - intuition: ???
             
-    - properties: ?
+    - properties:
         - language
         - rules
         - axioms
         
         - def language: the means to create Mathematical statements.
-            components:
+            - components:
                 - symbols
                 - grammar
 
@@ -27,8 +27,9 @@ def formal system(Montalban, 2020):
                         ×               := times
                         ∈               := belongs
 
+                        NB: variable, we can add or remove depending on the objects we want to work with.
+
                     def logical symbols:
-                        fixed for first-order logic
                         =               := equality
                         ∧               := and
                         ∨               := or
@@ -38,13 +39,24 @@ def formal system(Montalban, 2020):
                         x,y,z ...       := variable symbols
                         (,)             := parenthesis
 
-                def grammar: how you can put the symbols together.
+                        NB: fixed in all first-order logic.
 
-        - def rules: set of allowed logical steps.
+                def grammar: how you can put the symbols together:
+                    - ...
+            NB: The language is complete: You can express every Mathematical statement with the language.
+
+        - def rules: set of allowed logical steps:
+            - ...
+
+            NB: The rules are complete: You can formalize all arguments in Mathematics with the rules.
 
         - def axioms: set of basic Mathematical statements
                         presumed to be true
                             in this system.
+
+            NB: The axioms are incomplete.
+
+        NB: Gödel proved the completeness and incompleteness theorems.
 
     - examples: ???
     
@@ -56,9 +68,9 @@ def formal system(Montalban, 2020):
             - studying Mathematics(proofs, theorems, etc) using Mathematics (i.e. meta-Mathematics)
                 example: Gödel's theorems.
         - computers can manipulate formal symbols which allows:
-            - computer proof verification.
-            - computer aided proof development.
-            - computer program verification.
+            - mathematical proof verification using computer.
+            - computer aided mathematical proof development.
+            - computer program verification and proof of properties(accuracy, etc).
 
     - proof: ???
 

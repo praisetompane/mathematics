@@ -2,19 +2,45 @@
 AndreaSchmidt
 Asaf
 Aviv
+Bernay
 Bren
 Buffington
 Chlipala
 Courant
 Dijk
 Epp
+Fordham
 Fraenkel
 Frenkel
 Grimson
 Guttag
 Gödel
 Gödel's
-Gödel
+Hamkins
+Hammack
+Hammack's
+Hartshorne
+Jerison
+Jurgensen
+Karagila
+Langlands
+Legrange
+Legrange's
+Leighton
+Lockhart
+Loyiso
+Montalban
+Myinc
+von
+Neumann
+Nga
+Njwildberger
+Nongxa
+Praisetompane
+Quantamagazine
+René
+Richardhammack
+Robertvirona
 Rolle
 Legrange's
 Legrange
@@ -47,6 +73,16 @@ richardhammack
 njwildberger
 
 
+
+# concepts
+abelian
+axiomatize
+axiomatized
+bfs
+cardinality
+cartesiancoordinates
+computability
+contrapositive
 curvilinear
 decidability
 definitional
@@ -115,11 +151,9 @@ zbmath
 zulipchat
 
 
-TODO
-BCE
-BSc
-WST
-WTW
+# acronyms
+bce
+NGB
 bsc
 doctrate
 msc
@@ -307,6 +341,7 @@ alg
 abjorndahl
 mec
 xcae
+hrmacbeth
 
 
 # Mathematics Subject Classification – MSC2020

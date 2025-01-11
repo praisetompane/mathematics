@@ -103,9 +103,11 @@ next₁:
 
         - 03Fxx_proof_theory_and_constructive_mathematics:
             - lectures:
+
             - readings:
                 - Prof. Richard Hammack. Book of Proof. 
                     - current: Preface to the Third Edition
+                - Heather Macbeth. The Mechanics of Proof. Math 2001. Fordham University. https://hrmacbeth.github.io/math2001/
                 - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
                 - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
                 - Sets, Logic, Computation. The Open Logic Project
