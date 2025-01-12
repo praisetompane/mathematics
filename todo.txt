@@ -1,4 +1,4 @@
-- 03_mathematical_logic_and_foundations/03Bxx_general_logic:
+- 03_mathematical_logic_and_foundations:
     - lectures:
         - Antonio Montalban. 2020. Math 125A Mathematical Logic
     - readings:
@@ -60,15 +60,6 @@
 
 ============================================================================================================
 next₁:
-<<<<<<< Updated upstream
-    03_mathematical_logic_and_foundations:
-        - 03Exx_set_theory:
-            - lectures:
-                - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
-            - readings:
-            - assignments:
-            - exams:
-=======
     - 00_numbers:
         - lectures:
             - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
@@ -109,7 +100,6 @@ next₁:
     
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - lectures:
->>>>>>> Stashed changes
 
         - readings:
             - Prof. Richard Hammack. Book of Proof. 
@@ -134,7 +124,6 @@ next₁:
         - recitations:
         - assignments:
         - exams:
-
 
 ============================================================================================================
 next₂:
