@@ -1,0 +1,22 @@
+def propositional logic or propositional calculus or sentential logic or sentential calculus or zeroth-order logic:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - symbols:
+            - 
+
+        - expressions: list of strings
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???
