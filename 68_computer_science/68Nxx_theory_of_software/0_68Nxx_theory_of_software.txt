@@ -1,0 +1,20 @@
+def x:
+    - formal: ???
+
+        - in words: ???
+
+        see: https://github.com/praisetompane/computation_and_information/tree/main/5_software_and_its_engineering
+    
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???

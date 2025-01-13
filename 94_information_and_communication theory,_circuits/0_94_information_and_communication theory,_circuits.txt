@@ -1,9 +1,9 @@
-def x:
+def information_and_communication theory,_circuits:
     - formal: ???
 
         - in words: ???
 
-    - plain english: ???
+    - plain english: basic theory underlying digital communication and storage. 
 
     - intuition: ???
 

@@ -1,0 +1,19 @@
+def discrete_mathematics_in_relation_to_computer_science:
+    - formal: ???
+        - in words: ???
+
+        see: https://github.com/praisetompane/computation_and_information/tree/main/1_mathematics_of_computing
+        
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References: ???
