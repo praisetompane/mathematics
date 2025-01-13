@@ -3,6 +3,8 @@ def x:
 
         - in words: ???
 
+        see: https://github.com/praisetompane/computation_and_information/tree/main/6_computing_methodologies
+         
     - plain english: ???
 
     - intuition: ???
