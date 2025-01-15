@@ -39,16 +39,17 @@ def absolute value(Kent State Department of Mathematical Sciences, 2008:7):
 
 def absolute value(Censor, 2013):
     - formal: 
-        ∀𝑥 ∈ ℝ, |𝑥| = {
-                            𝑥   , when 𝑥 >= 0
-                                                    or maximum{𝑥 , -𝑥}
-                            -𝑥  , when 𝑥 < 0
+        ∀𝑥 ∈ ℝ, |𝑥| = { 
+                        𝑥, 𝑥 ≥ 0
+                                    = maximum{𝑥 , -𝑥}
+                        -𝑥, 𝑥 < 0
                       }
 
         - in words:
             - the absolute value of 𝑥 is:
-                - 𝑥, when 𝑥 is greater or equal to zero(0)
-                - -𝑥, when x is less than zero(0)(i.e. negative)
+                - 𝑥, when 𝑥 is greater or equal to zero(0).
+                - -𝑥, when x is less than zero(0).
+                    NB: -1 * -𝑥(negative, because it is less 0).
 
             - the absolute value of 𝑥 is,
                 the maximum value of the set of values 𝑥 and -𝑥.
@@ -59,7 +60,17 @@ def absolute value(Censor, 2013):
 
     - properties: ???
 
-    - examples: ???
+    - examples:
+        - |-5|:
+            -1 * -5 = 5
+            ∴ |-5| = 5
+
+            NB: This is applying the second case in the definition, where 𝑥 < 0.
+
+        - |10|:
+            |10| = 10
+
+            NB: This is applying the first case in the definition.
 
     - use cases: ???
         

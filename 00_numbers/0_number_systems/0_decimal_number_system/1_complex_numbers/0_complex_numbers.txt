@@ -3,9 +3,9 @@ def 𝑖(Censor, 2015):
         Let 𝑖  = √-1.
                 ∴ i² = -1
     - plain english: 
-        - define a new number "i", whose value is the square root of -1.
+        - define a new number 𝑖, whose value is the square root of -1.
         or
-        - define a new number "i", which when squared it equals -1(i.e. i² = -1)
+        - define a new number 𝑖, which when squared it equals -1(i.e. 𝑖² = -1)
 
         NB: This number does not exist in the Real numbers.
             There is no number you can square(i.e. multiply by itself an get any negative number).
@@ -22,7 +22,7 @@ def 𝑖(Censor, 2015):
 
 def complex number(Censor, 2015):
     - formal: 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ  
-        - in words: 𝑎 plus 𝑏 multiplied by i(defined above)
+        - in words: 𝑎 plus 𝑏 multiplied by 𝑖(defined above)
 
     - plain english: ???
 
@@ -65,7 +65,7 @@ def complex number set(Censor, 2015):
 
     - plain english: the set of all numbers of the form "𝑎 + 𝑏𝑖" where,  
                         𝑎 and 𝑏  are Real Numbers and,
-                        i is the imaginary unit (√-1)
+                        𝑖 is the imaginary unit (√-1)
 
     - intuition: ???
 
