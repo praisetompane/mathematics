@@ -1,10 +1,27 @@
 def fraction(Kent State Department of Mathematical Sciences, 2008:3): 
     - formal: ???
 
-        - in words: 
-            an number divided by a non-zero number.
-                i.e. a ratio of two numbers
+        - in words: an number divided by a non-zero number.
+                i.e. a ratio of two numbers.
 
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        - divide cake with friends.
+        
+    - proof: ???
+
+def fractions set: 
+    - formal: ???
+
+        - in words: ???
+        
     - plain english: ???
 
     - intuition: ???
