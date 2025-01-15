@@ -1,4 +1,22 @@
-def irrational numbers(Kent State Department of Mathematical Sciences, 2008:3): 
+def irrational number: 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+
+def irrational numbers set(Kent State Department of Mathematical Sciences, 2008:3): 
     - formal: ???
 
         - in words: Real numbers that cannot be represented as fractions(ratios).

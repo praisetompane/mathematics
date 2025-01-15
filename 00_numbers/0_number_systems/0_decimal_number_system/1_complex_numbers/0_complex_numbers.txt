@@ -1,12 +1,15 @@
-def 𝑖:
+def 𝑖(Censor, 2015):
     - formal:
-        Let 𝑖  = √-1 (Censor, 2015).
+        Let 𝑖  = √-1.
                 ∴ i² = -1
-    - plain english: define a new number "i", 
-                        whose value is the square root of -1.
+    - plain english: 
+        - define a new number "i", whose value is the square root of -1.
+        or
+        - define a new number "i", which when squared it equals -1(i.e. i² = -1)
 
-                NB: This number does not exist in the Real numbers.
-                    There is no number you can square(i.e. multiply by itself an get a negative number)
+        NB: This number does not exist in the Real numbers.
+            There is no number you can square(i.e. multiply by itself an get any negative number).
+
     - intuition: ???
 
     - properties: ???
@@ -17,7 +20,7 @@ def 𝑖:
         
     - proof: ???
 
-def complex number:
+def complex number(Censor, 2015):
     - formal: 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ  
         - in words: 𝑎 plus 𝑏 multiplied by i(defined above)
 
@@ -45,23 +48,18 @@ def complex number:
 
     - use cases:
         - solution to equations:
-            example using decimal number system numbers notation:
-                given:
-                    equation₁: 𝑥² + 1 = 0
-                when:
-                    equation₁ has no solution in ℝ
-                then:
-                    in Complex Numbers(i.e. ℂ), a solution exists (Censor, 2015):
-                        solve equation:
-                            𝑥² + 1 - 1 = 0 - 1   : subtract 1 from both sides
-                            then:
-                                𝑥² = -1
-                                    𝑙𝑒𝑡 𝑥 = 𝑖
-                                    ∴ 𝑖² = -1
-                                    which is true in ℂ
+            - examples:
+                - 𝑥² + 1 = 0:
+                    let:
+                        𝑥 = 𝑖
+                    then:
+                        𝑖² + 1 = 0
+                        -1 + 1 = 0
+                        0 = 0
+                        ∴ 𝑥 = 𝑖 is a solution to the equation.
 
 def complex number set(Censor, 2015):
-    - formal: ℂ = {𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ}
+    - formal: ℂ = { 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ }
 
         - in words: ???
 

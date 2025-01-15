@@ -1,12 +1,8 @@
-def rational numbers¹: 
-    - formal: ???
+def rational number¹(Kent State Department of Mathematical Sciences, 2008:3): 
+    - formal:
+            𝑟 = m/n | m,n ∈ ℤ ∧ n ≠ 0
 
-        - in words: any number that can be written as a fraction of two integers(Kent State Department of Mathematical Sciences, 2008:3).
-                i.e. a ratio of two integers (Censor, 2015).
-
-                ℚ = {m/n | m ∈ ℤ ∧ n ∈ ℤ ∧ n ≠ 0}
-                * Key is they can be represented as fractions(i.e. as ratios)
-
+        - in words: any number 𝑟 that can be written as a fraction/ratio of two integers.
 
     - plain english: ???
 
@@ -16,14 +12,28 @@ def rational numbers¹:
 
     - examples: ???
 
-    - use cases: ???
+    - use cases:
+        - solution to equations:
+            - examples:
+                - 𝑥 × 5 = 12:
+                    let:
+                        𝑥 = 12/5
+                    then:
+                        12/5 × 5 = 12
+                        12/5 × 5/1 = 12
+                        (12 × 5)/5 = 12
+                        60/5 = 12
+                        12 = 12
+                        ∴ 𝑥 = 12/5 is a solution to the equation.
         
     - proof: ???
     
-def rational numbers²: 
-    - formal: ???
+def rational numbers set (Censor, 2015): 
+    - formal: ℚ = { m/n | m,n ∈ ℤ ∧ n ≠ 0 }
 
-        - in words: ???
+        - in words: numbers of the form 𝑚 divided 𝑛, 
+                    where 𝑚 and 𝑛 are integers(i.e. ℤ)
+                    and 𝑛 cannot be zero(0)
 
     - plain english: Real numbers that can be written as a fraction and therefore can be plotted on a number line(Kent State Department of Mathematical Sciences, 2008:3).
 

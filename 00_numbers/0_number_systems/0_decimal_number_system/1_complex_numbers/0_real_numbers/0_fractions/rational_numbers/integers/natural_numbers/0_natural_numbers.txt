@@ -1,6 +1,56 @@
-def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
-    - formal: 
-        - ℕ = {1,2,3,4,...}
+def natural number: 
+    - formal: ???
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        - count apples, goats etc.
+        - solution to equations:
+            - example:
+                - given:
+                    equation₁: x + 1 = 5
+                - then:
+                    x + 1 - 1 = 5 - 1
+                    x + 0 = 5 - 1
+                    x = 4
+                - substitution test:
+                    let:
+                        x = 4
+                    then:
+                        x + 1 = 5
+                        4 + 1 = 5
+                        5 = 5, which is true
+
+                - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation. 
+
+    - proof: ???
+
+def natural number(Wildberger, 2009): 
+    - formal: ???
+        - in words: ???
+
+    - plain english: a string of ones(i.e. one = |)
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: 
+        - || = two
+        - ||||| = five
+        - ||| = three
+
+    - proof: ???
+    
+def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2):
+    - formal: ℕ = {1,2,3,4,...}
 
         - in words:
             the set of ALL non-negative numbers from 0, with each next number, equal to the previous plus 1.
@@ -14,22 +64,8 @@ def natural numbers¹(Kent State Department of Mathematical Sciences, 2008:2):
         - axiomatized using Peano axioms.
 
     - proof: ???
-    
-def natural number²(Wildberger, 2009): 
-    - formal: ???
-        - in words: ???
 
-    - plain english: a string of ones(i.e. one = |)
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples: ???
-
-    - proof: ???
-    
-def natural numbers³(Wildberger, 2009): 
+def natural numbers set¹(Wildberger, 2009): 
     - formal: ???
         - in words: ???
 
@@ -87,31 +123,10 @@ def natural numbers³(Wildberger, 2009):
                                 𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
 
                         - remark: this is our third Mathematical operator.
+    - examples: ???
 
-- examples:
-    - || = two
-    - ||||| = five
-    - ||| = three
+    - use cases: ???
 
-- use cases:
-    - count apples, goats etc.
-    - solution to equations:
-        - example:
-            - given:
-                equation₁: x + 1 = 5
-            - then:
-                x + 1 - 1 = 5 - 1
-                x + 0 = 5 - 1
-                x = 4
-            - substitution test:
-                let:
-                    x = 4
-                then:
-                    x + 1 = 5
-                    4 + 1 = 5
-                    5 = 5, which is true
-
-            - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation. 
 References:
 <<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

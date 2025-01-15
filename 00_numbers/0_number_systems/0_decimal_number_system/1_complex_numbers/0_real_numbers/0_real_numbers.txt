@@ -1,17 +1,63 @@
-def real numbers¹(Censor, 2015):
-  - informal: ℝ = {𝑥 | -∞ < 𝑥 ∞ }
-  
-  - plain english: the set of all numbers 𝑥 such that,
+def real number(Censor, 2015):
+    - formal: ???
+          - method:
+            - Dedekind cuts?
+
+        - in words: ???
+
+    - plain english: a numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+      - solutions to equations:
+        - examples:
+          - 𝑥² = 3:
+            let:
+              𝑥 = √3
+            then:
+              (√3)² = 3
+              3 = 3
+              ∴ 𝑥 = √3 is a solution
+
+          - ...
+      - measurement
+      - ...
+        
+    - proof: ???
+
+def real numbers set¹(Censor, 2015):
+    - formal: ℝ = {𝑥 | -∞ < 𝑥 ∞ }
+          NB: This is an imprecise definition.
+
+        - in words: all numbers between negative infinity and positive infinity.
+                    NB: not inclusive of negative and positive infinity.
+
+    - plain english: the set of all numbers 𝑥 such that,
                       𝑥 is between negative infinity and positive infinity
 
-def real numbers²: all numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
-  ℝ = ℚ ∪ 𝕀
+    - intuition: ???
 
-def real numbers³(Censor, 2015):
-    real numbers are complex numbers
-        of the form (𝑎 + 0𝑖) 
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+def real numbers set²(Censor, 2015):
+    - formal: ℝ = { 𝑎 + 𝑏𝑖 | 𝑏 = 0 ∧ 𝑎,𝑏 ∈ (-∞, ∞) }
     
-    examples:
+        NB: This is an imprecise definition.
+
+      - in words: real numbers are complex numbers of the form (𝑎 + 0𝑖).
+    
+    - examples:
         2:
             2 = 2 + 0𝑖
             2 = 2  NB: any number multiplied by zero(0) is zero(0)
@@ -32,6 +78,14 @@ def real numbers³(Censor, 2015):
 
       Q: Are there categories for irrational numbers?
       
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
 References:
 <<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_def.txt
   Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
