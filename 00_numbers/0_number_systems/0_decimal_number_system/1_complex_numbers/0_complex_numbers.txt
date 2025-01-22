@@ -1,7 +1,7 @@
 def 𝑖(Censor, 2015):
     - formal:
         Let 𝑖  = √-1.
-                ∴ i² = -1
+                ∴ 𝑖² = -1
     - plain english: 
         - define a new number 𝑖, whose value is the square root of -1.
         or
@@ -70,10 +70,10 @@ def complex number set(Censor, 2015):
     - intuition: ???
 
     - properties:
-        - remark: in ℂ all equations have solutions (Censor, 2015).
-            ℂ is an algebraically closed field.
+        - ℂ is an algebraically closed Field. In ℂ, any single variable equation has a solution (Censor, 2015).
 
-        - algebraically closed: ???
+        - def algebraically closed: the fundamental theorem of algebra is satisfied:
+            see: 12_field_theory_and_polynomials/theorems/6_fundamental_theorem_of_algebra.txt
     
     - examples: ???
 

@@ -1,4 +1,4 @@
-def quadratic polynomial:¹ 
+def quadratic polynomial¹: 
 
     - formal: ???
 
@@ -20,7 +20,7 @@ def quadratic polynomial:¹
         
     - proof: ???
 
-def quadratic equation:² 
+def quadratic equation²:
     - formal: ???
 
         - in words: ???
