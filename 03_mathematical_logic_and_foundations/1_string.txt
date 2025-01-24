@@ -1,0 +1,111 @@
+def string(Montalban, 2020):
+    - formal:
+        let:
+            𝐴 be a set.
+        then:
+            ⟨𝑎₁, a₂, ..., aₙ⟩ : 𝑎 ∈ 𝐴
+
+        - in words: a tuple of element from 𝐴.
+
+    - plain english: a tuple/list of elements from 𝐴.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: 
+        - let:
+            𝐴 = {a, b}
+          then:
+            ⟨⟩ is an empty string.
+            ⟨a⟩ is a string of one element.
+            ⟨a,a⟩ is a string of two elements.  
+            ⟨a,b⟩ is a string of two elements.  
+
+    - use cases: ???
+        
+    - proof: ???
+    
+    References: 
+        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+
+def all strings of length 𝑛 of a set(Montalban, 2020):
+    - formal:
+        let:
+            𝐴 be a set.
+        then:
+            𝐴ⁿ = { ⟨a₁, a₂, ..., aₙ⟩ : a ∈ 𝐴 } is a set of 𝑛-tuple elements from 𝐴.
+
+        - in words: 𝐴ⁿ is a set of all strings of length 𝑛, using elements from 𝐴.
+
+    - plain english:
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - example 1:
+            let:
+                𝐴 = {a, b}
+            then: 
+                𝐴⁰ = {⟨⟩}, where ⟨⟩ is an empty string.
+                𝐴¹ = { ⟨a⟩, ⟨b⟩ }, where ⟨a⟩ is string with one element.
+                𝐴² = { ⟨a,a⟩, ⟨a,b⟩, ⟨b,a⟩, ⟨b,b⟩}
+                𝐴³ = { ⟨a,a,a⟩, ⟨a,a,b⟩, ⟨a,b,b⟩, ⟨b,a,a⟩, ⟨b,b,a⟩, ⟨b,b,b⟩} 
+
+    - use cases:
+        - express formula???
+        
+    - proof: ???
+
+    References:
+        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+
+def all strings of a set(Montalban, 2020): 
+    - formal:
+        let:
+            𝐴 be a set.
+        then:
+            𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ, is the set of strings of elements from 𝐴
+
+        - in words: 
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+    References:
+        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+
+def string length: 
+    - formal:
+        let:
+            σ ∈ 𝐴^<ω
+        then:
+            |σ| is the length of σ
+
+        - in words: 
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+    References:
+        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
