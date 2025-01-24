@@ -1,6 +1,7 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
         - Antonio Montalban. 2020. Math 125A Mathematical Logic
+            - current: 2. Logic. Strings: *
     - readings:
         - a concise introduction to mathematical logic. wolfgang rautenberg
             - current position: not started
