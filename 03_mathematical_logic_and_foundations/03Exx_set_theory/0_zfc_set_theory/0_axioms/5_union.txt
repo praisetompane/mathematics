@@ -1,0 +1,20 @@
+def axiom 5: union(Kunen, 2007:10-11):
+
+  - formal: ∃𝐴 ∀𝑌 ∀𝑥 (𝑥 ∈ 𝑌 ∧ 𝑌 ∈ 𝐹 ⟹ 𝑥 ∈ 𝐴)
+
+      - in words: ???
+
+  - plain english: ???
+
+  - intuition: ???
+
+  - properties: ???
+
+  - examples: ???
+
+  - use cases: ???
+      
+  - proof: ???
+
+References:
+  Kunen, K. 2007. The Foundations of Mathematics.
