@@ -12,8 +12,10 @@
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
         - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory:
-            - current: 
+            - current: 2. Set Theory. Basic concepts
     - readings:
+        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia. 
+            - Chapter 1: Sets
     - assignments:
     - exams:
 
