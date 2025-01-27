@@ -1,0 +1,20 @@
+def axiom 7: infinity(Kunen, 2007:10-11):
+
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+
+References:
+  Kunen, K. 2007. The Foundations of Mathematics.

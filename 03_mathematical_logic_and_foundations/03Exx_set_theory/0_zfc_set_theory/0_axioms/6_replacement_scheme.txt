@@ -1,0 +1,21 @@
+def axiom 6: replacement scheme(Kunen, 2007:10-11):
+
+  - formal: for each formula φ, without B free
+            ∀𝑥 ∈ 𝐴 ∃!𝑦 φ(𝑥,𝑦) ⟹ ??? 
+
+      - in words: ???
+
+  - plain english: ???
+
+  - intuition: ???
+
+  - properties: ???
+
+  - examples: ???
+
+  - use cases: ???
+      
+  - proof: ???
+
+References:
+  Kunen, K. 2007. The Foundations of Mathematics.
