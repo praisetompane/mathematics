@@ -73,6 +73,7 @@ definitional
 dfs
 distributivity
 dummyvariable
+extensionality
 extremum
 freevariable
 https

@@ -24,5 +24,6 @@ def set theory(Kunen, 2007:10-11):
     - proof: ???
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
+    Kunen, K. 2007. The Foundations of Mathematics(Montalban, 2020).
     Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory.
