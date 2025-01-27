@@ -12,16 +12,10 @@
 - 00_numbers:
     - lectures:
         - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory:
-            - current: 
+            - current: 2. Set Theory. Basic concepts
     - readings:
-        - Hinman, P.G. 2005. Fundamentals of Mathematical Logic.
-        - Kunen, K. 2007. The Foundations of Mathematics.
-        - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic. Calgary.
-            - https://github.com/OpenLogicProject/forallx
-        - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition.
-        - The Open Logic Project. 2016. Sets, Logic, Computation.
-        - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo.
-        - Jesse, A., Korbmacher, J. The Lambda Calculus, The Stanford Encyclopedia of Philosophy.
+        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia. 
+            - Chapter 1: Sets
     - assignments:
     - exams:
 

@@ -7,27 +7,41 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
 
         - in words:
             every element in A exists in B.
-            
-    - plain english: ???
+        
+        NB: Do not confuse with belongs(i.e. ∈)
+        
+    - plain english: 𝐴 is included in 𝐵 or 𝐴 is a subset of 𝐵.
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - transitivity does NOT apply.
+            - examples:
+                -   given:
+                        𝐴 = {2,3}
+                        𝐵 = {{2,3},5,6}
+                        𝐶 = {{{2,3},5,6},7,9}
+                    then:
+                        𝐴 ⊂ 𝐵 = True, because all the elements 𝐴(i.e. 2 and 3) are in 𝐵.
+                        𝐵 ⊂ 𝐶 = True, because the set 𝐵(i.e. {{2,3},5,6}) is an element of 𝐶.
+                        A ⊂ 𝐶 = False, because the set 𝐴(i.e. {2,3}) is not an element of 𝐶.
+                            NB: it is an element of the first element(i.e. set 𝐵) in 𝐶, but 
+                                    it is NOT in 𝐶 itself.
 
     - examples:
-        1. 
-            given:
+        -   given:
                 𝐴 = {2,3}
                 𝐵 = {2,3,5,6}
             then:
-                𝐴 ⊂ 𝐵 = 𝑇𝑟𝑢𝑒
+                𝐴 ⊂ 𝐵 = True
 
-        2. 
-            given:
+        -   given:
                 𝐴 = {1,2}
                 𝐵 = {3,2,4,5}
             then:
-                𝐴 ⊈ 𝐵  = True
+                𝐴 ⊂ 𝐵  = True
+                ∴ 𝐴 ⊄ 𝐵
+
                 
     - use cases: ???
         
