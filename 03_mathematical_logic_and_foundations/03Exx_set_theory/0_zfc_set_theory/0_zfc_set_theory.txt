@@ -1,0 +1,25 @@
+def Zermelo–Fraenkel set theory with the axiom of choice(Kunen, 2007:10-11):
+  - formal:
+    - axioms:
+        see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_axioms
+
+      Q: Does an object need to satisfy these axioms to be considered a set?
+
+  - plain english: list of axioms to axiomatize all of Mathematics.
+
+  - intuition: ???
+
+  - properties: ???
+
+  - examples: ???
+
+  - use cases: 
+      - foundational system for Mathematics(Montalban, 2020).
+      - mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
+      
+  - proof: none. they are axioms.
+
+References:
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory.

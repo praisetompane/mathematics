@@ -11,7 +11,8 @@
 
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
-        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory
+        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory:
+            - current: 
     - readings:
     - assignments:
     - exams:
