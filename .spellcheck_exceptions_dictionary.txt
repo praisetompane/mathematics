@@ -1,8 +1,14 @@
 # authors
+Aigner
+Dunham
 AndreaSchmidt
+Günter
+Hinman
+Munkres
 Asaf
 Aviv
 Bartosz
+Velleman
 Milewski
 Bernay
 Bren
@@ -152,6 +158,7 @@ worldscienceu
 wumbo
 zbmath
 zulipchat
+Springer
 
 
 # acronyms
@@ -345,7 +352,7 @@ abjorndahl
 mec
 xcae
 hrmacbeth
-
+phf
 
 # Mathematics Subject Classification – MSC2020
 Exx
