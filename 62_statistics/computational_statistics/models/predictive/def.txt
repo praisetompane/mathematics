@@ -1,1 +1,0 @@
-def predictive: answers the question; what will/might happen at a future point

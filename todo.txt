@@ -1,33 +1,37 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
-        - Antonio Montalban. 2020. Math 125A Mathematical Logic
+        - Montalban, A. 2020. Math 125A Mathematical Logic
     - readings:
-        - a concise introduction to mathematical logic. wolfgang rautenberg
-            - current position: not started
-        - the foundations of mathematics. kenneth kunen:
-            - current position: page 13, section 1.2: r1
+        - Hinman, P.G. 2005. Fundamentals of Mathematical Logic
+        - Kunen, K. 2007. The Foundations of Mathematics
+        - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic. Calgary
+        - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition
+        - The Open Logic Project. 2016. Sets, Logic, Computation
+        - Ben-David, S. 2015. University of Waterloo CS 245 Logic and Computation
     - assignments:
     - exams:
 
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
-        - Antonio Montalban. 2020. U.C. Berkeley Math 135 Intro to Set Theory:
-            - current: 
+        - Montalban, A. 2020. U.C. Berkeley Math 135 Intro to Set Theory
+            - current: 2. Set Theory. Basic concepts
     - readings:
+        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
+            - Chapter 1: Sets
     - assignments:
     - exams:
 
 - 15_linear_and_multilinear_algebra;matrix_theory:
     - lectures:
-        - Prof. Aviv Censor. 2015. Algebra 1M International Course no. 104016:
+        - Censor, A. 2015. Technion International School of Engineering Algebra 1M International Course No. 104016
             - current: Lecture 05 - Complex numbers: *
-        - Prof. Gilbert Strang. 2005. MIT 18.06 Linear Algebra:
+        - Strang, G. 2005. MIT 18.06 Linear Algebra:
             - current:
         - Strang, G. 2020. A 2020 Vision of Linear Algebra.
-        - extras:
-            - khanacademy: Linear algebra
-            - Edx: GTx: Explore the fundamentals of linear algebra
+        - Khan Academy. Linear algebra
+        - Edx: GTx: Explore the fundamentals of linear algebra
     - readings:
+        - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
     - recitations:
@@ -37,81 +41,84 @@
 - 26_real_functions:
     - lectures:
         - calculus:
-            - Prof. Aviv Censor. Technion Differential and Integral Calculus 1:
+            - Censor, A. 2013. Technion International School of Engineering Differential and integral Calculus 1 Course no. 104003
                 - current: Calculus - 01: *
-            - Prof. David Jerison. MIT 18.01 Single Variable Calculus, 2006:
+            - Jerison, D. 2006. MIT 18.01 Single Variable Calculus
                 - current: Lecture 01 ｜ MIT 18.01 Single Variable Calculus, Fall 2007 [7K1sB05pE0A]: *
-            - Richard Hammack. Hammack's Calculus I.
+            - Hammack, R. 2020. Hammack's Calculus I
                 - current: Hammack's Calculus I, Lecture 1
-        
+
             - https://www.khanacademy.org/math/calculus-1
             - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
 
-            - Prof. Aviv Censor. 2015. Technion Differential and Integral Calculus 2:
+            - Censor, A. 2015. Technion International School of Engineering Differential and integral Calculus 2 Course no. 104004:
                 - current: None
+                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
         - analysis:
-            - Dr. Casey Rodriguez. 2020. MIT 18.100A Real Analysis
+            - Casey Rodriguez. 2020. MIT 18.100A Real Analysis
+            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg.pdf
     - readings:
         - https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-        - what is mathematics?. richard courant.pdf : chapter vi, viii
-        - differential and integral calculus.richard courant
+        - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+            - chapter vi, viii
     - recitations:
     - assignments:
     - exams:
 
 ============================================================================================================
 next₁:
-    - 00_numbers:
+    - 00_general_and_overarching_topics;collections:
         - lectures:
-            - Prof. N J Wildberger. Insights into Mathematics. Math Foundations
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations
                 - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
                 - basics:
-                    from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger 
-                    to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger 
+                    from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger
+                    to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger
                 - others:
-                    66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger 
-                    81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81 
-                    82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82 
-                    89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger 
-                    93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger 
-                    104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104 
-                    210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210 
-                    211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211 
+                    66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger
+                    81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81
+                    82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82
+                    89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger
+                    93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger
+                    104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104
+                    210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210
+                    211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211
                 - more on real number:
-                    from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111 
-                    to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger 
+                    from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111
+                    to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger
                 - more on natural numbers:
-                    from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155 
-                    to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157 
-                
+                    from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155
+                    to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157
+
         - readings:
-            - kent fundamentals of mathematics i
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
                 - current position: pg. 22: example 3
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
+                - current position: not started
             - https://www.khanacademy.org/math/k-8-grades
                 - current position: 3rd grade
-            - kent fundamentals of mathematics ii
-                - current position: not started
-            - kent fundamentals of mathematics iii
-                - current position: not started
-            - kent fundamentals of mathematics iv
-                - current position: not started
         - recitations:
         - assignments:
         - exams:
-    
+
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - lectures:
 
         - readings:
-            - Prof. Richard Hammack. Book of Proof. 
-                - current: Preface to the Third Edition
-            - Heather Macbeth. The Mechanics of Proof. Math 2001. Fordham University. https://hrmacbeth.github.io/math2001/
-            - Mary Radcliﬀe. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - forallx.The Open Logic Project. P. D. Magnus. Tim Button.Robert Trueman.Richard Zach
-            - Sets, Logic, Computation. The Open Logic Project
+            - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia   
+            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
+            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+            - Velleman, D.J. 2019. How to Prove It A Structured Approach
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
         - assignments:
         - exams:
-        
+
     - 12_field_theory_and_polynomials:
         - lectures:
         - readings:
@@ -153,18 +160,19 @@ next₂:
             - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
         - exams:
-        
+
     - 54_general_topology
         - lectures:
         - readings:
+            - Munkres, J.R. 2000. Topology. 2nd Edition
         - recitations:
         - assignments:
         - exams:
 ============================================================================================================
 next₃:
-    - 01_History_and_biography 
+    - 01_History_and_biography
         - lectures:
-            - Prof. N J Wildberger. Insights into Mathematics MathHistory: A course in the History of Mathematics:
+            - Wildberger, N.J. 2012. Insights into Mathematics Math History
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
         - readings:
             - what is mathematics?. richard courant.pdf
