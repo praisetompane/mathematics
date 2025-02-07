@@ -77,7 +77,7 @@
 - [Terry Tao](https://terrytao.wordpress.com/)
 - [Asaf Karagila](https://karagila.org)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
-
+- [MΣΣT a Mathematician](https://www.youtube.com/playlist?list=PLhIglcapeTlGFYhSj3VnUc4sdwNUm9wDW)
 
 ## Spellcheck:
 ```shell

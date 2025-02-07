@@ -83,6 +83,7 @@ extensionality
 extremum
 freevariable
 https
+homological
 lhs
 lieson
 lim
@@ -99,6 +100,7 @@ representable
 rhs
 trinomial
 sentential
+
 
 # technology
 ary
@@ -133,6 +135,7 @@ momath
 numberphile
 ocw
 OpenCourseWare
+OpenLogicProject
 oeis
 quora
 realpython
@@ -196,6 +199,13 @@ mec
 xcae
 hrmacbeth
 phf
+ctfp
+hmemcpy
+PLhIglcapeTlGFYhSj
+VnUc
+sdwNUm
+wDW
+
 
 # Mathematics Subject Classification – MSC2020
 Exx
