@@ -28,6 +28,14 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
                             NB: it is an element of the first element(i.e. set 𝐵) in 𝐶, but 
                                     it is NOT in 𝐶 itself.
 
+        - ∅ is a subset of every set:
+            NB: It does NOT belong(i.e. ∈ ) to every set though.
+
+            - intuition: it is trivially/vacuously true, because ∅ has no elements and you can't pick any to check
+                            their existence in the other set.
+                                         
+            - proof: ???
+
     - examples:
         -   given:
                 𝐴 = {2,3}
