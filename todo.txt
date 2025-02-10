@@ -17,10 +17,10 @@
         - Montalban, A. 2020. U.C. Berkeley Math 135 Intro to Set Theory
             - current: 2. Set Theory. Basic concepts
     - readings:
-        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
-            - Chapter 1: Sets
         - The Open Logic Project. 2021. Set Theory An Open Introduction
             - https://github.com/OpenLogicProject/set-theory
+        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
+            - Chapter 1: Sets
 
     - assignments:
     - exams:
