@@ -5,7 +5,7 @@ def axiom 1: extensionality(Kunen, 2007:10-11):
         in words: ???
 
     - plain english:
-        two sets are equal if they have the same elements regardless of their order and repetition.
+        two sets are equal if they have the same elements regardless of their order and repetition(Montalban, 2020).
     
     - intuition: ???
 
@@ -25,4 +25,5 @@ def axiom 1: extensionality(Kunen, 2007:10-11):
     - proof: none. it is an axiom.
 
 References:
-  Kunen, K. 2007. The Foundations of Mathematics.
+    Kunen, K. 2007. The Foundations of Mathematics.
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. Set Theory. Basic concepts.

@@ -1,0 +1,28 @@
+def powerset(Montalban, 2020):
+    - formal:
+        let:
+            𝐴 be a set.
+        then:
+            𝑃(𝐴) = { 𝑥 : 𝑥 ∈ 𝐴 }
+
+        - in words: the powerset of 𝐴 is set of all subsets(𝑥) of 𝐴.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+
+    - examples:
+        - 
+            given:
+                𝐴 = { 2, 3 }
+            then:
+                𝑃(𝐴) = { {2}, {3}, {2, 3}, ∅ }
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References:
+    Montalban, A. 2020. Math 135 -- Intro to Set Theory. Set Theory. Basic concepts.
