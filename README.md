@@ -82,6 +82,9 @@
 ## Spellcheck:
 ```shell
 pipenv shell
+```
+
+```shell
 pyspelling -c spellcheck.yaml
 ```
 
