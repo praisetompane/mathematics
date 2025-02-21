@@ -7,4 +7,4 @@ RUN apt-get update \
 
 COPY . .
 
-RUN pipenv sync
+RUN pipenv install --system
