@@ -5,9 +5,9 @@ def string(Montalban, 2020):
         then:
             ⟨𝑎₁, a₂, ..., aₙ⟩ : 𝑎 ∈ 𝐴
 
-        - in words: a tuple of element from 𝐴.
+        - in words: an n-tuple of elements from 𝐴.
 
-    - plain english: a tuple/list of elements from 𝐴.
+    - plain english: a n-tuple/list of elements from 𝐴.
 
     - intuition: ???
 
