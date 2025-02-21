@@ -79,7 +79,7 @@
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 
 
-## Spellcheck:
+## Spell Check:
 ```shell
 pipenv shell
 ```
