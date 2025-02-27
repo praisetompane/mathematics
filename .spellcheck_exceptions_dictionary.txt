@@ -103,7 +103,9 @@ sentential
 
 
 # technology
+visualstudio
 ary
+devcontainers
 forall
 forallx
 im
@@ -190,7 +192,7 @@ za
 
 # places
 Jozi
-
+README
 
 # urls
 alg
@@ -210,3 +212,12 @@ wDW
 # Mathematics Subject Classification – MSC2020
 Exx
 Fxx
+Axx
+Bxx
+Cxx
+Dxx
+Nxx
+Qxx
+Rxx
+Uxx
+dev
