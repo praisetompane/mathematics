@@ -118,8 +118,10 @@ trinomial
 sentential
 
 
-numpy
-sqrt
+# technology
+visualstudio
+ary
+devcontainers
 forall
 Im
 notational
@@ -344,7 +346,7 @@ zF
 
 # places
 Jozi
-
+README
 
 # urls
 alg
@@ -357,3 +359,12 @@ phf
 # Mathematics Subject Classification – MSC2020
 Exx
 Fxx
+Axx
+Bxx
+Cxx
+Dxx
+Nxx
+Qxx
+Rxx
+Uxx
+dev
