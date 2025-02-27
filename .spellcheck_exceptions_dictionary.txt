@@ -103,7 +103,9 @@ sentential
 
 
 # technology
+visualstudio
 ary
+devcontainers
 forall
 forallx
 im
@@ -151,6 +153,7 @@ Springer
 # acronyms
 bce
 NGB
+MYINC
 bsc
 doctrate
 ebooks
@@ -190,7 +193,7 @@ za
 
 # places
 Jozi
-
+README
 
 # urls
 alg
@@ -205,8 +208,18 @@ PLhIglcapeTlGFYhSj
 VnUc
 sdwNUm
 wDW
+dev
 
 
 # Mathematics Subject Classification – MSC2020
 Exx
 Fxx
+Axx
+Bxx
+Cxx
+Dxx
+Nxx
+Qxx
+Rxx
+Uxx
+dev
