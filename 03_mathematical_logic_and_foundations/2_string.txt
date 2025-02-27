@@ -3,11 +3,11 @@ def string(Montalban, 2020):
         let:
             𝐴 be a set.
         then:
-            ⟨𝑎₁, a₂, ..., aₙ⟩ : 𝑎 ∈ 𝐴
+            ⟨𝑎₁, a₂, ..., aₙ⟩ : 𝑎ᵢ ∈ 𝐴
 
-        - in words: an n-tuple of elements from 𝐴.
+        - in words: an 𝑛-tuple of elements from 𝐴.
 
-    - plain english: a n-tuple/list of elements from 𝐴.
+    - plain english: a finite list of elements from 𝐴.
 
     - intuition: ???
 
@@ -21,6 +21,7 @@ def string(Montalban, 2020):
             ⟨a⟩ is a string of one element.
             ⟨a,a⟩ is a string of two elements.  
             ⟨a,b⟩ is a string of two elements.  
+            ⟨a,b,a⟩ is a string of three elements.  
 
     - use cases: ???
         
@@ -34,11 +35,11 @@ def all strings of length 𝑛 of a set(Montalban, 2020):
         let:
             𝐴 be a set.
         then:
-            𝐴ⁿ = { ⟨a₁, a₂, ..., aₙ⟩ : a ∈ 𝐴 } is a set of 𝑛-tuple elements from 𝐴.
+            𝐴ⁿ = { ⟨a₁, a₂, ..., aₙ⟩ : aᵢ ∈ 𝐴 }
 
-        - in words: 𝐴ⁿ is a set of all strings of length 𝑛, using elements from 𝐴.
+        - in words: 𝐴ⁿ is the set of 𝑛-tuple of elements from 𝐴.
 
-    - plain english:
+    - plain english: 𝐴ⁿ is a set of all strings of length 𝑛, using elements from 𝐴.
 
     - intuition: ???
 
@@ -67,7 +68,7 @@ def all strings of a set(Montalban, 2020):
         let:
             𝐴 be a set.
         then:
-            𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ, is the set of strings of elements from 𝐴
+            𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ, is the set of all strings using elements from 𝐴.
 
         - in words: 
 
