@@ -7,7 +7,7 @@ def string(Montalban, 2020):
 
         - in words: an 𝑛-tuple of elements from 𝐴.
 
-    - plain english: a finite list of elements from 𝐴.
+    - plain english: an ordered and finite list of elements from 𝐴.
 
     - intuition: ???
 
