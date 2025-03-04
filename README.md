@@ -92,10 +92,6 @@
 
 ## Spell Check
 ```shell
-pipenv shell
-```
-
-```shell
 pyspelling -c spellcheck.yaml
 ```
 

@@ -7,4 +7,7 @@ RUN apt-get update \
 
 COPY . .
 
-RUN pipenv install --system
+RUN pipenv sync --system -d
+
+RUN adduser -u 5678 --disabled-password --gecos "" mathematics && chown -R mathematics /mathematics
+USER mathematics
