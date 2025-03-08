@@ -117,6 +117,7 @@ py
 sqrt
 pipenv
 pyspelling
+OpenBLAS
 
 
 # institutions
@@ -148,6 +149,7 @@ wumbo
 zbmath
 zulipchat
 Springer
+OpenMathLib
 
 
 # acronyms
