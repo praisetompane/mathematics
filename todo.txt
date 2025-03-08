@@ -38,6 +38,7 @@
         - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
         - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+        - https://github.com/OpenMathLib/OpenBLAS
     - recitations:
     - assignments:
     - exams:
@@ -115,8 +116,8 @@ next₁:
         - lectures:
 
         - readings:
-            - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia  
-                - https://github.com/RichardHammack/RichardHammack.github.io 
+            - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
+                - https://github.com/RichardHammack/RichardHammack.github.io
             - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
             - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
             - Velleman, D.J. 2019. How to Prove It A Structured Approach
