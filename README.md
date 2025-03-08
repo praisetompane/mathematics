@@ -4,8 +4,7 @@
 ## Objectives
 - An attempt at unpacking in layman's terms what mathematics is and how it is created.
 
-## Definitions:
-
+## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
 
 - def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
