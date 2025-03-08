@@ -1,4 +1,4 @@
-def test_subtract_complex_numers():
+def test_subtract_complex_numbers():
     w = 1 + 2j
     z = 3 - 5j
 
