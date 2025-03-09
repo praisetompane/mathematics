@@ -1,5 +1,5 @@
 """
-    computes and prints basic addition facts upto 10
+computes and prints basic addition facts up to 10
 """
 
 
