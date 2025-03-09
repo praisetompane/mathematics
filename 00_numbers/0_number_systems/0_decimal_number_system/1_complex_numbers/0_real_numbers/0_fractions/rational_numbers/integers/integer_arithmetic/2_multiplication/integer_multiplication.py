@@ -11,10 +11,3 @@ def multiply(factor_1, factor_2):
     for _ in range(int(abs(factor_1))):  # Repeated addition, ignoring signs
         result += abs(factor_2)
     return result_sign(result)
-
-
-print(multiply(+1, +2))  # 2
-print(multiply(-1, +2))  # -2
-print(multiply(-1, -2))  # 2
-print(multiply(-2, -2))  # 4
-print(multiply(-7, -20))  # 140
