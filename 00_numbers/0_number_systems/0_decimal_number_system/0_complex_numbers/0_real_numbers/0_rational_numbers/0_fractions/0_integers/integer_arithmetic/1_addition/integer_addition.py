@@ -51,6 +51,3 @@ def add_integers(number_1: int, number_2: int) -> int:
         )
         # gather the 2 sets of ones into one set, count how many ones you have
         # convert the sign of the ones to the type(negative or positive) of the ones which had a higher count.
-
-
-print(add_integers(1, -90))

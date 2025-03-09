@@ -89,6 +89,12 @@
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 
 
+## Testing
+- ### Execute Tests
+    ```shell
+    pytest
+    ```
+
 ## Spell Check
 ```shell
 pyspelling -c spellcheck.yaml
