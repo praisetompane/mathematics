@@ -1,27 +1,42 @@
-def multiplication:
+def multiplication(Censor, 2015).:
     - formal:
-        (𝑎+𝑏𝑖)(𝑐+𝑑𝑖)
-        𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖𝑖
-        𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖²
-        𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + (𝑏𝑑 * -1)
-        𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + (-𝑏𝑑)
-        𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 - 𝑏𝑑
+        given:
+          (𝑎 + 𝑏𝑖) × (𝑐 + 𝑑𝑖)
+        then, the product is:
+          𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖𝑖
+          𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + 𝑏𝑑𝑖²
+          𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + (𝑏𝑑 * -1)
+          𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 + (-𝑏𝑑)
+          𝑎𝑐 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖 - 𝑏𝑑
 
-        grouped like terms
-        𝑎𝑐 - 𝑏𝑑 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖
-        
-        algebraic simplification
-        𝑎𝑐 - 𝑏𝑑 + (𝑎𝑑+ 𝑏𝑐)𝑖: 
+          grouped like terms
+          𝑎𝑐 - 𝑏𝑑 + 𝑎𝑑𝑖 + 𝑏𝑐𝑖
+      
+          algebraic simplification
+          𝑎𝑐 - 𝑏𝑑 + (𝑎𝑑+ 𝑏𝑐)𝑖
         
         - in words: ???
         
-    - plain english: multiply the two complex numbers as algebraic expressions (Censor, 2015).
+    - plain english: multiply the two complex numbers as algebraic expressions.
 
     - intuition: ???
 
     - properties: ???
 
-    - examples: ???
+    - examples: 
+        1. 
+          given:
+            (1 + 2𝑖) × (3 - 5𝑖)
+          then, the product is:
+            1×3 + (1×(-5𝑖)) + 2𝑖×3 + (2𝑖×(-5𝑖))
+            1×3 - 1×5𝑖 + 2𝑖×3 - 10𝑖²
+            1×3 - 1×5𝑖 + 2𝑖×3 - 10×(-1)
+            1×3 - 1×5𝑖 + 2𝑖×3 + 10
+            3 - 1×5𝑖 + 2𝑖×3 + 10
+            3 + 10 - 1×5𝑖 + 2𝑖×3
+            13 - 1×5𝑖 + 2𝑖×3
+            13 - 5𝑖 + 6𝑖
+            13 + 1𝑖
 
     - use cases: ???
         

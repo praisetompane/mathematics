@@ -34,29 +34,35 @@ def complex number(Censor, 2015):
                 𝑧 = 1 + 2𝑖
             - then:
                 - parts:
-                    Re(𝑧) = 1 : Real Part
-                    Im(𝑧) = 2 : Imaginary Part
+                  Re(𝑧) = 1 : Real Part
+                  Im(𝑧) = 2 : Imaginary Part
     
     - examples:
         - 1 + 7𝑖
-        - example expression:
-            2 + 3𝑖² + 7𝑖
-            2 + 3(-1) + 7𝑖
-            2 - 3 + 7𝑖
-            -1 + 7𝑖
-            7𝑖 - 1
+        2 + 3𝑖² + 7𝑖
+        2 + 3(-1) + 7𝑖
+        2 - 3 + 7𝑖
+        -1 + 7𝑖
+        7𝑖 - 1
 
     - use cases:
         - solution to equations:
             - examples:
-                - 𝑥² + 1 = 0:
-                    let:
-                        𝑥 = 𝑖
-                    then:
-                        𝑖² + 1 = 0
-                        -1 + 1 = 0
-                        0 = 0
-                        ∴ 𝑥 = 𝑖 is a solution to the equation.
+                1.
+                  given:
+                      𝑥² + 1 = 0:
+                  then:
+                      let 𝑥 = 𝑖
+                      𝑖² + 1 = 0
+                      √-1 × √-1 + 1 = 0
+                      -1¹/² * -1^½ + 1 = 0
+                      -1¹/²⁺¹/² + 1 = 0
+                      -1²/² + 1  = 0
+                      -1¹/¹ + 1 = 0
+                      -1¹ + 1 = 0
+                      -1 + 1 - 0
+                      0 = 0
+                      ∴ 𝑥 = 𝑖 is a solution to the equation.
 
 def complex number set(Censor, 2015):
     - formal: ℂ = { 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ }
@@ -82,4 +88,5 @@ def complex number set(Censor, 2015):
     - proof: ???
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
+  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
+  Garcia, P. https://www.quora.com/Why-is-the-square-root-of-1-multiplied-with-the-square-root-of-1-equal-to-1
