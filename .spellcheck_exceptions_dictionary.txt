@@ -100,7 +100,7 @@ representable
 rhs
 trinomial
 sentential
-
+powerset
 
 # technology
 ary
