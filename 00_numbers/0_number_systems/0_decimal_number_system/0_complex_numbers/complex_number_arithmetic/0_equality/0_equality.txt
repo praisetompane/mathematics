@@ -1,0 +1,25 @@
+def equality:
+    - formal:
+      given:
+        𝑧 = (𝑎 + 𝑏𝑖)
+        𝑤 = (𝑐 + 𝑑𝑖)
+      then, equality is:
+        𝑧 = 𝑤, if Re(𝑧) = Re(𝑤) AND Im(𝑧) = Re(𝑤)
+
+      - in words: 𝑧 equals 𝑤, if the Real part of 𝑧 equals the Real part of 𝑤, and,
+                              the Imaginary part of 𝑧 equals the Imaginary part pf 𝑤.
+
+    - plain english: the like terms of 𝑧 and 𝑤 are equal.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: ???
+    
+References:
+  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
