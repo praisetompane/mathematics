@@ -116,7 +116,7 @@ representable
 rhs
 trinomial
 sentential
-
+powerset
 
 # technology
 visualstudio
