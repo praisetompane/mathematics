@@ -22,28 +22,20 @@ def sextuple_the_previous(n: npt.NDArray):
     return 6**n
 
 
-def exponential(base: int, iterations) -> npt.NDArray:
-    """
+def exponential(base: int, iterations: npt.NDArray) -> npt.NDArray:
+    """Explore exponential growth with variations in base.
+
     Args:
-        iterations(nparray): the number of the current growth cycle.
-        base(int): how much you want to multiple(grow) by per iteration.
+        base (int): The number of the current growth cycle.
+        iterations (npt.NDArray): How much you want to multiple(grow) by per iteration.
+
     Returns:
-        nparray: growth results at each iteration
+        npt.NDArray: growth results at each iteration
     """
     return base**iterations
 
 
 numbers = np.arange(1, 6)
-
 print(numbers)
-print(double_the_previous(numbers))
-print(triple_the_previous(numbers))
-print(quadruple_the_previous(numbers))
-print(quintuple_the_previous(numbers))
-print(sextuple_the_previous(numbers))
-
-print(exponential(2, numbers))
-print(exponential(3, numbers))
-print(exponential(4, numbers))
-print(exponential(5, numbers))
-print(exponential(6, numbers))
+for base in range(10):
+    print(exponential(base, numbers))

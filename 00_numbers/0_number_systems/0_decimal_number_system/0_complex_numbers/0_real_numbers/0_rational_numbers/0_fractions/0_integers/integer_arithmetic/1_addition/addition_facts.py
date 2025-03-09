@@ -1,9 +1,7 @@
-"""
-computes and prints basic addition facts up to 10
-"""
-
-
 def facts():
+    """
+    computes and prints basic addition facts up to 10
+    """
     total_numbers = 11
     print("identity sum")
     for i in range(total_numbers):
