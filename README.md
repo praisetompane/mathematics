@@ -89,6 +89,12 @@
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 - [MΣΣT a Mathematician](https://www.youtube.com/playlist?list=PLhIglcapeTlGFYhSj3VnUc4sdwNUm9wDW)
 
+## Testing
+- ### Execute Tests
+    ```shell
+    pytest
+    ```
+
 ## Spell Check
 ```shell
 pyspelling -c spellcheck.yaml

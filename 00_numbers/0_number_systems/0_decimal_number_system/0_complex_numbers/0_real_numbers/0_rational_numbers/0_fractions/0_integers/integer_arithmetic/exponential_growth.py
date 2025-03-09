@@ -35,7 +35,7 @@ def exponential(base: int, iterations: npt.NDArray) -> npt.NDArray:
     return base**iterations
 
 
-numbers = np.arange(1, 6)
-print(numbers)
+powers = np.arange(1, 9)
+print(f"base numbers {powers}")
 for base in range(10):
-    print(exponential(base, numbers))
+    print(exponential(base, powers))

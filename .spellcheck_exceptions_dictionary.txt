@@ -118,6 +118,7 @@ sqrt
 pipenv
 pyspelling
 OpenBLAS
+pytest
 
 
 # institutions
