@@ -24,7 +24,19 @@ def _largest_number_sign(number_1, number_2):
             return 1
 
 
-def add_integers(number_1, number_2):
+def add_integers(number_1: int, number_2: int) -> int:
+    """
+    An implementation of the General Integer Addition algorithm.
+        see for specification: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/integer_arithmetic/1_addition/0_addition.txt
+
+    Args:
+        number_1(int): The first number.
+        number_2(int): The first number.
+
+    Returns:
+        int: The sum of the tow numbers.
+    """
+
     if number_1 == 0:
         return number_2
     elif number_2 == 0:
