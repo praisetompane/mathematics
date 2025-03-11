@@ -6,4 +6,4 @@ Write each of the following sets by listing their elements between braces(Hammac
         {...-7,-4,-1,2,5,8,11...}
 
 References:
-    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

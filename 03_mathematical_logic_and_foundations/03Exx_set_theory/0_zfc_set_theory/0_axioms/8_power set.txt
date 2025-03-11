@@ -17,4 +17,4 @@ def axiom 8: power set(Kunen, 2007:10-11):
     - proof: ???
 
 References:
-  Kunen, K. 2007. The Foundations of Mathematics.
+  - Kunen, K. 2007. The Foundations of Mathematics.

@@ -1,5 +1,6 @@
 # authors
 Aigner
+Alama
 Dunham
 AndreaSchmidt
 Günter
@@ -72,14 +73,10 @@ Dijk
 Leighton
 Fraenkel
 ZFC
-Zermelo
-René
-Stover
-praisetompane
-quantamagazine
-richardhammack
-njwildberger
-
+Rautenberg
+Zach
+Korbmacher
+Nodelman
 
 
 # concepts

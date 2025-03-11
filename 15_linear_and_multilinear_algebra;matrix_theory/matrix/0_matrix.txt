@@ -134,5 +134,5 @@ def matrix²(Censor, 2015):
     - proof: ???
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 11 - Matrices. Technion - International School Of Engineering.
-    Strang, G. 2020. Part 1: The Column Space of a Matrix. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/the-column-space-of-a-matrix/
+    - Censor, A. 2015. 11 - Matrices, Algebra 1M - international. Technion - International School Of Engineering.
+    - Strang, G. 2020. Part 1: The Column Space of a Matrix. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/the-column-space-of-a-matrix/

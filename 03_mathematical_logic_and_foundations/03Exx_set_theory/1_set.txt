@@ -135,4 +135,4 @@ def set(Hammack, 2018:3):
     - proof: ???
 
 References:
-    Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.

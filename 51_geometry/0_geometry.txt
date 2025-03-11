@@ -34,5 +34,5 @@ def Cartesian: anything that derives from René Descartes' conception of Geometr
                         AND spacial case of curvilinear coordinates⁵ 
 
 References:
-    Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.
-    Stover, Christopher and Weisstein, Eric W. "Cartesian Coordinates." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/CartesianCoordinates.html
+    - Frenkel, E. 2014. The Continents of Mathematics, Mathematics, The Language of Nature. World Science Festival. New York City.
+    - Stover, Christopher and Weisstein, Eric W. "Cartesian Coordinates." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/CartesianCoordinates.html

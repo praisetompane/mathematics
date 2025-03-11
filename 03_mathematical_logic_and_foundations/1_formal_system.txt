@@ -75,4 +75,4 @@ def formal system(Montalban, 2020):
     - proof: ???
 
 References:
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory. https://www.youtube.com/playlist?list=PLjJhPCaCziSQyON7NLc8Ac8ibdm6_iDQf
+    - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 135 - Intro to Set Theory. U.C. Berkeley.

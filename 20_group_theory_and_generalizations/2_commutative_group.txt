@@ -24,4 +24,4 @@ def commutative or Abelian group:
     - proof: ???
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 02 - Sets of numbers. Technion - International School Of Engineering.
+    - Censor, A. 2015. 02 - Sets of numbers, Algebra 1M - international. Technion - International School Of Engineering.

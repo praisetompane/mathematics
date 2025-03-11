@@ -91,5 +91,5 @@ def decimal number system:
 Question: Why do numbers after the decimal point, start with tenth and not ones?:
 
 References:
-    Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.
-    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

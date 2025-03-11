@@ -126,4 +126,4 @@ Q: These examples are concrete examples, are there proofs for all
     e.g. is there a proof that, ∀a∈ℚ with respect to + is a Group?
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 02 - Sets of numbers. Technion - International School Of Engineering.
+    - Censor, A. 2015. 02 - Sets of numbers, Algebra 1M - international. Technion - International School Of Engineering.

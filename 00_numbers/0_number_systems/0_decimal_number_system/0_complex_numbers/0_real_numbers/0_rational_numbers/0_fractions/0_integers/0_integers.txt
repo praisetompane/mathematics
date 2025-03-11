@@ -46,4 +46,4 @@ def integers set(Kent State Department of Mathematical Sciences, 2008:2):
 Question: Why isn't there a -0(i.e. negative zero)?
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

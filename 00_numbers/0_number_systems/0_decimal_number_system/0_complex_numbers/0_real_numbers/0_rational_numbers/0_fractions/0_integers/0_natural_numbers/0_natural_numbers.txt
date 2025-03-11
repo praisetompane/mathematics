@@ -128,6 +128,7 @@ def natural numbers set¹(Wildberger, 2009):
     - use cases: ???
 
 References:
+<<<<<<< HEAD
 <<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_def.txt
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
     Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
@@ -135,3 +136,7 @@ References:
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
     Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS.
 >>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/0_natural_numbers.txt
+=======
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. ​
+>>>>>>> d723267 (docs: consistent citation notation)

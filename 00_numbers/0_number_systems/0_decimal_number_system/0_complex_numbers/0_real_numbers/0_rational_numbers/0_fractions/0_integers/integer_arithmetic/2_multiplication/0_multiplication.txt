@@ -135,6 +135,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
     - proof: ???
 
 References:
+<<<<<<< HEAD
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
     Khan Academy. Introduction to multiplication. https://www.khanacademy.org/math/cc-third-grade-math/intro-to-multiplication/imp-multiplication-intro/v/introduction-to-multiplication
     Khan Academy. Distributive property when multiplying. https://www.khanacademy.org/math/cc-third-grade-math/3rd-basic-multiplication/distributive-property/v/using-the-distributive-property-when-multiplying?modal=1
@@ -146,3 +147,9 @@ References:
 
 >>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/2_multiplication/0_multiplication.txt
     
+=======
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
+    - Khan Academy. 3RD GRADE: UNIT 1, Introduction to multiplication. 
+    - Khan Academy. 3RD GRADE: UNIT 2, Distributive property when multiplying. 
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations.
+>>>>>>> d723267 (docs: consistent citation notation)

@@ -23,4 +23,4 @@ def abstraction(Censor, 2015):
     - proof: ???
 
 References:
-    Censor, A. 2015. Algebra 1M. Technion - International School Of Engineering.
+    - Censor, A. 2015. Algebra 1M. Technion - International School Of Engineering.

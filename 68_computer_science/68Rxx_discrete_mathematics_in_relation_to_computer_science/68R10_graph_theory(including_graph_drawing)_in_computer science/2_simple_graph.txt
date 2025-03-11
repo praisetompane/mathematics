@@ -42,4 +42,4 @@ def max_edges:
     - proof: ???
 
 References:
-    Leighton T, van Dijk, M. 2010. MIT 6.042J Mathematics For Computer Science. Lecture 6: Graph Theory and Coloring. Massachusetts Institute of Technology.
+    - Leighton T, van Dijk, M. 2010. Lecture 6: Graph Theory and Coloring, MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.

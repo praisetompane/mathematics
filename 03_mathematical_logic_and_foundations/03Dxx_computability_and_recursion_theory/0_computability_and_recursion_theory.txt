@@ -23,4 +23,4 @@ def computability(recursion) theory (Kunen, 2007:9):
         undecidable:
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics.

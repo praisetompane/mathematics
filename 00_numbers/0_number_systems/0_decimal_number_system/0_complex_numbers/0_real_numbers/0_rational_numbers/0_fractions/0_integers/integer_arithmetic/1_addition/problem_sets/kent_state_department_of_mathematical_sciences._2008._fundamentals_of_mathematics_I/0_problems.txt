@@ -227,4 +227,4 @@ carries        1  1
             |−3 + (−2) | ≥ |3 + 2|
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

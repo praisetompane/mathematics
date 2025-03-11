@@ -44,5 +44,5 @@ def symmetry(Frenkel):
         - square: 90°, 180°, 270°, 360° rotations.
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 01 - Introduction. Technion - International School Of Engineering.
-    Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.
+    - Censor, A. 2015. 01 - Introduction, Algebra 1M - international. Technion - International School Of Engineering.
+    - Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.

@@ -25,4 +25,4 @@ def powerset(Montalban, 2020):
     - proof: ???
     
 References:
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory. Set Theory. Basic concepts.
+    - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.

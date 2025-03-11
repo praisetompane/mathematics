@@ -58,9 +58,14 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
         - division and subtraction
         
 References:
+<<<<<<< HEAD
     Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
 <<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/3_distributivity/0_def.txt
     Wildberger, N.J. 2009. Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger.
 =======
     Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS.
 >>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/3_distributivity/0_distributivity.txt
+=======
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations.
+>>>>>>> d723267 (docs: consistent citation notation)

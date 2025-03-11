@@ -45,4 +45,4 @@ def modular arithmetic:
                     Therefore: 17 and 5 are equivalent in modulus 12(short mod 12) context
 
 References:
-    Real Python. Python Modulo in Practice: How to Use the % Operator. https://realpython.com/python-modulo-operator/#modulo-in-mathematics
+    - Real Python. Python Modulo in Practice: How to Use the % Operator. https://realpython.com/python-modulo-operator/#modulo-in-mathematics

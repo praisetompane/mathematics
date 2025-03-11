@@ -37,4 +37,4 @@ def implication: an implication p ⟹ q is true,
         ∀ₙ ∈ Z, n >= 2 ⟺ n² >= 4
 
 References:
-    Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
+    - Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/

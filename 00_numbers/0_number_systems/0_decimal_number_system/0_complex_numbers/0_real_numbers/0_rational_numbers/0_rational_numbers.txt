@@ -52,4 +52,4 @@ Q: Is there a formal proof for these?
     - all natural numbers are Rational numbers(Kent State Department of Mathematical Sciences, 2008:3).
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

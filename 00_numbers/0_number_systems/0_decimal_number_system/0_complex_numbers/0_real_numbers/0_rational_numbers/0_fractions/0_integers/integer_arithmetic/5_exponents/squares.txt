@@ -17,6 +17,7 @@ Example:
 
 References:
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 General References: 
     Eric Buffington. Squares and Square Roots (Simplifying Math). https://www.youtube.com/watch?v=sWmW2Is-R2w
@@ -24,3 +25,7 @@ General References:
     Buffington E. Squares and Square Roots (Simplifying Math).
     
 >>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.)
+=======
+    - Buffington E. Squares and Square Roots (Simplifying Math). Pearson.
+    
+>>>>>>> d723267 (docs: consistent citation notation)

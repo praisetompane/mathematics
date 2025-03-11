@@ -17,4 +17,4 @@ def hexadecimal numbers(Khan Academy):
     - proof: ???
     
 References:
-    Khan Academy. Hexadecimal number system. https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system.
+    - Khan Academy. Algebra. Hexadecimal number system.

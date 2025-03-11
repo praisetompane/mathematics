@@ -40,6 +40,7 @@ Qs:
 
 
 References:
+<<<<<<< HEAD
 <<<<<<< HEAD:00_numbers/0_def.txt
     Wildberger, N.J. 2009. Math Foundations. What is a number? | Arithmetic and Geometry Math Foundations 1.  https://www.youtube.com/watch?v=91c5Ti6Ddio&list=PL5A714C94D40392AB&index=1
     Hamkins, JD. 2020. What is a number?. https://youtu.be/uo1xDbsYAcU
@@ -49,3 +50,8 @@ References:
     Hamkins, J.D. 2020. What is a number?. 
     Karagila, A. 2022. What is a Number? - Numberphile. 
 >>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number.txt
+=======
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations.
+    - Hamkins, J.D. 2020. What is a number?. 
+    - Karagila, A. 2022. What is a Number? - Numberphile. 
+>>>>>>> d723267 (docs: consistent citation notation)
