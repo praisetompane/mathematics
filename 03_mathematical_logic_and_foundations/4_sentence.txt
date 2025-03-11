@@ -24,4 +24,4 @@ def sentence(Kunen, 2007:4):
     - proof: ???
     
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics.

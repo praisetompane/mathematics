@@ -33,4 +33,4 @@ def subtraction(Censor, 2015):
     - proof: ???
     
 References:
-    Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering
+  - Censor, A. 2015. 05 - Complex numbers, Algebra 1M - international. Technion - International School Of Engineering

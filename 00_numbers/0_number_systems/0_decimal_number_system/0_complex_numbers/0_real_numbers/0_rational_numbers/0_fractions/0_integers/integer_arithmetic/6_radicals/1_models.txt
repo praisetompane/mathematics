@@ -15,4 +15,4 @@ half exponent⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾:
             square root(aᵐ) = aᵐ/² 
 
 References:
-    Khan Academy. ALGEBRA 1: UNIT 11. Intro to square roots.
+    - Khan Academy. ALGEBRA 1: UNIT 11, Intro to square roots.

@@ -40,6 +40,6 @@ Question:
 
 
 References:
-    Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?. 
-    Hamkins, J.D. 2020. What is a number?. 
-    Karagila, A. 2022. What is a Number? - Numberphile. 
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations.
+    - Hamkins, J.D. 2020. What is a number?. 
+    - Karagila, A. 2022. What is a Number? - Numberphile. 

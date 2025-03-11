@@ -135,7 +135,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
     - proof: ???
 
 References:
-    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
-    Khan Academy. 3RD GRADE: UNIT 1. Introduction to multiplication. 
-    Khan Academy. 3RD GRADE: UNIT 2. Distributive property when multiplying. 
-    Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
+    - Khan Academy. 3RD GRADE: UNIT 1, Introduction to multiplication. 
+    - Khan Academy. 3RD GRADE: UNIT 2, Distributive property when multiplying. 
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations.

@@ -42,5 +42,5 @@ def formula²(Weisstein):
     - proof: ???
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
-    Weisstein, Eric W. "Formula." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Formula.html 
+    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Weisstein, Eric W. "Formula." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Formula.html 

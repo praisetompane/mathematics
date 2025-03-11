@@ -46,4 +46,4 @@ def 0 is unique, 1 is unique(Censor, 2015):
                 Question: Why is it sufficient to use only two zero elements?
 
 References:
-    Censor, A. 2015. Algebra 1M - international. 04 - More properties of fields. Technion - International School Of Engineering.
+    - Censor, A. 2015. 04 - More properties of fields, Algebra 1M - international. Technion - International School Of Engineering.

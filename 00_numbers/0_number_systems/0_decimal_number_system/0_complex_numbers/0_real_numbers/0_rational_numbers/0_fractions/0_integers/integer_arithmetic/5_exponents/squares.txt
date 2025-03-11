@@ -16,5 +16,5 @@ Example:
     square root(16) = 4
 
 References:
-    Buffington E. Squares and Square Roots (Simplifying Math). Pearson.
+    - Buffington E. Squares and Square Roots (Simplifying Math). Pearson.
     

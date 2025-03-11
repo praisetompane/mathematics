@@ -23,4 +23,4 @@ def bipartite graph(Epp, 2010:641):
     - proof: ???
 
 References:
-    Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
+    - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 

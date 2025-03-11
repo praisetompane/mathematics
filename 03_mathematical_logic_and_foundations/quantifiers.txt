@@ -56,5 +56,5 @@ def quantifiers (Kunen, 2007:4) (Weisstein):
     - proof: ???
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
-    Weisstein, Eric W. "Quantifier." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Quantifier.html 
+    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Weisstein, Eric W. "Quantifier." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Quantifier.html 

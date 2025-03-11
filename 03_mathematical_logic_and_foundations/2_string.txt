@@ -28,7 +28,7 @@ def string(Montalban, 2020):
     - proof: none. it is a definition.
     
     References: 
-        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
 def all strings of length 𝑛 of a set(Montalban, 2020):
     - formal:
@@ -61,7 +61,7 @@ def all strings of length 𝑛 of a set(Montalban, 2020):
     - proof: none. it is a definition.
 
     References:
-        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
 def all strings of a set(Montalban, 2020): 
     - formal:
@@ -85,7 +85,7 @@ def all strings of a set(Montalban, 2020):
     - proof: none. it is a definition.
 
     References:
-        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
 def string length: 
     - formal:
@@ -109,4 +109,4 @@ def string length:
     - proof: none. it is a definition.
     
     References:
-        Montalban, A. 2020. Math 125A -- Mathematical Logic. 2. Logic. Strings.
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.

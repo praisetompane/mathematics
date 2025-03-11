@@ -43,4 +43,4 @@ def rounding:
     - proof: ???
       
 References:
-    Khan Academy. 3RD GRADE: UNIT 3. Rounding to the nearest 10 on the number line. 
+    - Khan Academy. 3RD GRADE: UNIT 3, Rounding to the nearest 10 on the number line. 

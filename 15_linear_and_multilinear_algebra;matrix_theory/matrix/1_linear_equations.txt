@@ -17,4 +17,4 @@ def linear equations (Kent State Department of Mathematical Sciences, 2008:38):
     - proof: ???
 
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II.
+  - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II.

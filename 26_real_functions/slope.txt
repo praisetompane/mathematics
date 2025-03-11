@@ -25,4 +25,4 @@ def slope (Khan Academy):
     - proof: ???
 
 References:
-    Khan Academy. Algebra basics: UNIT 4. Intro to slope.
+    - Khan Academy. Intro to slope, Algebra basics: UNIT 4.

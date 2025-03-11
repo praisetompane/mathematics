@@ -66,4 +66,4 @@ def exponentiation:
     - proof: ???
     
 References:
-    Khan Academy. 6TH GRADE: UNIT 4. Intro to exponents. 
+    - Khan Academy. 6TH GRADE: UNIT 4, Intro to exponents. 

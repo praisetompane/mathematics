@@ -88,5 +88,5 @@ def complex number set(Censor, 2015):
     - proof: ???
 
 References:
-  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
-  Garcia, P. https://www.quora.com/Why-is-the-square-root-of-1-multiplied-with-the-square-root-of-1-equal-to-1
+    - Censor, A. 2015. 05 - Complex numbers, 104016 - Algebra 1M. Technion International School of Engineering.
+    - Garcia, P. https://www.quora.com/Why-is-the-square-root-of-1-multiplied-with-the-square-root-of-1-equal-to-1

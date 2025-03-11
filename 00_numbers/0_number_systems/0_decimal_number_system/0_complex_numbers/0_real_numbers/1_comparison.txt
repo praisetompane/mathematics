@@ -85,5 +85,5 @@ def comparison(Kent State Department of Mathematical Sciences, 2008:5):
     - proof: ???
     
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
-  Khan Academy. ALGEBRA 1: UNIT 15. Intro to rational & irrational numbers.
+  - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+  - Khan Academy. ALGEBRA 1: UNIT 15, Intro to rational & irrational numbers.

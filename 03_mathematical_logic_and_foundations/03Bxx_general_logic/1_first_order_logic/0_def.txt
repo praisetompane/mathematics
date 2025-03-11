@@ -6,4 +6,4 @@ def predicate logic or
             just like computer programming languages(C, Java, etc) (Kunen, 2007:6) (Sakharov).     
 
 References: 
-    Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html.
+    - Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html.

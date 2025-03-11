@@ -32,4 +32,6 @@ def mathematical logic (Montalban, 2020):
 
             
 References:
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory.
+    - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 135 - Intro to Set Theory. U.C. Berkeley.
+
+    

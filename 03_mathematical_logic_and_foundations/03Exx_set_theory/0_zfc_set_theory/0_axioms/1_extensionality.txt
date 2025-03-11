@@ -25,5 +25,5 @@ def axiom 1: extensionality(Kunen, 2007:10-11):
     - proof: none. it is an axiom.
 
 References:
-    Kunen, K. 2007. The Foundations of Mathematics.
-    Montalban, A. 2020. Math 135 -- Intro to Set Theory. Set Theory. Basic concepts.
+    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.

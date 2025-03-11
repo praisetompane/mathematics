@@ -87,7 +87,6 @@ def real numbers set²(Censor, 2015):
     - proof: ???
     
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
-  Censor, A. 2015. Algebra 1M - international. 03 - Fields. Technion - International School Of Engineering. 
-  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
-
+  - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+  - Censor, A. 2015. 03 - Fields, Algebra 1M - international. Technion - International School Of Engineering.
+  - Censor, A. 2015. 05 - Complex numbers, 104016 - Algebra 1M. Technion International School of Engineering.

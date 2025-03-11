@@ -91,4 +91,4 @@ def Cauchy (Censor, 2013):
     - proof: ???
     
 References:
-    Censor, A. 2013. Differential and Integral Calculus 1. Calculus - 01. Technion - International School Of Engineering.
+    - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.

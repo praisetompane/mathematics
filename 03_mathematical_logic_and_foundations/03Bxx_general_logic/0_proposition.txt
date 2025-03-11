@@ -52,4 +52,4 @@ def proposition: a statement that is either TRUE or FALSE (Leighton, 2010).
                 unproven/disproved
                 
 References:
-    Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
+    - Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/

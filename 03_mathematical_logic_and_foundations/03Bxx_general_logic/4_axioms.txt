@@ -30,5 +30,5 @@ the axiomatic method (Meyer, Chlipala, 2015):
     Zermelo-Fraenkel with Choice Axioms(ZFC) + logical deduction rules ≈ drive all of mathematics(Meyer, Chlipala, 2015).
 
 References:
-    Meyer A.R., Chlipala, A. 2015.  MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.
-    Leighton T, van Dijk, M. 2010. MIT 6.042J Mathematics For Computer Science. Lecture 6: Graph Theory and Coloring. Massachusetts Institute of Technology.
+    - Meyer A.R., Chlipala, A. 2015. MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.
+    - Leighton T, van Dijk, M. 2010. Lecture 6: Graph Theory and Coloring, MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.

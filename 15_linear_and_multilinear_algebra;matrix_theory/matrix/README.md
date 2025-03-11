@@ -4,5 +4,4 @@ branch of mathematics that studies vectors and matrices
 
 
 References:
-    Strang, G. 2020. MIT RES.18-010. A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
-    Strang, G. 2020. MIT RES.18-010. A 2020 Vision of Linear Algebra. Part 1: The Column Space of a Matrix. Massachusetts Institute of Technology.
+    - Strang, G. 2020. Part 1: The Column Space of a Matrix, MIT RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.

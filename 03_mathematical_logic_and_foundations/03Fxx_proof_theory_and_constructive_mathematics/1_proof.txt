@@ -122,5 +122,5 @@ in computing we desire to prove:
         chip correctness.
 
 References: 
-    Kunen, K. 2007. The Foundations of Mathematics.
-    Montalban, A. 2020. Math 125A -- Mathematical Logic. Introduction to Mathematical Logic.
+    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 125A -- Mathematical Logic.

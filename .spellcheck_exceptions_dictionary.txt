@@ -1,5 +1,6 @@
 # authors
 Aigner
+Alama
 Dunham
 AndreaSchmidt
 Günter
@@ -62,6 +63,8 @@ Zermelo
 ZFC
 Rautenberg
 Zach
+Korbmacher
+Nodelman
 
 
 # concepts

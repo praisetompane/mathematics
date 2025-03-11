@@ -132,4 +132,4 @@ General Integer Subtraction algorithm (Kent State Department of Mathematical Sci
             |188| - |560| = |372| = -372: Apply Addition rules
             
 References:
-    Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

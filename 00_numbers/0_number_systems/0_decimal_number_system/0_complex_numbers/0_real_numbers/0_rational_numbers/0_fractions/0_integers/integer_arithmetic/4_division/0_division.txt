@@ -30,4 +30,4 @@ def division:
     - proof: ???
 
 References:
-    Weisstein E.W. "Undefined." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Undefined.html
+    - Weisstein E.W. "Undefined." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Undefined.html

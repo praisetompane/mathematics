@@ -14,4 +14,4 @@ def solution_flow (Woo, 2014):
                 what if we would we could calculate the square root of a negative number?
 
 References:
-    Woo, E. Think deeply about simple things.
+    - Woo, E. Think deeply about simple things.

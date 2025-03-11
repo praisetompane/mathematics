@@ -35,4 +35,4 @@ def fractions set:
     - proof: ???
     
 References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

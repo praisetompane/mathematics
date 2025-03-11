@@ -54,5 +54,5 @@ def binary numbers(Khan Academy):
     - proof: ???
 
 References:
-    Khan Academy. Computers and the Internet: UNIT 1. Binary numbers.
-    Khan Academy. Computers and the Internet: UNIT 1. Patterns in binary numbers.
+    - Khan Academy. Computers and the Internet: UNIT 1. Binary numbers.
+    - Khan Academy. Computers and the Internet: UNIT 1. Patterns in binary numbers.

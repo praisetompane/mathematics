@@ -18,4 +18,4 @@ def axiom 6: replacement scheme(Kunen, 2007:10-11):
   - proof: ???
 
 References:
-  Kunen, K. 2007. The Foundations of Mathematics.
+  - Kunen, K. 2007. The Foundations of Mathematics.

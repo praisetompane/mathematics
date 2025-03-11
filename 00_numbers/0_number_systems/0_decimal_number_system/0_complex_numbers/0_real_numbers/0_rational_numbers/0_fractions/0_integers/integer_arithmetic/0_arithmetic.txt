@@ -47,4 +47,4 @@ def Peano axioms: ???
         - proof: ???
 
 References:
-    Courant, R., Robbins, H. 1941. What is Mathematics?. 2nd ed. Oxford university Press.
+    - Courant, R., Robbins, H. 1941. What is Mathematics?. 2nd ed. Oxford university Press.
