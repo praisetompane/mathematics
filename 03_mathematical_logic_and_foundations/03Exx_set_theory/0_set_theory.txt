@@ -21,9 +21,8 @@ def set theory(Kunen, 2007:10-11):
         - foundational system for Mathematics.
         - mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
         
-    - proof: ???
+    - proof: none. it is a definition.
 
 References:
-    - Kunen, K. 2007. The Foundations of Mathematics(Montalban, 2020).
+    - Kunen, K. 2007. The Foundations of Mathematics.
     - Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
-    - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.

@@ -123,4 +123,4 @@ in computing we desire to prove:
 
 References: 
     - Kunen, K. 2007. The Foundations of Mathematics.
-    - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 125A -- Mathematical Logic.
+    - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 125A - Mathematical Logic. U.C. Berkeley.

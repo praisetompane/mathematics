@@ -1,6 +1,7 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley.
+            - current:  03. Logic. The Language Of Sentential Logic
     - readings:
         - Hinman, P.G. 2005. Fundamentals of Mathematical Logic.
         - Kunen, K. 2007. The Foundations of Mathematics.
@@ -15,7 +16,7 @@
 
 - 00_numbers:
     - lectures:
-        - - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.
+        - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.
             - current: 2. Set Theory. Basic concepts
     - readings:
         - The Open Logic Project. 2021. Set Theory An Open Introduction

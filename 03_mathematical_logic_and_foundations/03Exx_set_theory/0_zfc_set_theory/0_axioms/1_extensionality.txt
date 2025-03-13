@@ -26,4 +26,4 @@ def axiom 1: extensionality(Kunen, 2007:10-11):
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics.
-    - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
+    - Montalban, A. 2020. 3. Set Theory. First Five Axioms, Math 135 - Intro to Set Theory. U.C. Berkeley.
