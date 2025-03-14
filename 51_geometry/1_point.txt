@@ -20,7 +20,7 @@ def Point: (Wildberger, ???):
         
     - proof: ???
 
-Q: can we perform arithmetic operations on Points?
+Question: can we perform arithmetic operations on Points?
     i.e. *, /, +, -
     
 References: ???

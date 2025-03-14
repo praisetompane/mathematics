@@ -112,7 +112,7 @@ def addition²(Kent State Department of Mathematical Sciences, 2008:7-10):
                 Large(multiple place value) number addition:
                     place values:  
                     million, hundred thousand, ten thousand,  thousand, hundred, ten, one : tenth, hundredth, thousandth, ten thousandth, hundred thousandth,
-                    Q:
+                    Question:
                         Why does it look like place values are read in groups of 3?
                             i.e. 436,543, 120 => Four hundred and thirty six million, five hundred forty three thousand, one hundred twenty
                             

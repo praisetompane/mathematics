@@ -31,7 +31,7 @@ def foundations of mathematics(Wildberger, 2009):
                     - These are our first Mathematical objects.
                     - All Mathematical objects are based on the natural numbers.
 
-                Q: do we require natural language to create Mathematics?
+                Question: do we require natural language to create Mathematics?
 
     - intuition: ???
 

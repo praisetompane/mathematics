@@ -1,18 +1,12 @@
 matrix:
-  - name: Markdown
+  - name: English
     aspell:
       lang: en
-      ignore-case: true
+      ignore-case: false
     dictionary:
       wordlists:
         - .spellcheck_exceptions_dictionary.txt
       encoding: utf-8
-    pipeline:
-      - pyspelling.filters.html:
-          comments: false
-          ignores:
-            - code
-            - pre
     sources:
       - "**/*.md"
       - "**/*.tex"

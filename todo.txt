@@ -14,7 +14,7 @@
     - assignments:
     - exams:
 
-- 00_numbers:
+- 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
         - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.
             - current: 2. Set Theory. Basic concepts
@@ -67,9 +67,6 @@
     - recitations:
     - assignments:
     - exams:
-
-- guide:
-    - Learn Mathematics from START to FINISH (2nd Edition): https://www.youtube.com/watch?v=didXE0HkSC8
 
 ============================================================================================================
 next₁:
@@ -138,6 +135,8 @@ next₁:
         - assignments:
         - exams:
 
+============================================================================================================
+next₂:
     - 51_geometry
         - lectures:
             - Geometry: https://www.khanacademy.org/math/geometry-home
@@ -172,9 +171,7 @@ next₁:
         - assignments:
         - exams:
 
-============================================================================================================
-next₂:
-    - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
+    - 18_category_theory;homological_algebra
         - lectures:
             - Milewski, B. 2016. Category Theory For Programmers I
             - Milewski, B. 2017. Category Theory For Programmers II

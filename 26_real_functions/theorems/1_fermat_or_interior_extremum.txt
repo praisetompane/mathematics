@@ -8,7 +8,7 @@ def Fermat or Interior Extremum (Censor, 2013):
             f'(x₀) = 0.
             
     - plain english:
-        - TBD
+        - ???
 
     - properties:
         - f(x) = function
@@ -36,7 +36,7 @@ def Fermat or Interior Extremum (Censor, 2013):
                                 ↓
 
         - def minimum:
-            - TBD
+            - ???
         
         - def f': 
             - formal

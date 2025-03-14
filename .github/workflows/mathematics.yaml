@@ -15,7 +15,7 @@ jobs:
     - name: Spell Check
       uses: rojopolis/spellcheck-github-actions@0.45.0
       with:                                        
-        task_name: Markdown
+        task_name: English
         output_file: spellcheck-output.txt
     - name: Install Pipenv
       run: python -m pip install pipenv

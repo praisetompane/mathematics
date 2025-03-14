@@ -88,18 +88,5 @@ def complex number set(Censor, 2015):
     - proof: ???
 
 References:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_def.txt
-    Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
-=======
-    Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
->>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_complex_numbers.txt
-=======
-  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
-  Garcia, P. https://www.quora.com/Why-is-the-square-root-of-1-multiplied-with-the-square-root-of-1-equal-to-1
->>>>>>> 0979d13 (fix: expand use case example for complex number definition)
-=======
     - Censor, A. 2015. 05 - Complex numbers, 104016 - Algebra 1M. Technion International School of Engineering.
     - Garcia, P. https://www.quora.com/Why-is-the-square-root-of-1-multiplied-with-the-square-root-of-1-equal-to-1
->>>>>>> d723267 (docs: consistent citation notation)

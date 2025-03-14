@@ -1,5 +1,0 @@
-def number theory: TBD
-
-Q: does an odd number(a) - an odd number(b) always equal an even number?
-
-for all a,b in Z

@@ -121,7 +121,7 @@ given:
 
     NB: adds inverses missing in (ℤ,*).
 
-Q: These examples are concrete examples, are there proofs for all 
+Question: These examples are concrete examples, are there proofs for all 
     elements of G with respect ◦ ?
     e.g. is there a proof that, ∀a∈ℚ with respect to + is a Group?
 

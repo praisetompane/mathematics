@@ -57,6 +57,5 @@ def degree:
         
     - proof: ???
 
-
 References:
     - Leighton T, van Dijk, M. 2010. Lecture 6: Graph Theory and Coloring, MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.

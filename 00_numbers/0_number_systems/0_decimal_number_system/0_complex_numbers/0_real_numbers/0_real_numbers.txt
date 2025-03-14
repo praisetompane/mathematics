@@ -76,7 +76,7 @@ def real numbers set²(Censor, 2015):
       |    |____________________|   |                                 |
       |_____________________________|_________________________________|
 
-      Q: Are there categories for irrational numbers?
+      Question: Are there categories for irrational numbers?
       
     - properties: ???
 
@@ -87,20 +87,6 @@ def real numbers set²(Censor, 2015):
     - proof: ???
     
 References:
-<<<<<<< HEAD
-<<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_def.txt
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.
-  Wildberger, N.J. 2009. Insights into Mathematics. Math Foundations: https://www.youtube.com/playlist?list=PL5A714C94D40392AB  
-  Censor, A. Algebra 1M - international. 03 - Fields. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
-  Censor, A. Algebra 1M - international. 05 - Complex numbers. 2015. Technion - International School Of Engineering. https://www.youtube.com/watch?v=8NzGosxnjP0&list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9&index=6.
-=======
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
-  Censor, A. 2015. Algebra 1M - international. 03 - Fields. Technion - International School Of Engineering. 
-  Censor, A. 2015. Algebra 1M - international. 05 - Complex numbers. Technion - International School Of Engineering.
->>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_real_numbers.txt
-
-=======
   - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
   - Censor, A. 2015. 03 - Fields, Algebra 1M - international. Technion - International School Of Engineering.
   - Censor, A. 2015. 05 - Complex numbers, 104016 - Algebra 1M. Technion International School of Engineering.
->>>>>>> d723267 (docs: consistent citation notation)

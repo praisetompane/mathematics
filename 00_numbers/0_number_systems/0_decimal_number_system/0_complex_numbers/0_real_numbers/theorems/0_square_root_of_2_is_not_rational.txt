@@ -57,12 +57,4 @@ def √2 ∉ ℚ:
                     ∴ √2 ∉ Question: QED
 
 References:
-<<<<<<< HEAD
-<<<<<<< HEAD:00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/theorems/square_root_of_2_is_not_rational.txt
-    Censor, A. Differential and Integral Calculus 1. Calculus - 02. 2013. Technion - International School Of Engineering.
-=======
-    Censor, A. 2013. Differential and Integral Calculus 1. Calculus - 02. Technion - International School Of Engineering.
->>>>>>> 30a5950 (refactor: apply definition templates. remove 0_def.txt because they lack uniqueness and make exploration difficult.):00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/theorems/0_square_root_of_2_is_not_rational.txt
-=======
     - Censor, A. 2013.  Calculus - 02, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.
->>>>>>> d723267 (docs: consistent citation notation)

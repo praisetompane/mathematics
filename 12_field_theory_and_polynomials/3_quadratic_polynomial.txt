@@ -44,4 +44,4 @@ def quadratic equation²:
     - proof: ???
         
 References:
-    1,2 https://www.youtube.com/watch?v=UZTvYYoOrmI&list=PLmdFyQYShrjc6bN89NAbgJcUYGgM1r2wF&index=2
+    ???

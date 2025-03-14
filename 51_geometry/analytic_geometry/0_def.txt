@@ -1,1 +1,0 @@
-def analytic geometry: https://mathworld.wolfram.com/AnalyticGeometry.html

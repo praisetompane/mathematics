@@ -6,7 +6,7 @@ def bipartite graph(Epp, 2010:641):
                             two disjoint and non-empty subsets of V₁ and V₂
                         such that:
                             - vertices in V₁ may be connected to vertices in V₂. 
-                                Q: Is it at least one connection or can there be a V₁ member with no connection?
+                                Question: Is it at least one connection or can there be a V₁ member with no connection?
                             - no vertices in V₁ are connected to other vertices in V₁.
                             - no vertices in V₂ are connected to other vertices in V₂.
 

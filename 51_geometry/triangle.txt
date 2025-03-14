@@ -1,2 +1,2 @@
-Q: can you represent any shape as a triangles?
-Q: can you represent any quadrilateral as a triangles?
+Question: can you represent any shape as a triangles?
+Question: can you represent any quadrilateral as a triangles?

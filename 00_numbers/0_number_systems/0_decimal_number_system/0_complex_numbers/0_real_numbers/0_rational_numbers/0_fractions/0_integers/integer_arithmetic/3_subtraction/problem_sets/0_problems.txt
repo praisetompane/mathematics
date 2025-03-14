@@ -64,7 +64,7 @@ x - 435 = 210
             |-35| + |-190| = 225 
 
 
-Q: Are place values like types in computation type systems?
+Question: Are place values like types in computation type systems?
    To subtract a value in the Ones from a value in Tens. You convert one value to the "type" of the other.
    ans: No, to subtract a value in the Ones from a value in the Tens, 
             you regroup the value in Tens as a set of Ones

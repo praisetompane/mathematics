@@ -1,6 +1,0 @@
-def natural numbers:
-    Counting(Kent State Department of Mathematical Sciences, 2008:2):
-    ℕ = {1,2,3,4,...}    = Natural Numbers = Used when we needed to count apples, goats etc.
-
-References:
-  Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. http://www.math.kent.edu/ebooks/10031/book.pdf.

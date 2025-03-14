@@ -27,7 +27,7 @@ def arithmetic:
     - proof: ???
         
 
-def Peano axioms: TBD
+def Peano axioms: ???
 
     def Peano arithmetic:
         - formal: ???
