@@ -72,7 +72,7 @@ def natural numbers set¹(Wildberger, 2009):
     - plain english: a collection(i.e. Set) of these strings of ones.
     
     - properties:
-        1. they form a sequence(i.e. they are naturally ordered):
+        - they form a sequence(i.e. they are naturally ordered):
             - plain english: for every natural number, we can associate/define/determine a "successor":
                 - example:
                     S(|) = || = successor of | is ||
@@ -89,7 +89,7 @@ def natural numbers set¹(Wildberger, 2009):
                     3. to get ||| we require || to exist, because  we add | to || to get |||
                     They come into existence in an order.
 
-        2. they have relative size to each other:
+        - they have relative size to each other:
             - plain english: which number appears first in the sequence.
                 - example:
                     - given: two numbers
@@ -123,6 +123,7 @@ def natural numbers set¹(Wildberger, 2009):
                                 𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
 
                         - remark: this is our third Mathematical operator.
+    
     - examples: ???
 
     - use cases: ???

@@ -11,8 +11,8 @@ def set_builder_notation(Hammack, 2018:5):
                 such that 𝑟𝑢𝑙𝑒 (is true).
 
             - example:
-                - E = {2𝑛 : 𝑛 ∈ ℤ}:
-                    E equals the set of all things of form 2𝑛
+                - 𝐸 = {2𝑛 : 𝑛 ∈ ℤ}:
+                    𝐸 equals the set of all things of form 2𝑛
                                 such that 𝑛 is an element of ℤ.
 
         - NB: The result of a set builder notation is a set.
@@ -28,7 +28,7 @@ def set_builder_notation(Hammack, 2018:5):
             i.e. read ut from the Right side, to the Left side.
             
         - examples:
-            - E = {2𝑛 : 𝑛 ∈ ℤ}:
+            - 𝐸 = {2𝑛 : 𝑛 ∈ ℤ}:
                 - all values of the 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 (2𝑛), 
                     for all the values of variable(𝑛) that satisfy the 𝑟𝑢𝑙𝑒(n is an Integer).
                 
@@ -53,7 +53,7 @@ def set_builder_notation(Hammack, 2018:5):
 
                     output{...,-6,-4,-2,0,2,4,6, ...} 
 
-            - B = {𝑥 : x ∈ ℤ, |2𝑥| < 4}
+            - 𝐵 = {𝑥 : x ∈ ℤ, |2𝑥| < 4}
                 - all the values of the expression(𝑥)
                     for all the values of the variable(𝑥) that satisfy the rule(|2𝑥| < 4)
                 
@@ -77,7 +77,7 @@ def set_builder_notation(Hammack, 2018:5):
 
                             ∴ output = {-1,0,1}
 
-                - A = {2𝑥: 𝑥 ∈ ℤ, |𝑥| < 4 }:
+                - 𝐴 = {2𝑥: 𝑥 ∈ ℤ, |𝑥| < 4 }:
                     - all values of the expression(2𝑥),
                         for all values of the variable(𝑥), where 𝑥 is less than 4.
 
@@ -112,7 +112,7 @@ def set_builder_notation(Hammack, 2018:5):
     - properties:
         - variations:
             - given:
-                A = {2𝑛 : 𝑛 ∈ ℤ}:
+                𝐴 = {2𝑛 : 𝑛 ∈ ℤ}:
             - then:
                 the below are equivalent to each other and the above defined set A:
                     - {𝑛: 𝑛 is an even integer}

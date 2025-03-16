@@ -6,9 +6,9 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
             
             example:
                 Let:
-                    A = {1,2}
+                    𝐴 = {1,2}
                 Then:
-                    |A| = 2
+                    |𝐴| = 2
                     i.e. cardinality/size of A is 2.
 
         - in words: ???
@@ -19,8 +19,8 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
             i.e. it is a Natural number.
 
                 notation:
-                    A = {}
-                    |A| := cardinality of set A
+                    𝐴 = {}
+                    |𝐴| := cardinality of set 𝐴
 
     - intuition: ???
 

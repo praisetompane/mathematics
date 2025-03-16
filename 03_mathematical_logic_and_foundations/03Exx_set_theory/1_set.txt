@@ -121,6 +121,11 @@ def set(Hammack, 2018:3):
                             - cardinality:
                                 |∅| = 0
                                 NB: it is the only set with a cardinality of zero(0)
+                            - ∅ is a subset of every set:
+                                NB: It does NOT belong(i.e. ∈) to every set though.
+                                                            
+                                - proof: it is trivially/vacuously true, because ∅ has no elements and you can't pick any to check
+                                                their existence in the other set.
 
         def hereditary set:
 

@@ -5,16 +5,23 @@ def powerset(Montalban, 2020):
         then:
             𝑃(𝐴) = { 𝑥 : 𝑥 ∈ 𝐴 }
 
-        - in words: the powerset of 𝐴 is set of all subsets(𝑥) of 𝐴.
+        - in words: the powerset of 𝐴 is set of all subsets of 𝐴.
 
     - plain english: ???
 
     - intuition: ???
 
     - properties:
-
+        - number of element in powerset of 𝐴(i.e. 𝑃(𝐴)):
+            - formal:
+                given:
+                    |𝐴| = 𝑛
+                then:
+                    |𝑃(𝐴)| = 2ⁿ
+            - proof: ???
+            
     - examples:
-        - 
+        - powerset of 𝐴:
             given:
                 𝐴 = { 2, 3 }
             then:
