@@ -48,7 +48,7 @@
     - lectures:
         - calculus:
             - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering. 
-                - current: Calculus - 01: *
+                - current: Calculus - 03: *
             - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
                 - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
             - Hammack, R. 2020. Hammack's Calculus I
