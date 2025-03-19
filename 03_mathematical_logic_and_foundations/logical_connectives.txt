@@ -14,7 +14,7 @@ def logical connectives or logical operator, sentential connective, or sententia
             - ∨  = or
             - ¬  = not | negation
             - ⟹ = implies
-            - ⟺ = : if and only if
+            - ⟺ = if and only if
             - ...
 
             - truth table evaluation(Kunen, 2007:4): 

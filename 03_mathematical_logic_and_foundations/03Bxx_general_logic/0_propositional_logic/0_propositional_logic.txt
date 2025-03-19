@@ -1,22 +1,64 @@
-def propositional logic or propositional calculus or sentential logic or sentential calculus or zeroth-order logic:
+def propositional logic or propositional calculus or sentential logic or sentential calculus or zeroth-order logic(Montalban, 2020):
     - formal: ???
 
-        - in words: ???
+        - in words: logic built ONLY with propositions.
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_proposition.txt
 
-    - plain english: ???
+    - plain english: logic built ONLY on with sentence that can be either True or False.
 
     - intuition: ???
 
     - properties:
-        - symbols:
-            - 
+        - formal language for sentential logic:
+            - symbols:
+                - variable symbols: {a₁, p, q, z, ...}
+                - grammar symbols:
+                    - (     = Opening parenthesis
+                    - )     = closing parenthesis
+
+                - logical connectives:
+                    - ∧     
+                    - ∨     
+                    - ¬    
+                    - ⟹    
+                    - ⟺ 
+                    see: 03_mathematical_logic_and_foundations/logical_connectives.txt
+                    NB: it uses a subset of all known logical connectives.
+
+            - grammar:
+                - 
+
+            see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 
         - expressions: list of strings
 
+        - formula: sequence of symbols
+            - types:
+                - well-formed formulas:
+                    - variable symbols
+
+                    - examples:
+                        - 𝑎₁ 
+                        - 𝑢
+                        - 𝑝 ⟹ 𝑞 
+                        - (𝑦 ⟺ 𝑧) ∧ 𝑞
+                        - (𝑏 ⟹ 𝑎) ⟺ (𝑡 ⟹ 𝑞) ∧ (¬𝑐)
+                        - ...
+
+                - malformed formulas:
+                    - examples:
+                        - ((⟹¬𝑝
+                        - ¬(⟺𝑞
+                        - ...
+
     - examples: ???
 
-    - use cases: ???
+    - use cases:
+        - electronic circuit design
+        - computer science
+        - ...
         
-    - proof: ???
+    - proof: none. it is a definition.
     
-References: ???
+References:
+    Montalban, A. 2020. 03. Logic. The Language Of Sentential Logic, Math 125A - Mathematical Logic. U.C. Berkeley.
