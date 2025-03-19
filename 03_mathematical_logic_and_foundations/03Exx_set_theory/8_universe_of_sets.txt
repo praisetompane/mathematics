@@ -1,0 +1,63 @@
+def universe of sets:
+    - formal: 
+        let 
+            a = 𝑤(omega) NB: This is due to a limitation in the extension for generating a subscript with ω
+
+            𝑉₀ = set of atoms, which are NOT sets. 
+                - They can be numbers, letters, any object etc. 
+                - The atoms are indivisible, they contain nothing.
+        then
+            𝑉₁ = 𝑃(𝑉₀) ∪ 𝑉₀
+            𝑉₂ = 𝑃(𝑉₁) ∪ 𝑉₁
+            𝑉₃ = 𝑃(𝑉₂) ∪ 𝑉₂
+            .
+            .
+            .
+            𝑉ₐ = 𝑉₀ ∪ 𝑉₁ ∪ 𝑉₂ ∪ 𝑉₃ ...
+            𝑉ₐ₊₁ = 𝑃(𝑉ᵤ) ∪ 𝑉ₐ
+            𝑉ₐ₊₂ = 𝑃(𝑉ₐ₊₁) ∪ 𝑉ₐ₊₁
+            𝑉ₐ₊₃ = 𝑃(𝑉ₐ₊₂) ∪ 𝑉ₐ₊₂
+            .
+            .
+            .
+            𝑉ₐ₊ₐ = 𝑉₀ ∪ 𝑉₁ ∪ 𝑉₂ ∪ 𝑉₃ ... ∪ 𝑉ₐ ∪ 𝑉ₐ₊₁ ∪ 𝑉ₐ₊₂ ∪ 𝑉ₐ₊₃ ...
+            .
+            .
+            .
+            𝑉ₐ₊ₐ₊₁ = 𝑃(𝑉ₐ₊ₐ) ∪ 𝑉ₐ₊ₐ
+            .
+            .
+            .
+            Continue through each ordinal.
+
+        - in words: ???
+
+    - plain english: 
+        - A concept to model large collections of objects that cannot be modelled as a set.
+
+    - intuition: ???
+
+    - properties:
+        - This object is NOT a set.
+            - When considered as a set, it produces contradictions.
+    - examples: ???
+
+    - use cases:
+
+    - proof:
+        - The universe of sets is NOT a set:
+            - By contradiction:
+                let:
+                    𝑉 = set of all sets
+                then:
+                    𝑉 ∈ 𝑉, 𝑉 is a member of itself.
+                
+                let:
+                    𝐵 = { 𝑥 ∈ 𝑉 : 𝑥 ∉ 𝑥}, 𝐵 is a set with all members of 𝑉, that do NOT belong to themselves.
+                then:
+                    Does 𝐵 belong to itself?
+                    𝐵 ∈ 𝐵 ⟺ 𝐵 ∉ 𝐵, 𝐵 belongs to itself, if and only if it does NOT belong to itself
+                    This in a contradiction, 𝐵 cannot both belong to itself and NOT belong to itself.
+                QED.
+References:
+    - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
