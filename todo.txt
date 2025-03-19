@@ -1,6 +1,7 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley.
+            - course goal: First Order Logic
             - current:  03. Logic. The Language Of Sentential Logic
     - readings:
         - Hinman, P.G. 2005. Fundamentals of Mathematical Logic.

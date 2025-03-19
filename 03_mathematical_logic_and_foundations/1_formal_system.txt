@@ -25,8 +25,8 @@ def formal system(Montalban, 2020):
                         1               := one
                         +               := plus
                         ×               := times
-                        ∈               := belongs
-
+                        x,y,z ...       := variable symbols
+                        
                         NB: variable, we can add or remove depending on the objects we want to work with.
 
                     def logical symbols:
@@ -36,10 +36,12 @@ def formal system(Montalban, 2020):
                         ¬               := not
                         ∃               := exists
                         ∀               := forall
-                        x,y,z ...       := variable symbols
+                        ∈               := belongs
+                    
+                    def grammar symbols:
                         (,)             := parenthesis
 
-                        NB: fixed in all first-order logic.
+                    NB: fixed in all first-order logic.
 
                 def grammar: how you can put the symbols together:
                     - ...
