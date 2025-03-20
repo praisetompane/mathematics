@@ -9,9 +9,21 @@ def Zermelo–Fraenkel set theory with the axiom of choice(Kunen, 2007:10-11):
 
   - intuition: ???
 
-  - properties: ???
+  - properties:
+    - universe of sets in ZFC:
+      see: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_universe_of_sets.txt
+      - It has no atoms, therefore:
+        𝑉₀ = ∅          = ∅
+        𝑉₁ = {∅}        = {∅} 
+        𝑉₂ = 𝑃(𝑉₁) ∪ 𝑉₁ = {∅, {∅}} ∪ {∅}
+        𝑉₃ = 𝑃(𝑉₂) ∪ 𝑉₂ = {∅, {∅}, {∅, {∅}}} ∪ {∅, {∅}}
+        .
+        .
+        .
 
-  - examples: ???
+
+
+  - examples: ??? 
 
   - use cases: 
       - foundational system for Mathematics(Montalban, 2020).
