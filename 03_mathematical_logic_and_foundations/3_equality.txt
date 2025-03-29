@@ -1,9 +1,9 @@
-def equation:
+def equality:
     - formal: ???
 
         - in words: ???
 
-    - plain english: a sentence that equates two sides.
+    - plain english: a statement that equates two sides.
     
     - intuition: ???
 
@@ -20,7 +20,8 @@ def equation:
     - examples:
         - 5x + 1 = 10
 
-    - use cases: ???
+    - use cases:
+        - model identities
 
     - proof: ???
 

@@ -1,10 +1,10 @@
 def n-ary relation (Epp, 2010:442): 
-    - formal: the totality
-                of 𝑛 ordered members 
-                    of 𝑛 sets 
-                        whose members
-                            are related/satisfy by some condition.
-        - in words: ???
+    - formal: ???
+        - in words: the totality
+                        of 𝑛 ordered members 
+                            of 𝑛 sets 
+                                whose members
+                                    are related/satisfy by some condition.
 
     - plain english: ???
 
@@ -24,14 +24,14 @@ def binary relation (Epp, 2010:442):
                     whose members
                         are related by some condition (Epp, 2010:14).
 
-            a mathematical structure R is a relation
+            a mathematical structure 𝑅 is a relation
                 between sets A(domain) and B(co-domain), if the properties below are satisfied (Epp, 2010:14):
             
-                1. there exists x in A and
-                    y in B such that
-                        (x,y) in R
+                1. there exists 𝑥 in 𝐴 and
+                    𝑦 in 𝐵 such that
+                        (𝑥,𝑦) in 𝑅
 
-                2. R is a subset of A x B (i.e. Cartesian product of set A and B)
+                2. 𝑅 is a subset of 𝐴 x 𝐵 (i.e. Cartesian product of set 𝐴 and 𝐵)
                     
     - plain english: a subgroup of ordered pairs
                         from a bigger group

@@ -1,7 +1,7 @@
-def proposition: a statement that is either TRUE or FALSE (Leighton, 2010):
+def proposition¹(Leighton, 2010):
     - formal: ???
 
-        - in words: ???
+        - in words: a statement that is either true or false.
 
     - plain english: ???
 
@@ -67,5 +67,31 @@ def proposition: a statement that is either TRUE or FALSE (Leighton, 2010):
         
     - proof: none. it is a definition.
 
+def proposition²(Kunen, 2007:4):   
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ?
+        a statement with no free variables, 
+            in a given universe, which MUST be True or False.
+                
+        NB: The statement is True or False for the whole universe.
+    
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: 
+        ∀x[x > 0 ⟹ ∃!y[y² = x ∧ y > 0]] (Kunen, 2007:4):
+            Value       Universe
+                True         ℕ
+                False        ℝ
+
+    - use cases: ???
+        
+    - proof: ???
+
 References:
     - Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
+    - Kunen, K. 2007. The Foundations of Mathematics.

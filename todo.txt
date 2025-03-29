@@ -30,9 +30,8 @@
     - lectures:
         - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering. 
             - current: Lecture 05 - Complex numbers: *
-        - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
-            - current:
         - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
+        - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
         - Khan Academy. Linear algebra
         - Edx: GTx - Explore the fundamentals of linear algebra
     - readings:
