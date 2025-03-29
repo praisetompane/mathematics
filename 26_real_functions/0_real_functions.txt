@@ -1,5 +1,5 @@
 def real_functions:
-    - formal: ???
+    - formal: 𝑓: ℝ ↦ ℝ???
         Q: Is there a Formal logic formula that can represent this whole field/subject?
         
         - in words: ???
