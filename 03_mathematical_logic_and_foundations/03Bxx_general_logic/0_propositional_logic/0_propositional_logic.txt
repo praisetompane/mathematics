@@ -4,16 +4,18 @@ def propositional logic or propositional calculus or sentential logic or sentent
         - in words: logic built ONLY with propositions.
             see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_proposition.txt
 
-    - plain english: logic built ONLY on with sentence that can be either True or False.
+    - plain english: logic built ONLY on with sentences that are either True or False.
 
     - intuition: ???
 
     - properties:
         - formal language for sentential logic:
+            see: 03_mathematical_logic_and_foundations/1_formal_system.txt
+            
             - symbols:
-                - variable symbols: {a₁, p, q, z, ...}
-                - grammar symbols:
-                    - (     = Opening parenthesis
+                - variable symbols: {𝑎₁, 𝑎₂, 𝑎ₙ, ...}, used to represent propositions.
+                - punctuation symbols:
+                    - (     = opening parenthesis
                     - )     = closing parenthesis
 
                 - logical connectives:
@@ -23,35 +25,43 @@ def propositional logic or propositional calculus or sentential logic or sentent
                     - ⟹    
                     - ⟺ 
                     see: 03_mathematical_logic_and_foundations/logical_connectives.txt
-                    NB: it uses a subset of all known logical connectives.
+                    NB: it uses only a subset of all known logical connectives.
 
             - grammar:
-                - 
+                - expression(formula): a string of the symbols above:
+                    see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/1_string.txt
+                    
+                    - types:
+                        - well-formed formulas:
+                            - every variable symbol
+                            - if 𝛹 and 𝛷 are well-formed formulas, then the combinations below are well-formed too:
+                                - ¬𝛹
+                                - 𝛹 ∧ 𝛷
+                                - 𝛹 ∨ 𝛷
+                                - 𝛹 ⟹ 𝛷
+                                - 𝛹 ⟺ 𝛷
+                                - ...
+                            
+                            - examples:
+                                - 𝑎₁ 
+                                - 𝑎₁ ∧ 𝑎₂
+                                - 𝑎₁ ⟹ 𝑎₃ 
+                                - (𝑎₂ ⟺ 𝑎₅)
+                                - (𝑎₄ ⟹ 𝑎₆) ⟺ (a₁ ⟹ 𝑎₉) ∧ ¬𝑎₃
+                                - ...
 
-            see: 03_mathematical_logic_and_foundations/1_formal_system.txt
-
-        - expressions: list of strings
-
-        - formula: sequence of symbols
-            - types:
-                - well-formed formulas:
-                    - variable symbols
-
-                    - examples:
-                        - 𝑎₁ 
-                        - 𝑢
-                        - 𝑝 ⟹ 𝑞 
-                        - (𝑦 ⟺ 𝑧) ∧ 𝑞
-                        - (𝑏 ⟹ 𝑎) ⟺ (𝑡 ⟹ 𝑞) ∧ (¬𝑐)
-                        - ...
-
-                - malformed formulas:
-                    - examples:
-                        - ((⟹¬𝑝
-                        - ¬(⟺𝑞
-                        - ...
-
-    - examples: ???
+                        - malformed formulas:
+                            - examples:
+                                - ((⟹¬𝑎₁
+                                - ¬(⟺𝑎₂
+                                - ...
+    - examples:
+        - If dumbo is pink, pigs can fly:
+            let:
+                𝑝 = dumbo is pink
+                𝑞 = pigs can fly
+            then:
+                𝑝 ⟹ 𝑞, is the sentential logic formal representation.
 
     - use cases:
         - electronic circuit design

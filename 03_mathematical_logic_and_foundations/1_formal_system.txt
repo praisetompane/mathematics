@@ -12,47 +12,47 @@ def formal system(Montalban, 2020):
         - rules
         - axioms
         
-        - def language: the means to create Mathematical statements.
-            - components:
-                - symbols
-                - grammar
+        - language: the means to create Mathematical statements:
+            - symbols
+            - grammar
 
-                def symbols: any printable(i.e. we can see) character.
-                    examples: { 0, 1, ×, +, ∈, ∨, ∧, ∃, ∀, (), ... }
+            - symbols: any printable(i.e. we can see) character.
+                examples: { 0, 1, ×, +, ∈, ∨, ∧, ∃, ∀, (), ... }
 
-                    def vocabulary:
-                        0               := zero
-                        1               := one
-                        +               := plus
-                        ×               := times
-                        x,y,z ...       := variable symbols
-                        
-                        NB: variable, we can add or remove depending on the objects we want to work with.
-
-                    def logical symbols:
-                        =               := equality
-                        ∧               := and
-                        ∨               := or
-                        ¬               := not
-                        ∃               := exists
-                        ∀               := forall
-                        ∈               := belongs
+                - vocabulary:
+                    0               := zero
+                    1               := one
+                    +               := plus
+                    ×               := times
+                    x,y,z ...       := variable symbols
                     
-                    def grammar symbols:
-                        (,)             := parenthesis
+                    NB: variable, we can add or remove depending on the objects we want to work with.
+                
+                - punctuation symbols:
+                    - (             := opening parenthesis
+                    - )             := closing parenthesis
+                    
+                - logical symbols:
+                    =               := equality
+                    ∧               := and
+                    ∨               := or
+                    ¬               := not
+                    ∃               := exists
+                    ∀               := forall
+                    ∈               := belongs
+            
+                NB: fixed in all first-order logic.
 
-                    NB: fixed in all first-order logic.
-
-                def grammar: how you can put the symbols together:
-                    - ...
+            - grammar: how you can put the symbols together:
+                - ...
             NB: The language is complete: You can express every Mathematical statement with the language.
 
-        - def rules: set of allowed logical steps:
+        - rules: set of allowed logical steps:
             - ...
 
             NB: The rules are complete: You can formalize all arguments in Mathematics with the rules.
 
-        - def axioms: set of basic Mathematical statements
+        - axioms: set of basic Mathematical statements
                         presumed to be true
                             in this system.
 
