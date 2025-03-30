@@ -33,5 +33,5 @@ def Zermelo–Fraenkel set theory with the axiom of choice(Kunen, 2007:10-11):
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics.
-    - Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
+    - Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory. University of New South Wales.
     - Montalban, A. 2020. 3. Set Theory. First Five Axioms, Math 135 - Intro to Set Theory. U.C. Berkeley.

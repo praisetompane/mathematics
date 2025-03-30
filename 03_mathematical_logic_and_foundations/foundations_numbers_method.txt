@@ -44,4 +44,4 @@ def foundations of mathematics(Wildberger, 2009):
     - proof: ???
 
 References:
-    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. 
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales. 

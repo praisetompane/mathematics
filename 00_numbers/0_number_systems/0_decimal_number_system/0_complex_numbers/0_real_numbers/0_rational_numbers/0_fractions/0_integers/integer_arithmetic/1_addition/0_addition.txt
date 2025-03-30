@@ -208,4 +208,4 @@ Question: Do all "addable" mathematical objects have their number line equivalen
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
-    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations.
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales.

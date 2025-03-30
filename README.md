@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
 ## Objectives
-- An attempt at unpacking in layman's terms what mathematics is and how it is created.
+- An attempt at unpacking mathematics and how it is created/discovered in layman's terms.
 
 ## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
@@ -111,4 +111,4 @@ pyspelling -c spellcheck.yaml
 
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.

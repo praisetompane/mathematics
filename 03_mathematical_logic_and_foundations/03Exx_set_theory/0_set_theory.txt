@@ -25,4 +25,4 @@ def set theory(Kunen, 2007:10-11):
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics.
-    - Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory.
+    - Wildberger, N.J. 2015. Insights into Mathematics Math History. Computability and problems with Set theory. University of New South Wales.
