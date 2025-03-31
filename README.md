@@ -81,19 +81,21 @@
 - [Math Stackexchange](https://math.stackexchange.com/)
 
 ## Mathematicians
+- [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
+- [Asaf Karagila](https://karagila.org)
+- Emmy Noether
+- [Loyiso Nongxa](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
 - [Norman J Wildberger](https://njwildberger.com)
 - [Richard Hammack](https://richardhammack.github.io/index.html)
-- [Professor Loyiso G](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
 - [Terry Tao](https://terrytao.wordpress.com/)
-- [Asaf Karagila](https://karagila.org)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 - [MΣΣT a Mathematician](https://www.youtube.com/playlist?list=PLhIglcapeTlGFYhSj3VnUc4sdwNUm9wDW)
 
 ## Testing
 - ### Execute Tests
-    ```shell
-    pytest
-    ```
+```shell
+pytest
+```
 
 ## Spell Check
 ```shell
