@@ -10,11 +10,23 @@ def logical connectives or logical operator, sentential connective, or sententia
 
     - properties:
         - names:
-            - ∧  = and
-            - ∨  = or
+            - ∧  = conjunction | logical and |
+            - ∨  = disjunction | logical or  | inclusive disjunction 
             - ¬  = not | negation
             - ⟹ = implies
-            - ⟺ = if and only if
+                intuition:
+                    - if 𝑎 is True, then 𝑏 is True
+                    - if the first predicate is True, then next is ALSO True.
+                    - False implies anything is True, because there is NO contradiction:
+                        - F ⟹ T = T
+                        - F ⟹ F = T
+
+            - ⟺ = if and only if(iff)
+                intuition:
+                    - it is a bidirectional implication(i.e. the implies defined).
+                        - the truth value of both predicates have to be the same, then the ⟺ is True:
+                            - T ⟺ T = T
+                            - F ⟺ F = F
             - ...
 
             - truth table evaluation(Kunen, 2007:4): 
@@ -36,3 +48,4 @@ def logical connectives or logical operator, sentential connective, or sententia
 References:
     - Kunen, K. 2007. The Foundations of Mathematics.
     - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html 
+    - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.
