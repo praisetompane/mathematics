@@ -9,14 +9,13 @@
 
 - def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
 
-- def mathematics: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
-- the symbols are merely shorthands.
-     symbols such as `∧`, `Σ`, `∀`, `+`, `×`.
-     - `∧` means: AND
-     - `Σ` means: sum
-     - `∀` means: for all
-     - `+` means: add[which you know from Grade 1 Mathematics]
-     - `-` means: subtract[which you know from Grade 1 Mathematics]
+- def mathematics³: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
+     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely shorthands.
+          - `∧` means: AND
+          - `Σ` means: sum
+          - `∀` means: for all
+          - `+` means: add[which you know from Grade 1 Mathematics]
+          - `-` means: subtract[which you know from Grade 1 Mathematics]
 
 - def side of Mathematics:(Hammack, 2018:viii):
      - computation focused:
@@ -82,6 +81,7 @@
 
 ## Mathematicians
 - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
+- [The Academic Genealogy of Mathematics](https://academictree.org/math/)
 - [Asaf Karagila](https://karagila.org)
 - Emmy Noether
 - [Loyiso Nongxa](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
@@ -93,9 +93,9 @@
 
 ## Testing
 - ### Execute Tests
-```shell
-pytest
-```
+     ```shell
+     pytest
+     ```
 
 ## Spell Check
 ```shell
@@ -103,8 +103,8 @@ pyspelling -c spellcheck.yaml
 ```
 
 ## References
-- Mathematics Subject Classification. 2020. https://zbmath.org/classification/
-- Mathematical Association of America. https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy
+- [Mathematics Subject Classification. 2020](https://zbmath.org/classification/)
+- [Mathematical Association of America](https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy)
 - Lockhart, P. 2009. A Mathematician's Lament.
 - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
 

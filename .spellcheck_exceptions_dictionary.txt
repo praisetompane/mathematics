@@ -106,6 +106,7 @@ rhs
 trinomial
 sentential
 powerset
+Satisfiability
 
 # technology
 visualstudio
@@ -124,7 +125,7 @@ pipenv
 pyspelling
 OpenBLAS
 pytest
-
+radix
 
 # institutions
 ndsu
@@ -220,6 +221,7 @@ VnUc
 sdwNUm
 wDW
 dev
+academictree
 
 
 # Mathematics Subject Classification – MSC2020
