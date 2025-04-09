@@ -1,10 +1,7 @@
 def binary numbers(Khan Academy): 
     - formal: ???
 
-        - in words: ???
-
-    - plain english: 
-        base-two numerical system for representing numbers (Khan Academy).
+        - in words: base(radix)-2 positional numeral system for representing numbers (Khan Academy):
             Question: Are all sets of numbers representable?
             digits = {0, 1}
 
@@ -21,11 +18,12 @@ def binary numbers(Khan Academy):
                     512     256     128     64      32      16      8       4       0       1
                     512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900
 
+    - plain english: number system that uses 2 unique symbols to represent numbers.
 
     - intuition: ???
 
     - properties: 
-        binary number patterns (Khan Academy):
+        - binary number patterns (Khan Academy):
             * numbers with last bit on are odd
                 i.e. any number + 1 is odd
                 Question: any number, including complex numbers?
@@ -51,7 +49,7 @@ def binary numbers(Khan Academy):
 
     - use cases: ???
         
-    - proof: ???
+    - proof: none. it is a definition.
 
 References:
     - Khan Academy. Computers and the Internet: UNIT 1. Binary numbers.

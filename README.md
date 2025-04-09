@@ -10,13 +10,13 @@
 - def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
 
 - def mathematics: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
-- the symbols are merely shorthands.
-     symbols such as `∧`, `Σ`, `∀`, `+`, `×`.
-     - `∧` means: AND
-     - `Σ` means: sum
-     - `∀` means: for all
-     - `+` means: add[which you know from Grade 1 Mathematics]
-     - `-` means: subtract[which you know from Grade 1 Mathematics]
+     - the symbols are merely shorthands.
+          symbols such as `∧`, `Σ`, `∀`, `+`, `×`.
+          - `∧` means: AND
+          - `Σ` means: sum
+          - `∀` means: for all
+          - `+` means: add[which you know from Grade 1 Mathematics]
+          - `-` means: subtract[which you know from Grade 1 Mathematics]
 
 - def side of Mathematics:(Hammack, 2018:viii):
      - computation focused:

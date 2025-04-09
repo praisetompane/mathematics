@@ -1,50 +1,7 @@
-def decimal¹(Kent State Department of Mathematical Sciences, 2008:3): 
-    - formal: ???
-
-        - in words: ???
-
-    - plain english: 
-        these are also based on 10.
-            The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)(Kent State Department of Mathematical Sciences, 2008:3).
-                examples: 
-                    0 to 1:
-                        0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1
-                            0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
-                            10 's' between 0 and 1
-
-                    0 to 0.1:
-                        s is split into 10 equal spaces as well(i.e hundredths)
-                        0    s|   s|   s|   s|   s|   s|   s|   s|   s|  s 0.1
-                            0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-
-            system = ... ,tens, ones . tenths, hundredths, thousandths, ten-thousandths, hundred-thousandths, millionths, ...
-
-                e.g. 13.453 = thirteen and four hundred fifty-three thousandths
-                        .453 is read like non decimal number + the ending place at the end
-                            i.e. four hundred fifty-three  + thousandths
-                        "and" represents the decimal
-                    1.0034 = one and thirty-four ten thousandths
-
-            Question: Can we infinitely divide the space between 2 digits? [within a chosen base]
-            Yes, that's how we get infinite decimals (i.e the irrational numbers.)
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples: ???
-
-    - use cases: ???
-        
-    - proof: ???
-
 def decimal number system:
     - formal: ???
 
-        - in words: ???
-
-    - plain english: 
-        base-ten positional numerical system for representing Real(ℝ) numbers (Weisstein):
+        - in words: base(radix)-10 positional numeral system for representing Real(ℝ) numbers (Weisstein):
             Question: Can we only represent Real numbers?
             digits = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
             decimal expansion = the expression/representation of a number using the decimal system
@@ -78,6 +35,49 @@ def decimal number system:
                 10 ten-thousand         = 1 one-hundred-thousand
                 10 one-hundred-thousand = 1 one-million
 
+    - plain english: number system that uses 10 unique symbols to represent numbers.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        
+    - proof: none. it is a definition.
+
+def decimal number¹(Kent State Department of Mathematical Sciences, 2008:3): 
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: 
+        these are also based on 10.
+            The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)(Kent State Department of Mathematical Sciences, 2008:3).
+                examples: 
+                    0 to 1:
+                        0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1
+                            0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+                            10 's' between 0 and 1
+
+                    0 to 0.1:
+                        s is split into 10 equal spaces as well(i.e hundredths)
+                        0    s|   s|   s|   s|   s|   s|   s|   s|   s|  s 0.1
+                            0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+
+            system = ... ,tens, ones . tenths, hundredths, thousandths, ten-thousandths, hundred-thousandths, millionths, ...
+
+                e.g. 13.453 = thirteen and four hundred fifty-three thousandths
+                        .453 is read like non decimal number + the ending place at the end
+                            i.e. four hundred fifty-three  + thousandths
+                        "and" represents the decimal
+                    1.0034 = one and thirty-four ten thousandths
+
+            Q: Can we infinitely divide the space between 2 digits? [within a chosen base]
+                Ans: Yes, that's how we get infinite decimals (i.e the irrational numbers.)
+
+            Q: Why do numbers after the decimal point, start with tenth and not ones?
     - intuition: ???
 
     - properties: ???
@@ -87,8 +87,7 @@ def decimal number system:
     - use cases: ???
         
     - proof: ???
-    
-Question: Why do numbers after the decimal point, start with tenth and not ones?:
+
 
 References:
     - Weisstein, Eric W. "Decimal." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Decimal.html.

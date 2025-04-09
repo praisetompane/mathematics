@@ -1,0 +1,87 @@
+def number system(Khan Academy): 
+
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: system to represent numbers using symbols.
+                
+    - intuition: ???
+
+    - properties:
+        - types:
+            - positional or place-value:
+                - decimal
+                - binary
+                - hexadecimal
+                - octal
+            - non-positional:
+                - ...
+
+        - generalization of positional systems:
+            let:
+                𝑏 = base
+                    example: 
+                        base 10 = decimal
+                        base 2  = binary
+                        base 16 = hexadecimal
+                        ...
+                        remarks: 
+                            - You can have any number for the base.
+                𝑛 = position(place) in the number , starting from 0(zero) from the right to the left.
+                𝑞 = the quantity of that position:
+                    example:
+                        21 in decimal means:
+                            two (ten to power of 1) and one (10 to power of 0)
+                            two (10¹) and one (10⁰) 
+                            two 10 and one 1
+                            2×10 + 1×1
+                            20 + 1
+                            ∴ 21
+            then:
+                value at position = 𝑞 × 𝑏ⁿ
+            then:
+                total value = sum of position values
+                              ∞
+                total value = Σ 𝑞×𝑏ⁿ
+                             𝑛=0
+                remarks:
+                    - You stop summing when you get to the value you wan to represent
+
+    - examples:
+        - decimal: see: 00_numbers/0_number_systems/0_decimal_number_system/0_decimal_number_system.txt
+        - binary:  see: 00_numbers/0_number_systems/1_binary_number_system/0_binary_number_system.txt
+        - hexadecimal: see: 00_numbers/0_number_systems/2_hexadecimal_number_system/0_hexadecimal_number_system.txt
+    
+    - use cases:
+        - represent numbers:
+            - example:
+                given: 
+                    number = 255
+                then:
+                    decimal = 255
+                            = 2×10² + 5×10¹ + 5×10⁰
+                            = 2×100 + 5×10 + 5×1
+                            = 200 + 50 + 5
+                            = 255
+
+                    binary = 11111111
+                           = 1×2^7 + 1×2^6 + 1×2^5 + 1×2^4 + 1×2^3 + 1×2^2 + 1×2^1 + 1×2^0
+                           = 1×128 + 1×64  + 1×32  + 1×16  + 1×8   + 1×4   + 1×2   + 1×1
+                           = 128   + 64    + 32    + 16    + 8     + 4     + 2     + 1
+                           = 255
+
+                    hexadecimal = FF
+                                = 15×16¹ + 15×16⁰
+                                = 15×16  + 15×1
+                                = 240    + 15
+                                = 255
+
+            remarks:
+                - Hexadecimal is very useful representing large numbers with few characters.
+                    Notice for small numbers like 0,1 or 128 its the same as decimal
+
+    - proof: none. it is a definition.
+    
+References:
+    - Khan Academy. Algebra. Hexadecimal number system.
