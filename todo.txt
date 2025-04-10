@@ -10,7 +10,6 @@
             - https://github.com/OpenLogicProject/forallx
         - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition.
         - The Open Logic Project. 2016. Sets, Logic, Computation.
-        - Jesse, A., Korbmacher, J. The Lambda Calculus, The Stanford Encyclopedia of Philosophy.
     - assignments:
     - exams:
 
@@ -113,9 +112,10 @@ next₁:
         - readings:
             - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
                 - https://github.com/RichardHammack/RichardHammack.github.io
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
             - Velleman, D.J. 2019. How to Prove It A Structured Approach
+            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
+            - Solow, D. 2002. How to Read and Do Proofs: An Introduction to Mathematical Thought Processes. 6th Edition
+            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
             - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
         - assignments:
         - exams:
@@ -190,6 +190,13 @@ next₃:
             - what is mathematics?. richard courant.pdf
                 - current position: not started
         - recitations:
+        - assignments:
+        - exams:
+        
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
+        - lectures:
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
         - assignments:
         - exams:
 ============================================================================================================

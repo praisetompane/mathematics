@@ -66,9 +66,15 @@ Rautenberg
 Zach
 Korbmacher
 Nodelman
-
+Horsten
+Solow
+Uri
+Zalta
 
 # concepts
+intuitionism
+logicism
+predicativism
 abelian
 axiomatize
 axiomatized

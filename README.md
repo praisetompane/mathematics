@@ -109,8 +109,7 @@ pyspelling -c spellcheck.yaml
 - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
 
 ## Legend
-**Q**: Question for later research
-
+**Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.

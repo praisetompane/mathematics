@@ -10,6 +10,7 @@ def foundations_axiomatic_method¹ (Kunen, 2007:5):
                     is part of the motivation or physics or philosophy
                     NOT part of the Mathematics itself.
 
+                see: 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
                 the mathematics itself
                     consists of logical deductions
                         from axioms (Kunen, 2007:5).
