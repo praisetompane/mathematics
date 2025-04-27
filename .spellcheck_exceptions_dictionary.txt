@@ -165,7 +165,8 @@ zbmath
 zulipchat
 Springer
 OpenMathLib
-
+MathIsFun
+mathsisfun
 
 # acronyms
 bce

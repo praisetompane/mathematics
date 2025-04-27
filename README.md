@@ -63,6 +63,7 @@
 - [LEAN](https://github.com/leanprover)
 - [mathlib4](https://github.com/leanprover-community/mathlib4)
 - [Mathematica](https://www.wolfram.com/mathematica/)
+- [MathIsFun](https://www.mathsisfun.com/)
 
 ## State of the art
 [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
