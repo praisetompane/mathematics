@@ -3,11 +3,16 @@ def mathematical_induction:
 
         - in words: ???
         
-    - plain english: ???
+    - plain english: proof technique to show
+                        some condition if True|False for
+                        a large input space.
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - base case
+        - inductive hypothesis to be maintained | predicate
+        - inductive step
 
     - examples: ???
 

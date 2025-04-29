@@ -1,9 +1,9 @@
 def Legrange (Censor, 2013):
     - formal:
-        Let 
+        let:
             f(𝑥) be continuous on [a,b]
             AND differentiable on (a,b)
-        Then
+        then:
             there exists a point c ∈ (a,b)
             such that: 
                         f'(c) =  f(b) - f(a)
@@ -28,10 +28,9 @@ def Legrange (Censor, 2013):
                                 ↓     
         - generalizes Rolle's theorem:
             solution:
-                Let
+                let:
                     f(b) = f(a) : in Rolle's theorem f(b) = f(a).
-                
-                Then:
+                then:
                     f'(c) =  f(b) - f(a)
                             -------------
                                 b - a

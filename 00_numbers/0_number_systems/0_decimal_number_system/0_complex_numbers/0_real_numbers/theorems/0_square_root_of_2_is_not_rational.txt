@@ -12,11 +12,11 @@ def √2 ∉ ℚ:
 
     - proof: 
         - proof₁(Censor, 2013):
-            - Let:
+            - let:
                 √2 ∈ ℚ
                     with √2 = m/n expressed in reduced form, where 𝑚,𝑛 ∈ ℤ and 𝑛 ≠ 0.
                     then 𝑚 and 𝑛 do not have common factors.
-            - Then:
+            - then:
                 proof type: proof by contradiction.
                 proof steps:
                     0. √2 = m/n  

@@ -1,10 +1,10 @@
 def Fermat or Interior Extremum (Censor, 2013):
     - formal:
-        Let: 
+        let: 
             f(x) be defined in (a,b)
             AND let x₀ be a maximum or minimum point
                 at which f is differentiable.
-        Then:
+        then:
             f'(x₀) = 0.
             
     - plain english:

@@ -1,5 +1,5 @@
 def addition¹ (Wildberger, 2009):
-    - formal:
+    - formal: ???
 
         - in words:
             - the sum of natural numbers 𝑛 and 𝑚 

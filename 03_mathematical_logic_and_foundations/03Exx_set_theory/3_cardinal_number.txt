@@ -5,9 +5,9 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4):
             denoted as |set_name|
             
             example:
-                Let:
+                let:
                     𝐴 = {1,2}
-                Then:
+                then:
                     |𝐴| = 2
                     i.e. cardinality/size of A is 2.
 

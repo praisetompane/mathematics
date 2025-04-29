@@ -1,14 +1,13 @@
 def Cauchy (Censor, 2013):
     - formal
-        Let: 
+        let: 
             f(𝑥) and g(x) 
                 be continuous on [a,b]
                 AND differentiable on (a,b).
 
             Assume that:
                 ∀x ∈ (a,b), g'(x) ≠ 0.
-
-        Then:
+        then:
             1. g(a) ≠ g(b)
             2. ∃c ∈ (a,b)
                 such that:
@@ -50,8 +49,9 @@ def Cauchy (Censor, 2013):
 
         - generalizes Legrange's theorem:
             solution:
-                Let g(x) = x : a straight line
-                Then:
+                let:
+                    g(x) = x : a straight line
+                then:
                     f'(c)    f(b) - f(a)
                     ----- =  -----------
                     g'(c)    g(b) - g(a)

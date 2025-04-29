@@ -1,7 +1,10 @@
 def 𝑖(Censor, 2015):
     - formal:
-        Let 𝑖  = √-1.
-                ∴ 𝑖² = -1
+        let:
+            𝑖  = √-1
+        then:
+            𝑖² = -1
+
     - plain english: 
         - define a new number 𝑖, whose value is the square root of -1.
         or
@@ -52,17 +55,19 @@ def complex number(Censor, 2015):
                   given:
                       𝑥² + 1 = 0:
                   then:
-                      let 𝑥 = 𝑖
-                      𝑖² + 1 = 0
-                      √-1 × √-1 + 1 = 0
-                      -1¹/² * -1^½ + 1 = 0
-                      -1¹/²⁺¹/² + 1 = 0
-                      -1²/² + 1  = 0
-                      -1¹/¹ + 1 = 0
-                      -1¹ + 1 = 0
-                      -1 + 1 - 0
-                      0 = 0
-                      ∴ 𝑥 = 𝑖 is a solution to the equation.
+                    let:
+                        𝑥 = 𝑖
+                    then:
+                        𝑖² + 1 = 0
+                        √-1 × √-1 + 1 = 0
+                        -1¹/² * -1^½ + 1 = 0
+                        -1¹/²⁺¹/² + 1 = 0
+                        -1²/² + 1  = 0
+                        -1¹/¹ + 1 = 0
+                        -1¹ + 1 = 0
+                        -1 + 1 - 0
+                        0 = 0
+                        ∴ 𝑥 = 𝑖 is a solution to the equation.
 
 def complex number set(Censor, 2015):
     - formal: ℂ = { 𝑎 + 𝑏𝑖 | 𝑎, 𝑏 ∈ ℝ }

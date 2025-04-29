@@ -85,6 +85,7 @@
 - [The Academic Genealogy of Mathematics](https://academictree.org/math/)
 - [Asaf Karagila](https://karagila.org)
 - Emmy Noether
+- Katherine Johnson
 - [Loyiso Nongxa](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
 - [Norman J Wildberger](https://njwildberger.com)
 - [Richard Hammack](https://richardhammack.github.io/index.html)

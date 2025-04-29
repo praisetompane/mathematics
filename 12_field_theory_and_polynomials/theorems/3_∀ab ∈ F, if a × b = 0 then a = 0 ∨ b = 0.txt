@@ -10,8 +10,9 @@ def ∀ab ∈ F, if a × b = 0 then a = 0 ∨ b = 0(Censor, 2015):
             NB: There are structures in which this is not true.
                 non zero values can multiple to zero
 - proof:
-    Let a × b = 0
-    Then:
+    let:
+        a × b = 0
+    then:
         if a = 0,
             then statement 4 is true.
         if a ≠ 0
