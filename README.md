@@ -92,6 +92,7 @@
 - [Terry Tao](https://terrytao.wordpress.com/)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 - [MΣΣT a Mathematician](https://www.youtube.com/playlist?list=PLhIglcapeTlGFYhSj3VnUc4sdwNUm9wDW)
+- [Math-life balance - Interviews](https://www.youtube.com/playlist?list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp)
 
 ## Testing
 - ### Execute Tests
