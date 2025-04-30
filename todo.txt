@@ -1,9 +1,15 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
-        - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley.
+        - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
             - course goal: First Order Logic
             - current:  03. Logic. The Language Of Sentential Logic
+        - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+            - current:  
     - readings:
+        - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
+            - https://classes.berkeley.edu/content/2020-Fall-MATH-125A-001-LEC-001
+        - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+            - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
         - Hinman, P.G. 2005. Fundamentals of Mathematical Logic.
         - Kunen, K. 2007. The Foundations of Mathematics.
         - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic. Calgary.
@@ -15,9 +21,15 @@
 
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
-        - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley.
+        - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
             - current: 2. Set Theory. Basic concepts
+        - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+            - current:  
     - readings:
+        - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
+            - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
+        - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+            - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
         - The Open Logic Project. 2021. Set Theory An Open Introduction
             - https://github.com/OpenLogicProject/set-theory
         - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
@@ -27,16 +39,19 @@
 
 - 15_linear_and_multilinear_algebra;matrix_theory:
     - lectures:
-        - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering. 
-            - current: Lecture 05 - Complex numbers: *
+        - 104016:
+            - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering. 
+                - current: Lecture 05 - Complex numbers: *
+        - 18.06:
+            - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
         - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
-        - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
-        - Khan Academy. Linear algebra
-        - Edx: GTx - Explore the fundamentals of linear algebra
+        - Khan Academy. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
     - readings:
-        - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
+        - 104016:
+            - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
+        - 18.06:
+            - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
         - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-        - https://ocw.Massachusetts Institute of Technology.edu/courses/18-06sc-linear-algebra-fall-2011/
         - https://github.com/OpenMathLib/OpenBLAS
     - recitations:
     - assignments:
@@ -45,21 +60,44 @@
 - 26_real_functions:
     - lectures:
         - calculus:
-            - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering. 
-                - current: Calculus - 01: *
-            - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
-                - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
+            - 104003:
+                - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
+                    - current: Calculus - 03: *
+            - 104004:
+                - Censor, A. 2015. 104004 - Differential and Integral Calculus 2. Technion International School of Engineering
+                    - current: None
+                    - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+            
+            - 18.01:
+                - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
+                    - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
+            - 18.02:
+                - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
+            
             - Hammack, R. 2020. Hammack's Calculus I
                 - current: Hammack's Calculus I, Lecture 1
-            - Censor, A. 2015. 104004 - Differential and Integral Calculus 2. Technion International School of Engineering.
-                - current: None
-                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-            - https://www.khanacademy.org/math/calculus-1
-            - https://ocw.mit.edu/courses/18-014-calculus-with-theory-fall-2010/
+                
+            - Khan Academy. Differential Calculus
+                - https://www.khanacademy.org/math/differential-calculus
+                - https://www.khanacademy.org/math/calculus-1
+            - Khan Academy. Integral Calculus
+                - https://www.khanacademy.org/math/integral-calculus
+                - https://www.khanacademy.org/math/calculus-2
+            - Khan Academy. Multivariable Calculus
+                - https://www.khanacademy.org/math/multivariable-calculus
+        - real analysis
             - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology.
     - readings:
-        - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg.
-        - https://ocw.Massachusetts Institute of Technology.edu/courses/18-01-single-variable-calculus-fall-2006/
+        - 104003:
+            - https://students.technion.ac.il/local/technionsearch/course/104003
+        - 104004:
+            - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+            - https://students.technion.ac.il/local/technionsearch/course/104004
+        - 18.01:
+            - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
+            - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+        - 18.02:
+            - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
         - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - chapter vi, viii
     - recitations:
@@ -69,27 +107,27 @@
 ============================================================================================================
 next₁:
     - 00_general_and_overarching_topics;collections:
-        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-            - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
-            - basics:
-                from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger
-                to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger
-            - others:
-                66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger
-                81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81
-                82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82
-                89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger
-                93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger
-                104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104
-                210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210
-                211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211
-            - more on real number:
-                from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111
-                to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger
-            - more on natural numbers:
-                from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155
-                to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157
-                
+        - lectures:
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
+                - basics:
+                    from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger
+                    to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger
+                - others:
+                    66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger
+                    81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81
+                    82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82
+                    89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger
+                    93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger
+                    104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104
+                    210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210
+                    211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211
+                - more on real number:
+                    from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111
+                    to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger
+                - more on natural numbers:
+                    from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155
+                    to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157    
         - readings:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
                 - current position: pg. 22: example 3
@@ -158,7 +196,7 @@ next₂:
             - Edx: GeorgetownX: PHYS-155  - Mathematical and Computational Methods
             - Coursera: Precalculus through Data and Modelling Specialization
         - readings:
-            - https://ocw.Massachusetts Institute of Technology.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
+            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - assignments:
         - exams:
 

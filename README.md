@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
 ## Objectives
-- An attempt at unpacking mathematics and how it is created/discovered in layman's terms.
+- An attempt at unpacking Mathematics and it creation/discovery in layman's terms.
 
 ## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
@@ -35,8 +35,6 @@
                - prove Mathematical statements.
                - invent or discover new Mathematical theorems and theories.
 
-- plain english: ???
-
 - Formal Classification Scheme:
      - [ZBMATH](https://zbmath.org/classification/)
 
@@ -54,11 +52,9 @@
 ## History
 - [MoMath + Wolfram](https://history-of-mathematics.org/)
 
-## Notation
-- [Wumbo](https://wumbo.net/symbols/)
-- [Glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
-
 ## Tools
+- [Mathematical Symbols](https://wumbo.net/symbols/)
+- [Glossary of Mathematical Symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org)
 - [LEAN](https://github.com/leanprover)
 - [mathlib4](https://github.com/leanprover-community/mathlib4)
@@ -92,6 +88,7 @@
 - [Terry Tao](https://terrytao.wordpress.com/)
 - [Index](https://www.math.columbia.edu/~woit/wordpress/)
 - [MΣΣT a Mathematician](https://www.youtube.com/playlist?list=PLhIglcapeTlGFYhSj3VnUc4sdwNUm9wDW)
+- [Math-life balance - Interviews](https://www.youtube.com/playlist?list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp)
 
 ## Testing
 - ### Execute Tests
@@ -99,7 +96,7 @@
      pytest
      ```
 
-## Spell Check
+- ## Spell Check
 ```shell
 pyspelling -c spellcheck.yaml
 ```
