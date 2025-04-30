@@ -1,5 +1,6 @@
 # authors
 Aigner
+Kuber
 Alama
 Dunham
 AndreaSchmidt
@@ -134,6 +135,7 @@ pytest
 radix
 
 # institutions
+nptel
 ndsu
 nodak
 cengage
@@ -215,6 +217,10 @@ Jozi
 README
 
 # urls
+noc
+LEC
+technionsearch
+onlinecourses
 alg
 abjorndahl
 mec
@@ -229,7 +235,9 @@ sdwNUm
 wDW
 dev
 academictree
-
+cTcNv
+jZNErdgrlLp
+sHKwbM
 
 # Mathematics Subject Classification – MSC2020
 Exx
