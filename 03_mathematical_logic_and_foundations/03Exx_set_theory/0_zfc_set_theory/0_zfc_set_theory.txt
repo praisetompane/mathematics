@@ -20,7 +20,7 @@ def Zermelo–Fraenkel set theory with the axiom of choice(Kunen, 2007:10-11):
         .
         .
         .
-
+    - every object is a set.
 
 
   - examples: ??? 
