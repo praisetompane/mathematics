@@ -1,10 +1,14 @@
 - 03_mathematical_logic_and_foundations:
     - lectures:
+        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+            - 251 A brief history of logic： Aristotle and deduction ｜ Math Foundations 251 ｜ NJ Wildberger
+            - 252 A brief history of logic： Stoics and other thinkers ｜ MathFoundations 252 ｜ NJ Wildberger
+            - 253 A brief History of Logic： Medieval and Arabic Logic ｜ Math Foundations 253 ｜ N J Wildberger
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
             - course goal: First Order Logic
             - current:  03. Logic. The Language Of Sentential Logic
         - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-            - current:  
+            - current: None
     - readings:
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
             - https://classes.berkeley.edu/content/2020-Fall-MATH-125A-001-LEC-001
@@ -22,9 +26,9 @@
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
         - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-            - current: 2. Set Theory. Basic concepts
+            - current: 2. 3. Set Theory. First Five Axioms
         - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-            - current:  
+            - current:  None
     - readings:
         - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
             - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
