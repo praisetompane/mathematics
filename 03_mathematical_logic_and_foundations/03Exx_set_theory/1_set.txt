@@ -23,7 +23,12 @@ def set(Hammack, 2018:3):
             - infinite: a set with infinitely many elements.
                 example: {..., -2, -1, 0, 1, 2, ...}
 
-        - elements := things in the collection
+        - construction methods:
+            - roster
+            - set builder notation:
+                see: mathematics/03_mathematical_logic_and_foundations/03Exx_set_theory/2_set_builder_notation.txt
+
+        - elements: things in the collection
             - elements of a set can be anything:
                 - examples:
                     - B = {T, F}                        = set with True and False.
@@ -85,6 +90,10 @@ def set(Hammack, 2018:3):
                     - 2 ∈ A     : means 2 is an element of A OR 2 is in A OR 2 in A
                     - 2,4 ∈ A   : means 2 and 4 are in A
                     - 5 ∉ A     : means 5 is not an element of A OR 5 is not in A OR 5 not in A
+
+        - conventions: capital letters are used to name sets.
+            - examples:
+                A = {0,1,2,3,4}
 
         - significant sets with reserved letters(Hammack, 2018:6):
             - ℕ = {0,1,2,3,4,5,...}                     : Natural numbers
