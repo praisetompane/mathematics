@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
 ## Objectives
-- An attempt at unpacking Mathematics and it creation/discovery in layman's terms.
+- An attempt at unpacking Mathematics and its creation/discovery in layman's terms.
 
 ## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
@@ -81,6 +81,8 @@
 - [The Academic Genealogy of Mathematics](https://academictree.org/math/)
 - [Asaf Karagila](https://karagila.org)
 - Emmy Noether
+- Ada Lovelace
+- Grete Hermann
 - Katherine Johnson
 - [Loyiso Nongxa](https://www.up.ac.za/nga-mass/article/2952543/Professor-Loyiso-G.-Nongxa)
 - [Norman J Wildberger](https://njwildberger.com)
