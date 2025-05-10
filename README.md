@@ -2,7 +2,7 @@
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
 ## Objectives
-- An attempt at unpacking mathematics and how it is created/discovered in layman's terms.
+- An attempt at unpacking Mathematics and how it is created/discovered in layman's terms.
 
 ## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.

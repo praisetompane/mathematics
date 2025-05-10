@@ -1,12 +1,12 @@
 def universe of sets:
     - formal: 
-        let 
+        let:
             a = 𝑤(omega) NB: This is due to a limitation in the extension for generating a subscript with ω
 
             𝑉₀ = set of atoms, which are NOT sets. 
                 - They can be numbers, letters, any object etc. 
                 - The atoms are indivisible, they contain nothing.
-        then
+        then:
             𝑉₁ = 𝑃(𝑉₀) ∪ 𝑉₀
             𝑉₂ = 𝑃(𝑉₁) ∪ 𝑉₁
             𝑉₃ = 𝑃(𝑉₂) ∪ 𝑉₂

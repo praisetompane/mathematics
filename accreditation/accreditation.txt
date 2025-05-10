@@ -1,0 +1,325 @@
+==============================================================================================================================================================
+Massachusetts Institute of Technology:    
+    - Committee on Curricula (CoC) Guidelines: https://registrar.mit.edu/faculty-curriculum-support/faculty-curriculum-committees/committee-curricula/committee-guidelines-6
+    - subjects: https://catalog.mit.edu/subjects/18/ 
+    - Websis: https://student.mit.edu/sfprwhom.html
+    - Canvas: https://web.mit.edu/canvas/
+    - Final Exam Schedule: https://finalexams.mit.edu/#/Finals
+    - General Institute Requirements:
+        - https://mitadmissions.org/help/faq/mit-core-curriculum-girs/
+        - https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements 
+        - https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/
+        - https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/science-core/
+        - https://www.youtube.com/playlist?list=PLdvxZS1QSbk1t4ojfSArHvzOH-YzSHUrJ
+
+
+    undergraduate: 
+        - program:
+            - BSc Mathematics (Course 18) (Pure Mathematics Option)
+            - https://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
+            - https://math.mit.edu/academics/undergrad/major/course18/pure.php
+
+        Major Subjects
+            Required Subjects                                                          108 
+                18.03 or 18.032 (formerly 18.034) Differential Equations               12 :
+                    - MSC2020:
+                        - 
+                    [sufficiently advanced students may substitute 18.152 or 18.303]
+                18.100 Real Analysis                                                   12 :
+                    [equivalent:  18.100A, 18.100P and 18.100Q ]
+                    - MSC2020:
+                        - 
+                18.701 Algebra I                                                       12 :
+                    - MSC2020:
+                        - 
+                18.702 Algebra II                                                      12 :
+                    - MSC2020:
+                        - 
+                18.901 Introduction to Topology                                        12 :
+                    - MSC2020:
+                        - 
+            Restricted Electives
+                One of the following three Subjects                                    
+                    18.102 Introduction to Functional Analysis                         12 :
+                        - MSC2020:
+                            - 
+                One of the following six Seminars                                      
+                    18.704 Seminar in Algebra(CI-M)                                    12 :
+                        - MSC2020:
+                            - 
+            Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher: 24
+                18.504 Seminar in Logic (CI-M)                                         12 :
+                    - MSC2020:
+                        - 
+                18.424 Seminar in Information Theory  (CI-M)                           12 :
+                    - MSC2020:
+                        - 
+            Units in Major Total	                                                   108 = 12 * 9
+        
+        Unrestricted Electives	                                                   84
+            NB: I would take Computer Science and Computer Engineering courses. See computation/accreditation.txt
+            - 18.434 Seminar in Theoretical Computer Science                       12 :
+                - MSC2020:
+                    -      
+            - 18.784 (Seminar in Number Theory)                                    12 :
+                - MSC2020:
+                    - 
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            Units in Unrestricted Electives Total                                  84 = 12 * 7      
+
+        Units in Major That Also Satisfy the GIRs                                  12
+            -                                                                      12 :
+            Units in Major That Also Satisfy the GIRs Total                        12 = 12 * 1
+
+        Total Units Beyond the GIRs Required for SB Degree                         180
+            NB: I would take Computer Science and Computer Engineering courses. See computation/accreditation.txt
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            -                                                                      12 :
+            Total Units Beyond the GIRs Required for SB Degree Total               180 = 12 * 15  
+            SB = Science Bachelor | Bachelor of Science
+            NB: The units for any subject that counts as one of the 17 GIR subjects cannot also be counted as units required beyond the GIRs.
+
+        General Institute Requirements(GIRs)                                       180
+            - 18.01 - Single Variable Calculus                                     12:
+                - MSC2020:
+                    -
+            - 18.02 - Multi Variable Calculus                                      12:
+                - MSC2020:
+                    -
+            - 8.01 Physics I - Classical Mechanics                                 12:
+                - 
+            - 8.02 Physics II - Electromagnetism                                   12:
+                - 
+            - 7.012, 7.013, 7.014, 7.015, or 7.016 - Biology                       12: 
+                - 
+            - 3.091, 5.111 or 5.111 - Chemistry                                    12:
+                -
+            - Communication Intensive:
+                - 18.904 Seminar in Topology(CI-M)                                 12 :
+                - 18.994 Seminar in Geometry(CI-M)                                 12 :
+            - Humanities, Arts and Social Sciences (HASS) Requirement: 8 of these: N/A
+                - https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+                -                                                                  9 :
+            - Laboratory Requirement:                                              N/A
+                - https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#laboratoryrequirementtext
+                - 18.821	Project Laboratory in Mathematics	                   12
+                Laboratory Requirement Total                                       12 = 12 * 1
+            General Institute Requirements Total = 12 * 9 + 9 * 8                  180 
+
+        - Physical Education Requirement                                           N/A
+            - Swimming Requirement
+            -                                                                      8 :
+            -                                                                      8 :
+            -                                                                      8 :
+            -                                                                      8 :
+            Physical Education Requirement Total                                   32 = 8 * 4
+        
+        - Restricted Electives in Science and Technology (REST):
+            - https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext
+            - 22.01	Introduction to Nuclear Engineering and Ionizing Radiation     12 :
+            - 22.02	Introduction to Applied Nuclear Physics	                       12 :
+            Restricted Electives in Science and Technology                         12 * 2 = 24             
+
+        Total Subjects: ???
+        Total Credits: 108 + 84 + 180 + 180 + 32 + 24 = 608
+    honours: 
+        -
+    masters:
+        -
+    doctrate: 
+        -
+==============================================================================================================================================================
+University of Pretoria:
+    undergraduate: 
+        - program:
+            - BSc (Mathematics) (02133263)
+            - programme plan: https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
+            - https://www.up.ac.za/faculty-of-natural-agricultural-sciences/programmes/programme/02133263/year/2025
+        
+        Year 1: 
+            Fundamental:
+                Semester 1:
+                    Academic information management 111 (AIM 111)               : DONE
+                Semester 2:
+                    Academic information management 121 (AIM 121)               : DONE 
+            Core:
+                Semester 1:
+                    Discrete structures 115 (WTW 115)                           : IN PROGRESS
+                        - MSC2020:
+                            - 
+                    Calculus 114 (WTW 114)                                      : IN PROGRESS
+                        - MSC2020:
+                            - 
+                    Mathematical modelling 152 (WTW 152)                        :
+                        - MSC2020:
+                            - 
+                Semester 2: 
+                    Numerical analysis 123 (WTW 123)                            : 
+                        - MSC2020:
+                            - 
+                    Mathematics 124 (WTW 124)                                   :
+                        - MSC2020:
+                            - 
+                    Dynamical processes 162 (WTW 162)                           : 
+                        - MSC2020:
+                            - 
+            Electives:
+                Semester 1:
+                    Mathematical statistics 111 (WST 111)                       :
+                        - MSC2020:
+                            - 
+                    Imperative programming 132 (COS 132)                        : DONE
+                        - MSC2020:
+                            - 
+                    Introduction to computer science 151 (COS 151)              :
+                        - MSC2020:
+                            - 
+                Semester 2: 
+                    Mathematical statistics 121 (WST 121)                       :
+                        - MSC2020:
+                            - 
+                    Program design: Introduction 110 (COS 110)                  :
+                        - MSC2020:
+                            - 
+        Year 2:
+            Core:
+                Semester 1:
+                    Linear algebra 211 (WTW 211)                                :
+                        - MSC2020:
+                            - 
+                    Calculus 218 (WTW 218)                                      :
+                        - MSC2020:
+                            - 
+                    Differential equations 286 (WTW 286)                        :
+                        - MSC2020:
+                            - 
+                Semester 2: 
+                    Linear algebra 221 (WTW 221)                                :
+                        - MSC2020:
+                            - 
+                    Analysis 220 (WTW 220)                                      :
+                        - MSC2020:
+                            -  
+                    Vector analysis 248 (WTW 248)                               :
+                        - MSC2020:
+                            - 
+                    Discrete structures 285 (WTW 285)                           :
+                        - MSC2020:
+                            - 
+            Electives:
+                Semester 1: 
+                    Theoretical computer science 210 (COS 210)                  :
+                        - MSC2020:
+                            - 
+                    Data structures and algorithms 212 (COS 212)                :
+                        - MSC2020:
+                            - 
+                Semester 2: 
+                    Software modelling 214 (COS 214)                            :
+                        - MSC2020:
+                            - 
+                    Computer organisation and architecture 284 (COS 284)        :
+                        - MSC2020:
+                            - 
+        Year 3: 
+            Core:                            
+                Semester 1:
+                    Analysis 310 (WTW 310)                                      :
+                        - MSC2020:
+                            - 
+                    Algebra 381 (WTW 381)                                       :
+                        - MSC2020:
+                            -  
+                Semester 2: 
+                    Complex analysis 320 (WTW 320)                              :
+                        - MSC2020:
+                            - 
+                    Geometry 389 (WTW 389)                                      :
+                        - MSC2020:
+                            -      
+            Electives:
+                Semester 1:
+                    Dynamical systems 382 (WTW 382)                             :
+                        - MSC2020:
+                            - 
+                    Partial differential equations 386 (WTW 386)                :
+                        - MSC2020:
+                            - 
+                    NB: depending on workload, but you can do this as par of fulfilling BSc Computer Science 3rd year requirements
+                        Artificial intelligence 314 (COS 314)                   :
+                        Compiler construction 341 (COS 341)                     :
+                Semester 2: 
+                    Numerical analysis 383 (WTW 383)                            :
+                        - MSC2020:
+                            - 
+                    Continuum mechanics 387 (WTW 387)                           :
+                        - MSC2020:
+                            -  
+                    NB: depending on workload, but you can do this as par of fulfilling BSc Computer Science 3rd year requirements
+                        Programming languages 333 (COS 333)                         :  
+    honours: 
+        - program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2088537/bsc-honours-in-mathematics-programme-code-02240181
+    masters: 
+        - program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2085225/msc-in-mathematics-programme-code-02250181
+    doctrate: 
+        - program:
+            - https://www.up.ac.za/mathematics-and-applied-mathematics/article/2121683/phd-in-mathematical-sciences-programme-code-02260761
+            - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
+==============================================================================================================================================================
+UC Berkeley:
+    undergraduate: 
+        - program:
+            - Bachelor of Arts: Mathematics
+            - https://guide.berkeley.edu/undergraduate/degree-programs/mathematics/
+            - https://math.berkeley.edu/undergraduate/major/pure
+==============================================================================================================================================================
+North Eastern University:
+    undergraduate: 
+        - program: 
+            - BSc Mathematics
+            - overview: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#text
+            - modules: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#programrequirementstext
+            - plan of study: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#planofstudytext
+    honours: 
+        -
+    masters:
+        -
+    doctrate: 
+        -
+==============================================================================================================================================================      
+accreditation template:
+    undergraduate: 
+        - 
+    honours: 
+        -
+    masters:
+        -
+    doctrate: 
+        -
+==============================================================================================================================================================
