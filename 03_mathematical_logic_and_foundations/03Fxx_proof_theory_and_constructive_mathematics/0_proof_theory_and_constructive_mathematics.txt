@@ -18,4 +18,4 @@ def proof theory (Kunen, 2007:7):
 
 
 References:
-    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

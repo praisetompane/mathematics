@@ -77,4 +77,4 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
     - proof: ???
     
 References:
-    - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA.
+    - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning.

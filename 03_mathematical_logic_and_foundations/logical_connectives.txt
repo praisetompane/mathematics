@@ -46,6 +46,6 @@ def logical connectives or logical operator, sentential connective, or sententia
                 NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
 
 References:
-    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
     - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html 
     - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.

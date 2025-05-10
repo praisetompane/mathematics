@@ -1,4 +1,16 @@
 # authors
+Dummit
+Qian
+Palmgren
+Nayak
+Ishihara
+Hägg
+Hajime
+Hower
+Bombieri
+Enderton
+Magnus
+Kunen
 Aigner
 Kuber
 Alama
@@ -114,6 +126,14 @@ trinomial
 sentential
 powerset
 Satisfiability
+doctrate
+ebooks
+programme
+programmes
+todo
+multilinear
+multisets
+precalculus
 
 # technology
 visualstudio
@@ -133,8 +153,10 @@ pyspelling
 OpenBLAS
 pytest
 radix
+onedrive
 
 # institutions
+Roorkee
 nptel
 ndsu
 nodak
@@ -169,54 +191,52 @@ Springer
 OpenMathLib
 MathIsFun
 mathsisfun
+technion
+befocused
+khanacademy
+claymath
+ima
+joma
 
 # acronyms
+IIT
+CRC
+GIR
+HASS
 bce
 iff
 NGB
 MYINC
 bsc
-doctrate
-ebooks
 msc
-programme
-programmes
-todo
 wst
 wtw
-befocused
-onedrive
-technion
-magnus
-khanacademy
-kunen
-multilinear
-multisets
-precalculus
-ams
-claymath
-ima
-joma
-leanprover
-maa
-mathematicallogic
-Prover
-ryp
-sams
-shorthands
-svg
-terrytao
-txt
-woit
 yaml
+svg
 za
-
+maa
+sams
+ams
 
 # places
 Jozi
 README
 
 # urls
+bpb
+lplee
+wpmucdn
+SEM
+BookOfProof
+leanprover
+txt
+woit
+mathematicallogic
+terrytao
+Websis
+PLdvxZS
+QSbk
+YzSHUrJ
 noc
 LEC
 technionsearch
@@ -238,6 +258,17 @@ academictree
 cTcNv
 jZNErdgrlLp
 sHKwbM
+finalexams
+firstyear
+girs
+laboratoryrequirementtext
+mitadmissions
+ojfSArHvzOH
+planofstudytext
+programrequirementstext
+restrequirementtext
+sfprwhom
+theoreticalmathematicstext
 
 # Mathematics Subject Classification – MSC2020
 Exx

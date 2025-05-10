@@ -10,7 +10,7 @@
 - def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
 
 - def mathematics³: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
-     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely shorthands.
+     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely a shorthand.
           - `∧` means: AND
           - `Σ` means: sum
           - `∀` means: for all
@@ -62,10 +62,11 @@
 - [MathIsFun](https://www.mathsisfun.com/)
 
 ## State of the art
-[Quanta Magazine](https://www.quantamagazine.org/mathematics/)
+- [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
+- [MIT Mathematics](https://math.mit.edu/index.php)
 
 ## Community
-- [Lean Prover](https://leanprover.zulipchat.com/)
+- [Lean](https://leanprover.zulipchat.com/)
 - [The South African Mathematical Society](http://www.sams.ac.za)
 - [The African Mathematical Society](https://aims.ac.za)
 - [Institute of Mathematics & its Applications](https://ima.org.uk)
@@ -105,7 +106,7 @@ pyspelling -c spellcheck.yaml
 - [Mathematics Subject Classification. 2020](https://zbmath.org/classification/)
 - [Mathematical Association of America](https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy)
 - Lockhart, P. 2009. A Mathematician's Lament.
-- Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+- Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
 
 ## Legend
 **Q**: Question for later research<br>

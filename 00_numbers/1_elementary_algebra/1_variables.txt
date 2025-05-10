@@ -65,6 +65,6 @@ def bound variable (Weisstein):
     - proof: ???
 
 References:
-    - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
+    - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning. 
     - Weisstein, Eric W. "Free Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/FreeVariable.html 
     - Weisstein, Eric W. "Dummy Variable." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/DummyVariable.html 
