@@ -1,8 +1,23 @@
 # What is Mathematics?
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
+- [What is Mathematics?](#what-is-mathematics)
+  - [Objectives](#objectives)
+  - [Definitions](#definitions)
+  - [Learning Order](#learning-order)
+  - [Dependencies](#dependencies)
+  - [Setup Instructions](#setup-instructions)
+  - [History](#history)
+  - [Tools](#tools)
+  - [State Of The Art](#state-of-the-art)
+  - [Community](#community)
+  - [Mathematicians](#mathematicians)
+  - [Testing](#testing)
+  - [References](#references)
+  - [Legend](#legend)
+
 ## Objectives
-- An attempt at unpacking Mathematics and it creation/discovery in layman's terms.
+- An attempt at unpacking Mathematics and its creation/discovery in layman's terms.
 
 ## Definitions
 - def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
@@ -10,7 +25,7 @@
 - def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
 
 - def mathematics³: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
-     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely shorthands.
+     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely a shorthand.
           - `∧` means: AND
           - `Σ` means: sum
           - `∀` means: for all
@@ -42,11 +57,39 @@
      - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
      - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
 
+## Learning Order
+- [00_numbers](00_numbers)
+     - [0_natural_numbers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/)
+     - [0_integers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/)
+     - [0_fractions](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/)
+     - [0_rational_numbers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/)
+     - [0_real_numbers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/)
+     - [0_complex_numbers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/)
+     - [0_decimal_number_system](00_numbers/0_number_systems/0_decimal_number_system/)
+     - [0_number_systems](00_numbers/0_number_systems/)
+- [03_mathematical_logic_and_foundations](03_mathematical_logic_and_foundations/)
+  - [03Bxx_general_logic](03_mathematical_logic_and_foundations/03Bxx_general_logic/)
+  - [03Fxx_proof_theory_and_constructive_mathematics](03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics)
+  - [03Exx_set_theory](03_mathematical_logic_and_foundations/03Exx_set_theory/)
+- [20_group_theory_and_generalizations](20_group_theory_and_generalizations/)
+- [12_field_theory_and_polynomials](12_field_theory_and_polynomials/)
+- [16_associative_rings_and_algebras](16_associative_rings_and_algebras/)
+- [17_nonassociative_rings_and_algebras](17_nonassociative_rings_and_algebras)
+- [15_linear_and_multilinear_algebra;matrix_theory](15_linear_and_multilinear_algebra;matrix_theory/)
+- [26_real_functions](26_real_functions/)
+- [34_ordinary_differential_equations](34_ordinary_differential_equations/)
+- [35_partial_differential_equations](35_partial_differential_equations/)
+- [51_geometry](51_geometry)
+- [54_general_topology](54_general_topology)
+- [60_probability_theory_and_stochastic_processes](60_probability_theory_and_stochastic_processes/)
+- [18_category_theory;homological_algebra](18_category_theory;homological_algebra/)
+
 ## Dependencies
 - [Docker](https://docs.docker.com/get-started/)
 
 ## Setup Instructions
-- The repository is configured to use [devcontainers](https://containers.dev) for development.
+- The repository is configured to use [devcontainers](https://containers.dev) for development. <br>It requires no setup except an editor that supports devcontainers, which will prompt you on first open to start it in a container.
+    - [Supported Editors](https://containers.dev/supporting)
     - [Developing inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## History
@@ -61,11 +104,12 @@
 - [Mathematica](https://www.wolfram.com/mathematica/)
 - [MathIsFun](https://www.mathsisfun.com/)
 
-## State of the art
-[Quanta Magazine](https://www.quantamagazine.org/mathematics/)
+## State Of The Art
+- [Quanta Magazine](https://www.quantamagazine.org/mathematics/)
+- [MIT Mathematics](https://math.mit.edu/index.php)
 
 ## Community
-- [Lean Prover](https://leanprover.zulipchat.com/)
+- [Lean](https://leanprover.zulipchat.com/)
 - [The South African Mathematical Society](http://www.sams.ac.za)
 - [The African Mathematical Society](https://aims.ac.za)
 - [Institute of Mathematics & its Applications](https://ima.org.uk)
@@ -105,10 +149,10 @@ pyspelling -c spellcheck.yaml
 - [Mathematics Subject Classification. 2020](https://zbmath.org/classification/)
 - [Mathematical Association of America](https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy)
 - Lockhart, P. 2009. A Mathematician's Lament.
-- Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+- Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
 
 ## Legend
 **Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
 
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my distributed memory.
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.

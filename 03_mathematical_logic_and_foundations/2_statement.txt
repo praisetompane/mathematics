@@ -106,4 +106,4 @@ def statement(Epp, 2010:2):
     - proof: ???
     
 References:
-    - Epp, S.S. 2010. Discrete mathematics with applications. 4th ed. Cengage Learning. Boston, MA. 
+    - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning. 

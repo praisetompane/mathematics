@@ -94,4 +94,4 @@ def proposition²(Kunen, 2007:4):
 
 References:
     - Leighton, T. 2010. Mathematics For Computer Science. https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/resources/lecture-1-introduction-and-proofs/
-    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

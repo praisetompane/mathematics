@@ -88,4 +88,4 @@ def foundations_axiomatic_method¹ (Kunen, 2007:5):
     - proof: ???
     
 References:
-    - Kunen, K. 2007. The Foundations of Mathematics.
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

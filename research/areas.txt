@@ -1,0 +1,5 @@
+- Cornell: https://math.cornell.edu/research
+- MIT: https://math.mit.edu/research/index.php
+- Stanford: https://mathematics.stanford.edu/research/research-areas
+- Princeton: https://www.math.princeton.edu/graduate/faculty-research
+- ...

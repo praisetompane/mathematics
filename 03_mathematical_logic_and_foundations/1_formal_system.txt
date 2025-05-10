@@ -6,12 +6,12 @@ def formal system(Montalban, 2020):
     - plain english: context to develop Mathematics in a formal way.
 
     - intuition: ???
-            
+
     - properties:
         - language
-        - rules
+        - rules of inference
         - axioms
-        
+
         - language: the means to create Mathematical statements:
             - symbols
             - grammar
@@ -25,13 +25,13 @@ def formal system(Montalban, 2020):
                     +               := plus
                     ×               := times
                     x,y,z ...       := variable symbols
-                    
+
                     NB: variable, we can add or remove depending on the objects we want to work with.
-                
+
                 - punctuation symbols:
                     - (             := opening parenthesis
                     - )             := closing parenthesis
-                    
+
                 - logical symbols:
                     =               := equality
                     ∧               := and
@@ -40,14 +40,14 @@ def formal system(Montalban, 2020):
                     ∃               := exists
                     ∀               := forall
                     ∈               := belongs
-            
+
                 NB: fixed in all first-order logic.
 
             - grammar: how you can put the symbols together:
                 - ...
             NB: The language is complete: You can express every Mathematical statement with the language.
 
-        - rules: set of allowed logical steps:
+        - rules of inference: set of allowed logical steps:
             - ...
 
             NB: The rules are complete: You can formalize all arguments in Mathematics with the rules.
@@ -61,7 +61,7 @@ def formal system(Montalban, 2020):
         NB: Gödel proved the completeness and incompleteness theorems.
 
     - examples: ???
-    
+
     - use cases:
         - create a solid foundation for Mathematics to:
             - avoid paradoxes.

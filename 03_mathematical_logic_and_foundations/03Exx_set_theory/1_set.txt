@@ -12,7 +12,8 @@ def set(Hammack, 2018:3):
     - plain english: ???
 
     - intuition:
-        a box with things in it.
+        - a box with things in it.
+        - in mathematics, the things are mathematical objects.
 
     - properties:
         - types of sets:
@@ -51,14 +52,14 @@ def set(Hammack, 2018:3):
                                0 0]
                     - M = {a,b,c}                       = set with letters representing its elements.
                         Given:
-                            a = [0 0  
+                            a = [0 0
                                 0 0]
 
-                            b = [1 1  
+                            b = [1 1
                                 0 0]
-                            
-                            c = [1 0     
-                                0 0]    
+
+                            c = [1 0
+                                0 0]
 
         - equality: sets are equal if they have the same elements, in any order with different repetitions.
             - examples:
@@ -68,12 +69,12 @@ def set(Hammack, 2018:3):
 
         - conventions: capital letters are used to name sets.
             - examples:
-                A = {0,1,2,3,4} 
+                A = {0,1,2,3,4}
 
         - operators:
             \   := minus
             ∪   := addition
-            ∈   := in (is element of) 
+            ∈   := in (is element of)
             ∉   := not in(not an element of)
             ⊆   := subset or equal
 
@@ -96,7 +97,7 @@ def set(Hammack, 2018:3):
                 - details:
                     - def ℕ = {0,1,2,3,4,5,...}:
                         see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers/
-                    
+
                     - def ℤ = {-5,-4,-3,-2,-1,0,1,2,3,4,5,...}:
                         see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/
 
@@ -116,14 +117,14 @@ def set(Hammack, 2018:3):
 
                         - intuition:
                             - an empty box
-                            
+
                         - properties:
                             - cardinality:
                                 |∅| = 0
                                 NB: it is the only set with a cardinality of zero(0)
                             - ∅ is a subset of every set:
                                 NB: It does NOT belong(i.e. ∈) to every set though.
-                                                            
+
                                 - proof: it is trivially/vacuously true, because ∅ has no elements and you can't pick any to check
                                                 their existence in the other set.
 
@@ -132,7 +133,7 @@ def set(Hammack, 2018:3):
     - examples: ???
         - first four integers from zero = {0,1,2,3}
         - first 4 prime numbers = {2,3,7,11}
-        
+
     - use cases:
         - describe all types of mathematical structures(Hammack, 2018:ix).
         - contain arbitrary objects, non-mathematical and mathematical objects.
@@ -140,4 +141,4 @@ def set(Hammack, 2018:3):
     - proof: ???
 
 References:
-    - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.

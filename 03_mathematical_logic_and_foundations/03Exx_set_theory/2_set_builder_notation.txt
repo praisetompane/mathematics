@@ -128,4 +128,4 @@ def set_builder_notation(Hammack, 2018:5):
     - proof: ???
 
 References:
-    - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia.
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.

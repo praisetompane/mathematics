@@ -48,33 +48,56 @@ def absolute value(Censor, 2013):
         - in words:
             - the absolute value of 𝑥 is:
                 - 𝑥, when 𝑥 is greater or equal to zero(0).
-                - -𝑥, when x is less than zero(0).
-                    NB: -1 * -𝑥(negative, because it is less 0).
+                - -𝑥, when 𝑥 is less than zero(0)
+                    i.e. -1 × -𝑥, when 𝑥 is less than zero(0)
+                        𝑥 is negative in the expansion, because it is less 0.
+                    i.e. negative of -𝑥
 
             - the absolute value of 𝑥 is,
                 the maximum value of the set of values 𝑥 and -𝑥.
+
+            remark: these two definitions are equivalent.
 
     - plain english: 
     
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - theorems:
+
 
     - examples:
         - |-5|:
-            -1 * -5 = 5
-            ∴ |-5| = 5
+            - applying first definition:
+                -1 * -5 = 5
+                ∴ |-5| = 5
 
-            NB: This is applying the second case in the definition, where 𝑥 < 0.
+                NB: This is applying the second case in the first definition(i.e. 𝑥 < 0).
+
+            - applying second definition:
+                maximum {-5, -1 × (-5)}
+                maximum {-5, 5}
+                ∴ |-5| = 5, because:
+                                - 5 is the maximum of 5 and -5
+                                    i.e. 5 is the greater|highest value between 5 and -5
 
         - |10|:
-            |10| = 10
-
-            NB: This is applying the first case in the definition.
+            - applying first definition:
+                |10| = 10
+                
+                NB: This is applying the first case in the first definition(i.e. 𝑥 > 0).
+        
+            - applying second definition:
+                maximum {10, -1 × 10}
+                maximum {10, -10}
+                ∴ |10| = 10, because:
+                                - 10 is the maximum of 10 and -10
+                                    i.e. 10 is the greater|highest value between 10 and -10
 
     - use cases: ???
         
-    - proof: ???
+    - proof: none. it is a definition.
+            NB: see proofs for its properties/theorems.
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
