@@ -1,10 +1,35 @@
+- 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
+    - lectures:
+        - Hower, V. 2020. MATH 1365 Introduction to Mathematical Reasoning. Northeastern University
+        - Book of Proof Lecture Series: https://richardhammack.github.io/BookOfProof/Ancilary.html
+        - Knop, A. 2018. Introduction to Mathematical Reasoning
+    - readings:
+        - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
+            - Webpage: https://richardhammack.github.io/BookOfProof/index.html
+        - Velleman, D.J. 2019. How to Prove It A Structured Approach
+        - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
+        - Solow, D. 2002. How to Read and Do Proofs: An Introduction to Mathematical Thought Processes. 6th Edition
+        - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+        - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
+        - constructive mathematics:
+            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+    - assignments:
+        - https://richardhammack.github.io/math300/Exercises.html
+    - exams:
+        - https://richardhammack.github.io/math300/Tests/index.html
+
 - 03_mathematical_logic_and_foundations:
     - lectures:
+        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+            - 251 A brief history of logic： Aristotle and deduction ｜ Math Foundations 251 ｜ NJ Wildberger
+            - 252 A brief history of logic： Stoics and other thinkers ｜ MathFoundations 252 ｜ NJ Wildberger
+            - 253 A brief History of Logic： Medieval and Arabic Logic ｜ Math Foundations 253 ｜ N J Wildberger
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
             - course goal: First Order Logic
             - current:  03. Logic. The Language Of Sentential Logic
         - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-            - current:  
+            - current: None
+        - Knop, A. 2019. Introduction to Mathematical Logic
     - readings:
         - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
             - https://classes.berkeley.edu/content/2020-Fall-MATH-125A-001-LEC-001
@@ -22,9 +47,9 @@
 - 03_mathematical_logic_and_foundations/03Exx_set_theory:
     - lectures:
         - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-            - current: 2. Set Theory. Basic concepts
+            - current: 2. 3. Set Theory. First Five Axioms
         - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-            - current:  
+            - current:  None
     - readings:
         - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
             - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
@@ -57,55 +82,55 @@
     - assignments:
     - exams:
 
-- 26_real_functions:
-    - lectures:
-        - calculus:
-            - 104003:
-                - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
-                    - current: Calculus - 03: *
-            - 104004:
-                - Censor, A. 2015. 104004 - Differential and Integral Calculus 2. Technion International School of Engineering
-                    - current: None
-                    - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-            
-            - 18.01:
-                - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
-                    - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
-            - 18.02:
-                - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
-            
-            - Hammack, R. 2020. Hammack's Calculus I
-                - current: Hammack's Calculus I, Lecture 1
-                
-            - Khan Academy. Differential Calculus
-                - https://www.khanacademy.org/math/differential-calculus
-                - https://www.khanacademy.org/math/calculus-1
-            - Khan Academy. Integral Calculus
-                - https://www.khanacademy.org/math/integral-calculus
-                - https://www.khanacademy.org/math/calculus-2
-            - Khan Academy. Multivariable Calculus
-                - https://www.khanacademy.org/math/multivariable-calculus
-        - real analysis
-            - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology.
-    - readings:
-        - 104003:
-            - https://students.technion.ac.il/local/technionsearch/course/104003
-        - 104004:
-            - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-            - https://students.technion.ac.il/local/technionsearch/course/104004
-        - 18.01:
-            - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
-            - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-        - 18.02:
-            - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
-        - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-            - chapter vi, viii
-    - recitations:
-    - assignments:
-    - exams:
-
 ============================================================================================================
 next₁:
+    - 26_real_functions:
+        - lectures:
+            - calculus:
+                - 104003:
+                    - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
+                        - current: Calculus - 03: *
+                - 104004:
+                    - Censor, A. 2015. 104004 - Differential and Integral Calculus 2. Technion International School of Engineering
+                        - current: None
+                        - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+                
+                - 18.01:
+                    - Jerison, D. 2006. 18.01 - Single Variable Calculus. Massachusetts Institute of Technology.
+                        - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
+                - 18.02:
+                    - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
+                
+                - Hammack, R. 2020. Hammack's Calculus I
+                    - current: Hammack's Calculus I, Lecture 1
+                    
+                - Khan Academy. Differential Calculus
+                    - https://www.khanacademy.org/math/differential-calculus
+                    - https://www.khanacademy.org/math/calculus-1
+                - Khan Academy. Integral Calculus
+                    - https://www.khanacademy.org/math/integral-calculus
+                    - https://www.khanacademy.org/math/calculus-2
+                - Khan Academy. Multivariable Calculus
+                    - https://www.khanacademy.org/math/multivariable-calculus
+            - real analysis
+                - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology.
+        - readings:
+            - 104003:
+                - https://students.technion.ac.il/local/technionsearch/course/104003
+            - 104004:
+                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+                - https://students.technion.ac.il/local/technionsearch/course/104004
+            - 18.01:
+                - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
+                - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - 18.02:
+                - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
+            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+                - chapter vi, viii
+        - recitations:
+        - assignments:
+        - exams:
+
     - 00_general_and_overarching_topics;collections:
         - lectures:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
@@ -142,19 +167,6 @@ next₁:
             - https://www.khanacademy.org/math/k-8-grades
                 - current position: 3rd grade
         - recitations:
-        - assignments:
-        - exams:
-
-    - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
-        - lectures:
-        - readings:
-            - Hammack, R. 2018. Book of Proof. 3.3 ed. Richmond, Virginia
-                - https://github.com/RichardHammack/RichardHammack.github.io
-            - Velleman, D.J. 2019. How to Prove It A Structured Approach
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4 ed. Springer
-            - Solow, D. 2002. How to Read and Do Proofs: An Introduction to Mathematical Thought Processes. 6th Edition
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
         - assignments:
         - exams:
 
