@@ -71,7 +71,7 @@ next₁:
             - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
             - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
             - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
+            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
             - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
             - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
             - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)

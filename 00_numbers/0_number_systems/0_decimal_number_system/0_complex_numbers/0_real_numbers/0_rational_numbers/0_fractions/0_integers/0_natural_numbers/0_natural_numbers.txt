@@ -1,4 +1,4 @@
-def natural number: 
+def natural number:
     - formal: ???
         - in words: ???
 
@@ -28,11 +28,11 @@ def natural number:
                         4 + 1 = 5
                         5 = 5, which is true
 
-                - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation. 
+                - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
 
     - proof: ???
 
-def natural number(Wildberger, 2009): 
+def natural number(Wildberger, 2009):
     - formal: ???
         - in words: ???
 
@@ -42,15 +42,17 @@ def natural number(Wildberger, 2009):
 
     - properties: ???
 
-    - examples: 
+    - examples:
         - || = two
         - ||||| = five
         - ||| = three
 
     - proof: ???
-    
+
 def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2):
-    - formal: ℕ = {1,2,3,4,...}
+    - formal:
+        ℕ = {0,1,2,3,4,...}
+        ℕ = {n/m | n,m ≥ 0 ∧ n = m}, where n/m is in reduced/simplified form.
 
         - in words:
             the set of ALL non-negative numbers from 0, with each next number, equal to the previous plus 1.
@@ -63,14 +65,21 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
         - remark: sometimes they are defined without 0.
         - axiomatized using Peano axioms.
 
+    - examples:
+        - 1
+        - 7
+        - 1.1/1.1 = 1
+        - 5.5/5.5 = 1
+        - 100
+        - ...
     - proof: ???
 
-def natural numbers set¹(Wildberger, 2009): 
+def natural numbers set¹(Wildberger, 2009):
     - formal: ???
         - in words: ???
 
     - plain english: a collection(i.e. Set) of these strings of ones.
-    
+
     - properties:
         - they form a sequence(i.e. they are naturally ordered):
             - plain english: for every natural number, we can associate/define/determine a "successor":
@@ -99,7 +108,7 @@ def natural numbers set¹(Wildberger, 2009):
                         - pair each one(i.e. |) in one number with a one in the other number.
                     - then:
                         - the number left with unpaired ones is the larger of the two.
-                        
+
                     - therefore:
                         - |||| comes before |||||| in the sequence of Natural numbers.
                         - |||||| is greater than ||||, because it has || left after pairing all the |s from |||| with itself.
@@ -123,7 +132,7 @@ def natural numbers set¹(Wildberger, 2009):
                                 𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
 
                         - remark: this is our third Mathematical operator.
-    
+
     - examples: ???
 
     - use cases: ???

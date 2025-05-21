@@ -1,4 +1,4 @@
-def rational number¹(Kent State Department of Mathematical Sciences, 2008:3): 
+def rational number¹(Kent State Department of Mathematical Sciences, 2008:3):
     - formal:
             𝑟 = m/n | m,n ∈ ℤ ∧ n ≠ 0
 
@@ -25,13 +25,13 @@ def rational number¹(Kent State Department of Mathematical Sciences, 2008:3):
                         60/5 = 12
                         12 = 12
                         ∴ 𝑥 = 12/5 is a solution to the equation.
-        
+
     - proof: ???
-    
-def rational numbers set (Censor, 2015): 
+
+def rational numbers set (Censor, 2015):
     - formal: ℚ = { m/n | m,n ∈ ℤ ∧ n ≠ 0 }
 
-        - in words: numbers of the form 𝑚 divided 𝑛, 
+        - in words: numbers of the form 𝑚 divided 𝑛,
                     where 𝑚 and 𝑛 are integers(i.e. ℤ)
                     and 𝑛 cannot be zero(0)
 
@@ -44,7 +44,7 @@ def rational numbers set (Censor, 2015):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 Question: Is there a formal proof for these?
