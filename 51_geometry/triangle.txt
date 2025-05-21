@@ -1,2 +1,19 @@
-Question: can you represent any shape as a triangles?
-Question: can you represent any quadrilateral as a triangles?
+def triangle | trilateral:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+        Q: can you represent any shape as a triangles?
+        Q: can you represent any quadrilateral as a triangles?
+    - proof: ???
+
+References: ???

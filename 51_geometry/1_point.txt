@@ -1,7 +1,7 @@
-def Point: (Wildberger, ???):
+def point(Wildberger, ???):
     - formal: ???
 
-        - in words: 
+        - in words:
             - Int² := Integer Point
                 - ordered pair of integer numbers
                 example: [2,3]
@@ -17,11 +17,10 @@ def Point: (Wildberger, ???):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 Question: can we perform arithmetic operations on Points?
     i.e. *, /, +, -
-    
+
 References: ???
-  
