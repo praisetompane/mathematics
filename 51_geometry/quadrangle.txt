@@ -1,4 +1,4 @@
-def trigonometry:
+def quadrangle | quadrilateral:
     - formal: ???
 
         - in words: ???
@@ -12,5 +12,7 @@ def trigonometry:
     - examples: ???
 
     - use cases: ???
-    
+
+    - proof: ???
+
 References: ???
