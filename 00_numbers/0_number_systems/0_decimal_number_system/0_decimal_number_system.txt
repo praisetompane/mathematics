@@ -1,4 +1,4 @@
-def decimal number system:
+def hindu-arabic number system | decimal number system:
     - formal: ???
 
         - in words: base(radix)-10 positional numeral system for representing Real(ℝ) numbers (Weisstein):

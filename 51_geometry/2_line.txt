@@ -1,8 +1,8 @@
-def Line (Wildberger, ???):
+def line (Wildberger, ???):
     - formal: ???
 
         - in words:
-            an ordered proportion 
+            an ordered proportion
                 of rational numbers < a: b: c >  where
                     a and b are NOT BOTH zero (i.e. one of them can be 0 at a time)
 
@@ -17,7 +17,7 @@ def Line (Wildberger, ???):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???
