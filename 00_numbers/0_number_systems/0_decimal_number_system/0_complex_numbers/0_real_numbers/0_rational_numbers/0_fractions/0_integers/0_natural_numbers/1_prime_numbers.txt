@@ -1,0 +1,19 @@
+def prime numbers | primes:
+    - formal: {𝑛 ∈ ℕ, 𝑛 > 1 : only 1|𝑛  ∧ 𝑛|𝑛 }
+
+        - in words: all natural numbers greater 1, divisible only by 1 and itself.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References:
+    Weisstein, Eric W. "Prime Number." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/PrimeNumber.html
