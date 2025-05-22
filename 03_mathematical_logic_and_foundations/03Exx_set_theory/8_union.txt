@@ -1,0 +1,22 @@
+def U | union:
+    - formal:
+        let:
+            - A be a set
+            - B be a set
+
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???

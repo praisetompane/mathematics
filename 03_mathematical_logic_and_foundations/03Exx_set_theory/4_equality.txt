@@ -1,0 +1,29 @@
+def equality:
+    - formal:
+            - let:
+                - 𝐴 be a set
+                - 𝐵  be a set
+            - then:
+                - 𝐴 = 𝐵 ⟺ 𝐴 ⊆ 𝐵 ∧ 𝐵 ⊆ 𝐴
+
+        - in words:
+            - set are equal if they are subsets of each other.
+            - sets are equal if they have the same elements, in any order with different repetitions.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - {0,1,2,3,4} = {4,0,1,3,2}
+        - {...,-4,-3,-2,-1,0,1,2,3,4} = {...,0,-1,1,-2,2,-3,3,-4,4...}
+        - {2,4,6,8} ≠ {2,4,6,7}
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
