@@ -66,19 +66,17 @@ def set(Hammack, 2018:3):
                             c = [1 0
                                 0 0]
 
-        - equality: sets are equal if they have the same elements, in any order with different repetitions.
-            - examples:
-                - {0,1,2,3,4} = {4,0,1,3,2}
-                - {...,-4,-3,-2,-1,0,1,2,3,4} = {...,0,-1,1,-2,2,-3,3,-4,4...}
-                - {2,4,6,8} ≠ {2,4,6,7}
+                            c = [1 0
+                                0 0]
 
         - conventions: capital letters are used to name sets.
             - examples:
                 A = {0,1,2,3,4}
 
         - operators:
-            \   := minus
-            ∪   := addition
+            \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
+            U   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
+                := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
             ∈   := in (is element of)
             ∉   := not in(not an element of)
             ⊆   := subset or equal
