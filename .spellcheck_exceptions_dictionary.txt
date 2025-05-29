@@ -22,9 +22,13 @@ VHDL
 ACM
 STK
 HSTAR
+MTH
 
 
 # authors
+Rathjen
+Sieg
+Wilfried
 Orloff
 Mattuck
 Hanumanthu
@@ -116,6 +120,10 @@ Zalta
 
 
 # domain specific
+forall
+forallx
+notational
+ary
 nonassociative
 intuitionism
 logicism
@@ -223,6 +231,9 @@ ima
 joma
 
 
+# institutions
+
+
 # places
 Jozi
 README
@@ -230,12 +241,8 @@ README
 
 # technology
 visualstudio
-ary
 devcontainers
-forall
-forallx
 im
-notational
 num
 num's
 numpy

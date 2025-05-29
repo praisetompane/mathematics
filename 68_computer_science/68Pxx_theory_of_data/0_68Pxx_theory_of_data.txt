@@ -1,9 +1,8 @@
 def x:
     - formal: ???
 
-        - in words: ???
-
-        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation/4_design_and_analysis_of_algorithms
+        - in words: for details of this formal science:
+                        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation/4_design_and_analysis_of_algorithms
 
     - plain english: ???
 
@@ -14,7 +13,7 @@ def x:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???

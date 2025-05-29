@@ -1,1 +1,2 @@
-see: https://github.com/praisetompane/statistics
+for details of this formal science:
+    see: https://github.com/praisetompane/statistics

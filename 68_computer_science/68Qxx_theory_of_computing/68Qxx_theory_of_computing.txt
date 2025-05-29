@@ -1,8 +1,7 @@
-def theory_of_computing:    
+def theory_of_computing:
     - formal:
-        - in words: ???
-        
-        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation
+        - in words: for details of this formal science:
+                        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation
 
     - plain english: ???
 
@@ -13,7 +12,7 @@ def theory_of_computing:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???

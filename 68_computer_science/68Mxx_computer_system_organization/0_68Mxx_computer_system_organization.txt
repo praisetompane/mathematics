@@ -1,11 +1,10 @@
 def x:
     - formal: ???
 
-        - in words: ???
-        
-        see: https://github.com/praisetompane/computation_and_information/tree/main/3_computer_systems_organization
-        see: https://github.com/praisetompane/computation_and_information/tree/main/4_networks
-        
+        - in words: for details of this formal science:
+                        see: https://github.com/praisetompane/computation_and_information/tree/main/3_computer_systems_organization
+                        see: https://github.com/praisetompane/computation_and_information/tree/main/4_networks
+
     - plain english: ???
 
     - intuition: ???
@@ -15,7 +14,7 @@ def x:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???

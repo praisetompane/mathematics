@@ -1,7 +1,9 @@
 ============================================================================================================
 next₀:
-    - 00_numbers:
+    - 00_numbers: **
         - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 1. Numbers and arithmetic: *
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
                 - basics:
@@ -45,13 +47,11 @@ next₀:
 next₁:
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - course schedule:
-            - MATH 1365:
-                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
             - HSTAR-Y0001:
                 - https://www.coursera.org/learn/mathematical-thinking
+            - MATH 1365:
+                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 1. Numbers and arithmetic: *
             - HSTAR-Y0001:
                 - Devlin, K. Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
                     - current: Lecture 0
@@ -73,6 +73,7 @@ next₁:
             - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
             - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
             - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
+            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
             - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
         - recitations|labs:
             - HSTAR-Y0001:
@@ -96,56 +97,82 @@ next₁:
 
     - 03_mathematical_logic_and_foundations:
         - course schedule:
-            - Math 125A: https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
+            - Math 125A:
+                - https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
+            - MTH 302:
+                -
         - lectures:
-            - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
-                - current:  03. Logic. The Language Of Sentential Logic: *
-            - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                - current: None
+            - Math 125A:
+                - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
+                    - current:  03. Logic. The Language Of Sentential Logic: *
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - current: None
             - Bombieri, E. 2012. The Mathematical Truth. Institute for Advanced Study
         - readings:
             - Math 125A:
                 - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
-            - Kuber, A. Set Theory and Mathematical Logic:
-                - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
-
+            - MTH 302:
+                - Kuber, A. Set Theory and Mathematical Logic:
+                    - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
             - Hinman, P.G. 2005. Fundamentals of Mathematical Logic. A K Peters/CRC Press
             - Kunen, K. 2007. The Foundations of Mathematics. College Publications
             - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
                 - https://github.com/OpenLogicProject/forallx
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
         - recitations|labs:
-            -
+            - Math 125A:
+                -
+            - MTH 302:
+                -
         - assignments:
             - Math 125A:
                 - https://math.berkeley.edu/~antonio/math125A/index.html
+            - MTH 302:
+                -
         - exams:
             - Math 125A:
                 - https://math.berkeley.edu/~antonio/math125A/index.html
+            - MTH 302:
+                -
 
     - 03_mathematical_logic_and_foundations/03Exx_set_theory:
         - course schedule:
-            - Math 135: https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
+            - Math 135:
+                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
+            - MTH 302:
+                -
         - lectures:
-            - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-                - current: 2. Set Theory. Basic concepts
-            - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                - current:
+            - Math 135:
+                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
+                    - current: 2. Set Theory. Basic concepts
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - current:
         - readings:
             - Math 135:
                 - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
                 - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
                     - Chapter 1: Sets: *
-            - Kuber, A. Set Theory and Mathematical Logic:
+            - MTH 302:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
 
             - Burns, S., Hägg, D., Qian, Z. 2021. Set Theory - An Open Introduction
         - recitations|labs:
-            -
+            - Math 135:
+                -
+            - MTH 302:
+                -
         - assignments:
-            -
+            - Math 135:
+                -
+            - MTH 302:
+                -
         - exams:
-            -
+            - Math 135:
+                -
+            - MTH 302:
+                -
 
     - 20_group_theory_and_generalizations:
         - course schedule:
@@ -153,7 +180,7 @@ next₁:
                 - https://nptel.ac.in/courses/111106113
                 - https://onlinecourses.nptel.ac.in/noc25_ma64/preview
         - lectures:
-            - 111106113
+            - 111106113:
                 - Hanumanthu, K. 2025. Introduction to Abstract Group Theory. Chennai Mathematical Institute
         - readings:
             - 111106113:
@@ -234,19 +261,28 @@ next₂:
             - 104016: N/A
             - 18.06:
                 - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/
+                - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/instructor-insights/
+                - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/
+            - RES.18-010:
+                -
         - lectures:
             - 104016:
                 - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering.
                     - current: Lecture 05 - Complex numbers: *
             - 18.06:
+                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/
                 - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
-            - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
+            - RES.18-010:
+                - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
             - Khan Academy. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
         - readings:
             - 104016:
                 - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
             - 18.06:
                 - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/
+                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/readings/
+            - RES.18-010:
+                -
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press:
                 - current:
                     - Chapter III
@@ -255,17 +291,37 @@ next₂:
             - https://github.com/OpenMathLib/OpenBLAS
         - recitations|labs:
             - 104016: N/A
-            - 18.06: N/A
+            - 18.06:
+                -
+            - RES.18-010:
+                -
         - assignments:
             - 104016: N/A
-            - 18.06: N/A
+            - 18.06:
+                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/assignments/
+            - RES.18-010:
+                -
         - exams:
             - 104016: N/A
-            - 18.06: https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-exam/
-
+            - 18.06:
+                - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-exam/
+                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/
+            - RES.18-010:
+                -
 ============================================================================================================
 next₃:
     - 26_real_functions:
+        - course schedule:
+            - 104003:
+                -
+            - 104004:
+                -
+            - 18.01:
+                -
+            - 18.02:
+                -
+            - MATH 200:
+                -
         - lectures:
             - calculus:
                 - 104003:
@@ -280,8 +336,9 @@ next₃:
                         - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
                 - 18.02:
                     - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
-                - Hammack, R. 2020. Hammack's Calculus I
-                    - current: Hammack's Calculus I, Lecture 1
+                - MATH 200:
+                    - Hammack, R. 2020. Hammack's Calculus I
+                        - current: Hammack's Calculus I, Lecture 1
                 - Khan Academy. Differential Calculus
                     - https://www.khanacademy.org/math/differential-calculus
                     - https://www.khanacademy.org/math/calculus-1
@@ -303,28 +360,66 @@ next₃:
                 - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
             - 18.02:
                 - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
+            - MATH 200:
+                -
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
                 - chapter vi, viii
         - recitations|labs:
-            -
+            - 104003:
+                -
+            - 104004:
+                -
+            - 18.01:
+                -
+            - 18.02:
+                -
+            - MATH 200:
+                -
         - assignments:
-            -
+            - 104003:
+                -
+            - 104004:
+                -
+            - 18.01:
+                -
+            - 18.02:
+                -
+            - MATH 200:
+                -
         - exams:
-            -
+            - 104003:
+                -
+            - 104004:
+                -
+            - 18.01:
+                -
+            - 18.02:
+                -
+            - MATH 200:
+                -
 
     - 34_ordinary_differential_equations:
         - course schedule:
-            - 18.03SC: https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/syllabus/
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/syllabus/
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/calendar/
         - lectures:
-            - Miller, H., Orloff, J., Lewis, J., Mattuck, A. 2011. Differential Equations. Massachusetts Institute of Technology
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/video_galleries/video-lectures/
+                - Miller, H., Orloff, J., Lewis, J., Mattuck, A. 2011. Differential Equations. Massachusetts Institute of Technology
         - readings:
-            -
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/readings/
         - recitations|labs:
-            -
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/recitations/
         - assignments:
-            -
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/assignments/
         - exams:
-            - 18.03SC: https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/final-exam/
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/final-exam/
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/exams/
 
     - 35_partial_differential_equations:
         - course schedule:
@@ -365,16 +460,16 @@ next₃:
 ============================================================================================================
 next₄:
     - 54_general_topology
-            - lectures:
-                -
-            - readings:
-                - Munkres, J.R. 2000. Topology. 2nd Edition
-            - recitations|labs:
-                -
-            - assignments:
-                -
-            - exams:
-                -
+        - lectures:
+            -
+        - readings:
+            - Munkres, J.R. 2000. Topology. 2nd Edition
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
 
     - 60_probability_theory_and_stochastic_processes:
         - course schedule:
@@ -437,7 +532,7 @@ next₅
 
     - 01_History_and_biography
         - lectures:
-            - Wildberger, N.J. 2012. Insights into Mathematics Math History.
+            - Wildberger, N.J. 2012. Insights into Mathematics Math History
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
             - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
         - readings:

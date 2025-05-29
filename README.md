@@ -50,12 +50,18 @@
                - prove Mathematical statements.
                - invent or discover new Mathematical theorems and theories.
 
+- def creation/discovery::
+     - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
+     - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
+     -
 - Formal Classification Scheme:
      - [ZBMATH](https://zbmath.org/classification/)
 
-- def how is it created:
-     - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
-     - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
+- Theory
+  - Theoretical Basis: [03Exx_set_theory](https://zbmath.org/classification/?q=cc%3A03E)
+  - Formal Science:
+    - [mathematics](https://zbmath.org/classification/)
+
 
 ## Learning Order
 - [00_numbers](00_numbers)
@@ -71,6 +77,7 @@
   - [03Bxx_general_logic](03_mathematical_logic_and_foundations/03Bxx_general_logic/)
   - [03Fxx_proof_theory_and_constructive_mathematics](03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics)
   - [03Exx_set_theory](03_mathematical_logic_and_foundations/03Exx_set_theory/)
+  - [03Dxx_computability_and_recursion_theory](03_mathematical_logic_and_foundations/03Dxx_computability_and_recursion_theory)
 - [20_group_theory_and_generalizations](20_group_theory_and_generalizations/)
 - [12_field_theory_and_polynomials](12_field_theory_and_polynomials/)
 - [16_associative_rings_and_algebras](16_associative_rings_and_algebras/)

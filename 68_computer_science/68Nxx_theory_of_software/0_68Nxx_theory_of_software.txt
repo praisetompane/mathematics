@@ -1,10 +1,9 @@
 def x:
     - formal: ???
 
-        - in words: ???
+        - in words: for details of this formal science:
+                        see: https://github.com/praisetompane/computation_and_information/tree/main/5_software_and_its_engineering
 
-        see: https://github.com/praisetompane/computation_and_information/tree/main/5_software_and_its_engineering
-    
     - plain english: ???
 
     - intuition: ???
@@ -14,7 +13,7 @@ def x:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???
