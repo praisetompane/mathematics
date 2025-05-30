@@ -1,4 +1,4 @@
-def binary numbers(Khan Academy): 
+def binary numbers(Khan Academy):
     - formal: ???
 
         - in words: base(radix)-2 positional numeral system for representing numbers (Khan Academy):
@@ -22,7 +22,7 @@ def binary numbers(Khan Academy):
 
     - intuition: ???
 
-    - properties: 
+    - properties:
         - binary number patterns (Khan Academy):
             * numbers with last bit on are odd
                 i.e. any number + 1 is odd
@@ -44,11 +44,14 @@ def binary numbers(Khan Academy):
                             8*1     4*1     2*1     1*1
                             8       4       2       1
                             8   +   4   +   2   +   1 = 15
-
+        - mathematician lifetime:
+            - Gottfried Wilheim Leibniz
+                - published refinement of system: 1705
+                - remarks:
+                    - NB: Demonstrated that Arithmetic and Logic can be joined.
     - examples: ???
 
     - use cases: ???
-        
     - proof: none. it is a definition.
 
 References:

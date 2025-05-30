@@ -26,6 +26,10 @@ MTH
 
 
 # authors
+Grete
+Hermann
+Gottfried
+Wilheim
 Rathjen
 Sieg
 Wilfried
@@ -50,7 +54,7 @@ Kuber
 Alama
 Dunham
 AndreaSchmidt
-Günter
+Günter
 Hinman
 Munkres
 Asaf
