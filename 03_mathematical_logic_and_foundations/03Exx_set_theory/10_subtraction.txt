@@ -1,0 +1,24 @@
+def subtraction(Hammack, 2018: 18):
+    - formal:
+            - let:
+                - 𝐴 be a set
+                - 𝐵 be a set
+            - then:
+                - 𝐴 - 𝐵 = {𝑥 : 𝑥∈𝐴 ∧ 𝑥∉𝐵 }
+
+        - in words: the set of all elements in 𝐴, that are NOT in 𝐵.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.

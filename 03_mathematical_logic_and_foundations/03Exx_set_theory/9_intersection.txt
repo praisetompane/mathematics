@@ -1,4 +1,4 @@
-def triangle | trilateral:
+def x:
     - formal: ???
 
         - in words: ???
@@ -12,8 +12,7 @@ def triangle | trilateral:
     - examples: ???
 
     - use cases: ???
-        Q: can you represent any shape as a triangles?
-        Q: can you represent any quadrilateral as a triangles?
+        
     - proof: ???
-
+    
 References: ???

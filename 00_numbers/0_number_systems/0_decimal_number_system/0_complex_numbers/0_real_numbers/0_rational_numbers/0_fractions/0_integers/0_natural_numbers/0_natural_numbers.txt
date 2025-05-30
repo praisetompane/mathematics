@@ -55,14 +55,14 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
         ℕ = {n/m | n,m ≥ 0 ∧ n = m}, where n/m is in reduced/simplified form.
 
         - in words:
-            the set of ALL non-negative numbers from 0, with each next number, equal to the previous plus 1.
+            the set of ALL non-negative numbers from 1, with each next number, equal to the previous plus 1.
 
     - plain english: ???
 
     - intuition: ???
 
     - properties:
-        - remark: sometimes they are defined without 0.
+        - remark: sometimes they are defined with 0.
         - axiomatized using Peano axioms.
 
     - examples:
