@@ -1,6 +1,7 @@
-def natural number:
-    - formal: ???
-        - in words: ???
+def natural number(Kent State Department of Mathematical Sciences, 2008):
+    - formal: 𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚 ???
+
+        - in words: the quotient of dividing any number by itself.
 
     - plain english: ???
 
@@ -8,54 +9,41 @@ def natural number:
 
     - properties: ???
 
-    - examples: ???
+    - examples:
+        - 0
+        - 1
+        - 67
+        - ...
 
     - use cases:
         - count apples, goats etc.
         - solution to equations:
             - example:
                 - given:
-                    equation₁: x + 1 = 5
+                    equation₁: 𝑥 + 1 = 5
                 - then:
-                    x + 1 - 1 = 5 - 1
-                    x + 0 = 5 - 1
-                    x = 4
+                    𝑥 + 1 - 1 = 5 - 1
+                    𝑥 + 0 = 5 - 1
+                    𝑥 = 4
                 - substitution test:
                     let:
-                        x = 4
+                        𝑥 = 4
                     then:
-                        x + 1 = 5
+                        𝑥 + 1 = 5
                         4 + 1 = 5
                         5 = 5, which is true
 
                 - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
 
-    - proof: ???
-
-def natural number(Wildberger, 2009):
-    - formal: ???
-        - in words: ???
-
-    - plain english: a string of ones(i.e. one = |)
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples:
-        - || = two
-        - ||||| = five
-        - ||| = three
-
-    - proof: ???
+    - proof: none. it is a definition.
 
 def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2):
     - formal:
-        ℕ = {0,1,2,3,4,...}
-        ℕ = {n/m | n,m ≥ 0 ∧ n = m}, where n/m is in reduced/simplified form.
+        ℕ = {0, 1, 2, 3, 4, ...}
+        ℕ = {𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚}, where 𝑛/𝑚 is in reduced/simplified form.
 
-        - in words:
-            the set of ALL non-negative numbers from 1, with each next number, equal to the previous plus 1.
+        - in words: the set of ALL non-negative numbers from 0,
+                    with each next number, equal to the previous plus 1.
 
     - plain english: ???
 
@@ -72,13 +60,36 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
         - 5.5/5.5 = 1
         - 100
         - ...
-    - proof: ???
 
-def natural numbers set¹(Wildberger, 2009):
+    - proof: none. it is a definition.
+
+def natural number(Wildberger, 2009):
     - formal: ???
         - in words: ???
 
-    - plain english: a collection(i.e. Set) of these strings of ones.
+    - plain english: a string of ones(i.e. one = |)
+
+    - intuition: ???
+
+    - properties: ???
+
+    - use cases:
+        see: above.
+
+    - examples:
+        - || = two
+        - ||||| = five
+        - ||| = three
+
+    - proof: none. it is a definition.
+
+def natural numbers set¹(Wildberger, 2009):
+    - formal: {𝑥 : 𝑥 = ⟨|,|,|,...⟩}
+
+        - in words: the set of all numbers 𝑥,
+                        such that 𝑥 is a string of ones.
+
+    - plain english: ???
 
     - properties:
         - they form a sequence(i.e. they are naturally ordered):
@@ -136,6 +147,8 @@ def natural numbers set¹(Wildberger, 2009):
     - examples: ???
 
     - use cases: ???
+
+    - proof: none. it is a definition.
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

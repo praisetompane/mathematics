@@ -1,7 +1,8 @@
 def prime numbers | primes:
-    - formal: {𝑛 ∈ ℕ, 𝑛 > 1 : only 1|𝑛 ∧ 𝑛|𝑛 }
+    - formal: {𝑛 : 𝑛 ∈ ℕ ∧ 𝑛 > 1 ∧ 1|𝑛 ∧ 𝑛|𝑛 }
 
-        - in words: all natural numbers greater 1, divisible only by 1 and itself.
+        - in words: the set of all natural numbers greater than one,
+                        that are divisible ONLY by one and themselves.
 
     - plain english: ???
 
@@ -9,9 +10,27 @@ def prime numbers | primes:
 
     - properties: ???
 
-    - examples: ???
+    - examples: {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, ...}
+        - MYINC: is there proof of this?
+            - formal:
+                let:
+                    𝑛 ∈ ℕ, 𝑛 > 1
+                then:
+                    𝑦 = 𝑛𝑛...𝑛ₙ will never be prime
 
-    - use cases: ???
+                - in words: numbers with the same digit, of any length will never be prime.
+
+            examples:
+                - 22
+                - 33
+                - 44
+                - 55
+                - 66
+                - ...
+
+    - use cases:
+        - cryptography
+        - ...
 
     - proof: none. it is a definition.
 

@@ -5,13 +5,16 @@ def fundamental theorem of arithmetic:
 
             see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/1_prime_numbers.txt
 
-        - in words: for any natural number 𝑛 greater or equal to 2, there exists a unique(i.e. exactly one) prime factorization.
+        - in words: for any natural number 𝑛 greater or equal to 2,
+                        there exists a unique(i.e. exactly one) prime factorization.
+
                     remark: the order of the factors does not matter.
 
         Q: What are the prime factors of the prime numbers?
             Considering 1 is not a prime number.
 
-    - plain english: for any natural number 𝑛 greater or equal to 2, there is a unique combination of prime numbers that can be multiplied to get 𝑛.
+    - plain english: for any natural number 𝑛 greater or equal to 2,
+                        there is a unique combination of prime numbers that can be multiplied to get 𝑛.
 
     - intuition: ???
 
