@@ -13,21 +13,21 @@ def string(Montalban, 2020):
 
     - properties: ???
 
-    - examples: 
-        - let:
+    - examples:
+        let:
             𝐴 = {a, b}
-          then:
+        then:
             ⟨⟩ is an empty string.
             ⟨a⟩ is a string of one element.
-            ⟨a,a⟩ is a string of two elements.  
-            ⟨a,b⟩ is a string of two elements.  
-            ⟨a,b,a⟩ is a string of three elements.  
+            ⟨a,a⟩ is a string of two elements.
+            ⟨a,b⟩ is a string of two elements.
+            ⟨a,b,a⟩ is a string of three elements.
 
     - use cases: ???
-        
+
     - proof: none. it is a definition.
-    
-    References: 
+
+    References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
 def all strings of length 𝑛 of a set(Montalban, 2020):
@@ -49,28 +49,28 @@ def all strings of length 𝑛 of a set(Montalban, 2020):
         - example 1:
             let:
                 𝐴 = {a, b}
-            then: 
+            then:
                 𝐴⁰ = {⟨⟩}, where ⟨⟩ is an empty string.
                 𝐴¹ = { ⟨a⟩, ⟨b⟩ }, where ⟨a⟩ is string with one element.
                 𝐴² = { ⟨a,a⟩, ⟨a,b⟩, ⟨b,a⟩, ⟨b,b⟩}
-                𝐴³ = { ⟨a,a,a⟩, ⟨a,a,b⟩, ⟨a,b,b⟩, ⟨b,a,a⟩, ⟨b,b,a⟩, ⟨b,b,b⟩} 
+                𝐴³ = { ⟨a,a,a⟩, ⟨a,a,b⟩, ⟨a,b,b⟩, ⟨b,a,a⟩, ⟨b,b,a⟩, ⟨b,b,b⟩}
 
     - use cases:
         - express formula???
-        
+
     - proof: none. it is a definition.
 
     References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
-def all strings of a set(Montalban, 2020): 
+def all strings of a set(Montalban, 2020):
     - formal:
         let:
             𝐴 be a set.
         then:
             𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ, is the set of all strings using elements from 𝐴.
 
-        - in words: 
+        - in words:
 
     - plain english: ???
 
@@ -81,20 +81,20 @@ def all strings of a set(Montalban, 2020):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: none. it is a definition.
 
     References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
 
-def string length: 
+def string length:
     - formal:
         let:
             σ ∈ 𝐴^<ω
         then:
             |σ| is the length of σ
 
-        - in words: 
+        - in words:
 
     - plain english: ???
 
@@ -105,8 +105,8 @@ def string length:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: none. it is a definition.
-    
+
     References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.

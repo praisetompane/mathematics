@@ -1,9 +1,16 @@
 ============================================================================================================
 next₀:
-    - 00_numbers: **
+    - mathematics terminology:
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 1. Numbers and arithmetic: *
+                - current: 02. The language of Geometry:
+
+    - 00_numbers:
+        - course schedule:
+            -
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 01. Numbers and arithmetic: **
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
                 - basics:
@@ -43,6 +50,53 @@ next₀:
             -
         - exams:
             -
+
+    - 51_geometry:
+        - course schedule:
+            -
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 02. The language of Geometry:
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 19 Euclid's Elements ｜ Arithmetic and Geometry Math Foundations 19 ｜ N J Wildberger
+                to: 45 Quadrilaterals, quadrangles and n-gons ｜ Arithmetic + Geometry Math Foundations 45 ｜ N J Wildberger [eMt09NN1WOE]
+            - Geometry: https://www.khanacademy.org/math/geometry-home
+                - current:
+            - High school geometry: https://www.khanacademy.org/math/geometry
+        - readings:
+            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                - current: pg 142 in pdf. pg 117 in text.
+        - lectures:
+            -
+        - readings:
+            -
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+- 00_numbers/1_elementary_algebra:
+    - course schedule:
+        -
+    - lectures:
+        - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            from: 03. The language of Algebra:
+        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+            from: 46 Introduction to Algebra ｜ Arithmetic and Geometry Math Foundations 46 ｜ N J Wildberger [5c3WyrebRYI]
+            to: 74 Lines and parabolas II ｜ Arithmetic and Geometry Math Foundations 74 ｜ N J Wildberger [LQ6sCDd5Qmo]
+    - readings:
+        -
+    - recitations|labs:
+        -
+    - assignments:
+        -
+    - exams:
+        -
 ============================================================================================================
 next₁:
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
@@ -52,6 +106,8 @@ next₁:
             - MATH 1365:
                 - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
         - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 07. How to write mathematics at the College level:
             - HSTAR-Y0001:
                 - Devlin, K. Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
                     - current: Lecture 0
@@ -61,7 +117,7 @@ next₁:
         - readings:
             - HSTAR-Y0001:
                 - Devlin, K. 2012. Introduction to Mathematical Thinking
-                    - current:
+                    - current: pg. 4
             - MATH 1365:
                 - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
                 - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
@@ -102,6 +158,8 @@ next₁:
             - MTH 302:
                 -
         - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 05. Sets, logic and graphs
             - Math 125A:
                 - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
                     - current:  03. Logic. The Language Of Sentential Logic: *
@@ -117,6 +175,7 @@ next₁:
                     - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
             - Hinman, P.G. 2005. Fundamentals of Mathematical Logic. A K Peters/CRC Press
             - Kunen, K. 2007. The Foundations of Mathematics. College Publications
+                - current: pg. 11
             - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
                 - https://github.com/OpenLogicProject/forallx
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
@@ -153,7 +212,7 @@ next₁:
             - Math 135:
                 - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
                 - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - Chapter 1: Sets: *
+                    - current: Chapter 1: Sets: *
             - MTH 302:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
 
@@ -324,6 +383,10 @@ next₃:
                 -
         - lectures:
             - calculus:
+                - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                    - current:
+                        - 04. Curves, functions and surfaces
+                        - 06. The language of Calculus
                 - 104003:
                     - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
                         - current: Calculus - 03: *
@@ -336,6 +399,9 @@ next₃:
                         - current: Lecture 01 ｜ Massachusetts Institute of Technology 18.01 Single Variable Calculus, Fall 2007: *
                 - 18.02:
                     - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
+                - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                    from: 75 Cubics and the prettiest theorem in calculus ｜ Arithmetic and Geometry Math Foundations 75 [DAHBgcDJQjw]
+                    to: 119 Mathematics without real numbers ｜ Real numbers and limits Math Foundations 119 ｜ N J Wildberger [Q3V9UNN4XLE]
                 - MATH 200:
                     - Hammack, R. 2020. Hammack's Calculus I
                         - current: Hammack's Calculus I, Lecture 1
@@ -434,29 +500,6 @@ next₃:
             -
         - exams:
             -
-
-    - 51_geometry
-        - lectures:
-            - Geometry: https://www.khanacademy.org/math/geometry-home
-                - current:
-            - High school geometry: https://www.khanacademy.org/math/geometry
-        - readings:
-            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
-                - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
-            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-                page 142 in pdf. page 117 in text.
-        - lectures:
-            -
-        - readings:
-            -
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
 ============================================================================================================
 next₄:
     - 54_general_topology
@@ -499,7 +542,7 @@ next₄:
         - exams:
             -
 
-    - 00_general_and_overarching_topics; collections/00A71_general_theory_of_mathematical_modeling:
+    - 00_general_and_overarching_topics;collections/00A71_general_theory_of_mathematical_modeling:
         - lectures:
             - Nayak, K. 2018. Mathematical Modeling: Analysis and Applications. IIT Roorkee - National Programme on Technology Enhanced Learning
             - Edx: DelftX: MathMod1x: Modelling with Differential Equations
@@ -518,9 +561,10 @@ next₄:
 
 ============================================================================================================
 next₅
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
+    - 00_general_and_overarching_topics;collections
         - lectures:
-            -
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 03 Laws of Arithmetic ｜ Arithmetic and Geometry Math Foundations 3 ｜ N J Wildberger
         - readings:
             - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
         - recitations|labs:

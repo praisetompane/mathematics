@@ -1,5 +1,5 @@
 def √2 ∉ ℚ:
-    - formal: √2 ∉ ℚ 
+    - formal: √2 ∉ ℚ
         - in words: the square root of 2 is not Rational, therefore Irrational.
 
     - intuition: ???
@@ -10,26 +10,26 @@ def √2 ∉ ℚ:
 
     - use cases: ???
 
-    - proof: 
+    - proof:
         - proof₁(Censor, 2013):
-            - let:
+            let:
                 √2 ∈ ℚ
                     with √2 = m/n expressed in reduced form, where 𝑚,𝑛 ∈ ℤ and 𝑛 ≠ 0.
                     then 𝑚 and 𝑛 do not have common factors.
-            - then:
+            then:
                 proof type: proof by contradiction.
                 proof steps:
-                    0. √2 = m/n  
+                    0. √2 = m/n
                     1. (√2)² = m²/n²                                    : square each side of the equation.
                         result: 2 = m²/n²
-                    2. 2 = m²/n²                                        : multiply each side of the equation with n²/1.   
+                    2. 2 = m²/n²                                        : multiply each side of the equation with n²/1.
                         result: m² = 2n²
 
                     3. m² = 2n² => m² is even                           : because 2n² is divisible by 2 and therefore even.
                                                                             m² has to be even since it is equal 2n²(which is even).
 
                     4. m² is even => m is even                          : because only an even number can be squared to produce another even number.
-                    
+
                     5. m is even => m is divisible by 2                 : because m being even means it has a factor 2
 
                     6. m is divisible by 2 => m² is divisible by 4      : because the square of an even number is divisible by four(4)
@@ -37,7 +37,7 @@ def √2 ∉ ℚ:
 
                     7. m² is divisible by 4 => 2n² is divisible by 4    : because 2n² equals m²
 
-                    8. 2n² is divisible by 4 => n² is divisible by 2    : 
+                    8. 2n² is divisible by 4 => n² is divisible by 2    :
                         details:
                             given:
                                 2n² is divisible by 4
@@ -46,7 +46,7 @@ def √2 ∉ ℚ:
                                 - 2n²/2 = 4y/2                  : divide both sides by 2.
                                     result: n² = 2y
                                 - n² = 2y => n² is even         : n² is even, because it is 2 times some number y.
-                                - n² is even => n² is divisible by 2    : because numbers divisible by 2 are even                     
+                                - n² is even => n² is divisible by 2    : because numbers divisible by 2 are even
 
                     9. n² is divisible by 2  => n² is even              : numbers divisible by 2 are even.
 

@@ -125,9 +125,9 @@ def natural numbers set¹(Wildberger, 2009):
                         - |||||| is greater than ||||, because it has || left after pairing all the |s from |||| with itself.
 
             - abstract notation:
-                - let:
+                let:
                     - 𝑛 and 𝑚 be natural numbers
-                - then:
+                then:
                     - equality:
                         - formal: 𝑛 = 𝑚 ⟺ |s in 𝑛 match |s in 𝑚.
 

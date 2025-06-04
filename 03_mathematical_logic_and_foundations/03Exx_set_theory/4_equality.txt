@@ -1,10 +1,10 @@
 def equality:
     - formal:
-            - let:
-                - 𝐴 be a set
-                - 𝐵  be a set
-            - then:
-                - 𝐴 = 𝐵 ⟺ 𝐴 ⊆ 𝐵 ∧ 𝐵 ⊆ 𝐴
+        let:
+            - 𝐴 be a set
+            - 𝐵  be a set
+        then:
+            - 𝐴 = 𝐵 ⟺ 𝐴 ⊆ 𝐵 ∧ 𝐵 ⊆ 𝐴
 
         - in words:
             - set are equal if they are subsets of each other.

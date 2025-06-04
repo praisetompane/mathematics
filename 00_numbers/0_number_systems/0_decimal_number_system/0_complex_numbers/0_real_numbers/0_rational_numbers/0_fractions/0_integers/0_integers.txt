@@ -1,4 +1,4 @@
-def integer: 
+def integer:
     - formal: ???
         - in words: ???
 
@@ -40,10 +40,10 @@ def integers set(Kent State Department of Mathematical Sciences, 2008:2):
     - examples: ???
 
     - use cases:
-        
+
     - proof: ???
-    
-Question: Why isn't there a -0(i.e. negative zero)?
+
+Q: Why isn't there a -0(i.e. negative zero)?
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
