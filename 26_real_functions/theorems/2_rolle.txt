@@ -1,44 +1,44 @@
 def Rolle (Censor, 2013)
     - formal:
-        let: 
+        let:
             f(x) be continuous on [a,b]
             AND differentiable on (a,b),
             such that f(a) = f(b).
         then:
             there exists a point c ∈ (a,b)
             such that f'(c) = 0.
-    
+
     - plain english:
 
     - properties:
         - def continuous:
-            - see: 3_analysis/0_differential_and_integral_calculus/continuous.txt
+            see: 3_analysis/0_differential_and_integral_calculus/continuous.txt
 
         - def differentiable:
-            - see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
+            see: 3_analysis/0_differential_and_integral_calculus/differentiable.txt
 
         - def intuition chart:
                         f(x):
                                 y
-                                ↑         
+                                ↑
                                 |       ----.---- ← tangent line
                                 |         .   .
                                 | f(a) → ............... ← f(b) : f(a) = f(b) for endpoints a,b
                                 |               .     .
                                 |                .   .
-                                |             -----.---- ← tangent line  
+                                |             -----.---- ← tangent line
                                 |
                   ← |---|---|---|---|---|---|---|---|---| → x
-                                |        a  c      c   b  
-                                |      
-                                ↓        
+                                |        a  c      c   b
+                                |
+                                ↓
     - mathematician lifetime: 1652 - 1719
-        - remarks: 
+        remarks:
             - Calculus in use/introduced as foundation for other fields(Physic, etc),
                 using infinitesimals.
             - other Mathematicians/Scientists in time frame: Newton's, Leibniz.
 
     - proof: ???
-    
+
 References:
     - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.

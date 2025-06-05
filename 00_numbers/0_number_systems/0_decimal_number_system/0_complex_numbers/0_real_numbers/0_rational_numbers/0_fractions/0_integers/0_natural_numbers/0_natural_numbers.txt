@@ -50,7 +50,7 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
     - intuition: ???
 
     - properties:
-        - remark: sometimes they are defined with 0.
+        remark: sometimes they are defined with 0.
         - axiomatized using Peano axioms.
 
     - examples:
@@ -100,7 +100,7 @@ def natural numbers set¹(Wildberger, 2009):
             - abstract notation: S(a) = a + |
                 S = successor
 
-            - remark: this is our first Mathematical operator/operation.
+            remark: this is our first Mathematical operator/operation.
 
             - Question: Why do Natural numbers form a sequence?
                 MYINC:
@@ -134,7 +134,7 @@ def natural numbers set¹(Wildberger, 2009):
                             - in words:
                                 𝑛 equals 𝑚, if and only if, |s in 𝑛 match |s in 𝑚.
 
-                        - remark: this is our second Mathematical operator.
+                        remark: this is our second Mathematical operator.
 
                     - inequality:
                         - formal: 𝑛 < m ⟺ |s in n are less than |s in 𝑚.
@@ -142,7 +142,7 @@ def natural numbers set¹(Wildberger, 2009):
                             - in words:
                                 𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
 
-                        - remark: this is our third Mathematical operator.
+                        remark: this is our third Mathematical operator.
 
     - examples: ???
 

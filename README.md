@@ -32,6 +32,8 @@
           - `+` means: add[which you know from Grade 1 Mathematics]
           - `-` means: subtract[which you know from Grade 1 Mathematics]
 
+- def mathematics⁴(Devlin, 2012:15): the science of patterns.
+
 - def side of Mathematics:(Hammack, 2018:viii):
      - computation focused:
           - primary goals:
@@ -42,8 +44,8 @@
                - find determinants.
                - ...
                - use the above-mentioned computations to answer practical questions about the real world.
-
           **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretical side.
+
      - theoretical focused:
           - primary goals:
                - understand Mathematical structures.
@@ -53,7 +55,7 @@
 - def creation/discovery::
      - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
      - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
-     -
+
 - Formal Classification Scheme:
      - [ZBMATH](https://zbmath.org/classification/)
 
@@ -61,7 +63,6 @@
   - Theoretical Basis: [03Exx_set_theory](https://zbmath.org/classification/?q=cc%3A03E)
   - Formal Science:
     - [mathematics](https://zbmath.org/classification/)
-
 
 ## Learning Order
 - [00_numbers](00_numbers)
@@ -159,9 +160,11 @@ pyspelling -c spellcheck.yaml
 - [Mathematical Association of America](https://www.maa.org/press/periodicals/loci/joma/subject-taxonomy)
 - Lockhart, P. 2009. A Mathematician's Lament.
 - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+- Devlin, K. 2012. Introduction to Mathematical Thinking.
 
 ## Legend
 **Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
+**see: ...**: Points to the definition of a concept used in another definition.
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.

@@ -23,6 +23,8 @@ ACM
 STK
 HSTAR
 MTH
+n-gons
+gons
 
 
 # authors
@@ -124,6 +126,7 @@ Zalta
 
 
 # domain specific
+Cubics
 forall
 forallx
 notational

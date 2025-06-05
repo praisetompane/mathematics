@@ -1,26 +1,30 @@
-def predicate logic or first-order logic or first-order predicate logic(Kunen, 2007:6) (Sakharov): 
-        
+def predicate logic or first-order logic or first-order predicate logic(Kunen, 2007:6) (Sakharov):
+
     - formal: ???
 
-        - in words: 
+        - in words:
 
     - plain english: a formal language
                         with precise rules of formation,
-                        just like computer programming languages(C, Java, etc).     
+                        just like computer programming languages(C, Java, etc).
 
 
     - intuition: ???
 
-    - properties: ???
-
+    - properties(Montalban, 2020):
+        - formal system:
+            - language: ???
+            - axioms: ???
+            - rules of inference: ???
+            see: 03_mathematical_logic_and_foundations/1_formal_system.txt
     - examples: ???
 
     - use cases:
         - Build all Mathematics.
         - ...
-        
+
     - proof: none. it is a definition.
 
-References: 
+References:
     - Sakharov, A. "First-Order Logic." From MathWorld--A Wolfram Web Resource, created by Eric W. Weisstein. https://mathworld.wolfram.com/First-OrderLogic.html.
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

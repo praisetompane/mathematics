@@ -13,52 +13,63 @@ def formal system(Montalban, 2020):
         - axioms
 
         - language: the means to create Mathematical statements:
-            - symbols
-            - grammar
+            see:
+                - 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/0_propositional_logic.txt
+                - 03_mathematical_logic_and_foundations/03Bxx_general_logic/1_first_order_logic/0_first_order_logic.txt
 
-            - symbols: any printable(i.e. we can see) character.
-                examples: { 0, 1, ×, +, ∈, ∨, ∧, ∃, ∀, (), ... }
+            - properties:
+                - alphabet|symbols: valid characters(alphabet|symbols) in the language:
 
-                - vocabulary:
-                    0               := zero
-                    1               := one
-                    +               := plus
-                    ×               := times
-                    x,y,z ...       := variable symbols
+                    - vocabulary alphabet|symbols:
+                        0               := zero
+                        1               := one
+                        +               := plus
+                        ×               := times
+                        ∈               := belongs
+                        ...
 
-                    NB: variable, we can add or remove depending on the objects we want to work with.
+                        - properties:
+                            - they can vary per formal system.
 
-                - punctuation symbols:
-                    - (             := opening parenthesis
-                    - )             := closing parenthesis
+                    - logical alphabet|symbols:
+                        =               := equality
+                        ∧               := and
+                        ∨               := or
+                        ¬               := not
+                        ∃               := exists
+                        ∀               := forall
+                        𝑥,𝑦,𝑧,...       := variable alphabet
+                        punctuation alphabet:
+                            (           := opening parenthesis
+                            )           := closing parenthesis
 
-                - logical symbols:
-                    =               := equality
-                    ∧               := and
-                    ∨               := or
-                    ¬               := not
-                    ∃               := exists
-                    ∀               := forall
-                    ∈               := belongs
+                        - properties:
+                            - they can vary per formal system.
 
-                NB: fixed in all first-order logic.
+                - grammar: valid ways to compose(put together) the alphabet|symbols:
+                    - ...
 
-            - grammar: how you can put the symbols together:
-                - ...
-            NB: The language is complete: You can express every Mathematical statement with the language.
+                - the language is complete: you can express all Mathematical statements with the language.
+                    remark: Gödel proved this, in the completeness theorem.
 
-        - rules of inference: set of allowed logical steps:
-            - ...
+        - rules of inference: valid logical steps:
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/3_logical_deduction.txt
 
-            NB: The rules are complete: You can formalize all arguments in Mathematics with the rules.
+            - properties:
+                - the rules are complete: you can prove all Mathematical statements with the rules.
+                    remark: Gödel proved this, in the completeness theorem.
+                - they can vary per formal system.
 
-        - axioms: set of basic Mathematical statements
-                        presumed to be true
-                            in this system.
+        - axioms: basic Mathematical statements, presumed to be true:
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/4_axioms.txt
 
-            NB: The axioms are incomplete.
-
-        NB: Gödel proved the completeness and incompleteness theorems.
+            - properties:
+                - the axioms are incomplete.
+                    remark: Gödel proved this, in the incompleteness theorem.
+                - they can vary per formal system
+                    - example:
+                        - 20_group_theory_and_generalizations/0_group_theory.txt
+                        - 12_field_theory_and_polynomials/0_field_theory.txt
 
     - examples: ???
 
@@ -74,7 +85,7 @@ def formal system(Montalban, 2020):
             - computer aided mathematical proof development.
             - computer program verification and proof of properties(accuracy, etc).
 
-    - proof: ???
+    - proof: none. it is a definition.
 
 References:
     - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 125A - Mathematical Logic. U.C. Berkeley.
