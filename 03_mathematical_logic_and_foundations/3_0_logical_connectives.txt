@@ -1,5 +1,4 @@
 def logical connectives or logical operator | sentential connective | sentential operator | combinators(Kunen, 2007:4) (Weisstein):
-
     - formal: ???
 
         - in words: ???
@@ -14,14 +13,8 @@ def logical connectives or logical operator | sentential connective | sentential
             - ∨  = or  | disjunction | inclusive disjunction
             - ¬  = not | negation
             - ⟹ = implies
-                intuition:
-                    - if 𝑎 is True, then 𝑏 is True
-                    - if the first predicate is True, then next is ALSO True.
-                    - False implies anything is True, because there is NO contradiction:
-                        - F ⟹ T = T
-                        - F ⟹ F = T
-
-            - ⟺ = if and only if(iff) | equivalence
+                see: 03_mathematical_logic_and_foundations/3_4_implies.txt
+            - ⟺ = equivalence | if and only if(iff)
                 intuition:
                     - it is a bidirectional implication(i.e. the implies defined).
                         - the truth value of both predicates have to be the same, then the ⟺ is True:

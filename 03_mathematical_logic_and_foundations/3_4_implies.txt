@@ -1,0 +1,31 @@
+def implies:
+    - formal:
+        let:
+            A be a proposition.
+            B be a proposition.
+        then:
+            A ⟹ B is defined as:
+                A   B   A ⟹ B
+                T   T     T
+                T   F     F
+                F   T     T
+                F   F     T
+
+        - in words: a binary operator from truth values to a single truth value,
+                    according to the rules below
+                        if A is True  and B is True,   then A implies B is/returns True
+                        if A is True  and B is False,  then A implies B is/returns False
+                        if A is False and B is True,   then A implies B is/returns True
+                        if A is False and B is False,  then A implies B is/returns True
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
