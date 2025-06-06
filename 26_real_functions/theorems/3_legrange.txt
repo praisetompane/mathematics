@@ -5,7 +5,7 @@ def Legrange (Censor, 2013):
             AND differentiable on (a,b)
         then:
             there exists a point c ∈ (a,b)
-            such that: 
+            such that:
                         f'(c) =  f(b) - f(a)
                                 -------------
                                    b - a
@@ -14,18 +14,18 @@ def Legrange (Censor, 2013):
     - properties:
         - def intuition chart:
                                y
-                                ↑         
+                                ↑
                                 |       ----.---- ← tangent line
-                                |         .   .         . ← f(b) 
-                                | f(a) → .     .       . 
+                                |         .   .         . ← f(b)
+                                | f(a) → .     .       .
                                 |               .     .
                                 |                .   .
-                                |             -----.---- ← tangent line  
+                                |             -----.---- ← tangent line
                                 |
                   ← |---|---|---|---|---|---|---|---|---| → x
-                                |        a  c      c   b  
-                                |      
-                                ↓     
+                                |        a  c      c   b
+                                |
+                                ↓
         - generalizes Rolle's theorem:
             solution:
                 let:
@@ -38,19 +38,19 @@ def Legrange (Censor, 2013):
                     f'(c) =   0 : since the value f(b) equals f(a), their difference is zero(0).
                             -----
                             b - a
-                    
+
                     f'(c) = 0 : because zero(0) divided by any number is zero.
-                    
+
                     ⊢ when f(b) = f(a), there exists a point c
                             such that f'(c) = 0.
                         NB: This is Rolle's theorem.
 
     - mathematician lifetime: 1736 - 1813
-        - remarks: 
+        remarks:
             - Calculus in use/introduced as foundation for other fields(Physic, etc),
                 using infinitesimals.
 
     - proof: ???
-    
+
 References:
     - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.

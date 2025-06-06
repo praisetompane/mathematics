@@ -1,7 +1,7 @@
 def Cauchy (Censor, 2013):
     - formal
-        let: 
-            f(𝑥) and g(x) 
+        let:
+            f(𝑥) and g(x)
                 be continuous on [a,b]
                 AND differentiable on (a,b).
 
@@ -30,22 +30,22 @@ def Cauchy (Censor, 2013):
                     {
                         x = g(t)
                         y = f(t)
-                    } 
+                    }
                     where a < t < b
                                         ----.---- ← tangent line
                                 y         .   .
                                 ↑       .       .
                                 |      .         .   ----.---- ← tangent line
-                                |       .       .      .   . 
-                                | f(a) →.      .     .      .← f(b) 
+                                |       .       .      .   .
+                                | f(a) →.      .     .      .← f(b)
                                 |             .      .
-                                |              .      .   
+                                |              .      .
                                 |               .   .
                                 |             ----.---- ← tangent line
                   ← |---|---|---|---|---|---|---|---|---|---| → x
-                                |      g(a) c     c     c  g(b)  
-                                |      
-                                ↓     
+                                |      g(a) c     c     c  g(b)
+                                |
+                                ↓
 
         - generalizes Legrange's theorem:
             solution:
@@ -64,22 +64,22 @@ def Cauchy (Censor, 2013):
                                                 - because the derivative of a straight line function at any point is 1.
                                                     i.e. its slope is 1(i.e. the rate of change between the points is 1).
 
-                            f(b) - f(a)     f'(c) 
+                            f(b) - f(a)     f'(c)
                     f'(c) =  -----------  : -----  = f'(c): because any numerator divided by 1, equals the numerator.
-                            g(b) - g(a)       1 
+                            g(b) - g(a)       1
 
 
                              f(b) - f(a)
-                    f'(c) =  ----------- 
+                    f'(c) =  -----------
                                b - a      : because g(b) = b and g(a) = a, since g is defined as g(x) = x.
                                                 i.e. returns/equals the same value of its parameter.
 
                         NB: This equation is Legrange's theorem.
 
     - mathematician lifetime: 1789 - 1857
-        - remarks: 
+        remarks:
             - invented/discovered and used the precise notion of the term "The Limit".
-                - other attributions:   
+                - other attributions:
                     - Karl Weierstrass: 1815 - 1897
             - The Limit term is the foundation of analysis and is used to define all structures in it, such as:
                 - continuity
@@ -87,8 +87,8 @@ def Cauchy (Censor, 2013):
                 - integrals
                 - series
                 - ...
-    
+
     - proof: ???
-    
+
 References:
     - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.

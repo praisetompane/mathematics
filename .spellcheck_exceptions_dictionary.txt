@@ -23,9 +23,12 @@ ACM
 STK
 HSTAR
 MTH
+n-gons
+gons
 
 
 # authors
+stephenwolfram
 Grete
 Hermann
 Gottfried
@@ -124,6 +127,8 @@ Zalta
 
 
 # domain specific
+combinators
+Cubics
 forall
 forallx
 notational

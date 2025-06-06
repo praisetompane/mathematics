@@ -1,10 +1,10 @@
-def equality:
+def equation:
     - formal: ???
 
         - in words: ???
 
     - plain english: a statement that equates two sides.
-    
+
     - intuition: ???
 
     - properties:
@@ -16,7 +16,7 @@ def equality:
                 x       = variable
                 {1, 10} = constant(s)
                 +       = operator
-                
+
     - examples:
         - 5x + 1 = 10
 

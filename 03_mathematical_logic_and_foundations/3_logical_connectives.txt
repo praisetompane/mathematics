@@ -1,5 +1,5 @@
-def logical connectives or logical operator, sentential connective, or sentential operator(Kunen, 2007:4) (Weisstein):
-    
+def logical connectives or logical operator | sentential connective | sentential operator | combinators(Kunen, 2007:4) (Weisstein):
+
     - formal: ???
 
         - in words: ???
@@ -10,8 +10,8 @@ def logical connectives or logical operator, sentential connective, or sententia
 
     - properties:
         - names:
-            - ∧  = conjunction | logical and |
-            - ∨  = disjunction | logical or  | inclusive disjunction 
+            - ∧  = and | conjunction |
+            - ∨  = or  | disjunction | inclusive disjunction
             - ¬  = not | negation
             - ⟹ = implies
                 intuition:
@@ -21,31 +21,36 @@ def logical connectives or logical operator, sentential connective, or sententia
                         - F ⟹ T = T
                         - F ⟹ F = T
 
-            - ⟺ = if and only if(iff)
+            - ⟺ = if and only if(iff) | equivalence
                 intuition:
                     - it is a bidirectional implication(i.e. the implies defined).
                         - the truth value of both predicates have to be the same, then the ⟺ is True:
                             - T ⟺ T = T
                             - F ⟺ F = F
-            - ...
 
-            - truth table evaluation(Kunen, 2007:4): 
-                def T: True
-                def F: False
-                
-                φ   ψ   φ ∨ ψ    φ ∧ ψ      φ ⟹ ψ   φ ⟺ ψ
-                T   T   T        T          T        T
-                T   F   T        F          F        F
-                F   T   T        F          T        F     
-                F   F   F        F          T        T
+        - truth table evaluation(Kunen, 2007:4):
+            def T: True
+            def F: False
 
-                φ   ¬φ
-                T   F
-                F   T
+            φ   ψ   φ ∨ ψ    φ ∧ ψ      φ ⟹ ψ   φ ⟺ ψ
+            T   T   T        T          T        T
+            T   F   T        F          F        F
+            F   T   T        F          T        F
+            F   F   F        F          T        T
 
-                NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
+            φ   ¬φ
+            T   F
+            F   T
+
+            NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
-    - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html 
+    - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html
     - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.

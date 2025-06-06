@@ -1,6 +1,5 @@
-def propositional logic or propositional calculus or sentential logic or sentential calculus or zeroth-order logic(Montalban, 2020):
+def propositional logic | propositional calculus | sentential logic | sentential calculus | zeroth-order logic(Montalban, 2020):
     - formal: ???
-
         - in words: logic built ONLY with propositions.
             see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_proposition.txt
 
@@ -9,52 +8,58 @@ def propositional logic or propositional calculus or sentential logic or sentent
     - intuition: ???
 
     - properties:
-        - formal language for sentential logic:
+        - formal system:
+            - language:
+                - alphabet|symbols:
+                    - variable symbols: {𝑎₁, 𝑎₂, 𝑎ₙ, ...}, used to represent propositions.
+                    - punctuation symbols:
+                        - (     = opening parenthesis
+                        - )     = closing parenthesis
+
+                    - logical connectives:
+                        - ∧
+                        - ∨
+                        - ¬
+                        - ⟹
+                        - ⟺
+
+                        see: 03_mathematical_logic_and_foundations/3_logical_connectives.txt
+
+                        remark: it uses only a subset of all known logical connectives.
+
+                - grammar:
+                    - expression(formula): a string of the symbols above:
+                        see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/1_string.txt
+
+                        - types:
+                            - well-formed formulas:
+                                - every variable symbol
+                                - if 𝛹 and 𝛷 are well-formed formulas, then the combinations below are well-formed too:
+                                    - ¬𝛹
+                                    - 𝛹 ∧ 𝛷
+                                    - 𝛹 ∨ 𝛷
+                                    - 𝛹 ⟹ 𝛷
+                                    - 𝛹 ⟺ 𝛷
+                                    - ...
+
+                                - examples:
+                                    - 𝑎₁
+                                    - 𝑎₁ ∧ 𝑎₂
+                                    - 𝑎₁ ⟹ 𝑎₃
+                                    - (𝑎₂ ⟺ 𝑎₅)
+                                    - (𝑎₄ ⟹ 𝑎₆) ⟺ (a₁ ⟹ 𝑎₉) ∧ ¬𝑎₃
+                                    - ...
+
+                            - malformed formulas:
+                                - examples:
+                                    - ((⟹¬𝑎₁
+                                    - ¬(⟺𝑎₂
+                                    - ...
+            - axioms: ???
+            - rules of inference: ???
+
             see: 03_mathematical_logic_and_foundations/1_formal_system.txt
-            
-            - symbols:
-                - variable symbols: {𝑎₁, 𝑎₂, 𝑎ₙ, ...}, used to represent propositions.
-                - punctuation symbols:
-                    - (     = opening parenthesis
-                    - )     = closing parenthesis
 
-                - logical connectives:
-                    - ∧     
-                    - ∨     
-                    - ¬    
-                    - ⟹    
-                    - ⟺ 
-                    see: 03_mathematical_logic_and_foundations/logical_connectives.txt
-                    NB: it uses only a subset of all known logical connectives.
-
-            - grammar:
-                - expression(formula): a string of the symbols above:
-                    see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/1_string.txt
-                    
-                    - types:
-                        - well-formed formulas:
-                            - every variable symbol
-                            - if 𝛹 and 𝛷 are well-formed formulas, then the combinations below are well-formed too:
-                                - ¬𝛹
-                                - 𝛹 ∧ 𝛷
-                                - 𝛹 ∨ 𝛷
-                                - 𝛹 ⟹ 𝛷
-                                - 𝛹 ⟺ 𝛷
-                                - ...
-                            
-                            - examples:
-                                - 𝑎₁ 
-                                - 𝑎₁ ∧ 𝑎₂
-                                - 𝑎₁ ⟹ 𝑎₃ 
-                                - (𝑎₂ ⟺ 𝑎₅)
-                                - (𝑎₄ ⟹ 𝑎₆) ⟺ (a₁ ⟹ 𝑎₉) ∧ ¬𝑎₃
-                                - ...
-
-                        - malformed formulas:
-                            - examples:
-                                - ((⟹¬𝑎₁
-                                - ¬(⟺𝑎₂
-                                - ...
     - examples:
         - If dumbo is pink, pigs can fly:
             let:
@@ -67,8 +72,8 @@ def propositional logic or propositional calculus or sentential logic or sentent
         - electronic circuit design
         - computer science
         - ...
-        
+
     - proof: none. it is a definition.
-    
+
 References:
     Montalban, A. 2020. 03. Logic. The Language Of Sentential Logic, Math 125A - Mathematical Logic. U.C. Berkeley.

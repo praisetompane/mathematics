@@ -12,25 +12,25 @@ next₀:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 01. Numbers and arithmetic: **
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 2 Arithmetic with numbers ｜ Arithmetic and Geometry Math Foundations 2 ｜ N J Wildberger : *
+                - current: 02 Arithmetic with numbers, Arithmetic and Geometry
                 - basics:
-                    from: 1 What is a number？ ｜ Arithmetic and Geometry Math Foundations 1 ｜ N J Wildberger
-                    to: 17 Extremely big numbers ｜ Arithmetic and Geometry Math Foundations 17 ｜ N J Wildberger
+                    from: 01 What is a number?, Arithmetic and Geometry
+                    to: 17 Extremely big numbers, Arithmetic and Geometry
                 - others:
-                    66 Decimal numbers ｜ Arithmetic and Geometry Math Foundations 66 ｜ N J Wildberger
-                    81 Measurement, approximation and interval arithmetic (I) ｜ Real numbers and limits Math Foundations 81
-                    82 Measurement, approximation + interval arithmetic (II) ｜ Real numbers and limits Math Foundations 82
-                    89 Fractions and repeating decimals ｜ Real numbers and limits Math Foundations 89 ｜ N J Wildberger
-                    93 The magic and mystery of ＂pi＂ ｜ Real numbers and limits Math Foundations 93 ｜ N J Wildberger
-                    104 Rational number arithmetic with infinity and more ｜ Real numbers and limits Math Foundations 104
-                    210 Numbers as multipliers + particle⧸antiparticle duality I ｜ Data Structures Math Foundations 210
-                    211 Numbers as multipliers + particle⧸antiparticle duality II ｜ Data Structures Math Foundations 211
+                    66 Decimal numbers, Arithmetic and Geometry
+                    81 Measurement, approximation and interval arithmetic (I), Real numbers and limits
+                    82 Measurement, approximation + interval arithmetic (II), Real numbers and limits
+                    89 Fractions and repeating decimals, Real numbers and limits
+                    93 The magic and mystery of "pi", Real numbers and limits
+                    104 Rational number arithmetic with infinity and more, Real numbers and limits
+                    210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
+                    211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
                 - more on real number:
-                    from: 111 Real numbers and Cauchy sequences of rationals(I) ｜ Real numbers and limits Math Foundations 111
-                    to: 116 Difficulties with Dedekind cuts ｜ Real numbers and limits Math Foundations 116 ｜ N J Wildberger
+                    from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
+                    to: 116 Difficulties with Dedekind cuts, Real numbers and limits
                 - more on natural numbers:
-                    from: 155 The realm of natural numbers ｜ Data structures in Mathematics Math Foundations 155
-                    to: 157 The algebra of natural number multisets ｜ Data structures in Mathematics Math Foundation 157
+                    from: 155 The realm of natural numbers, Data Structures in Mathematics
+                    to: 157 The algebra of natural number multisets, Data Structures in Mathematics
         - readings:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
                 - current position: pg. 22: example 3
@@ -58,8 +58,8 @@ next₀:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 02. The language of Geometry:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 19 Euclid's Elements ｜ Arithmetic and Geometry Math Foundations 19 ｜ N J Wildberger
-                to: 45 Quadrilaterals, quadrangles and n-gons ｜ Arithmetic + Geometry Math Foundations 45 ｜ N J Wildberger [eMt09NN1WOE]
+                from: 19 Euclid's Elements, Arithmetic and Geometry
+                to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
             - High school geometry: https://www.khanacademy.org/math/geometry
@@ -87,8 +87,8 @@ next₀:
         - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             from: 03. The language of Algebra:
         - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-            from: 46 Introduction to Algebra ｜ Arithmetic and Geometry Math Foundations 46 ｜ N J Wildberger [5c3WyrebRYI]
-            to: 74 Lines and parabolas II ｜ Arithmetic and Geometry Math Foundations 74 ｜ N J Wildberger [LQ6sCDd5Qmo]
+            from: 46 Introduction to Algebra, Arithmetic and Geometry
+            to: 74 Lines and parabolas II, Arithmetic and Geometry
     - readings:
         -
     - recitations|labs:
@@ -109,8 +109,8 @@ next₁:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 07. How to write mathematics at the College level:
             - HSTAR-Y0001:
-                - Devlin, K. Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 0
+                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                    - current: Lecture 2 - Logical Combinators
             - MATH 1365:
                 - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
                     - current: 02. Sets, Subsets and the Power Set
@@ -179,6 +179,7 @@ next₁:
             - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
                 - https://github.com/OpenLogicProject/forallx
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
+            - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
         - recitations|labs:
             - Math 125A:
                 -
@@ -400,8 +401,8 @@ next₃:
                 - 18.02:
                     - Jerison, D. 2006. 18.02 - Multi Variable Calculus. Massachusetts Institute of Technology.
                 - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                    from: 75 Cubics and the prettiest theorem in calculus ｜ Arithmetic and Geometry Math Foundations 75 [DAHBgcDJQjw]
-                    to: 119 Mathematics without real numbers ｜ Real numbers and limits Math Foundations 119 ｜ N J Wildberger [Q3V9UNN4XLE]
+                    from: 75 Cubics and the prettiest theorem in calculus ｜ Arithmetic and Geometry Math Foundations 75
+                    to: 119 Mathematics without real numbers ｜ Real numbers and limits Math Foundations 119 ｜ N J Wildberger
                 - MATH 200:
                     - Hammack, R. 2020. Hammack's Calculus I
                         - current: Hammack's Calculus I, Lecture 1

@@ -1,44 +1,44 @@
 def Fermat or Interior Extremum (Censor, 2013):
     - formal:
-        let: 
+        let:
             f(x) be defined in (a,b)
             AND let x₀ be a maximum or minimum point
                 at which f is differentiable.
         then:
             f'(x₀) = 0.
-            
+
     - plain english:
         - ???
 
     - properties:
         - f(x) = function
-        - def maximum: 
+        - def maximum:
             formal:
                 f(x₀) ≥ f(x), ∀x ∈ (a,b)
 
                 in words: the value of f at x₀ (i.e. f(x₀))
                             is greater or equal
-                                to all values of f 
+                                to all values of f
                                     at all values of x in the range (a,b)
 
-            plain english: the point at which 
+            plain english: the point at which
                                 a function reaches its biggest value.
 
                                 y
                                 ↑
-                                |           . 
+                                |           .
                                 | f(x) →  .   .
                                 |        .     .
                                 |       .       .
            ← |---|--|---|---|---|---|---|---|---| → x
-                                |       a   x₀  b   
-                                |   
+                                |       a   x₀  b
+                                |
                                 ↓
 
         - def minimum:
             - ???
-        
-        - def f': 
+
+        - def f':
             - formal
                 - 26_real_functions/1_derivative.txt
             - plain english:
@@ -55,28 +55,28 @@ def Fermat or Interior Extremum (Censor, 2013):
             - plain english:
                 the slope of the tangent line
                     at x₀
-                        is zero(0) 
+                        is zero(0)
                 i.e. the tangent line is horizontal
-                
+
         - def intuition chart:
                         f(x):
                                 y
-                                ↑         
+                                ↑
                                 |       ----.---- ← tangent line
                                 |         .   .
                                 |        .     .
                                 |       .       .
             ← |---|--|---|---|--|---|---|---|---| → x
-                                |       a   x₀  b   
-                                |   
+                                |       a   x₀  b
+                                |
                                 ↓
         - def differentiable:
-            - see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt         
-    
+            see: 3_analysis/0_differential_and_integral_calculus/1_def_differentiable.txt
+
     - mathematician lifetime: 1601 - 1665
-        - remarks: laid out first steps in Calculus.
-        
+        remarks: laid out first steps in Calculus.
+
     - proof: ???
-    
+
 References:
     - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.
