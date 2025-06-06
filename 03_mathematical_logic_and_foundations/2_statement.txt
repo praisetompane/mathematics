@@ -1,4 +1,4 @@
-def statement(Devlin, 2012:27)::
+def statement(Devlin, 2012:27):
     - formal: ???
 
         - in words: ???
@@ -8,14 +8,17 @@ def statement(Devlin, 2012:27)::
     - intuition: ???
 
     - properties:
-        - archetypes(Devlin, 2012:27): all key mathematical statements are positive or negative versions of the statements below:
+        - archetypes(Devlin, 2012:27-28): all mathematical statements are positive or negative versions of the statements below:
             - a. object 𝑎 has property 𝑃.
             - b. every object of type 𝑇, has property 𝑃.
-            - c. there exists an object of type 𝑇, that has property 𝑃.
+            - c. there exists an object of type 𝑇, having property 𝑃.
             - d. if statement 𝐴, then statement 𝐵:
                 see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_implication.txt
+            - e. a combination of statement types a,b,c or d using combinators.
+                see: 03_mathematical_logic_and_foundations/3_logical_connectives.txt
 
             remark:
+                - Mathematics uses this highly restricted subset of statements to gain precision and remove ambiguity.
                 - key statements:
                     - axioms:
                         see: 03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt
@@ -229,4 +232,4 @@ def statement(Epp, 2010:2):
 
 References:
     - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning.
-    - Devlin, K. 2012. Introduction to Mathematical Thinking
+    - Devlin, K. 2012. Introduction to Mathematical Thinking.

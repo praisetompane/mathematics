@@ -8,10 +8,6 @@ def formal system(Montalban, 2020):
     - intuition: ???
 
     - properties:
-        - language
-        - rules of inference
-        - axioms
-
         - language: the means to create Mathematical statements:
             see:
                 - 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/0_propositional_logic.txt
@@ -26,19 +22,17 @@ def formal system(Montalban, 2020):
                         +               := plus
                         ×               := times
                         ∈               := belongs
+                        𝑥,𝑦,𝑧,...       := variable alphabet
                         ...
 
                         - properties:
                             - they can vary per formal system.
 
                     - logical alphabet|symbols:
-                        =               := equality
-                        ∧               := and
-                        ∨               := or
-                        ¬               := not
-                        ∃               := exists
-                        ∀               := forall
-                        𝑥,𝑦,𝑧,...       := variable alphabet
+                        see:
+                            - 03_mathematical_logic_and_foundations/3_logical_connectives.txt
+                            - 03_mathematical_logic_and_foundations/4_quantifiers.txt
+
                         punctuation alphabet:
                             (           := opening parenthesis
                             )           := closing parenthesis

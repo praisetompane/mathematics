@@ -109,8 +109,8 @@ next₁:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 07. How to write mathematics at the College level:
             - HSTAR-Y0001:
-                - Devlin, K. Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 0
+                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                    - current: Lecture 2 - Logical Combinators
             - MATH 1365:
                 - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
                     - current: 02. Sets, Subsets and the Power Set
@@ -179,6 +179,7 @@ next₁:
             - Magnus, P.D., Button T., Trueman R., Zach T. 2023. forallx An Introduction to Formal Logic
                 - https://github.com/OpenLogicProject/forallx
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
+            - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
         - recitations|labs:
             - Math 125A:
                 -
