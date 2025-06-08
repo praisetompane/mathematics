@@ -1,9 +1,17 @@
 ============================================================================================================
 next₀:
-    - mathematics terminology:
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02. The language of Geometry:
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
 
     - 00_numbers:
         - course schedule:
@@ -155,6 +163,8 @@ next₁:
         - course schedule:
             - Math 125A:
                 - https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
+            - CS 245:
+                - https://student.cs.uwaterloo.ca/~cs245/spring2025/index.html
             - MTH 302:
                 -
         - lectures:
@@ -162,7 +172,10 @@ next₁:
                 - current: 05. Sets, logic and graphs
             - Math 125A:
                 - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
-                    - current:  03. Logic. The Language Of Sentential Logic: *
+                    - current: 03. Logic. The Language Of Sentential Logic: *
+            - CS 245:
+                - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
+                    - current:
             - MTH 302:
                 - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
                     - current: None
@@ -170,6 +183,8 @@ next₁:
         - readings:
             - Math 125A:
                 - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
+            - CS 245:
+                -
             - MTH 302:
                 - Kuber, A. Set Theory and Mathematical Logic:
                     - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
@@ -183,16 +198,22 @@ next₁:
         - recitations|labs:
             - Math 125A:
                 -
+            - CS 245:
+                -
             - MTH 302:
                 -
         - assignments:
             - Math 125A:
                 - https://math.berkeley.edu/~antonio/math125A/index.html
+            - CS 245:
+                -
             - MTH 302:
                 -
         - exams:
             - Math 125A:
                 - https://math.berkeley.edu/~antonio/math125A/index.html
+            - CS 245:
+                -
             - MTH 302:
                 -
 
@@ -562,20 +583,7 @@ next₄:
 
 ============================================================================================================
 next₅
-    - 00_general_and_overarching_topics;collections
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 03 Laws of Arithmetic ｜ Arithmetic and Geometry Math Foundations 3 ｜ N J Wildberger
-        - readings:
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - 01_History_and_biography
+    - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
         - lectures:
             - Wildberger, N.J. 2012. Insights into Mathematics Math History
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *

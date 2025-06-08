@@ -13,6 +13,8 @@ def mathematical logic | formal logic:
 
             - defines the syntax and semantics of statements(2007:6-7).
 
+            - studies how to reliably get to conclusions, from assumptions(i.e. axioms)(Ben-David, 2015)
+
     - plain english: ???
 
     - intuition: the formal study of Mathematical language?
@@ -34,3 +36,4 @@ References:
     - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 135 - Intro to Set Theory. U.C. Berkeley.
     - Devlin, K. 2012. Introduction to Mathematical Thinking.
     - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University
+    - Ben-David, S. 2015. Introduction, CS 245 - Logic and Computation. University of Waterloo

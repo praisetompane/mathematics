@@ -15,7 +15,7 @@ def statement(Devlin, 2012:27):
             - d. if statement 𝐴, then statement 𝐵:
                 see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_implication.txt
             - e. a combination of statement types a,b,c or d using combinators.
-                see: 03_mathematical_logic_and_foundations/3_logical_connectives.txt
+                see: 03_mathematical_logic_and_foundations/3_0_logical_connectives.txt
 
             remark:
                 - Mathematics uses this highly restricted subset of statements to gain precision and remove ambiguity.
