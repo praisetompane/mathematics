@@ -1,11 +1,12 @@
-def algebra¹(Lockhart, 2009:8):
+def algebra¹(Wildberger, 2014):
     - formal: ???
 
         - in words: ???
 
-    - plain english: a field about number and symmetry
+    - plain english: ???
 
-    - intuition: ???
+    - intuition: approximately arithmetic with polynomials.
+        see: 12_field_theory_and_polynomials/2_polynomial.txt
 
     - properties: ???
 
@@ -13,7 +14,7 @@ def algebra¹(Lockhart, 2009:8):
 
     - use cases: ???
 
-def algebra²(Censor, 2015): 
+def algebra²(Censor, 2015):
     - formal: ???
 
         - in words: ???
@@ -27,16 +28,33 @@ def algebra²(Censor, 2015):
     - examples:
         - 𝑎𝑥² + 𝑏𝑥 + 𝑐 = 0
             this is a calculation that has variables(x), parameters(a,b) and a number(0)
-        - 𝑦 = 𝑚𝑥 
+        - 𝑦 = 𝑚𝑥
             this is a calculation that has variables(y, x) and parameter(m)
     - use cases:
 
+def abstract algebra(Lockhart, 2009:8):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: a field about number and symmetry.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        see:
+            - 12_field_theory_and_polynomials/0_field_theory.txt
+            - 20_group_theory_and_generalizations/0_group_theory.txt
+
+    - use cases: ???
 
 def symmetry(Frenkel):
     - formal: ???
 
         - in words: ???
-        
+
     transformations that preserve
         shape and position of an object.
     - examples:
@@ -46,3 +64,4 @@ def symmetry(Frenkel):
 References:
     - Censor, A. 2015. 01 - Introduction, Algebra 1M - international. Technion - International School Of Engineering.
     - Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.
+    - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales

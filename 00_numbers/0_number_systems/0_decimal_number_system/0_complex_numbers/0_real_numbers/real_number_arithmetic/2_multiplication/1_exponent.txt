@@ -1,4 +1,4 @@
-def exponentiation: 
+def exponentiation:
     - formal: ???
 
         - in words: ???
@@ -21,26 +21,30 @@ def exponentiation:
                 ∴ 1/3²
 
         - Generalization(Khan Academy):
-            given: a⁻ᵐ 
+            given: a⁻ᵐ
                 convert exponent to positive: -m to m
                     ∴ aᵐ
                 divide 1 by the new exponent
                     ∴ 1/aᵐ
                 Example:
                     (21/39)⁻⁷
-                    (21/39)⁷ 
+                    (21/39)⁷
                     ∴ 1/(21/39)⁷
-            given: aᵐ 
+            given: aᵐ
                 convert exponent to negative: m to -m
-                    ∴ a⁻ᵐ 
+                    ∴ a⁻ᵐ
                 divide 1 by new exponent
                     ∴ 1/aᵐ
                 Example:
                     4²
-                    4⁻² 
+                    4⁻²
                     1/4⁻²
 
-    - examples: 
+        - special cases:
+            - squares: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/real_number_arithmetic/2_multiplication/squares.txt
+            - cubes: ???
+
+    - examples:
         3 * 3 = 3²
         3 * 3 * 3 = 3³
         3 * 3 * 3 * 3 * 3 * 3 * 3 = 3⁷
@@ -48,22 +52,22 @@ def exponentiation:
         names of parts(Khan Academy):
             using: 3 * 3 = 3²
             3 = base
-            2 = exponent(degree) [3² = superscript format] 
+            2 = exponent(degree) [3² = superscript format]
             read: 3 raised to 2
-        general: 
+        general:
             aᵐ
             a = base
-            m = exponent(degree) 
+            m = exponent(degree)
 
     - use cases:
         - represent a long chain of the same number multiplied by itself.
-            - example: 
-                given: 
+            - example:
+                given:
                     - 3 × 3 × 3 × 3 × 3 × 3
-                then: 
+                then:
                     - it can written as 3⁶
-        
+
     - proof: ???
-    
+
 References:
-    - Khan Academy. 6TH GRADE: UNIT 4, Intro to exponents. 
+    - Khan Academy. 6TH GRADE: UNIT 4, Intro to exponents.

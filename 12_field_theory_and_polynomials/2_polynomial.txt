@@ -1,12 +1,10 @@
-def polynomial: 
+def polynomial(Wildberger, 2014):
     - formal: ???
 
         - in words: ???
 
-    - plain english:
-        algebraic expression with more than one term.
-        poly = many
-        nomial = part(Terms in the context of algebraic expressions)
+    - plain english: an arithmetic expression consisting of powers of an unknown with coefficients.
+      see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/real_number_arithmetic/2_multiplication/1_exponent.txt
 
     - intuition: ???
 
@@ -20,7 +18,7 @@ def polynomial:
             - 1 term = monomial
                 Examples:
                     7
-                    4𝑥² 
+                    4𝑥²
                     5𝑥𝑦⁴
             - 2 terms = binomial
                 Examples:
@@ -38,7 +36,8 @@ def polynomial:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
-References: ???
+References:
+    - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
