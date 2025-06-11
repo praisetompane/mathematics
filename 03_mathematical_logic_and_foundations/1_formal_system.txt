@@ -3,7 +3,7 @@ def formal system(Montalban, 2020):
 
         - in words: ???
 
-    - plain english: context to develop Mathematics in a formal way.
+    - plain english: ???
 
     - intuition: ???
 
@@ -17,13 +17,13 @@ def formal system(Montalban, 2020):
                 - alphabet|symbols: valid characters(alphabet|symbols) in the language:
 
                     - vocabulary alphabet|symbols:
-                        0               := zero
-                        1               := one
-                        +               := plus
-                        ×               := times
-                        ∈               := belongs
-                        𝑥,𝑦,𝑧,...       := variable alphabet
-                        ...
+                        0           := zero
+                        1           := one
+                        +           := plus
+                        ×           := times
+                        ∈           := belongs
+                        𝑥,𝑦,𝑧,...   := variable alphabet
+                        ...         := any other symbols needed for that specific formal system
 
                         - properties:
                             - they can vary per formal system.
@@ -33,7 +33,7 @@ def formal system(Montalban, 2020):
                             - 03_mathematical_logic_and_foundations/3_logical_connectives.txt
                             - 03_mathematical_logic_and_foundations/4_quantifiers.txt
 
-                        punctuation alphabet:
+                        punctuation alphabet|symbols:
                             (           := opening parenthesis
                             )           := closing parenthesis
 
@@ -68,14 +68,14 @@ def formal system(Montalban, 2020):
     - examples: ???
 
     - use cases:
-        - create a solid foundation for Mathematics to:
+        - context to develop Mathematics in a formal way to:
             - avoid paradoxes.
             - ...
         - formal systems can be studied in logic as Mathematical objects which allows:
             - studying Mathematics(proofs, theorems, etc) using Mathematics (i.e. meta-Mathematics)
                 example: Gödel's theorems.
-        - computers can manipulate formal symbols which allows:
-            - mathematical proof verification using computer.
+        - computers can manipulate formal systems which allows:
+            - mathematical proof verification using computers.
             - computer aided mathematical proof development.
             - computer program verification and proof of properties(accuracy, etc).
 

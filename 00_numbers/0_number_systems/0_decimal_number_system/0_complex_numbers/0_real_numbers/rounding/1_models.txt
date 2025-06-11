@@ -1,5 +1,0 @@
-movement along a number line(Khan Academy)
-    see 2_problems.txt for good example
-
-References:
-    - Khan Academy. 3RD GRADE: UNIT 3, Rounding to the nearest 10 on the number line.

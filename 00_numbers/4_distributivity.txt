@@ -1,6 +1,6 @@
 def distributive laws/properties of addition and multiplication(Kent State Department of Mathematical Sciences, 2008:54):
     - formal:
-        given:
+        let:
             numbers:
                 - n
                 - m
@@ -8,12 +8,12 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
         then:
             - law 1: k × (n + m) = (k × n) + (k × m)
                           = k × n + k × m
-                            NB: simplified notational rewrite without the parenthesis. 
+                            NB: simplified notational rewrite without the parenthesis.
                                 we interpret this as multiplication takes precedence over addition.
                                 i.e. we multiply first before we add.
                             Question: Why does the order of the multiplication and addition matter and gives different answers?
-            
-            - law 2: (k + n) × m = (k × m) + (n × m) 
+
+            - law 2: (k + n) × m = (k × m) + (n × m)
                           = k × m + n × m
     - plain english:
         - properties/laws that connect addition(+) and multiplication(×).
@@ -35,9 +35,9 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
                 18
 
     - use cases: ???
-        
+
     - proof: ???
-        
+
     Question: are there distributive laws between other pairs of operators?:
         - addition and addition
         - addition and division
@@ -56,7 +56,7 @@ def distributive laws/properties of addition and multiplication(Kent State Depar
         - division and multiplication
         - division and division
         - division and subtraction
-        
+
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
     - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales.

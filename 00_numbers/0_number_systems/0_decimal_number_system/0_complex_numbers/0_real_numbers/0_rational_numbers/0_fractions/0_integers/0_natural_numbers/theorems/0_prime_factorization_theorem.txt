@@ -1,4 +1,4 @@
-def fundamental theorem of arithmetic:
+def prime factorization theorem | unique factorization theorem | fundamental theorem of arithmetic:
     - formal: ∀𝑛 ∈ ℕ, 𝑛 ≥ 2
                 ∃{𝑎₁, 𝑎₂, 𝑎₃, ..., 𝑎ₙ} where 𝑎₁, 𝑎₂, 𝑎₃, ..., 𝑎ₙ are prime numbers
                 such that 𝑎₁ × 𝑎₂ × 𝑎₃ × ... × 𝑎ₙ = 𝑛

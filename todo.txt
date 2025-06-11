@@ -5,6 +5,7 @@ next₀:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02. The language of Geometry:
         - readings:
+            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
         - recitations|labs:
             -
@@ -88,23 +89,23 @@ next₀:
         - exams:
             -
 
-- 00_numbers/1_elementary_algebra:
-    - course schedule:
-        -
-    - lectures:
-        - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            from: 03. The language of Algebra:
-        - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-            from: 46 Introduction to Algebra, Arithmetic and Geometry
-            to: 74 Lines and parabolas II, Arithmetic and Geometry
-    - readings:
-        -
-    - recitations|labs:
-        -
-    - assignments:
-        -
-    - exams:
-        -
+    - 00_numbers/1_elementary_algebra:
+        - course schedule:
+            -
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 03. The language of Algebra:
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 46 Introduction to Algebra, Arithmetic and Geometry
+                to: 74 Lines and parabolas II, Arithmetic and Geometry
+        - readings:
+            -
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
 ============================================================================================================
 next₁:
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
@@ -589,8 +590,7 @@ next₅
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
             - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
         - readings:
-            - what is mathematics?. richard courant.pdf
-                - current position: not started
+            -
         - recitations|labs:
             -
         - assignments:

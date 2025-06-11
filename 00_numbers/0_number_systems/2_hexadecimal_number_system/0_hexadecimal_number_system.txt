@@ -1,15 +1,15 @@
-def hexadecimal numbers(Khan Academy): 
+def hexadecimal numbers(Khan Academy):
     - formal: ???
 
         - in words: base(radix)-16 numeral system for representing numbers (Khan Academy).
 
-    - plain english: number system that uses 16 unique symbols to represent numbers.
-                
+    - plain english: a number system that uses 16 unique symbols to represent numbers.
+
     - intuition: ???
 
     - properties:
         - common symbols:
-            - symbols to number mapping
+            - symbols to number mapping:
                 - 0 = 0
                 - 1 = 1
                 - 2 = 2
@@ -29,7 +29,7 @@ def hexadecimal numbers(Khan Academy):
 
     - examples:
         - 0   = 0
-              = 0×16⁰ 
+              = 0×16⁰
               = 0×1
               = 0
 
@@ -45,15 +45,15 @@ def hexadecimal numbers(Khan Academy):
               = 128
 
         - 255 = FF
-              = 15×16¹ + 15×16⁰ 
+              = 15×16¹ + 15×16⁰
               = 15×16  + 15×1
               = 240    + 15
               = 255
-    
+
     - use cases:
         - represent large numbers with less symbols:
             - example:
-                given: 
+                given:
                     number = 255
                 then:
                     decimal = 255
@@ -76,19 +76,19 @@ def hexadecimal numbers(Khan Academy):
             - generalization:
                 let:
                     𝑏 = base
-                        example: 
+                        example:
                             base 10 = decimal
                             base 2  = binary
                             base 16 = hexadecimal
                             ...
-                            remarks: 
+                            remarks:
                                 - You can have any number for the base.
                     𝑛 = position(place) in the number , starting from 0(zero) from the right to the left.
                     𝑞 = the quantity of those positions:
                         example:
                             21 in decimal means:
                                 two (ten to power of 1) and one (10 to power of 0)
-                                two (10¹) and one (10⁰) 
+                                two (10¹) and one (10⁰)
                                 two 10 and one 1
                                 2×10 + 1×1
                                 20 + 1
@@ -108,6 +108,6 @@ def hexadecimal numbers(Khan Academy):
                     Notice for small numbers like 0,1 or 128 its the same as decimal
 
     - proof: none. it is a definition.
-    
+
 References:
     - Khan Academy. Algebra. Hexadecimal number system.

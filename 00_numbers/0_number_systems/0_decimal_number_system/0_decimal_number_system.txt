@@ -35,7 +35,7 @@ def hindu-arabic number system | decimal number system:
                 10 ten-thousand         = 1 one-hundred-thousand
                 10 one-hundred-thousand = 1 one-million
 
-    - plain english: number system that uses 10 unique symbols to represent numbers.
+    - plain english: a number system that uses 10 unique symbols to represent numbers.
 
     - intuition: ???
 
@@ -44,18 +44,18 @@ def hindu-arabic number system | decimal number system:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: none. it is a definition.
 
-def decimal number¹(Kent State Department of Mathematical Sciences, 2008:3): 
+def decimal number¹(Kent State Department of Mathematical Sciences, 2008:3):
     - formal: ???
 
         - in words: ???
 
-    - plain english: 
+    - plain english:
         these are also based on 10.
             The number line is split into 10 equal spaces/pieces between 2 digits(i.e. tenths)(Kent State Department of Mathematical Sciences, 2008:3).
-                examples: 
+                examples:
                     0 to 1:
                         0   s|  s|  s|  s|  s|  s|  s|  s|  s|  s 1
                             0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
@@ -85,7 +85,7 @@ def decimal number¹(Kent State Department of Mathematical Sciences, 2008:3):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 

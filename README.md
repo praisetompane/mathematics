@@ -107,6 +107,7 @@
 - [Mathematical Symbols](https://wumbo.net/symbols/)
 - [Glossary of Mathematical Symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org)
+- [Proof Wiki](https://proofwiki.org/wiki/Main_Page)
 - [LEAN](https://github.com/leanprover)
 - [mathlib4](https://github.com/leanprover-community/mathlib4)
 - [Mathematica](https://www.wolfram.com/mathematica/)

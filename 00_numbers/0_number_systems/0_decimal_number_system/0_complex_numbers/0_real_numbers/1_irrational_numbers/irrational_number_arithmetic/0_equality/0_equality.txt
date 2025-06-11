@@ -1,4 +1,4 @@
-def radicals:
+def equality:
     - formal: ???
 
         - in words: ???

@@ -18,7 +18,7 @@ def binary numbers(Khan Academy):
                     512     256     128     64      32      16      8       4       0       1
                     512 +   256 +   128 +   64  +   32  +   16  +   8   +   4   +   0   +   1 = 900
 
-    - plain english: number system that uses 2 unique symbols to represent numbers.
+    - plain english: a number system that uses 2 unique symbols to represent numbers.
 
     - intuition: ???
 
