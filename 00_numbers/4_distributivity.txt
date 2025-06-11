@@ -1,0 +1,62 @@
+def distributive laws/properties of addition and multiplication(Kent State Department of Mathematical Sciences, 2008:54):
+    - formal:
+        let:
+            numbers:
+                - n
+                - m
+                - k
+        then:
+            - law 1: k × (n + m) = (k × n) + (k × m)
+                          = k × n + k × m
+                            NB: simplified notational rewrite without the parenthesis.
+                                we interpret this as multiplication takes precedence over addition.
+                                i.e. we multiply first before we add.
+                            Question: Why does the order of the multiplication and addition matter and gives different answers?
+
+            - law 2: (k + n) × m = (k × m) + (n × m)
+                          = k × m + n × m
+    - plain english:
+        - properties/laws that connect addition(+) and multiplication(×).
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - law 1: 2 × (3 + 4):
+                2 × 3 + 2 × 4
+                6 + 2 × 4
+                6 + 8
+                14
+        - law 2: (6 + 3) × 2:
+                6 × 2 + 3 × 2
+                12  + 3 × 2
+                12 + 6
+                18
+
+    - use cases: ???
+
+    - proof: ???
+
+    Question: are there distributive laws between other pairs of operators?:
+        - addition and addition
+        - addition and division
+        - addition and subtraction
+
+        - multiplication and multiplication
+        - multiplication and division
+        - multiplication and subtraction
+
+        - subtraction and addition
+        - subtraction and multiplication
+        - subtraction and division
+        - subtraction and subtraction
+
+        - division and addition
+        - division and multiplication
+        - division and division
+        - division and subtraction
+
+References:
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales.

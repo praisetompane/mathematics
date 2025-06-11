@@ -194,7 +194,9 @@ Nxx
 Qxx
 Rxx
 Uxx
-
+Mxx
+Pxx
+Wxx
 
 # institutions
 Roorkee
@@ -242,6 +244,7 @@ joma
 
 # institutions
 uwaterloo
+proofwiki
 
 # places
 Jozi

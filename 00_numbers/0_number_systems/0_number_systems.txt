@@ -1,11 +1,11 @@
-def number system(Khan Academy): 
+def number system(Khan Academy):
 
     - formal: ???
 
         - in words: ???
 
-    - plain english: system to represent numbers using symbols.
-                
+    - plain english: a system to represent numbers using symbols.
+
     - intuition: ???
 
     - properties:
@@ -21,19 +21,19 @@ def number system(Khan Academy):
         - generalization of positional systems:
             let:
                 𝑏 = base
-                    example: 
+                    example:
                         base 10 = decimal
                         base 2  = binary
                         base 16 = hexadecimal
                         ...
-                        remarks: 
+                        remarks:
                             - You can have any number for the base.
                 𝑛 = position(place) in the number , starting from 0(zero) from the right to the left.
                 𝑞 = the quantity of that position:
                     example:
                         21 in decimal means:
                             two (ten to power of 1) and one (10 to power of 0)
-                            two (10¹) and one (10⁰) 
+                            two (10¹) and one (10⁰)
                             two 10 and one 1
                             2×10 + 1×1
                             20 + 1
@@ -46,17 +46,17 @@ def number system(Khan Academy):
                 total value = Σ 𝑞×𝑏ⁿ
                              𝑛=0
                 remarks:
-                    - You stop summing when you get to the value you wan to represent
+                    - stop summing when you get to the value you wan to represent
 
     - examples:
         - decimal: see: 00_numbers/0_number_systems/0_decimal_number_system/0_decimal_number_system.txt
         - binary:  see: 00_numbers/0_number_systems/1_binary_number_system/0_binary_number_system.txt
         - hexadecimal: see: 00_numbers/0_number_systems/2_hexadecimal_number_system/0_hexadecimal_number_system.txt
-    
+
     - use cases:
         - represent numbers:
             - example:
-                given: 
+                given:
                     number = 255
                 then:
                     decimal = 255
@@ -82,6 +82,6 @@ def number system(Khan Academy):
                     Notice for small numbers like 0,1 or 128 its the same as decimal
 
     - proof: none. it is a definition.
-    
+
 References:
     - Khan Academy. Algebra. Hexadecimal number system.

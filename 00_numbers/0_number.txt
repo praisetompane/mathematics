@@ -1,4 +1,4 @@
-def number: 
+def number:
     - formal: ???
 
         - in words: ???
@@ -12,9 +12,8 @@ def number:
     - examples: ???
 
     - use cases: ???
-        
-    - proof: ???
 
+    - proof: ???
 
 number vs numeral(Hamkins, 2020)
     example:
@@ -41,5 +40,5 @@ Question:
 
 References:
     - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales.
-    - Hamkins, J.D. 2020. What is a number?. 
-    - Karagila, A. 2022. What is a Number? - Numberphile. 
+    - Hamkins, J.D. 2020. What is a number?.
+    - Karagila, A. 2022. What is a Number? - Numberphile.

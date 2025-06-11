@@ -1,22 +1,61 @@
-def arithmetic¹(Censor, 2015): 
-    - formal: the fundamental theorem of arithmetic?
-        - in words: ???
+def arithmetic:
+    - formal: a formal system for calculations with numbers?
+        see: formal system definition details in 'properties' section.
+        - in words: a formal system for calculations with numbers?
 
     - plain english: a field in Mathematics in which we perform calculations with numbers.
 
-    - plain english: ???
-
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - formal system: MYINC:
+            - language:
+                - alphabet|symbols:
+                    - vocabulary alphabet|symbols:
+                        + := addition
+                        × := multiplication
+                        ÷ := division
+                        - := subtraction
+                        ℕ := the set of all natural numbers.
 
-    - examples: ???
+                    - logical alphabet|symbols:
+                        - punctuation alphabet|symbols:
+                            (
+                            )
 
-    - use cases:
-        - accounting
-        - ...
-        
-    - proof: ???
-        
+                - grammar:
+                    - fundamental lows of arithmetic:
+                        let:
+                            𝑎,𝑏,𝑐 ∈ ℕ
+                        then:
+                            1. commutativity of addition                     : 𝑎 + 𝑏 = 𝑏 + 𝑎
+                            2. commutativity of multiplication               : 𝑎 × 𝑏 = 𝑏 × 𝑎
+                            3. associativity of addition                     : 𝑎 + (𝑏 + 𝑐) = (𝑎 + 𝑏) + 𝑐
+                            4. associativity of multiplication               : 𝑎 × (𝑏 × 𝑐) = (𝑎 × 𝑏) × 𝑐
+                            5. distributivity of addition and multiplication : 𝑎 × (𝑏 + 𝑐) = 𝑎×𝑏 + 𝑎×𝑐
+
+                        see:
+                            - 00_numbers/2_commutativity.txt
+                            - 00_numbers/3_associativity.txt
+                            - 00_numbers/4_distributivity.txt
+            - axioms:
+                - Peano axioms:
+                    - ...
+
+            - rules of inference: ???
+
+    - examples:
+        - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/complex_number_arithmetic
+            - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/real_number_arithmetic
+                - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/rational_number_arithmetic
+                    - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/fraction_arithmetic
+                        - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/integer_arithmetic
+                            - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/natural_number_arithmetic
+                - 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/1_irrational_numbers/irrational_number_arithmetic
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
 References:
-    - Censor, A. 2015. 01 - Introduction. Technion, 104016 - Algebra 1M. Technion International School of Engineering. 
+    - Censor, A. 2015. 01 - Introduction. Technion, 104016 - Algebra 1M. Technion International School of Engineering.

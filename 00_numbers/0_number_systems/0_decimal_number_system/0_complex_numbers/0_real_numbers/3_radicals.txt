@@ -1,0 +1,34 @@
+def radicals:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - models(Khan Academy):
+            - transpose:
+                given: 5² = 25
+                using Transpose method
+                    transpose exponent(i.e. 2) to RHS
+
+                    5 = square root(25)
+
+            - half exponent⁽ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈᵉᵈ⁾:
+                given:
+                    square root(16) = 4² => square root(4²) = 4¹ => square root(2⁴) = 2²
+                    square root(256) = 16 => square root(4⁴) = 4² => square root(2⁸) = 2⁴
+
+                pattern:
+                    square root(exponent) = baseᵉˣᵖᴼⁿᵉⁿᵗ/²
+                        square root(aᵐ) = aᵐ/²
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Khan Academy. ALGEBRA 1: UNIT 11, Intro to square roots.
