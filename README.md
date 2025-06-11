@@ -34,25 +34,7 @@
 
 - def mathematics⁴(Devlin, 2012:15): the science of patterns.
 
-- def side of Mathematics:(Hammack, 2018:viii):
-     - computation focused:
-          - primary goals:
-               - solve equations.
-               - compute derivatives.
-               - compute integrals.
-               - multiply matrices.
-               - find determinants.
-               - ...
-               - use the above-mentioned computations to answer practical questions about the real world.
-          **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretical side.
-
-     - theoretical focused:
-          - primary goals:
-               - understand Mathematical structures.
-               - prove Mathematical statements.
-               - invent or discover new Mathematical theorems and theories.
-
-- def creation/discovery::
+- def creation|discovery:
      - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
      - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
 
@@ -88,6 +70,7 @@
 - [26_real_functions](26_real_functions/)
 - [34_ordinary_differential_equations](34_ordinary_differential_equations/)
 - [35_partial_differential_equations](35_partial_differential_equations/)
+- [11_number_theory](11_number_theory)
 - [54_general_topology](54_general_topology)
 - [60_probability_theory_and_stochastic_processes](60_probability_theory_and_stochastic_processes/)
 - [18_category_theory;homological_algebra](18_category_theory;homological_algebra/)

@@ -1,6 +1,6 @@
 def natural number(Kent State Department of Mathematical Sciences, 2008):
-    - formal: 𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚 ???
-
+    - formal: ???
+        MYINC: 𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚
         - in words: the quotient of dividing any number by itself.
 
     - plain english: ???

@@ -27,7 +27,7 @@ def foundations of mathematics(Wildberger, 2009):
                         ...
                 remarks:
                     - These are the natural numbers.
-                        see: /mathematics/00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/natural_numbers
+                        see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/0_natural_numbers.txt
                     - These are our first Mathematical objects.
                     - All Mathematical objects are based on the natural numbers.
 

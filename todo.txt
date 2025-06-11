@@ -1,12 +1,12 @@
 ============================================================================================================
 next₀:
     - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 02. The language of Geometry:
         - readings:
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 02. The language of Geometry:
         - recitations|labs:
             -
         - assignments:
@@ -17,6 +17,19 @@ next₀:
     - 00_numbers:
         - course schedule:
             -
+        - readings:
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
+                - current position: pg. 22: example 3
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
+                - current position: not started
+            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
+                - current position: not started
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 01. Numbers and arithmetic: **
@@ -40,19 +53,6 @@ next₀:
                 - more on natural numbers:
                     from: 155 The realm of natural numbers, Data Structures in Mathematics
                     to: 157 The algebra of natural number multisets, Data Structures in Mathematics
-        - readings:
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
-                - current position: pg. 22: example 3
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
-                - current position: not started
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade
         - recitations|labs:
             -
         - assignments:
@@ -63,6 +63,12 @@ next₀:
     - 51_geometry:
         - course schedule:
             -
+        - readings:
+            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                - current: pg 142 in pdf. pg 117 in text.
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 02. The language of Geometry:
@@ -72,16 +78,6 @@ next₀:
             - Geometry: https://www.khanacademy.org/math/geometry-home
                 - current:
             - High school geometry: https://www.khanacademy.org/math/geometry
-        - readings:
-            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
-            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
-            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-                - current: pg 142 in pdf. pg 117 in text.
-        - lectures:
-            -
-        - readings:
-            -
         - recitations|labs:
             -
         - assignments:
@@ -92,14 +88,14 @@ next₀:
     - 00_numbers/1_elementary_algebra:
         - course schedule:
             -
+        - readings:
+            -
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 03. The language of Algebra:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 46 Introduction to Algebra, Arithmetic and Geometry
                 to: 74 Lines and parabolas II, Arithmetic and Geometry
-        - readings:
-            -
         - recitations|labs:
             -
         - assignments:
@@ -114,15 +110,6 @@ next₁:
                 - https://www.coursera.org/learn/mathematical-thinking
             - MATH 1365:
                 - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 07. How to write mathematics at the College level:
-            - HSTAR-Y0001:
-                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 2 - Logical Combinators
-            - MATH 1365:
-                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
-                    - current: 02. Sets, Subsets and the Power Set
         - readings:
             - HSTAR-Y0001:
                 - Devlin, K. 2012. Introduction to Mathematical Thinking
@@ -140,6 +127,15 @@ next₁:
             - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
             - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
             - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 07. How to write mathematics at the College level:
+            - HSTAR-Y0001:
+                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                    - current: Lecture 2 - Logical Combinators
+            - MATH 1365:
+                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+                    - current: 02. Sets, Subsets and the Power Set
         - recitations|labs:
             - HSTAR-Y0001:
                 -
@@ -168,19 +164,6 @@ next₁:
                 - https://student.cs.uwaterloo.ca/~cs245/spring2025/index.html
             - MTH 302:
                 -
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 05. Sets, logic and graphs
-            - Math 125A:
-                - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
-                    - current: 03. Logic. The Language Of Sentential Logic: *
-            - CS 245:
-                - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
-                    - current:
-            - MTH 302:
-                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                    - current: None
-            - Bombieri, E. 2012. The Mathematical Truth. Institute for Advanced Study
         - readings:
             - Math 125A:
                 - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
@@ -196,6 +179,19 @@ next₁:
                 - https://github.com/OpenLogicProject/forallx
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
             - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - current: 05. Sets, logic and graphs
+            - Math 125A:
+                - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
+                    - current: 03. Logic. The Language Of Sentential Logic: *
+            - CS 245:
+                - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
+                    - current:
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - current: None
+            - Bombieri, E. 2012. The Mathematical Truth. Institute for Advanced Study
         - recitations|labs:
             - Math 125A:
                 -
@@ -224,13 +220,6 @@ next₁:
                 - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
             - MTH 302:
                 -
-        - lectures:
-            - Math 135:
-                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-                    - current: 2. Set Theory. Basic concepts
-            - MTH 302:
-                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                    - current:
         - readings:
             - Math 135:
                 - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
@@ -240,6 +229,13 @@ next₁:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
 
             - Burns, S., Hägg, D., Qian, Z. 2021. Set Theory - An Open Introduction
+        - lectures:
+            - Math 135:
+                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
+                    - current: 2. Set Theory. Basic concepts
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - current:
         - recitations|labs:
             - Math 135:
                 -
@@ -261,12 +257,12 @@ next₁:
             - 111106113:
                 - https://nptel.ac.in/courses/111106113
                 - https://onlinecourses.nptel.ac.in/noc25_ma64/preview
-        - lectures:
-            - 111106113:
-                - Hanumanthu, K. 2025. Introduction to Abstract Group Theory. Chennai Mathematical Institute
         - readings:
             - 111106113:
                 -
+        - lectures:
+            - 111106113:
+                - Hanumanthu, K. 2025. Introduction to Abstract Group Theory. Chennai Mathematical Institute
         - recitations|labs:
             - 111106113:
                 -
@@ -282,12 +278,12 @@ next₂:
         - course schedule:
             - 111106131:
                 - https://nptel.ac.in/courses/111106131
-        - lectures:
-            - 111106131:
-                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - readings:
             - 111106131:
                 -
+        - lectures:
+            - 111106131:
+                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - recitations|labs:
             - 111106131:
                 -
@@ -302,12 +298,12 @@ next₂:
         - course schedule:
             - 111106131:
                 - https://nptel.ac.in/courses/111106131
-        - lectures:
-            - 111106131:
-                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - readings:
             - 111106131:
                 -
+        - lectures:
+            - 111106131:
+                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - recitations|labs:
             - 111106131:
                 -
@@ -322,12 +318,12 @@ next₂:
         - course schedule:
             - 111106131:
                 - https://nptel.ac.in/courses/111106131
-        - lectures:
-            - 111106131:
-                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - readings:
             - 111106131:
                 -
+        - lectures:
+            - 111106131:
+                - Hanumanthu, K. 2024. Introduction To Rings And Fields. Chennai Mathematical Institute
         - recitations|labs:
             - 111106131:
                 -
@@ -347,16 +343,6 @@ next₂:
                 - https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/
             - RES.18-010:
                 -
-        - lectures:
-            - 104016:
-                - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering.
-                    - current: Lecture 05 - Complex numbers: *
-            - 18.06:
-                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/
-                - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
-            - RES.18-010:
-                - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
-            - Khan Academy. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
         - readings:
             - 104016:
                 - https://04.phf-site.com/2017/02/algebra-2015-by-aviv-censor-at-technion.html
@@ -371,6 +357,16 @@ next₂:
                     - Chapter IV
                     - Chapter V
             - https://github.com/OpenMathLib/OpenBLAS
+        - lectures:
+            - 104016:
+                - Censor, A. 2015. 104016 - Algebra 1M. Technion International School of Engineering.
+                    - current: Lecture 05 - Complex numbers: *
+            - 18.06:
+                - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/
+                - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
+            - RES.18-010:
+                - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
+            - Khan Academy. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
         - recitations|labs:
             - 104016: N/A
             - 18.06:
@@ -404,6 +400,21 @@ next₃:
                 -
             - MATH 200:
                 -
+        - readings:
+            - 104003:
+                - https://students.technion.ac.il/local/technionsearch/course/104003
+            - 104004:
+                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+                - https://students.technion.ac.il/local/technionsearch/course/104004
+            - 18.01:
+                - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
+                - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+            - 18.02:
+                - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
+            - MATH 200:
+                -
+            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+                - chapter vi, viii
         - lectures:
             - calculus:
                 - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
@@ -438,21 +449,6 @@ next₃:
                     - https://www.khanacademy.org/math/multivariable-calculus
             - real analysis
                 - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology
-        - readings:
-            - 104003:
-                - https://students.technion.ac.il/local/technionsearch/course/104003
-            - 104004:
-                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-                - https://students.technion.ac.il/local/technionsearch/course/104004
-            - 18.01:
-                - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
-                - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-            - 18.02:
-                - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
-            - MATH 200:
-                -
-            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-                - chapter vi, viii
         - recitations|labs:
             - 104003:
                 -
@@ -492,13 +488,13 @@ next₃:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/syllabus/
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/calendar/
+        - readings:
+            - 18.03:
+                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/readings/
         - lectures:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/video_galleries/video-lectures/
                 - Miller, H., Orloff, J., Lewis, J., Mattuck, A. 2011. Differential Equations. Massachusetts Institute of Technology
-        - readings:
-            - 18.03:
-                - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/readings/
         - recitations|labs:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/recitations/
@@ -513,9 +509,9 @@ next₃:
     - 35_partial_differential_equations:
         - course schedule:
             -
-        - lectures:
-            -
         - readings:
+            -
+        - lectures:
             -
         - recitations|labs:
             -
@@ -526,10 +522,10 @@ next₃:
 ============================================================================================================
 next₄:
     - 54_general_topology
-        - lectures:
-            -
         - readings:
             - Munkres, J.R. 2000. Topology. 2nd Edition
+        - lectures:
+            -
         - recitations|labs:
             -
         - assignments:
@@ -538,11 +534,11 @@ next₄:
             -
 
     - 60_probability_theory_and_stochastic_processes:
+        - readings:
+            -
         - course schedule:
             -
         - lectures:
-            -
-        - readings:
             -
         - recitations|labs:
             -
@@ -552,12 +548,12 @@ next₄:
             -
 
     - 18_category_theory;homological_algebra
-        - lectures:
-            - Milewski, B. 2016. Category Theory For Programmers I
-            - Milewski, B. 2017. Category Theory For Programmers II
-            - Milewski, B. 2018. Category Theory For Programmers III
         - readings:
             - Category Theory For Programmers. https://github.com/hmemcpy/milewski-ctfp-pdf
+            - Milewski, B. 2017. Category Theory For Programmers II
+            - Milewski, B. 2018. Category Theory For Programmers III
+        - lectures:
+            - Milewski, B. 2016. Category Theory For Programmers I
         - recitations|labs:
             -
         - assignments:
@@ -566,15 +562,15 @@ next₄:
             -
 
     - 00_general_and_overarching_topics;collections/00A71_general_theory_of_mathematical_modeling:
+        - readings:
+            - Nayak, K. Mathematical Modeling: Analysis and Applications:
+                - https://archive.nptel.ac.in/noc/courses/noc18/SEM2/noc18-ma18/
+            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - lectures:
             - Nayak, K. 2018. Mathematical Modeling: Analysis and Applications. IIT Roorkee - National Programme on Technology Enhanced Learning
             - Edx: DelftX: MathMod1x: Modelling with Differential Equations
             - Edx: GeorgetownX: PHYS-155  - Mathematical and Computational Methods
             - Coursera: Precalculus through Data and Modelling Specialization
-        - readings:
-            - Nayak, K. Mathematical Modeling: Analysis and Applications:
-                - https://archive.nptel.ac.in/noc/courses/noc18/SEM2/noc18-ma18/
-            - https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/
         - recitations|labs:
             -
         - assignments:
@@ -585,12 +581,12 @@ next₄:
 ============================================================================================================
 next₅
     - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
+        - readings:
+            -
         - lectures:
             - Wildberger, N.J. 2012. Insights into Mathematics Math History
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
             - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
-        - readings:
-            -
         - recitations|labs:
             -
         - assignments:
@@ -599,11 +595,11 @@ next₅
             -
 ============================================================================================================
 - next field template:
+    - readings:
+        -
     - course schedule:
         -
     - lectures:
-        -
-    - readings:
         -
     - recitations|labs:
         -
