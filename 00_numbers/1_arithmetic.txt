@@ -12,11 +12,17 @@ def arithmetic:
             - language:
                 - alphabet|symbols:
                     - vocabulary alphabet|symbols:
-                        + := addition
-                        × := multiplication
-                        ÷ := division
-                        - := subtraction
-                        ℕ := the set of all natural numbers.
+                        - operations:
+                            +    := addition
+                            ×    := multiplication
+                            ÷    := division
+                            -    := subtraction
+                            ^|𝑏ⁿ := exponentiation
+                            √    := nᵗʰ root
+                            𝑙𝑜𝑔   := logaritm
+
+                        - domain of discourse:
+                            ℂ    := the complex numbers(i.e.  {ℂ ∨ ℝ ∨ ℚ ∨ ℝ\ℚ ∨ ℤ ∨ ℕ})
 
                     - logical alphabet|symbols:
                         - punctuation alphabet|symbols:
@@ -26,7 +32,8 @@ def arithmetic:
                 - grammar:
                     - fundamental lows of arithmetic:
                         let:
-                            𝑎,𝑏,𝑐 ∈ ℕ
+                            𝑎,𝑏,𝑐 ∈ ℂ
+                            see: 03_mathematical_logic_and_foundations/03Exx_set_theory/7_powerset.txt
                         then:
                             1. commutativity of addition                     : 𝑎 + 𝑏 = 𝑏 + 𝑎
                             2. commutativity of multiplication               : 𝑎 × 𝑏 = 𝑏 × 𝑎
