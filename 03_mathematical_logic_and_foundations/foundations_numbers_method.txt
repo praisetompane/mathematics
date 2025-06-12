@@ -1,10 +1,10 @@
-def foundations of mathematics(Wildberger, 2009):
+def foundations numbers method(Wildberger, 2009):
     - formal: ???
         - in words: ???
 
     - plain english:
         - Mathematics begins with a blank/empty space(i.e. nothing):
-            - in it we introduce the following:
+            1. in it we introduce the following:
                 1. "|":
                     | represents a single entity:
                             we name | as one
@@ -25,13 +25,16 @@ def foundations of mathematics(Wildberger, 2009):
                         |||| and |:
                             we name ||||| as five
                         ...
-                remarks:
-                    - These are the natural numbers.
-                        see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/0_natural_numbers.txt
-                    - These are our first Mathematical objects.
-                    - All Mathematical objects are based on the natural numbers.
+
+            2. construct natural numbers and other Mathematical structures.
+                    see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/0_natural_numbers.txt
+                        - specifically (Wildberger, 2009) definition.
 
                 Question: do we require natural language to create Mathematics?
+                    ans: Yes. Mathematics uses a restricted subset of natural language(Devlin, 2012:28)
+                        see: 03_mathematical_logic_and_foundations/0_mathematical_logic.txt
+
+            3. ...
 
     - intuition: ???
 
@@ -41,7 +44,8 @@ def foundations of mathematics(Wildberger, 2009):
 
     - use cases: ???
 
-    - proof: ???
+    - proof: none. it is a definition.
 
 References:
     - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales.
+    - Devlin, K. 2012. Introduction to Mathematical Thinking.

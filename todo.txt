@@ -2,11 +2,13 @@
 next₀:
     - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
         - readings:
+            - Lee, K.P. A Guide to Writing Mathematics
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 02. The language of Geometry:
+                - from - to: 02. The language of Geometry: *
+                - from - to: 07. How to write mathematics at the College level
         - recitations|labs:
             -
         - assignments:
@@ -32,7 +34,7 @@ next₀:
                 - current position: 3rd grade
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 01. Numbers and arithmetic: **
+                - from - to: 01. Numbers and arithmetic
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02 Arithmetic with numbers, Arithmetic and Geometry
                 - basics:
@@ -71,7 +73,7 @@ next₀:
                 - current: pg 142 in pdf. pg 117 in text.
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 02. The language of Geometry:
+                - from - to: 02. The language of Geometry
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 19 Euclid's Elements, Arithmetic and Geometry
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
@@ -92,7 +94,7 @@ next₀:
             -
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 03. The language of Algebra:
+                - from - to: 03. The language of Algebra
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 46 Introduction to Algebra, Arithmetic and Geometry
                 to: 74 Lines and parabolas II, Arithmetic and Geometry
@@ -128,8 +130,6 @@ next₁:
             - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
             - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 07. How to write mathematics at the College level:
             - HSTAR-Y0001:
                 - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
                     - current: Lecture 2 - Logical Combinators

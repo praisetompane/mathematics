@@ -1,30 +1,26 @@
-def foundations_axiomatic_method¹ (Kunen, 2007:5):
+def foundations axiomatic method¹ (Kunen, 2007:5):
     - formal: ???
         - in words: ???
 
-    - plain english: involves/uses the axiomatic method.
-        def axiomatic method (Kunen, 2007:5): we define/select axioms then
-                                                proof theorems from the axioms.
+    - plain english:
+        - Mathematics begins with/involves/uses the axiomatic method:
+            1. we define/select axioms.
+                - the justification for the axioms is part of the motivation or physics or philosophy NOT part of the Mathematics itself.
+                    see: 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
 
-            NB: the justification for the axioms
-                    is part of the motivation or physics or philosophy
-                    NOT part of the Mathematics itself.
+            2. use logical deductions from the axioms to prove theorems.
+                see: 03_mathematical_logic_and_foundations/0_mathematical_logic.txt
 
-                see: 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
-                the mathematics itself
-                    consists of logical deductions
-                        from axioms (Kunen, 2007:5).
+            3. construct natural numbers and other Mathematical structures.
+                see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/0_natural_numbers.txt
+                    - specifically (Kent State Department of Mathematical Sciences, 2008) definition.
+                see: 03_mathematical_logic_and_foundations/03Exx_set_theory
 
     - intuition: ???
 
     - properties:
-        - types of uses of the concept/word "axioms"(Kunen, 2007:47):
-            - statements of faith
-            - definitional axioms
-
-            NB: 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑙 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠
-
-            def statements of faith:
+        - informal types of uses of the concept/word "axioms"(Kunen, 2007:47):
+            - statements of faith:
                 - statements that are obviously true, and thus require no proof.
                 - closest to truism.
 
@@ -32,60 +28,44 @@ def foundations_axiomatic_method¹ (Kunen, 2007:5):
                     Greek Classical View:
                         - make observations about Real Physical Space, which are obviously true.
                         - then from them, we can derive other non-obvious facts.
-                               
-            def definitional axioms:
+
+            - definitional axioms:
                 - defines a useful class of structure.
                 - captures the structure of things/ideas and proves theorems about them.
-                    NB: One finds various instances of these things/ideas 
+                    NB: One finds various instances of these things/ideas
                             in various domains.
                             domains = {Mathematics, Real Physical Space, Computation, ...}
-                - common in algebra
+                - common in abstract algebra
 
-                - example:
-                    axioms of Groups define/captures what a Group is.
-                        see: 20_group_theory_and_generalizations
-                        instances of Group:
-                            {
-                                (ℤ,+) = The Integers with respect to addition.
-                            }
-                    
-                    axioms of fields define/captures what a Field is: 
-                        see: 12_field_theory_and_polynomials
-                        instances of Fields:
-                            {   (ℝ, +, ×) = The Real Numbers with respect to addition and multiplication,
-                                (ℂ, +, ×) = The Complex Numbers with respect to addition and multiplication,
-                                (ℚ, +, ×) = The Rational Numbers with respect to addition and multiplication,
-                                ...
-                            }
-
-    - examples: axiomatic method examples(Kunen, 2007:5-9):
+    - examples:
         - Geometry (Kunen, 2007:5):
             - these are definitional axioms.
                 - they were statements of faith in Euclid's Geometry prior to Einstein's advances in Physics.
+            - example:
+                - Euclid Postulate(axiom) 1:
+                    ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
+                        domain of discourse = all geometric objects.
 
-            Euclid Postulate(axiom) 1:
-                ∀x,y[Point(x) ∧ Point(y) ∧ x ≠ y] ⟹ ∃!z[Line(z) ∧ LiesOn(x,z) ∧ LiesOn(y,z)]
-                    domain of discourse = all geometric objects.
-
-                english: any two distinct points
-                            determine a unique line.
+                    english: any two distinct points
+                                determine a unique line.
 
         - Group Theory (Kunen, 2007:6):
             - these are definitional axioms.
-            - based on these axioms: see: 20_group_theory_and_generalizations
-                GP is a 𝑠𝑒𝑡 of two sentences in 𝑝𝑟𝑒𝑑𝑖𝑐𝑎𝑡𝑒 𝑙𝑜𝑔𝑖𝑐  
-            example:
-                𝐺𝑃 implies the cancellation rule:
-                    𝐺𝑃 ⊢ ∀x,y[x ∘ y = x ∘ z ⟹ y = z]
+            - examples:
+                - axioms of Groups define/captures what a Group is.
+                    see: 20_group_theory_and_generalizations/1_group.txt
 
-        - Set Theory (Kunen, 2007:7): 
+                - axioms of fields define/captures what a Field is:
+                    see: 12_field_theory_and_polynomials/1_field.txt
+
+        - Set Theory (Kunen, 2007:7):
             - these are definitional axioms.
             - based on Zermelo-Fraenkel with Choice axiom (ZFC).
             - all of modern Mathematics is based on Set theory.
 
     - use cases: ???
-        
-    - proof: ???
-    
+
+    - proof: none. it is a definition.
+
 References:
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

@@ -1,37 +1,37 @@
 def group:
-    - formal: 
+    - formal:
         - axioms|𝐺𝑃 (Censor, 2015) (Kunen, 2007:5):
             - γ₁:  closure: ∀𝑎,𝑏 ∈ 𝐺, 𝑎◦𝑏 ∈ 𝐺
                         for any elements 𝑎 and 𝑏 of 𝐺
-                            the results of applying operation ◦ 
-                                on 𝑎 and 𝑏  
+                            the results of applying operation ◦
+                                on 𝑎 and 𝑏
                                     is an element of 𝐺
 
             - γ₂: associativity: ∀𝑎,𝑏,𝑐, (𝑎◦𝑏)◦𝑐 = 𝑎◦(𝑏◦𝑐)
                         for any elements 𝑎,𝑏 and 𝑐 of 𝐺
                             the order of applying operation ◦
-                                on 𝑎,𝑏 and 𝑐 produces 
+                                on 𝑎,𝑏 and 𝑐 produces
                                     the same result
 
             - γ₃: identity: ∃𝑒 ∈ 𝐺 such that ∀𝑎 ∈ 𝐺, 𝑎 ◦ 𝑒 = 𝑎
                         for any element a of 𝐺
                             there exists an element 𝑒 of 𝐺
-                                such that when operation ◦ is applied to 𝑎 and 𝑒 
+                                such that when operation ◦ is applied to 𝑎 and 𝑒
                                     the result is 𝑎
 
             - γ₄: inverse: ∀ 𝑎 ∈ 𝐺, ∃ 𝑏 ∈ 𝐺, such that 𝑎 ◦ 𝑏 = 𝑒
                         for any element 𝑎 of 𝐺
                             there exists an 𝑏 of 𝐺
-                                such that when operation ◦ is applied to 𝑎 and 𝑏 
+                                such that when operation ◦ is applied to 𝑎 and 𝑏
                                     the result is e(i.e. the identity of the group 𝐺)
-    
-    
 
-        - in words (Censor, 2015):  
+
+
+        - in words (Censor, 2015):
             a pair of a set 𝐺 and an operation ◦ (𝐺, ◦), is a group if
                 it satisfies the axioms below.
 
-        - in words(Kunen, 2007:5):  
+        - in words(Kunen, 2007:5):
             a 𝑚𝑜𝑑𝑒𝑙 (𝐺, ∘) for the axioms 𝐺𝑃 = {γ₁, γ₂, γ₃, γ₄}.
 
     - plain english: ???
@@ -40,11 +40,12 @@ def group:
 
     - properties: ???
 
-    - examples: ???
+    - examples:
+        - (ℤ,+) = The Integers with respect to addition.
 
     - use cases:
         - represent symmetry?
-        
+
     - proof: ???
 
 References:

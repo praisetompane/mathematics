@@ -1,4 +1,4 @@
-def U | union:
+def ∪ | union:
     - formal:
         let:
             - A be a set

@@ -12,14 +12,14 @@ def arithmetic:
             - language:
                 - alphabet|symbols:
                     - vocabulary alphabet|symbols:
-                        - operations:
+                        - operations alphabet|symbols:
                             +    := addition
                             ×    := multiplication
                             ÷    := division
                             -    := subtraction
                             ^|𝑏ⁿ := exponentiation
                             √    := nᵗʰ root
-                            𝑙𝑜𝑔   := logaritm
+                            𝑙𝑜𝑔   := logarithm
 
                         - domain of discourse:
                             ℂ    := the complex numbers(i.e.  {ℂ ∨ ℝ ∨ ℚ ∨ ℝ\ℚ ∨ ℤ ∨ ℕ})

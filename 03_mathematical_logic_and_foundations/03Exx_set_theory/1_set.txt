@@ -24,7 +24,10 @@ def set(Hammack, 2018:3):
                 example: {..., -2, -1, 0, 1, 2, ...}
 
         - construction methods:
-            - roster
+            - roster: list the elements in the set.
+                - example:
+                    𝐴 = {0,1,2,3,4,5,6,7,8,9}, as set of Natural numbers less than 10.
+
             - set builder notation:
                 see: mathematics/03_mathematical_logic_and_foundations/03Exx_set_theory/2_set_builder_notation.txt
 
@@ -75,7 +78,7 @@ def set(Hammack, 2018:3):
 
         - operators:
             \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
-            U   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
+            ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
                 := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
             ∈   := in (is element of)
             ∉   := not in(not an element of)

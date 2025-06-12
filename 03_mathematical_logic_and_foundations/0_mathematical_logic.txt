@@ -17,7 +17,7 @@ def mathematical logic | formal logic:
 
     - plain english: ???
 
-    - intuition: the formal study of Mathematical language?
+    - intuition: the formal study of the foundations of Mathematics.
 
     - properties: ???
 
@@ -31,9 +31,8 @@ def mathematical logic | formal logic:
 
     - proof: none. it is a definition.
 
-
 References:
     - Montalban, A. 2020. 1. Introduction to Mathematical Logic, Math 135 - Intro to Set Theory. U.C. Berkeley.
     - Devlin, K. 2012. Introduction to Mathematical Thinking.
-    - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University
-    - Ben-David, S. 2015. Introduction, CS 245 - Logic and Computation. University of Waterloo
+    - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University.
+    - Ben-David, S. 2015. Introduction, CS 245 - Logic and Computation. University of Waterloo.

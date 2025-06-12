@@ -1,35 +1,49 @@
 def Zermelo–Fraenkel set theory with the axiom of choice(Kunen, 2007:10-11):
-  - formal:
-    - axioms:
-        see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_axioms
+    - formal: ???
+        - in words: ???
 
-      Q: Does an object need to satisfy these axioms to be considered a set?
+    - plain english: an axiomatized set theory.
 
-  - plain english: list of axioms to axiomatize all of Mathematics.
+    - intuition: ???
 
-  - intuition: ???
+    - properties:
+        - formal system:
+            - language:
+                - alphabet|symbols:
+                    - vocabulary alphabet|symbols
+                        ∈  := in (is element of)
 
-  - properties:
-    - universe of sets in ZFC:
-      see: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_universe_of_sets.txt
-      - It has no atoms, therefore:
-        𝑉₀ = ∅          = ∅
-        𝑉₁ = {∅}        = {∅} 
-        𝑉₂ = 𝑃(𝑉₁) ∪ 𝑉₁ = {∅, {∅}} ∪ {∅}
-        𝑉₃ = 𝑃(𝑉₂) ∪ 𝑉₂ = {∅, {∅}, {∅, {∅}}} ∪ {∅, {∅}}
-        .
-        .
-        .
-    - every object is a set.
+                    - operations alphabet|symbols:
+                        ∩  := intersection
+                        ∪  := union
+                        \|- := subtraction
+                        {} := set constructor
 
+                - grammar:
+                    - ...
 
-  - examples: ??? 
+            - axioms: 03_mathematical_logic_and_foundations/03Exx_set_theory/0_zfc_set_theory/0_axioms
+            - rules of inference: ???
 
-  - use cases: 
-      - foundational system for Mathematics(Montalban, 2020).
-      - mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
-      
-  - proof: none. they are axioms.
+        - universe of sets in ZFC: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_universe_of_sets.txt
+            - It has no atoms, therefore:
+                𝑉₀ = ∅          = ∅
+                𝑉₁ = {∅}        = {∅}
+                𝑉₂ = 𝑃(𝑉₁) ∪ 𝑉₁ = {∅, {∅}} ∪ {∅}
+                𝑉₃ = 𝑃(𝑉₂) ∪ 𝑉₂ = {∅, {∅}, {∅, {∅}}} ∪ {∅, {∅}}
+                .
+                .
+                .
+
+        - every object is a set.
+
+    - examples: ???
+
+    - use cases:
+        - foundational system for Mathematics(Montalban, 2020).
+        - Mathematical theory of sets, on which the rest of mathematics is based (Wildberger, 2015).
+
+    - proof: none. it is a definition.
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

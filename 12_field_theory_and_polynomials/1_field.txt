@@ -1,4 +1,4 @@
-def field¹(Censor, 2015): 
+def field¹(Censor, 2015):
     - formal:
         - axioms (Censor, 2015):
             F with respect to addition (F, +) is a commutative group.
@@ -53,16 +53,16 @@ def field¹(Censor, 2015):
                 see: 00_numbers/0_number_systems/0_decimal_number_system/1_complex_numbers/0_real_numbers/0_fractions/rational_numbers/integers/integer_arithmetic/1_modular_arithmetic.txt
 
     - examples:
-        - The Rational numbers(i.e. ℚ)
-        - The Real numbers(i.e. ℝ)
-        - The Complex numbers(i.e. ℂ)
+        - (ℝ, +, ×) = The Real Numbers with respect to addition and multiplication.
+        - (ℂ, +, ×) = The Complex Numbers with respect to addition and multiplication.
+        - (ℚ, +, ×) = The Rational Numbers with respect to addition and multiplication.
 
     - use cases:
         - represent/model the Rational numbers.
         - represent/model the Real numbers.
         - represent/model the Complex numbers.
-        
+
     - proof: ???
-    
+
 References:
     - Censor, A. 2015. 02 - Sets of numbers, Algebra 1M - international. Technion - International School Of Engineering.
