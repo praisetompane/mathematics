@@ -1,0 +1,19 @@
+def fundamental theorem of algebra:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Weisstein, Eric W. "Fundamental Theorem of Algebra." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/FundamentalTheoremofAlgebra.html

@@ -1,4 +1,4 @@
-def fundamental_theorem_of_algebra:
+def binomial theorem:
     - formal: ???
 
         - in words: ???
@@ -12,7 +12,7 @@ def fundamental_theorem_of_algebra:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References: ???
