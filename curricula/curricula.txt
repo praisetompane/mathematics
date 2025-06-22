@@ -212,6 +212,10 @@ University of Pretoria:
                     Data structures and algorithms 212 (COS 212)                         :
                         - ACM:
                             - computation/0_theory_of_computation/3_design_and_analysis_of_algorithms
+                    Mathematical statistics 111 (WST 211)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
                 Semester 2:
                     Software modelling 214 (COS 214)                                     :
                         - ACM:
@@ -220,6 +224,10 @@ University of Pretoria:
                         - ACM:
                             - computation/3_computer_systems_organization/0_architectures/0_serial_architectures
                             - computation/2_hardware
+                    Mathematical statistics 111 (WST 221)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
         Year 3:
             Core:
                 Semester 1:
@@ -246,6 +254,10 @@ University of Pretoria:
                         - MSC2020:
                             - mathematics/34_ordinary_differential_equations
                             - mathematics/35_partial_differential_equations
+                    Stochastic processes 312 (WST 312)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
                     Artificial Intelligence 314 (COS 314)                                :
                         - ACM:
                             - computation/6_computing_methodologies/artificial_intelligence
