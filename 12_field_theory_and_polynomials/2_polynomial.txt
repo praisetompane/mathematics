@@ -14,7 +14,7 @@ def polynomial(Wildberger, 2014):
 
     - properties:
         - degree: maximum/highest exponent/power of a term in the polynomial.
-            - for multi-variible terms, the degree is the sum of each variable's exponent/power:
+            - for multi-variable terms, the degree is the sum of each variable's exponent/power:
                 - example:
                     given:
                         𝑝: (𝑥,𝑦) = 5𝑥𝑦⁴

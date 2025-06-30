@@ -28,6 +28,8 @@ gons
 
 
 # authors
+Abdon
+Atangana
 stephenwolfram
 Grete
 Hermann
@@ -316,3 +318,4 @@ restrequirementtext
 sfprwhom
 theoreticalmathematicstext
 PrimeNumber
+FundamentalTheoremofAlgebra

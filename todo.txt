@@ -8,7 +8,7 @@ next₀:
         - lectures:
             - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - from - to: 02. The language of Geometry: *
-                - from - to: 07. How to write mathematics at the College level
+                - from - to: 07. How to write mathematics at the College level: ***
         - recitations|labs:
             -
         - assignments:

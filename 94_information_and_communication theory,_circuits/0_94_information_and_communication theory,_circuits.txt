@@ -16,6 +16,6 @@ def information_and_communication theory,_circuits:
     - proof: ???
 
 References:
-    - Claude, E.S. 1938. A symbolic analysis of relay and switching circuits. Massachusetts Institute of Technology. https://dspace.mit.edu/handle/1721.1/11173
-    - Claude, E.S. 1948. A Mathematical Theory of Communication. Bell System Technical Journal
-    - Claude, E.S, Weaver, W. 1949. The Mathematical Theory of Communication. University of Illinois Press
+    - Claude, E.S. 1938. A symbolic analysis of relay and switching circuits. Massachusetts Institute of Technology.
+    - Claude, E.S. 1948. A Mathematical Theory of Communication. Bell System Technical Journal.
+    - Claude, E.S, Weaver, W. 1949. The Mathematical Theory of Communication. University of Illinois Press.
