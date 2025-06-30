@@ -3,7 +3,7 @@ def information_and_communication theory,_circuits:
 
         - in words: ???
 
-    - plain english: basic theory underlying digital communication and storage. 
+    - plain english: basic theory underlying digital communication and storage.
 
     - intuition: ???
 
@@ -12,7 +12,10 @@ def information_and_communication theory,_circuits:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
-References: ???
+
+References:
+    - Claude, E.S. 1938. A symbolic analysis of relay and switching circuits. Massachusetts Institute of Technology.
+    - Claude, E.S. 1948. A Mathematical Theory of Communication. Bell System Technical Journal.
+    - Claude, E.S, Weaver, W. 1949. The Mathematical Theory of Communication. University of Illinois Press.

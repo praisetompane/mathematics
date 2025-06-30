@@ -2,11 +2,11 @@ def abstraction(Censor, 2015):
     - formal: ???
 
         - in words: extraction of the properties,
-                    of a concrete structure 
+                    of a concrete structure
                         to reveal its abstract structure.
-                                    
+
             def abstract structure: the set of properties.
-    
+
     - plain english: ???
 
     - intuition: ???
@@ -17,10 +17,10 @@ def abstraction(Censor, 2015):
 
     - use cases:
         given an understanding of the abstract structure,
-            we can understand at once 
+            we can understand at once
                 anything that has this abstract structure(Censor, 2015).
-        
-    - proof: ???
+
+    - proof: none. it is a definition.
 
 References:
     - Censor, A. 2015. Algebra 1M. Technion - International School Of Engineering.

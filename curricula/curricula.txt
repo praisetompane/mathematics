@@ -125,8 +125,11 @@ University of Pretoria:
 
         Year 1:
             Fundamental:
+                Year:
+                    Academic orientation 102 (UPO 102)                                   :
                 Semester 1:
                     Academic information management 111 (AIM 111)                        :
+                    Language and study skills 110 (LST 110)                              :
                 Semester 2:
                     Academic information management 121 (AIM 121)                        :
             Core:
@@ -162,11 +165,6 @@ University of Pretoria:
                     Imperative programming 132 (COS 132)                                 :
                         - ACM:
                             - computation/5_software_and_its_engineering/2_software_creation_and_management
-                    Introduction to computer science 151 (COS 151)                       :
-                        - ACM:
-                            - computation/2_hardware
-                            - computation/0_theory_of_computation/3_design_and_analysis_of_algorithms
-                            - computation/4_networks
                 Semester 2:
                     Mathematical statistics 121 (WST 121)                                :
                         - MSC2020:
@@ -175,6 +173,9 @@ University of Pretoria:
                     Program design: Introduction 110 (COS 110)                           :
                         - ACM:
                             - computation/5_software_and_its_engineering/2_software_creation_and_management
+
+            Credits: 4 + 4 + 6 + 16 + 8 + 8 + 16 + 8 + 8 + 16 + 16 + 16 + 16 = 142
+
         Year 2:
             Core:
                 Semester 1:
@@ -206,20 +207,18 @@ University of Pretoria:
                             - mathematics/68_computer_science
             Electives:
                 Semester 1:
-                    Theoretical computer science 210 (COS 210)                           :
-                        - ACM:
-                            - computation/0_foundations/0_theory_of_computation
-                    Data structures and algorithms 212 (COS 212)                         :
-                        - ACM:
-                            - computation/0_theory_of_computation/3_design_and_analysis_of_algorithms
+                    Mathematical statistics 111 (WST 211)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
                 Semester 2:
-                    Software modelling 214 (COS 214)                                     :
-                        - ACM:
-                            - computation/5_software_and_its_engineering/2_software_creation_and_management
-                    Computer organisation and architecture 284 (COS 284)                 :
-                        - ACM:
-                            - computation/3_computer_systems_organization/0_architectures/0_serial_architectures
-                            - computation/2_hardware
+                    Mathematical statistics 111 (WST 221)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
+
+            Credits: 12 + 12 + 12 + 12 + 12 + 12 + 12 + 24 + 24 = 132
+
         Year 3:
             Core:
                 Semester 1:
@@ -246,15 +245,7 @@ University of Pretoria:
                         - MSC2020:
                             - mathematics/34_ordinary_differential_equations
                             - mathematics/35_partial_differential_equations
-                    Artificial Intelligence 314 (COS 314)                                :
-                        - ACM:
-                            - computation/6_computing_methodologies/artificial_intelligence
-                    Compiler construction 341 (COS 341)                                  :
-                        - ACM:
-                            - computation/5_software_and_its_engineering/0_software_notations_and_tools/2_compilers
-                    Computer graphics 344 (COS 344)                                         :
-                        - ACM:
-                            - computation/6_computing_methodologies/computer_graphics
+
                 Semester 2:
                     Numerical Analysis 383 (WTW 383)                                     :
                         - MSC2020:
@@ -262,15 +253,11 @@ University of Pretoria:
                     Continuum Mechanics 387 (WTW 387)                                    :
                         - MSC2020:
                             -
-                    Programming Languages 333 (COS 333)                                  :
-                        - ACM:
-                            - computation/5_software_and_its_engineering/0_software_notations_and_tools/1_general_programming_languages
-                    Database Systems 326 (COS 326)                                          :
-                        - ACM:
-                            - computation/8_information_systems/0_data_management_systems
-                    The Science of Data Analytics 353 (STK 353)                             :
-                        - ACM:
-                            - computation/computation/8_information_systems/2_information_systems_applications/7_data_mining
+            Credits: 18 + 18 + 18 + 18 + 18 + 18 + 18 + 18 = 144
+
+        Total Credits: 142 + 132 + 144 = 418
+        Total Subjects: 31
+
     honours:
         - program: https://www.up.ac.za/yearbooks/2020/pdf/programme/02240182
     masters:

@@ -6,9 +6,8 @@ next₀:
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - from - to: 02. The language of Geometry: *
-                - from - to: 07. How to write mathematics at the College level
+            - Wildberger, N.J. 2014. How to write mathematics at the College level, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+
         - recitations|labs:
             -
         - assignments:
@@ -33,8 +32,7 @@ next₀:
             - https://www.khanacademy.org/math/k-8-grades
                 - current position: 3rd grade
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - from - to: 01. Numbers and arithmetic
+            - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02 Arithmetic with numbers, Arithmetic and Geometry
                 - basics:
@@ -72,8 +70,7 @@ next₀:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
                 - current: pg 142 in pdf. pg 117 in text.
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - from - to: 02. The language of Geometry
+            - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 19 Euclid's Elements, Arithmetic and Geometry
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
@@ -93,8 +90,7 @@ next₀:
         - readings:
             -
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - from - to: 03. The language of Algebra
+            - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 46 Introduction to Algebra, Arithmetic and Geometry
                 to: 74 Lines and parabolas II, Arithmetic and Geometry
@@ -180,8 +176,7 @@ next₁:
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
             - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
         - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 05. Sets, logic and graphs
+            - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Math 125A:
                 - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
                     - current: 03. Logic. The Language Of Sentential Logic: *
@@ -417,10 +412,8 @@ next₃:
                 - chapter vi, viii
         - lectures:
             - calculus:
-                - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-                    - current:
-                        - 04. Curves, functions and surfaces
-                        - 06. The language of Calculus
+                - Wildberger, N.J. 2014. Curves, functions and surfaces, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - Wildberger, N.J. 2014. The language of Calculus, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - 104003:
                     - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
                         - current: Calculus - 03: *

@@ -1,0 +1,1 @@
+see: 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics/2_theorem.txt

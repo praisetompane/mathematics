@@ -10,7 +10,7 @@ def exponentiation:
     - properties:
         - negative exponents(Khan Academy):
             3⁻²:
-            as positive exponent = 1/3²:
+                as positive exponent = 1/3²:
             how:
                 3⁻² * 3²/3² : multiply by an effective 1(3²/3² = 1)
 

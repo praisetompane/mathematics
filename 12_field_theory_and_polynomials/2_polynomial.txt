@@ -3,37 +3,92 @@ def polynomial(Wildberger, 2014):
 
         - in words: ???
 
-    - plain english: an arithmetic expression consisting of powers of an unknown with coefficients.
-      see: 00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/real_number_arithmetic/2_multiplication/1_exponent.txt
+    - plain english: an arithmetic expression consisting of
+                        powers of unknowns/variables
+                            with coefficients.
+      see:
+        00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/real_number_arithmetic/2_multiplication/1_exponent.txt
+        00_numbers/1_arithmetic.txt
 
     - intuition: ???
 
     - properties:
+        - degree: maximum/highest exponent/power of a term in the polynomial.
+            - for multi-variable terms, the degree is the sum of each variable's exponent/power:
+                - example:
+                    given:
+                        𝑝: (𝑥,𝑦) = 5𝑥𝑦⁴
+                    then:
+                        degree(𝑝) = 1 + 4
+                                  = 5
+        - roots|zeros: values of the unknowns/variables that make the
+                            polynomial's expression equal zero.
+            - example:
+                1.
+                    let:
+                        𝑝(𝑥) = 2𝑥 + 4
+                    then:
+                        𝑥 = -2 is a root
+                2.
+                    let:
+                        𝑝(𝑥,𝑦) = 5𝑥𝑦⁴
+                    then:
+                        𝑥 = 0 is a root
+                        𝑦 = 0 is a root
+
+        - factorization: ???
+            - a polynomial of degree 𝑛, has at most 𝑛 factors ???
+
+        - 12_field_theory_and_polynomials/theorems/6_fundamental_theorem_of_algebra.txt
+
         - types:
-            - 1 term = monomial
-            - 2 terms = binomial
-            - 3 terms = trinomial
-            - higher number of terms
+            - based on terms:
+                - 1 term = monomial
+                    - examples:
+                        - 7
+                        - 4𝑥²
+                        - 5𝑥𝑦⁴
 
-            - 1 term = monomial
-                Examples:
-                    7
-                    4𝑥²
-                    5𝑥𝑦⁴
-            - 2 terms = binomial
-                Examples:
-                    4𝑥 - 7
-                    3𝑥𝑦 + 4𝑥
-            - 3 terms = trinomial
-                Examples:
-                    3 + 𝑎 + 𝑏
-                    3𝑐𝑑 + 𝑎 + 8
-            - higher number of terms
-                Examples:
-                    8𝑥 + 𝑎 + 𝑏 + 𝑐
-                    9𝑦 - 𝑎 - 𝑏  + 𝑐 + 𝑥²
+                - 2 terms = binomial
+                    - examples:
+                        4𝑥 - 7
+                        3𝑥𝑦 + 4𝑥
 
-    - examples: ???
+                - 3 terms = trinomial
+                    - examples:
+                        3 + 𝑎 + 𝑏
+                        3𝑐𝑑 + 𝑎 + 8
+
+                - higher number of terms
+                    - examples:
+                        8𝑥 + 𝑎 + 𝑏 + 𝑐
+                        9𝑦 - 𝑎 - 𝑏  + 𝑐 + 𝑥²
+                - ...
+
+            - based on degree:
+                - constant polynomial:
+                    - example:
+                        - 𝑝(𝑥) = 3𝑥⁰
+                               = 3
+
+                - linear polynomial:
+                    - example:
+                        - 𝑝(𝑥) = 4 - 21𝑥
+
+                - quadratic polynomial:
+                    - example:
+                        - 𝑝(𝑥) = 2𝑥² + 5𝑥 + 3
+
+                - cubic polynomial:
+                    - example:
+                        - 𝑝(𝑥) = 6𝑥³ - 1
+
+    - examples:
+        - 𝑝(𝑥) = 3
+        - 𝑝(𝑥) = 𝑥 + 4𝑥 + 1
+        - 𝑝(𝑥,𝑦) = 𝑥² + 5𝑥𝑦
+        - 𝑝(𝑥,𝑦,𝑧) = 𝑥⁵ + 10𝑦 - 90 + 𝑧
+        - ...
 
     - use cases: ???
 
