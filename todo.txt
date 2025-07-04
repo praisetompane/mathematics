@@ -2,12 +2,15 @@
 next₀:
     - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
         - readings:
+            - Hardy, G.H. 2005. A Mathematician’s Apology
+                - Hardy, G.H. 2019. An Annotated Mathematician’s Apology
+            - Lockhart, P. A . 2009. Mathematician’s Lament
             - Lee, K.P. A Guide to Writing Mathematics
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
+            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
         - lectures:
             - Wildberger, N.J. 2014. How to write mathematics at the College level, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-
         - recitations|labs:
             -
         - assignments:
@@ -20,7 +23,7 @@ next₀:
             -
         - readings:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
-                - current position: pg. 22: example 3
+                - current position: pg. 13: example 3
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
                 - current position: not started
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
@@ -29,10 +32,9 @@ next₀:
                 - current position: not started
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
                 - current position: not started
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade
         - lectures:
-            - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade math
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02 Arithmetic with numbers, Arithmetic and Geometry
                 - basics:
@@ -53,6 +55,11 @@ next₀:
                 - more on natural numbers:
                     from: 155 The realm of natural numbers, Data Structures in Mathematics
                     to: 157 The algebra of natural number multisets, Data Structures in Mathematics
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 46 Introduction to Algebra, Arithmetic and Geometry
+                to: 74 Lines and parabolas II, Arithmetic and Geometry
+            - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
         - recitations|labs:
             -
         - assignments:
@@ -70,30 +77,15 @@ next₀:
             - what is mathematics?. richard courant.pdf : chapter iii, iv, v
                 - current: pg 142 in pdf. pg 117 in text.
         - lectures:
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade math
+            - Basic Geometry: https://www.khanacademy.org/math/basic-geo
+            - High school geometry: https://www.khanacademy.org/math/geometry
+            - Geometry: https://www.khanacademy.org/math/geometry-home
             - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 19 Euclid's Elements, Arithmetic and Geometry
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
-            - Geometry: https://www.khanacademy.org/math/geometry-home
-                - current:
-            - High school geometry: https://www.khanacademy.org/math/geometry
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - 00_numbers/1_elementary_algebra:
-        - course schedule:
-            -
-        - readings:
-            -
-        - lectures:
-            - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 46 Introduction to Algebra, Arithmetic and Geometry
-                to: 74 Lines and parabolas II, Arithmetic and Geometry
         - recitations|labs:
             -
         - assignments:
@@ -580,6 +572,19 @@ next₅
             - Wildberger, N.J. 2012. Insights into Mathematics Math History
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
             - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Brown, J.R. Philosophy of Mathematics. 2nd Edition
+        - lectures:
+            -
         - recitations|labs:
             -
         - assignments:

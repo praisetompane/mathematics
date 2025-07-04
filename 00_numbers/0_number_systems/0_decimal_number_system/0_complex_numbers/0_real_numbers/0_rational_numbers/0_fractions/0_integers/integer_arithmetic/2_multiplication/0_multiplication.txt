@@ -1,31 +1,7 @@
-def multiplication²(Wildberger, 2009):
+def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
     - formal: ???
 
-        - in words: ???
-
-    - plain english: ???
-
-    - intuition:
-        - laws (Wildberger, 2009) :
-            commutative:
-                -
-            associative:
-                -
-                
-    - properties: ???
-
-    - examples: ???
-
-    - use cases: ???
-        
-    - proof: ???
-
-def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
-    - formal:
         - in words:
-            - repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
-                of multiple equal groups of something(Khan Academy)
-        
             - Generalization Multiplication Algorithm(Kent State Department of Mathematical Sciences, 2008:21):
                 Multiplication signs = { x, *, · , ()() }
                 1. Multiply the numbers, ignoring the signs
@@ -37,25 +13,23 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                         If even, then result = Positive
                         If odd, then result = Negative
 
-        - examples:  
+    - plain english: repeated addition(Kent State Department of Mathematical Sciences, 2008:19)
+                        of multiple equal groups of something(Khan Academy)
+        - examples:
             3 groups of five
-            3 fives 
+            3 fives
             5 + 5 + 5 = 15 or 5 x 3 = 15
             5 is repeatedly added 3 times
-
-    - plain english: ???
 
     - intuition: ???
 
     - properties:
         - factors: numbers being multiplied in a multiplication sentence (Kent State Department of Mathematical Sciences, 2008:19).
-            - example:    
+            - example:
                 5 x 3 = 15
                 5 and 3 are factors of 15
-        - structure: 
-            factor x factor = product
-        
-        - models(ways to think about multiplication):
+
+        - Models to understand the MEANING of multiplication:
             5 x (-4):
                 -4 + (-4) + (-4) + (-4) + (-4) = -20
 
@@ -67,7 +41,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
 
                 4 x (-1):
                     -1 + (-1) + (-1) + (-1) = -4 [Follow rules of addition]
-                
+
                 -2 x 5:
                     -1*5 x 5
                     -1 x (5 + 5)
@@ -94,7 +68,7 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                     apply opposite removed from -3
                         -1 x (-12)
                     ∴ 12, opposite of -12 is 12
-                
+
                 Sol 2:
                     opposite of 3 x opposite of 4
                     -1x3 x -1x4
@@ -112,8 +86,8 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                 Generalization(Kent State Department of Mathematical Sciences, 2008:21):
                     N x N = P       OR      P x P = P
 
-                    N x N = P:  
-                        N1 x N2 => The opposite of the opposite of N = N        
+                    N x N = P:
+                        N1 x N2 => The opposite of the opposite of N = N
                             -1*N x -1*N
                             -1*(-1) x N*N
                                 -1*(-1) = opposite of opposite
@@ -122,20 +96,36 @@ def multiplication¹(Kent State Department of Mathematical Sciences, 2008:19):
                     P x P = P:
                         P1 x P2 => just repeated addition of P2, P1 times
 
-        - laws (Kent State Department of Mathematical Sciences, 2008:53-54) :
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+def multiplication²(Wildberger, 2009):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition:
+        - laws (Wildberger, 2009) :
             commutative:
                 -
             associative:
                 -
-    
+
+    - properties: ???
+
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:
-    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I. 
-    - Khan Academy. 3RD GRADE: UNIT 1, Introduction to multiplication. 
-    - Khan Academy. 3RD GRADE: UNIT 2, Distributive property when multiplying. 
+    - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
+    - Khan Academy. 3RD GRADE: UNIT 1, Introduction to multiplication.
+    - Khan Academy. 3RD GRADE: UNIT 2, Distributive property when multiplying.
     - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales.

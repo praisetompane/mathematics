@@ -56,6 +56,7 @@
      - [0_complex_numbers](00_numbers/0_number_systems/0_decimal_number_system/0_complex_numbers/)
      - [0_decimal_number_system](00_numbers/0_number_systems/0_decimal_number_system/)
      - [0_number_systems](00_numbers/0_number_systems/)
+     - [1_elementary_algebra](00_numbers/1_elementary_algebra/)
 - [51_geometry](51_geometry)
 - [03_mathematical_logic_and_foundations](03_mathematical_logic_and_foundations/)
   - [03Bxx_general_logic](03_mathematical_logic_and_foundations/03Bxx_general_logic/)

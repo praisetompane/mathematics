@@ -3,12 +3,12 @@ def division:
 
         - in words: ???
 
-    - plain english: split m into n equal parts.
+    - plain english: split a whole 𝑚 into 𝑛 equal parts.
 
     - intuition: ???
 
-    - properties: 
-        - notation: m/n
+    - properties:
+        - notation: 𝑚/𝑛
         - division by zero is undefined (Weisstein, 2024)
                 plain english: split 7 into 0 equal parts
                 result: we cannot split a 7 into zero parts.
@@ -24,9 +24,9 @@ def division:
         result: 2
         notation: 2/1 = 2
 
-    - use cases: 
+    - use cases:
         - share a cake with family/friends
-        
+
     - proof: ???
 
 References:
