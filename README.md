@@ -45,6 +45,7 @@
   - Theoretical Basis: [03Exx_set_theory](https://zbmath.org/classification/?q=cc%3A03E)
   - Formal Science:
     - [mathematics](https://zbmath.org/classification/)
+  - Philosophy: [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 
 ## Learning Order
 - [00_numbers](00_numbers)

@@ -1,11 +1,12 @@
-FROM mcr.microsoft.com/devcontainers/python:3.11
+FROM mcr.microsoft.com/devcontainers/python:3.13
 
 WORKDIR /mathematics
 
-RUN apt-get update \
-    && apt-get install aspell -y
-
 COPY . .
+
+RUN apt-get update
+
+RUN apt-get install aspell -y
 
 RUN pipenv sync --system -d
 

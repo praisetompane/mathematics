@@ -1,7 +1,7 @@
 ==============================================================================================================================================================
 Massachusetts Institute of Technology: https://math.mit.edu/index.php
-    subjects: https://catalog.mit.edu/subjects/18/
-    undergraduate:
+    - subjects: https://catalog.mit.edu/subjects/18/
+    - undergraduate:
         - program:
             - Bachelor of Science in Mathematics (Course 18) (Pure Mathematics Option)
             - https://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
@@ -107,18 +107,21 @@ Massachusetts Institute of Technology: https://math.mit.edu/index.php
 
         Total Subjects: ???
         Total Credits: 108 + 84 + 180 + 180 + 32 + 24 =                                608
-    honours:
+
+    - honours:
         - program:
             -
-    masters:
+
+    - masters:
         - program:
             -
-    doctrate:
+
+    - doctrate:
         - program:
 
 ==============================================================================================================================================================
 University of Pretoria:
-    undergraduate:
+    - undergraduate:
         - program:
             - BSc Mathematics - 02133263
             - https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
@@ -258,50 +261,61 @@ University of Pretoria:
         Total Credits: 142 + 132 + 144 = 418
         Total Subjects: 31
 
-    honours:
+    - honours:
         - program: https://www.up.ac.za/yearbooks/2020/pdf/programme/02240182
-    masters:
+
+    - masters:
         - program: https://www.up.ac.za/yearbooks/2025/pdf/programme/02250185
-    doctrate:
+
+    - doctrate:
         - program: https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
             - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
 ==============================================================================================================================================================
 University of California - Berkeley:
-    undergraduate:
+    - undergraduate:
         - program:
             - Bachelor of Arts: Mathematics
             - https://guide.berkeley.edu/undergraduate/degree-programs/mathematics/
             - https://math.berkeley.edu/undergraduate/major/pure
-    honours:
+
+    - honours:
         - program:
             -
-    masters:
+
+    - masters:
         - program:
             -
-    doctrate:
+
+    - doctrate:
         - program:
 ==============================================================================================================================================================
 North Eastern University:
-    undergraduate:
+    - undergraduate:
         - program:
             - BSc Mathematics
             - overview: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#text
             - modules: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#programrequirementstext
             - plan of study: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#planofstudytext
-    honours:
+
+    - honours:
         -
-    masters:
+
+    - masters:
         -
-    doctrate:
+
+    - doctrate:
         -
 ==============================================================================================================================================================
 curricula template:
-    undergraduate:
+    - undergraduate:
         -
-    honours:
+
+    - honours:
         -
-    masters:
+
+    - masters:
         -
-    doctrate:
+
+    - doctrate:
         -
 ==============================================================================================================================================================
