@@ -30,6 +30,8 @@ UPO
 
 
 # authors
+Nunez
+Lakoff
 Abdon
 Atangana
 stephenwolfram
