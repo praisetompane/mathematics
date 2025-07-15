@@ -64,6 +64,7 @@
   - [03Fxx_proof_theory_and_constructive_mathematics](03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics)
   - [03Exx_set_theory](03_mathematical_logic_and_foundations/03Exx_set_theory/)
   - [03Dxx_computability_and_recursion_theory](03_mathematical_logic_and_foundations/03Dxx_computability_and_recursion_theory)
+  - [03Cxx_model_theory](03_mathematical_logic_and_foundations/03Cxx_model_theory)
 - [20_group_theory_and_generalizations](20_group_theory_and_generalizations/)
 - [12_field_theory_and_polynomials](12_field_theory_and_polynomials/)
 - [16_associative_rings_and_algebras](16_associative_rings_and_algebras/)

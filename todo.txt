@@ -1,4 +1,4 @@
-============================================================================================================
+==============================================================================================
 next₀:
     - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
         - readings:
@@ -12,6 +12,19 @@ next₀:
             - Lee, K.P. A Guide to Writing Mathematics
         - lectures:
             - Wildberger, N.J. 2014. How to write mathematics at the College level, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Brown, J.R. Philosophy of Mathematics. 2nd Edition
+        - lectures:
+            -
         - recitations|labs:
             -
         - assignments:
@@ -93,58 +106,9 @@ next₀:
             -
         - exams:
             -
-============================================================================================================
-next₁:
-    - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
-        - course schedule:
-            - HSTAR-Y0001:
-                - https://www.coursera.org/learn/mathematical-thinking
-            - MATH 1365:
-                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
-        - readings:
-            - HSTAR-Y0001:
-                - Devlin, K. 2012. Introduction to Mathematical Thinking
-                    - current: pg. 4
-            - MATH 1365:
-                - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
-                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - web page and errata: https://richardhammack.github.io/BookOfProof/
-                    - current:
-            - Ferry, D. 2010. Basic Proof Techniques
-            - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
-            - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
-            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
-            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
-        - lectures:
-            - HSTAR-Y0001:
-                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 2 - Logical Combinators
-            - MATH 1365:
-                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
-                    - current: 02. Sets, Subsets and the Power Set
-        - recitations|labs:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                -
-        - assignments:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
-                - https://richardhammack.github.io/math300/Exercises.html
-        - exams:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://richardhammack.github.io/math300/Tests/index.html
 
+==============================================================================================
+next₁:
     - 03_mathematical_logic_and_foundations:
         - course schedule:
             - Math 125A:
@@ -202,6 +166,56 @@ next₁:
             - MTH 302:
                 -
 
+    - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
+        - course schedule:
+            - HSTAR-Y0001:
+                - https://www.coursera.org/learn/mathematical-thinking
+            - MATH 1365:
+                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
+        - readings:
+            - HSTAR-Y0001:
+                - Devlin, K. 2012. Introduction to Mathematical Thinking
+                    - current: pg. 4
+            - MATH 1365:
+                - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
+                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
+                    - web page and errata: https://richardhammack.github.io/BookOfProof/
+                    - current:
+            - Ferry, D. 2010. Basic Proof Techniques
+            - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
+            - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
+            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
+            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
+            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+        - lectures:
+            - HSTAR-Y0001:
+                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                    - current: Lecture 2 - Logical Combinators
+            - MATH 1365:
+                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+                    - current: 02. Sets, Subsets and the Power Set
+        - recitations|labs:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                -
+        - assignments:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
+                - https://richardhammack.github.io/math300/Exercises.html
+        - exams:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
+                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                - https://richardhammack.github.io/math300/Tests/index.html
+
     - 03_mathematical_logic_and_foundations/03Exx_set_theory:
         - course schedule:
             - Math 135:
@@ -240,6 +254,22 @@ next₁:
             - MTH 302:
                 -
 
+    - 03_mathematical_logic_and_foundations/03Cxx_model_theory:
+        - readings:
+            -
+        - course schedule:
+            -
+        - lectures:
+            -
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+==============================================================================================
+next₂:
     - 20_group_theory_and_generalizations:
         - course schedule:
             - 111106113:
@@ -260,8 +290,7 @@ next₁:
         - exams:
             - 111106113:
                 -
-============================================================================================================
-next₂:
+
     - 12_field_theory_and_polynomials:
         - course schedule:
             - 111106131:
@@ -322,6 +351,8 @@ next₂:
             - 111106131:
                 -
 
+==============================================================================================
+next₃:
     - 15_linear_and_multilinear_algebra;matrix_theory:
         - course schedule:
             - 104016: N/A
@@ -374,8 +405,7 @@ next₂:
                 - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/exams/
             - RES.18-010:
                 -
-============================================================================================================
-next₃:
+
     - 26_real_functions:
         - course schedule:
             - 104003:
@@ -505,7 +535,8 @@ next₃:
             -
         - exams:
             -
-============================================================================================================
+
+==============================================================================================
 next₄:
     - 54_general_topology
         - readings:
@@ -564,7 +595,7 @@ next₄:
         - exams:
             -
 
-============================================================================================================
+==============================================================================================
 next₅
     - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
         - readings:
@@ -580,19 +611,7 @@ next₅
         - exams:
             -
 
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
-        - readings:
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
-            - Brown, J.R. Philosophy of Mathematics. 2nd Edition
-        - lectures:
-            -
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-============================================================================================================
+==============================================================================================
 - next field template:
     - readings:
         -
@@ -606,9 +625,11 @@ next₅
         -
     - exams:
         -
-============================================================================================================
+
+==============================================================================================
 legend:
     *: SQ visit complete
     **: R1 visit complete
     ***: R2 visit complete
     ****: R3 visit complete
+=============================================done=============================================

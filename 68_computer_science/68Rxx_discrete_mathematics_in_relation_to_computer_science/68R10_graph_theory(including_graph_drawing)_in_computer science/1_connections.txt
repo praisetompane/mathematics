@@ -1,12 +1,12 @@
-def adjacency: 
+def adjacency(Leighton, van Dijk, 2010):
     - formal: ???
+            let:
+                𝑉 be nonempty set of items called vertices/nodes.
+                𝐸 be a set of 2-item sets, which are subsets of 𝑉 called edges
+            then:
+                two nodes 𝑥ᵢ, 𝑥ⱼ  are adjacent, if {𝑥ᵢ, 𝑥ⱼ} ∈ 𝐸.
+        - in words: ???
 
-        - in words:
-            two nodes xᵢ, xⱼ are adjacent, 
-                if {xᵢ, xⱼ} ∈ E (Leighton, van Dijk, 2010).
-            i.e. xᵢ, xⱼ are connected by an edge
-            ∴ {xᵢ, xⱼ} is an edge
-                a member of set E
     - plain english: ???
 
     - intuition: ???
@@ -16,15 +16,14 @@ def adjacency:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
-def incidence: 
+def incidence(Leighton, van Dijk, 2010):
     - formal: ???
-        - in words:
-            an edge e = {xᵢ, xⱼ} is incident to its endpoints xᵢ and xⱼ (Leighton, van Dijk, 2010).
-            ∴ e is incident xᵢ
-            ∴ e is incident xⱼ
+        - in words: an edge 𝑒 = {𝑥ᵢ, 𝑥ⱼ} is incident to its endpoints 𝑥ᵢ and 𝑥ⱼ.
+            ∴ 𝑒 is incident 𝑥ᵢ
+            ∴ 𝑒 is incident 𝑥ⱼ
 
     - plain english: ???
 
@@ -35,16 +34,14 @@ def incidence:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
-def degree: 
+def degree(Leighton, van Dijk, 2010):
     - formal: ???
 
-        - in words:
-            number of edges incident to a node/vertex
-                    is the degree of node/vertex (Leighton, van Dijk, 2010).
-                
+        - in words: the number of edges 𝑒 incident to a node/vertex is the degree of node/vertex.
+
     - plain english: ???
 
     - intuition: ???
@@ -54,7 +51,7 @@ def degree:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:
