@@ -3,10 +3,10 @@ def mathematical logic | formal logic:
         - in words:
             - the mathematically formal study of the language(terms and statements) and reasoning used in Mathematics(Devlin, 2012:28):
                 see:
-                    - statements: 03_mathematical_logic_and_foundations/2_statement.txt
+                    - statements: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_statement.txt
                     - terms:
-                        - 03_mathematical_logic_and_foundations/3_logical_connectives.txt
-                        - 03_mathematical_logic_and_foundations/4_quantifiers.txt
+                        - 03_mathematical_logic_and_foundations/03Bxx_general_logic/5_0_logical_connectives.txt
+                        - 03_mathematical_logic_and_foundations/03Bxx_general_logic/6_quantifiers.txt
 
                 - provides the universally accepted meanings of the language terms.
                 - analyzes the behaviour of the language terms.

@@ -1,7 +1,7 @@
 def propositional logic | propositional calculus | sentential logic | sentential calculus | zeroth-order logic(Montalban, 2020):
     - formal: ???
         - in words: logic built ONLY with propositions.
-            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_proposition.txt
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/1_proposition.txt
 
     - plain english: logic built ONLY on with sentences that are either True or False.
 
@@ -23,7 +23,7 @@ def propositional logic | propositional calculus | sentential logic | sentential
                         - ⟹
                         - ⟺
 
-                        see: 03_mathematical_logic_and_foundations/3_logical_connectives.txt
+                        see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/5_0_logical_connectives.txt
 
                         remark: it uses only a subset of all known logical connectives.
 

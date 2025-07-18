@@ -30,8 +30,8 @@ def formal system(Montalban, 2020):
 
                     - logical alphabet|symbols:
                         see:
-                            - 03_mathematical_logic_and_foundations/3_logical_connectives.txt
-                            - 03_mathematical_logic_and_foundations/4_quantifiers.txt
+                            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/5_0_logical_connectives.txt
+                            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/6_quantifiers.txt
 
                         punctuation alphabet|symbols:
                             (           := opening parenthesis
@@ -47,7 +47,7 @@ def formal system(Montalban, 2020):
                     remark: Gödel proved this, in the completeness theorem.
 
         - rules of inference: valid logical steps:
-            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/3_logical_deduction.txt
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/4_logical_deduction.txt
 
             - properties:
                 - the rules are complete: you can prove all Mathematical statements with the rules.
@@ -55,7 +55,7 @@ def formal system(Montalban, 2020):
                 - they can vary per formal system.
 
         - axioms: basic Mathematical statements, presumed to be true:
-            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/4_axioms.txt
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_axiom.txt
 
             - properties:
                 - the axioms are incomplete.

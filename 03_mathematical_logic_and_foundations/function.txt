@@ -1,28 +1,30 @@
 def function:
-    - formal: a relation F, is a function 
+    - formal: a relation F, is a function
                 from a set A(domain) to a set B(co-domain), if it satisfies the properties below(Epp, 2010:17):
 
                     1. ∀x ∈ A, ∃y ∈ B s.t. (x,y) ∈ F
-                    
-                        in words: for all elements x in A,
+
+                        - in words: for all elements x in A,
                                     there is an element y in B
                                         such that (x,y) in F
-                         
+
+                        - intuition: every input from A, has a corresponding output in B
+                                        when processed by F.
 
                     2. ∀x ∈ A, ∀y,z ∈ B
                        (x,y) ∈ F and (x,z) ∈ F, then
                             y = z
-                                    
-                       in words: for all elements x in A,
+
+                        - in words: for all elements x in A,
                                  for all elements y and z in B
                                  if (x,y) in F and (x,z) in F, then
                                     y = z
-                
-                        i.e. a member in A can map to ONLY
-                                one in member B.
-                                if it maps to two, they are the same.
-    
-    
+
+                        - intuition: a member in A can map to ONLY
+                                        one in member B.
+                                        if it maps to two, they are the same.
+
+
 
     - plain english: a mapping,
                         between two groups of things, named A and B
@@ -37,7 +39,7 @@ def function:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱᴼⁿˢ_ⁿᵉᵉᵈᵉᵈ⁾:
@@ -50,7 +52,7 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
 
             G(f) = graph of f.
 
-        general?:    
+        general?:
             x = {x,y, ...}
             G(f) = { (x, f(x)) | x ∈ X }
 
@@ -60,7 +62,7 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
                 This allows Multivariable functions.
 
         - in words:
-            the set of all 
+            the set of all
                 ordered pairs of (x,y)
                 where y = f(x)
 
@@ -73,8 +75,8 @@ def function graph⁽ᶜⁱᵗᵃᵗⁱᴼⁿˢ_ᵃⁿᵈ_ᶜᴼʳʳᵉᶜᵗⁱ
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References:
     - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning.

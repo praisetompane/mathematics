@@ -1,0 +1,56 @@
+def implication(Leighton, 2010):
+
+    - formal:
+        let:
+            𝑝 be a proposition.
+            𝑞 be a proposition.
+        then:
+            𝑝 ⟹ 𝑞 is defined as:
+                𝑝   𝑞   𝑝 ⟹ 𝑞
+                T   T     T
+                T   F     F
+                F   T     T
+                F   F     T
+
+        Q: Why is this the definition of an implication?
+        Where does it come from?
+
+        - in words: a binary operator from truth values to a single truth value,
+                    according to the rules below
+                        if 𝑝 is True  and 𝑞 is True,   then 𝑝 implies 𝑞 is/returns True
+                        if 𝑝 is True  and 𝑞 is False,  then 𝑝 implies 𝑞 is/returns False
+                        if 𝑝 is False and 𝑞 is True,   then 𝑝 implies 𝑞 is/returns True
+                        if 𝑝 is False and 𝑞 is False,  then 𝑝 implies 𝑞 is/returns True
+
+
+    - plain english: an implication 𝑝 ⟹ 𝑞 is True,
+                        when 𝑝 is False OR 𝑞 is True.
+
+        NB: False implies anything is True
+
+    - examples:
+        let:
+            𝑝 = 𝑛 >= 2
+            𝑞 = 𝑛² >= 4
+            ∀ₙ ∈ ℤ, 𝑝 ⟹ 𝑞
+            ∴ ∀ₙ ∈ ℤ, 𝑛 >= 2 ⟹ 𝑛² >= 4
+        then:
+                      𝑝               𝑞
+            𝑛       𝑛 => 2         n² >= 4                   T/F
+            ------------------------------------------------------------
+            0         F            0² >= 4                    T     **??
+            1         F            1² >= 4                    T     **??
+            2         T            2² >= 4 := T               T
+            3         T            3² >= 4 := T               T
+            4         T            4² >= 4 := T               T
+            .
+            .
+            .
+            10        T            10² >= 4 := T              T
+
+            ∀ₙ ∈ {0,1}, 𝑛² ̸>= 4
+            ∴ False
+
+References:
+    - Leighton, T. van Dijk, M. 2010. Lecture 1: Introduction and Proofs, 6.042J - Mathematics for Computer Science. Massachusetts Institute of Technology.
+    - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales

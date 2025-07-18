@@ -11,7 +11,7 @@ next₀:
             - Lockhart, P. A . 2009. Mathematician’s Lament
             - Lee, K.P. A Guide to Writing Mathematics
         - lectures:
-            - Wildberger, N.J. 2014. How to write mathematics at the College level, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
         - recitations|labs:
             -
         - assignments:
