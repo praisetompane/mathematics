@@ -1,18 +1,19 @@
 def x:
-    - formal: ???
-        - in words: for details of this formal science:
-                        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation/4_design_and_analysis_of_algorithms
+    - formal:
+        see: https://github.com/praisetompane/computation/tree/main/0_theory_of_computation/4_design_and_analysis_of_algorithms
 
-    - plain english: ???
+        - in words: see: computation repo.
 
-    - intuition: ???
+    - plain english: see: computation repo.
 
-    - properties: ???
+    - intuition: see: computation repo.
 
-    - examples: ???
+    - properties: see: computation repo.
 
-    - use cases: ???
+    - examples: see: computation repo.
 
-    - proof: ???
+    - use cases: see: computation repo.
 
-References: ???
+    - proof: see: computation repo.
+
+References: see: computation repo.

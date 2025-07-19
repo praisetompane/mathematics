@@ -7,7 +7,7 @@ def adjacency(Leighton, van Dijk, 2010):
                 two nodes 𝑥ᵢ, 𝑥ⱼ  are adjacent, if {𝑥ᵢ, 𝑥ⱼ} ∈ 𝐸.
         - in words: ???
 
-    - plain english: ???
+    - plain english: vertices/nodes are adjacent if they form an edge.
 
     - intuition: ???
 
@@ -40,9 +40,9 @@ def incidence(Leighton, van Dijk, 2010):
 def degree(Leighton, van Dijk, 2010):
     - formal: ???
 
-        - in words: the number of edges 𝑒 incident to a node/vertex is the degree of node/vertex.
+        - in words: the number of edges 𝑒 incident to a vertex/node is the degree of node/vertex.
 
-    - plain english: ???
+    - plain english: the number of edges a vertex/node is connected to.
 
     - intuition: ???
 

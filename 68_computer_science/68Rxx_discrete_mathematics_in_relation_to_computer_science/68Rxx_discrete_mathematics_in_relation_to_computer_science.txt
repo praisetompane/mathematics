@@ -1,18 +1,19 @@
 def discrete_mathematics_in_relation_to_computer_science:
-    - formal: ???
-        - in words: for details of this formal science:
-                        see: https://github.com/praisetompane/computation_and_information/tree/main/1_mathematics_of_computing
+    - formal:
+        see: https://github.com/praisetompane/computation/tree/main/1_mathematics_of_computing
 
-    - plain english: ???
+        - in words: see: computation repo.
 
-    - intuition: ???
+    - plain english: see: computation repo.
 
-    - properties: ???
+    - intuition: see: computation repo.
 
-    - examples: ???
+    - properties: see: computation repo.
 
-    - use cases: ???
+    - examples: see: computation repo.
 
-    - proof: ???
+    - use cases: see: computation repo.
 
-References: ???
+    - proof: see: computation repo.
+
+References: see: computation repo.

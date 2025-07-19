@@ -1,18 +1,18 @@
 def theory_of_computing:
     - formal:
-        - in words: for details of this formal science:
-                        see: https://github.com/praisetompane/computation_and_information/tree/main/0_theory_of_computation
+            see: https://github.com/praisetompane/computation/tree/main/0_theory_of_computation
+        - in words: see: computation repo.
 
-    - plain english: ???
+    - plain english: see: computation repo.
 
-    - intuition: ???
+    - intuition: see: computation repo.
 
-    - properties: ???
+    - properties: see: computation repo.
 
-    - examples: ???
+    - examples: see: computation repo.
 
-    - use cases: ???
+    - use cases: see: computation repo.
 
-    - proof: ???
+    - proof: see: computation repo.
 
-References: ???
+References: see: computation repo.
