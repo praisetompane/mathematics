@@ -27,9 +27,11 @@ n-gons
 gons
 LST
 UPO
+SQR
 
 
 # authors
+Sipser
 Nunez
 Lakoff
 Abdon

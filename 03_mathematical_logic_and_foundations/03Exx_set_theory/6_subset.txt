@@ -1,15 +1,15 @@
 def subset¹ (⊂ | ⊆ )(Montalban, 2020):
     - formal:
         - given:
-            𝐴 𝑎𝑛𝑑 𝐵 
+            𝐴 𝑎𝑛𝑑 𝐵
         - then:
             𝐴 ⊂ 𝐵 𝑖𝑓 ∀𝑥 ∈ 𝐴, ∃𝑦 ∈ 𝐵 such that 𝑥 = 𝑦
 
         - in words:
             every element in A exists in B.
-        
+
         NB: Do not confuse with belongs(i.e. ∈)
-        
+
     - plain english: 𝐴 is included in 𝐵 or 𝐴 is a subset of 𝐵.
 
     - intuition: ???
@@ -25,8 +25,9 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
                         𝐴 ⊂ 𝐵 = True, because all the elements 𝐴(i.e. 2 and 3) are in 𝐵.
                         𝐵 ⊂ 𝐶 = True, because the set 𝐵(i.e. {{2,3},5,6}) is an element of 𝐶.
                         A ⊂ 𝐶 = False, because the set 𝐴(i.e. {2,3}) is not an element of 𝐶.
-                            NB: it is an element of the first element(i.e. set 𝐵) in 𝐶, but 
+                            NB: it is an element of the first element(i.e. set 𝐵) in 𝐶, but
                                     it is NOT in 𝐶 itself.
+        - proper subset (⊊)
 
     - examples:
         -   is 𝐴 a subset of 𝐵?:
@@ -44,10 +45,10 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020):
                 𝐴 ⊂ 𝐵  = False
                 ∴ 𝐴 ⊄ 𝐵
 
-                
+
     - use cases: ???
-        
+
     - proof: ???
-        
+
 References:
     - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.

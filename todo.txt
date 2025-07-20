@@ -627,9 +627,10 @@ next₅
         -
 
 ==============================================================================================
-legend:
-    *: SQ visit complete
-    **: R1 visit complete
-    ***: R2 visit complete
-    ****: R3 visit complete
+SQR3 legend:
+    *: S visit complete
+    **: Q visit complete
+    ***: R1 visit complete
+    ****: R2 visit complete
+    *****: R3 visit complete
 =============================================done=============================================

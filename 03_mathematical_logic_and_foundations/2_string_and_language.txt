@@ -1,3 +1,11 @@
+def symbol (Sipser, 2012:13-14): characters such as a, 0, 1, ", ].
+
+def alphabet | Σ (Sipser, 2012:13-14): a set of symbols.
+    see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_set.txt
+    - examples:
+        - Σ₁ = {0, 1}
+        - Σ₂ = {a, b, c, f}
+
 def string(Montalban, 2020):
     - formal:
         let:
@@ -9,7 +17,7 @@ def string(Montalban, 2020):
 
     - plain english: an ordered and finite list of elements from 𝐴.
 
-    - intuition: ???
+    - intuition: a sequence of symbols.
 
     - properties: ???
 
@@ -23,12 +31,42 @@ def string(Montalban, 2020):
             ⟨a,b⟩ is a string of two elements.
             ⟨a,b,a⟩ is a string of three elements.
 
+        remark: in Computer Science, we write them without the commas(Sipser, 2012:14).
+
     - use cases: ???
 
     - proof: none. it is a definition.
 
     References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
+        - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
+
+def ϵ | empty string (Sipser, 2020): string of length 0.
+
+def string length:
+    - formal:
+        let:
+            σ ∈ 𝐴^<ω
+        then:
+            |σ| is the length of σ
+
+        - in words:
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+    References:
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
+        - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
 
 def all strings of length 𝑛 of a set(Montalban, 2020):
     - formal:
@@ -70,39 +108,27 @@ def all strings of a set(Montalban, 2020):
         then:
             𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ, is the set of all strings using elements from 𝐴.
 
-        - in words:
+        - in words: ???
 
     - plain english: ???
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - proper prefix: ???
 
-    - examples: ???
-
-    - use cases: ???
-
-    - proof: none. it is a definition.
-
-    References:
-        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
-
-def string length:
-    - formal:
+    - examples:
         let:
-            σ ∈ 𝐴^<ω
+            alphabet | Σ = {0, 1}
         then:
-            |σ| is the length of σ
-
-        - in words:
-
-    - plain english: ???
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples: ???
+            Σ⁰ = Set of all strings of length 0 => Σ^0 = {ε}
+            Σ¹ = Set of all strings of length 1 => Σ^1 = {0, 1}
+            Σ² = Set of all strings of length 2 => Σ^2 = {00, 01, 10, 11}
+            Σ³ = Set of all strings of length 3 => Σ^3 = {000, 001, 010, 100, 111, 110, 101, 011}
+            .
+            .
+            .
+            Σⁿ = Set of all strings of length 𝑛
 
     - use cases: ???
 
@@ -110,3 +136,18 @@ def string length:
 
     References:
         - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
+
+def language (Sipser, 2012:13-14): set of strings.
+    - examples:
+        let: Σ = {0, 1}
+        then:
+            Language 1: Set of strings of length 2 => {00, 01, 11, 10}                          : Finite
+            Language 2: Set of strings of length 3 => {000, 001, 010, 100, 111, 110, 101, 011}  : Finite
+            Language 3: Set of strings starting with 0 => {0, 00, 000, 010, 001}                : Infinite
+
+
+def ∅ | empty language (Sipser, 2020): set with no strings.
+
+References:
+    - Sipser, M. 2020. 18.404J - Theory of Computation. Massachusetts Institute of Technology.
+    - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
