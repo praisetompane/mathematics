@@ -1,0 +1,11 @@
+def symbol (Sipser, 2012:13-14): characters such as a, 0, 1, ", ].
+
+def Σ | alphabet(Sipser, 2012:13-14): a set of symbols.
+    see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_set.txt
+    - examples:
+        - Σ₁ = {0, 1}
+        - Σ₂ = {a, b, c, f}
+
+References:
+    - Sipser, M. 2020. 18.404J - Theory of Computation. Massachusetts Institute of Technology.
+    - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
