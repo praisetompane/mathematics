@@ -1,0 +1,161 @@
+def string(Montalban, 2020):
+    - formal:
+        let:
+            𝐴 be a set of symbols.
+        then:
+            ⟨𝑎₁, a₂, ..., aₙ⟩ : 𝑎ᵢ ∈ 𝐴, is a string.
+
+        - in words: an 𝑛-tuple of elements from 𝐴.
+
+    - plain english: an ordered list of elements from 𝐴 of length 𝑛.
+
+    - intuition: a sequence of symbols from 𝐴 of length 𝑛.
+
+    - properties:
+        - string length(Sipser, 2013:14):
+            - formal:
+                let:
+                    𝑠 be a string
+                then:
+                    |𝑠| is the length of 𝑠,
+                        it is the number of symbols in 𝑠.
+
+        - string reversal(Sipser, 2013:14):
+            - formal:
+                let:
+                    𝑠 be a string, of length 𝑛 over an alphabet Σ.
+                then:
+                    𝑠ᴿ is the reversal of 𝑠.
+                    𝑠ᴿ = 𝑠ₙ𝑠ₙ₋₁𝑠ₙ₋₂𝑠ₙ₋₃ ... 𝑠₁ : 𝑠ᵢ ∈ Σ.
+
+        - substring(Sipser, 2013:14):
+            - formal:
+                let:
+                    𝑠 be a string
+                    𝑧 be a string
+                then:
+                    𝑧 is a substring of 𝑠, if it appears in consecutively in 𝑠.
+
+        - concatenation(Sipser, 2013:14):
+            - formal:
+                let:
+                    𝑥 be a string of length 𝑚
+                    𝑦 be a string of length 𝑛
+                then:
+                    𝑥𝑦 is the concatenation of 𝑥 and 𝑦,
+                        constructed by appending 𝑦 to to the end of 𝑥.
+
+                    ∴ 𝑥𝑦 = 𝑥₁ ... 𝑥ₘ𝑦₁ ... 𝑦ₙ
+            - properties:
+                - self concatenation:
+                    - formal:
+                        let:
+                            𝑠 be a string
+                        then:
+                            𝑠ᵏ is 𝑠 concatenated to itself 𝑘 times.
+
+        - lexicographic order(Sipser, 2013:14): normal dictionary order
+            - shortlex order | string order: normal dictionary order, except shorter strings precede longer strings.
+
+        - proper prefix(Sipser, 2013:14): ???
+
+        - prefix-free(Sipser, 2013:14): ???
+
+        - all strings of length 𝑛 of a set(Montalban, 2020):
+            - formal:
+                let:
+                    𝐴 be a set.
+                then:
+                    𝐴ⁿ = { ⟨𝑎₁ , 𝑎₂ , ..., 𝑎ₙ⟩ : 𝑎ᵢ ∈ 𝐴 }
+
+                - in words: 𝐴ⁿ is the set of 𝑛-tuple of elements from 𝐴.
+
+            - plain english: 𝐴ⁿ is a set of all strings of length 𝑛, using elements from 𝐴.
+
+            - intuition: ???
+
+            - properties: ???
+
+            - examples:
+                - 1:
+                    let:
+                        𝐴 = {a, b}
+                    then:
+                        𝐴⁰ = {⟨⟩}, where ⟨⟩ is an empty string.
+                        𝐴¹ = { ⟨a⟩, ⟨b⟩ }, where ⟨a⟩ is string with one element.
+                        𝐴² = { ⟨a,a⟩, ⟨a,b⟩, ⟨b,a⟩, ⟨b,b⟩}
+                        𝐴³ = { ⟨a,a,a⟩, ⟨a,a,b⟩, ⟨a,b,b⟩, ⟨b,a,a⟩, ⟨b,b,a⟩, ⟨b,b,b⟩}
+
+            - use cases:
+                - express formula???
+
+            - proof: none. it is a definition.
+
+        - all strings of a set(Montalban, 2020):
+            - formal:
+                let:
+                    𝐴 be a set.
+                then:
+                    𝐴^<ω = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴² ∪ 𝐴ⁿ
+
+                - in words: 𝐴 to the <ω is the union of all strings of length 𝑛, starting from length 0 to 𝑛,
+                                using elements from 𝐴
+            - plain english: ???
+
+            - intuition: ???
+
+            - properties: ???
+
+            - examples:
+                let:
+                    Σ = {0, 1}
+                then:
+                    Σ⁰ = Set of all strings of length 0 => Σ^0 = {ε}
+                    Σ¹ = Set of all strings of length 1 => Σ^1 = {0, 1}
+                    Σ² = Set of all strings of length 2 => Σ^2 = {00, 01, 10, 11}
+                    Σ³ = Set of all strings of length 3 => Σ^3 = {000, 001, 010, 100, 111, 110, 101, 011}
+                    .
+                    .
+                    .
+                    Σⁿ = Set of all strings of length 𝑛
+
+                    ∴ Σ^<ω = Σ⁰ ∪ Σ¹ ∪ Σ² ∪ Σ³ ∪ ... ∪ Σⁿ
+            - use cases: ???
+
+            - proof: none. it is a definition.
+
+    - examples:
+        let:
+            𝐴 = {a, b}
+        then:
+            ⟨⟩ is an empty string.
+            ⟨a⟩ is a string of one element.
+            ⟨a,a⟩ is a string of two elements.
+            ⟨a,b⟩ is a string of two elements.
+            ⟨a,b,a⟩ is a string of three elements.
+
+        remark: in Computer Science, we write them without the commas(Sipser, 2012:14).
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+    References:
+        - Montalban, A. 2020. 2. Logic. Strings, Math 125A - Mathematical Logic. U.C. Berkeley.
+        - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
+
+def ϵ | empty string (Sipser, 2020):
+    - formal:
+        let:
+            𝑠 be a string.
+        then:
+            |𝑠| = 0
+
+        - in words: a string of length 0.
+
+    - use cases:
+        - plays the role of 0.
+
+    References:
+        - Sipser, M. 2020. 18.404J - Theory of Computation. Massachusetts Institute of Technology.
+        - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.

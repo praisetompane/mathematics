@@ -135,6 +135,8 @@ Zalta
 
 
 # domain specific
+substring
+shortlex
 undirected
 combinators
 Cubics
