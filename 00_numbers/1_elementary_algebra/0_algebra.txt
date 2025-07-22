@@ -32,34 +32,6 @@ def algebra²(Censor, 2015):
             this is a calculation that has variables(y, x) and parameter(m)
     - use cases:
 
-def abstract algebra(Lockhart, 2009:8):
-    - formal: ???
-
-        - in words: ???
-
-    - plain english: a field about number and symmetry.
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples:
-        see:
-            - 12_field_theory_and_polynomials/0_field_theory.txt
-            - 20_group_theory_and_generalizations/0_group_theory.txt
-
-    - use cases: ???
-
-def symmetry(Frenkel):
-    - formal: ???
-
-        - in words: ???
-
-    transformations that preserve
-        shape and position of an object.
-    - examples:
-        - sphere: ∞ symmetries
-        - square: 90°, 180°, 270°, 360° rotations.
 
 References:
     - Censor, A. 2015. 01 - Introduction, Algebra 1M - international. Technion - International School Of Engineering.
