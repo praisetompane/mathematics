@@ -1,0 +1,75 @@
+def predicate(Leighton, 2010):
+    - formal: ???
+        - in words: a proposition whose TRUTH
+                    depends on the value of one or more variable(s) (Leighton, 2010).
+                    i.e. we cannot determine whether it is True or False,
+                            until variable(s) value is known.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - common notation:
+            𝑃(𝑛) ::= n² + n + 41
+                ∀ₙ ∈ ℕ. P(n) is prime.
+                𝑃(0) is True
+                𝑃(40) is False
+                ∴ 𝑃(n) is False
+
+                # Test proposition
+                    n   n² + n + 41  result       prime?
+                    0   0² + 0 + 41    41          TRUE
+                    1   1² + 1 + 41    43          TRUE
+                    2   2² + 2 + 41    47          TRUE
+                    .
+                    .
+                    .
+                    20 20² + 20 + 41  461          TRUE
+                    .
+                    .
+                    .
+                    39 39² + 39 + 41 1601         TRUE
+                    40 40² + 40 + 41 1681         FALSE
+
+                    ∴ False
+
+    - examples:
+        - 𝑛 is a perfect square.
+            𝑃(𝑛) ::= 𝑛 is a perfect square.
+            𝑃(4) is True
+            𝑃(5) is False
+            ∴ 𝑃(𝑛) is False
+
+        - ∀ₙ ∈ ℕ. n² + n + 41 = prime number
+
+        - a² + b² + c² = d², has no positive integer solutions
+            - truth value = True
+            - proof:
+                a = 95800
+                b = 217519
+                c = 414560
+                d = 422481
+
+                ∴ ∃ a,c,d,e ∈ ℕ⁺, a² + b² + c² = d²
+
+        - 313(x³ + y³) = z³, has no ℤ⁺ solutions
+            - truth value: unknown
+            - proof: not yet proved or disproved
+
+        - The regions in any map can be coloured using 4 colours, such that
+            adjacent regions have different colours
+                - truth value: maybe True, but because of the proof technique, there is still doubt.
+                - proof: only a computer-aided proof exists
+
+        - ∀x[x > 0 ⟹ ∃!y[y² = x ∧ y > 0]] (Kunen, 2007:4):
+            Value       Universe
+                True         ℕ
+                False        ℝ
+
+    - use cases:
+
+    - proof: none. it is a definition.
+
+References:
+    - Leighton, T. van Dijk, M. 2010. Lecture 1: Introduction and Proofs, 6.042J - Mathematics for Computer Science. Massachusetts Institute of Technology.

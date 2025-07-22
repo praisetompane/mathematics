@@ -3,7 +3,8 @@ def statement(Devlin, 2012:27):
 
         - in words: ???
 
-    - plain english: ???
+    - plain english: a sequence of strings.
+        see: 03_mathematical_logic_and_foundations/3_strings.txt
 
     - intuition: ???
 
@@ -30,18 +31,12 @@ def statement(Devlin, 2012:27):
     - examples:
         - 03_mathematical_logic_and_foundations/equation.txt
 
-    - use cases:
-        - there are important Mathematical concepts that require all three statement types to express.
-            example:
-                expressing the limit of a sequence (Epp, 2010:5):
-                    if a₁, a₂, a₃, ... aₙ is a sequence of real numbers
-                        the limit of aₙ as n approaches infinity L
-
-                    for all positive real numbers ϵ, there is an integer N such that
-                    for all integers n, if n > N, then -ϵ < aₙ - L < ϵ
-                    Question: we need to come back to this definition.
+    - use cases: ???
 
     - proof: none. it is a definition.
+
+    References:
+        - Devlin, K. 2012. Introduction to Mathematical Thinking.
 
 def statement(Epp, 2010:2):
     - formal: ???
@@ -149,6 +144,5 @@ def statement(Epp, 2010:2):
 
     - proof: none. it is a definition.
 
-References:
-    - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning.
-    - Devlin, K. 2012. Introduction to Mathematical Thinking.
+    References:
+        - Epp, S.S. 2010. Discrete mathematics with applications. 4th Edition. Cengage Learning.

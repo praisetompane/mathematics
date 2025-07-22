@@ -1,0 +1,22 @@
+def axiom(Leighton, 2010):
+    - formal: ???
+
+        - in words: a statement that is assumed to be True.
+        remark: There is no proof it is True.
+            Greek etymology := to think worth
+            ∴ Something we deem worthy to be True
+
+    - properties of a set of axioms:
+        - consistent: no statement can be proved to be BOTH True AND False
+        - complete: can be used to prove that every statement is either True OR False
+
+        NB: Gödel's incompleteness theorems
+            There is NO set of axioms that is BOTH consistent AND complete
+
+            consistency is a MUST, something cannot be BOTH True AND False
+            ∴ if we want consistency in a given set of axioms,
+                there will be True facts that we will never be able to prove True or False
+
+References:
+    - Meyer A.R., Chlipala, A. 2015. MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.
+    - Leighton T, van Dijk, M. 2010. Lecture 6: Graph Theory and Coloring, MIT 6.042J Mathematics For Computer Science. Massachusetts Institute of Technology.
