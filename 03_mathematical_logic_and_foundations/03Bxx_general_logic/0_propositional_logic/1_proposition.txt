@@ -1,0 +1,98 @@
+def proposition¹(Leighton, 2010):
+    - formal: ???
+
+        - in words: a statement that is either true or false.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - common notation:
+            𝑃(𝑛) ::= n² + n + 41
+                ∀ₙ ∈ ℕ. P(n) is prime.
+                𝑃(0) is True
+                𝑃(40) is False
+                ∴ 𝑃(n) is False
+
+                # Test proposition
+                    n   n² + n + 41  result       prime?
+                    0   0² + 0 + 41    41          TRUE
+                    1   1² + 1 + 41    43          TRUE
+                    2   2² + 2 + 41    47          TRUE
+                    .
+                    .
+                    .
+                    20 20² + 20 + 41  461          TRUE
+                    .
+                    .
+                    .
+                    39 39² + 39 + 41 1601         TRUE
+                    40 40² + 40 + 41 1681         FALSE
+
+                    ∴ False
+
+    - examples:
+        - 2 + 3 = 5
+            - truth value = True
+            - proof:
+                2 + 3 = 5
+                5 = 5
+                ∴ True
+
+        - ∀ₙ ∈ ℕ. n² + n + 41 = prime number
+
+        - a² + b² + c² = d², has no positive integer solutions
+            - truth value = True
+            - proof:
+                a = 95800
+                b = 217519
+                c = 414560
+                d = 422481
+
+                ∴ ∃ a,c,d,e ∈ ℕ⁺, a² + b² + c² = d²
+
+        - 313(x³ + y³) = z³, has no ℤ⁺ solutions
+            - truth value: unknown
+            - proof: not yet proved or disproved
+
+        - The regions in any map can be coloured using 4 colours, such that
+            adjacent regions have different colours
+                - truth value: maybe True, but because of the proof technique, there is still doubt.
+                - proof: only a computer-aided proof exists
+
+    - use cases:
+        - model scenarios that can only be True or False.
+        - ...
+
+    - proof: none. it is a definition.
+
+    References:
+        - Leighton, T. van Dijk, M. 2010. Lecture 1: Introduction and Proofs, 6.042J - Mathematics for Computer Science. Massachusetts Institute of Technology.
+
+def proposition²(Kunen, 2007:4):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: a statement with no free variables,
+                        in a given universe, which MUST be True or False.
+
+        NB: The statement is True or False for the whole universe.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - ∀x[x > 0 ⟹ ∃!y[y² = x ∧ y > 0]] (Kunen, 2007:4):
+            Value       Universe
+                True         ℕ
+                False        ℝ
+
+    - use cases: ???
+
+    - proof: ???
+
+    References:
+        - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

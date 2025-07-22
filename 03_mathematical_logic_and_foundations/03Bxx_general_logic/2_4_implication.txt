@@ -1,5 +1,4 @@
 def implication(Leighton, 2010):
-
     - formal:
         let:
             𝑝 be a proposition.

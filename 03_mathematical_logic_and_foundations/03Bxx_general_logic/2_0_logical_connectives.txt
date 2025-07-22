@@ -21,7 +21,7 @@ def logical connectives or logical operator | sentential connective | sentential
                             - T ⟺ T = T
                             - F ⟺ F = F
 
-        - truth table evaluation(Kunen, 2007:4):
+        - truth table evaluation of logical connectives(Kunen, 2007:4):
             def T: True
             def F: False
 

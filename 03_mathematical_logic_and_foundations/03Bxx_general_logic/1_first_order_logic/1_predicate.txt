@@ -1,0 +1,26 @@
+def predicate(Leighton, 2010):
+    - formal: ???
+        - in words: a proposition whose TRUTH
+                    depends on the value of one or more variable(s) (Leighton, 2010).
+                    i.e. we cannot determine whether it is True or False,
+                            until variable(s) value is known.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - 𝑛 is a perfect square.
+            𝑃(𝑛) ::= 𝑛 is a perfect square.
+            𝑃(4) is True
+            𝑃(5) is False
+            ∴ 𝑃(𝑛) is False
+
+    - use cases:
+
+    - proof: none. it is a definition.
+
+References:
+    - Leighton, T. van Dijk, M. 2010. Lecture 1: Introduction and Proofs, 6.042J - Mathematics for Computer Science. Massachusetts Institute of Technology.
