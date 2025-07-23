@@ -36,6 +36,25 @@
 
 - def mathematics⁵(Devlin, 2012): the science of abstract structure.
 
+- def side/perspectives of Mathematics:(Hammack, 2018:viii):
+     - computation focused: use the below-mentioned computations to answer practical questions about the world.
+          - primary goals:
+               - solve equations.
+               - compute derivatives.
+               - compute integrals.
+               - multiply matrices.
+               - find determinants.
+               - ...
+          **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretical side.
+
+     - theoretical focused:
+          - primary goals:
+               - understand Mathematical structures.
+               - prove Mathematical statements.
+               - invent or discover new Mathematical theorems and theories.
+               - use Mathematics to study itself.
+               - ...
+
 - def creation|discovery:
      - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
      - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)

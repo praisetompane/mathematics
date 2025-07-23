@@ -32,12 +32,43 @@ def algebra²(Censor, 2015):
             this is a calculation that has variables(y, x) and parameter(m)
     - use cases:
 
+def algebra³(Devlin, 2012):
+    - formal: ???
+
+        - in words: a field in which we reason logically about numbers, as opposed to calculating with numbers(i.e. arithmetic).
+           see: 00_numbers/1_arithmetic.txt
+
+    - plain english: ???
+
+    - intuition: generalization of arithmetic?
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+def algebra (Al-Samawal al-Maghribi) Devlin, 2012):
+    - formal: ???
+
+        - in words:
+
+    - plain english: operating on unknowns using all the arithmetical tools, in the same way as the arithmetician operates on the known.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
 def abstract algebra(Lockhart, 2009:8):
     - formal: ???
 
         - in words: ???
 
-    - plain english: a field about number and symmetry.
+    - plain english: a field in Mathematics about number and symmetry.
 
     - intuition: ???
 
@@ -47,34 +78,6 @@ def abstract algebra(Lockhart, 2009:8):
         see:
             - 12_field_theory_and_polynomials/0_field_theory.txt
             - 20_group_theory_and_generalizations/0_group_theory.txt
-
-    - use cases: ???
-
-def symmetry(Frenkel):
-    - formal: ???
-
-        - in words: ???
-
-    transformations that preserve
-        shape and position of an object.
-    - examples:
-        - sphere: ∞ symmetries
-        - square: 90°, 180°, 270°, 360° rotations.
-
-def algebra³(Devlin, 2012):
-    - formal: ???
-
-        - in words: ???
-
-    - plain english: ???
-
-    - intuition: a field in which we reason logically about numbers.
-                    as opposed to calculating with numbers(i.e. arithmetic)
-                    see: 00_numbers/1_arithmetic.txt
-
-    - properties: ???
-
-    - examples: ???
 
     - use cases: ???
 
