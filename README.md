@@ -33,6 +33,13 @@
           - `-` means: subtract[which you know from Grade 1 Mathematics]
 
 - def mathematics⁴(Devlin, 2012:15): the science of patterns.
+     - examples:
+          - Logic                            = patterns of reasoning.
+          - Arithmetic and Number Theory     = patterns of number and counting.
+          - Geometry                         = pattens of shape.
+          - Calculus                         = patterns of motion.
+          - Topology                         = patterns of closeness and position.
+          - Probability Theory               = patterns of chance.
 
 - def mathematics⁵(Devlin, 2012): the science of abstract structure.
 
@@ -56,8 +63,9 @@
                - ...
 
 - def creation|discovery:
-     - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/foundations_numbers_method.txt)
-     - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/foundations_axiomatic_method.txt)
+     - [the mathmatical method](03_mathematical_logic_and_foundations/the_mathematical_method.txt)
+       - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/numbers_method.txt)
+       - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/axiomatic_method.txt)
 
 - Formal Classification Scheme:
      - [ZBMATH](https://zbmath.org/classification/)
