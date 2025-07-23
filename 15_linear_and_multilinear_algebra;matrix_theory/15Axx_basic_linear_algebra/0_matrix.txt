@@ -1,30 +1,26 @@
 def matrix¹(Strang, 2020):
     - formal: ???
-
         - in words: ???
 
     - plain english: square or rectangle of numbers, with special features.
 
     - intuition: ???
 
-    - properties: 
-        - types (Strang, 2020):
-            - columns and rows in the same direction
-            - rank 2 matrix
-            - symmetric matrix
+    - properties:
+        - types:
             - orthogonal matrix (perpendicular)
 
             - columns and rows in the same direction:
                 Example:
                     A₀ = [  1 3  2
                             4 12 8
-                            2 6  4 
+                            2 6  4
                         ]
-                    
+
                         row_2 = 4 * row_1. NB: Is it just row 1 scaled by 4
                                 = 2 * row_3. NB: Is it just row 3 scaled by 2
                         row_3 = 2 * row_1. NB: Is it just row 1 scaled by 2
-                        
+
                         NB: The "vectors" are pointing in the same direction.
                             They just have different magnitude(length)
 
@@ -37,41 +33,43 @@ def matrix¹(Strang, 2020):
             - orthogonal matrix (perpendicular):
                 expresses rotation of the plane.
 
+            - rank 2 matrix: ???
+
+            - symmetric matrix: ???
+
             - A = CR : Independent columns  |   |
                                             |   | * |       |
                                             |   |
                 a matrix A is a product of a Column matrix(C) and row matrix(R)
-            
+
             - A = LU : Triangular matrices L and U  |\ o |        |\   |
                                                     | \  |    *   | \  |
                                                     |  \ |        |  \ |
                                                     |   \|        | o \|
-            
+
             - A = QR: Orthogonal columns in Q       |    |        |\   |
                                                     |q₁qₙ|    *   | \  |
                                                     |    |        |  \ |
                                                     |    |        | o \|
-                            
 
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
-def matrix²(Censor, 2015): 
+def matrix²(Censor, 2015):
     - formal: ???
 
-        - in words: 
-            a chart of elements 
+        - in words:
+            a chart of elements
                 arranged in
                     rows and columns
 
-    
     - plain english: ???
 
     - intuition: ???
-    
+
     - properties:
         - general form:
                 𝐴 = (
@@ -81,13 +79,13 @@ def matrix²(Censor, 2015):
                     .    .   .       .
                     .    .   .       .
                     .    .   .       .
-                    𝑎ₘ₁  𝑎ₘ₂ 𝑎ₘ₃ ...  𝑎ₘₙ 
+                    𝑎ₘ₁  𝑎ₘ₂ 𝑎ₘ₃ ...  𝑎ₘₙ
                     )
 
                 NB: MYINC: the columns are fixed forall m in the general form.
                     Question: Is this an interesting property?
-                
-                notation:
+
+                - notation:
                     - aᵢⱼ is the entry in:
                         - row i
                         - column j
@@ -111,7 +109,7 @@ def matrix²(Censor, 2015):
                             NB: i AND j = same value
                                 example:
                                     given 𝐴 = A₃ₓ₃
-                                    main diagonal = a₁₁, a₂₂, a₃₃ 
+                                    main diagonal = a₁₁, a₂₂, a₃₃
                             NB: usually only associated with square matrices
                                     because row AND column numbers are equal
                                         therefore a full diagonal form
@@ -121,18 +119,21 @@ def matrix²(Censor, 2015):
                                                 n > m
                                                 example:
                                                     in 𝐴 = A₂ₓ₃
-    - examples:
-        𝐴 = ( 
-              1  0 π 
-              √2 𝑖 -3    
-            )
 
-        𝐴 is a matrix over ℂ
+    - examples:
+        1.
+            𝐴 = (
+                1  0 π
+                √2 𝑖 -3
+                )
+
+            𝐴 is a matrix over ℂ
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:
     - Censor, A. 2015. 11 - Matrices, Algebra 1M - international. Technion - International School Of Engineering.
-    - Strang, G. 2020. Part 1: The Column Space of a Matrix. https://ocw.mit.edu/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/resources/the-column-space-of-a-matrix/
+    - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
+    - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.

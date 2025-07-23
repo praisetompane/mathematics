@@ -32,12 +32,43 @@ def algebra²(Censor, 2015):
             this is a calculation that has variables(y, x) and parameter(m)
     - use cases:
 
+def algebra³(Devlin, 2012):
+    - formal: ???
+
+        - in words: a field in which we reason logically about numbers, as opposed to calculating with numbers(i.e. arithmetic).
+           see: 00_numbers/1_arithmetic.txt
+
+    - plain english: ???
+
+    - intuition: generalization of arithmetic?
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+def algebra (Al-Samawal al-Maghribi) Devlin, 2012):
+    - formal: ???
+
+        - in words:
+
+    - plain english: operating on unknowns using all the arithmetical tools, in the same way as the arithmetician operates on the known.
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
 def abstract algebra(Lockhart, 2009:8):
     - formal: ???
 
         - in words: ???
 
-    - plain english: a field about number and symmetry.
+    - plain english: a field in Mathematics about number and symmetry.
 
     - intuition: ???
 
@@ -50,18 +81,8 @@ def abstract algebra(Lockhart, 2009:8):
 
     - use cases: ???
 
-def symmetry(Frenkel):
-    - formal: ???
-
-        - in words: ???
-
-    transformations that preserve
-        shape and position of an object.
-    - examples:
-        - sphere: ∞ symmetries
-        - square: 90°, 180°, 270°, 360° rotations.
-
 References:
     - Censor, A. 2015. 01 - Introduction, Algebra 1M - international. Technion - International School Of Engineering.
     - Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.
-    - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+    - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales.
+    - Devlin, K. 2012. 3. The Birth of Algebra, Mathematics: Making the Invisible Visible. Stanford University
