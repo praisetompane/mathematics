@@ -1,0 +1,28 @@
+def vector(Sanderson, 2016):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: an entity with a magnitude and direction
+
+    - intuition: ???
+
+    - properties:
+        - models:
+            - physics: an arrow with these two properties:
+                        - direction
+                        - length
+
+            - mathematics: anything with a sensible notion the operations below:
+                            - addition of two vectors
+                            - multiplication of a vector by a number(scalar)
+
+            - computer science: a list of numbers.
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References: ???
