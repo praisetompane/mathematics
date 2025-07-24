@@ -1,11 +1,12 @@
-def real_functions:
+def real functions:
     - formal: 𝑓: ℝ ↦ ℝ???
-        Q: Is there a Formal logic formula that can represent this whole field/subject?
-        
+
         - in words: ???
 
     - plain english: functions over the Real numbers(i.e. ℝ)
-        see(for function definition): 03_mathematical_logic_and_foundations/6_function.txt
+        see:
+            - 03_mathematical_logic_and_foundations/function.txt
+            - 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/
 
     - intuition: ???
 
@@ -14,7 +15,7 @@ def real_functions:
     - examples: ???
 
     - use cases: ???
-        
-    - proof: ???
-    
+
+    - proof: none. it is a definition.
+
 References: ???

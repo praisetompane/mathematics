@@ -1,0 +1,43 @@
+def differentiation¹(Hammack: 2020):
+    - formal:
+
+        - in words:
+            given:
+                a function 𝑓
+            then:
+                find the function 𝑓'
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+
+- def differential(Devlin, 2012):
+    - formal: None, in the context of Calculus.
+
+    - plain english: an infinitesimal change in a varying quantity,
+                     infinitesimal = infinitely small.
+
+    - intuition: ???
+
+    - properties:
+        - computed using differentiation(i.e. computing a derivative)
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Censor, A. 2013. Calculus - 01, 104003 - Differential and Integral Calculus 1. Technion - International School Of Engineering.
+    - Hammack, R. 2020. Hammack's Calculus I, Lecture 1： A Thumbnail Sketch of Calculus I, MATH 200 - Calculus I. Virginia Commonwealth University.
+    - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation.

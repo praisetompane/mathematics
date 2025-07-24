@@ -1,25 +1,23 @@
 def derivative¹(Hammack: 2020):
     - formal: ???
-            
+
         - in words:
-            - the derivative of a function 𝑓 
-                is another function 𝑓', for which
-                𝑓'(x) = (
-                            the slope of the tangent line to 
+            - the derivative of a function 𝑓
+                is another function 𝑓', such that
+                    𝑓'(x) = the slope of the tangent line to,
                                 𝑦=𝑓(x) at point (𝑥, 𝑓(x))
-                        )
-            
-                      - (   
-                            the rate of change of 𝑓(x)
-                            with respect to 𝑥 at 𝑥
-                        )
 
-    - plain english:
+                            or
 
-    - intuition:
+                    𝑓'(x) = the rate of change of 𝑓(x)
+                                with respect to 𝑥 at a particular value 𝑥
+                          i.e. te rate of change at a point(i.e. 𝑥)
+
+    - plain english: ???
+
+    - intuition: ???
 
     - properties:
-
         - interpretations (Jerison, 2007):
             - geometric
             - physical
@@ -35,10 +33,10 @@ def derivative¹(Hammack: 2020):
                                         |         /
                                         -       ./
                                         |    P ./   y = f(x)
-                                        -    . / 
+                                        -    . /
                                         |. .  /
                        ← |---|--|---|---|---|/-|---|---| →
-                                        |   /  x₀      x 
+                                        |   /  x₀      x
                                         -  /
                                         |
                                         -
@@ -58,12 +56,15 @@ def derivative¹(Hammack: 2020):
                                                                         to f(x)
                                                                         at a point P.
 
-use cases:
-    - important to ALL measurements.
+    - examples: ???
+
+    - use cases:
+        - important to ALL measurements.
+
+    - proof: none. it is a definition.
 
 References:
     - Jerison, D. 2006. Lecture 1: Rate of Change, MIT 18.01 Single Variable Calculus. Massachusetts Institute of Technology.
     - Hammack, R. 2020. Hammack's Calculus I, Lecture 1： A Thumbnail Sketch of Calculus I, MATH 200 - Calculus I. Virginia Commonwealth University.
 
 
-    

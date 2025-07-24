@@ -1,0 +1,21 @@
+def analysis | real analysis | infinitesimal analysis(Weisstein):
+    - formal: ???
+
+    - plain english: a field in mathematics, that studies the following:
+                        - the rate of change of quantities(interpreted as slopes of a curve)
+                        - lines, area and volume of objects.
+
+    - intuition: the study of change in a varying variable/s,
+                    in which the gap between the adjacent points is infinitesimal(Devlin, 2012),
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References:
+    - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation.
+    - Weisstein, Eric W. "Calculus." From MathWorld--A Wolfram Resource. https://mathworld.wolfram.com/Calculus.html
