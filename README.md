@@ -36,7 +36,7 @@
      - examples:
           - Logic                            = patterns of reasoning.
           - Arithmetic and Number Theory     = patterns of number and counting.
-          - Geometry                         = pattens of shape.
+          - Geometry                         = patterns of shape.
           - Calculus                         = patterns of motion.
           - Topology                         = patterns of closeness and position.
           - Probability Theory               = patterns of chance.
@@ -63,7 +63,7 @@
                - ...
 
 - def creation|discovery:
-     - [the mathmatical method](03_mathematical_logic_and_foundations/the_mathematical_method.txt)
+     - [the mathematical method](03_mathematical_logic_and_foundations/the_mathematical_method.txt)
        - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/numbers_method.txt)
        - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/axiomatic_method.txt)
 

@@ -436,6 +436,7 @@ next₃:
                 - chapter vi, viii
         - lectures:
             - calculus:
+                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation
                 - Wildberger, N.J. 2014. Curves, functions and surfaces, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Wildberger, N.J. 2014. The language of Calculus, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - 104003:
