@@ -9,6 +9,9 @@ def mathematical ability(Devlin, 2012):
 
     - properties:
         - ingredients for mathematics:
+            - spatial reasoning ability: think about space, your position in space, and others object's position in space.
+                - evolutionary reason: movement
+
             - number sense: sense of a size of a collection.
                 - evolutionary reason: understand threat size(run if outnumbered or fight otherwise), food source size.
                 - properties:
@@ -26,9 +29,6 @@ def mathematical ability(Devlin, 2012):
                     - possessed only by humans
                         - limited form in other apes
 
-            - spatial reasoning ability: think about space, your position in space, and others object's position in space.
-                - evolutionary reason: movement
-
             - a sense of cause and effect:
                 - evolutionary reason: ???
 
@@ -40,6 +40,9 @@ def mathematical ability(Devlin, 2012):
                     - example:
                         - trajectory of a spear
 
+            - logical reasoning ability:
+                - evolutionary reason:
+
             - ability to handle abstraction: engage with concepts at general/higher level and combine them.
                 - evolutionary reason: ???
 
@@ -47,8 +50,6 @@ def mathematical ability(Devlin, 2012):
                     - Key to mathematical ability.
                     - equivalent to having language
 
-            - logical reasoning ability:
-                - evolutionary reason:
 
             - relational reasoning ability: the ability to think about how things relate to each other.
                 - evolutionary reason:
@@ -76,5 +77,6 @@ def mathematical ability(Devlin, 2012):
 
 References:
     - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
+    - Devlin, K. 2001. The Math Gene: How Mathematical Thinking Evolved And Why Numbers Are Like Gossip. Basic Books
     - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
     - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
