@@ -436,8 +436,10 @@ next₃:
                 - chapter vi, viii
         - lectures:
             - calculus:
+                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation
                 - Wildberger, N.J. 2014. Curves, functions and surfaces, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Wildberger, N.J. 2014. The language of Calculus, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - Strang, G. 2018. Highlights of Calculus. Massachusetts Institute of Technology
                 - 104003:
                     - Censor, A. 2013. 104003 - Differential and Integral Calculus 1. Technion International School of Engineering
                         - current: Calculus - 03: *
@@ -505,23 +507,36 @@ next₃:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/syllabus/
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/calendar/
+            - RES.18-009:
+                -
         - readings:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/readings/
+            - RES.18-009:
+                -
         - lectures:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/video_galleries/video-lectures/
                 - Miller, H., Orloff, J., Lewis, J., Mattuck, A. 2011. Differential Equations. Massachusetts Institute of Technology
+            - RES.18-009:
+                - Strang, G., Moler, C. 2015. Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler. Massachusetts Institute of Technology
+                - https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/
         - recitations|labs:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/recitations/
+            - RES.18-009:
+                -
         - assignments:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/assignments/
+            - RES.18-009:
+                -
         - exams:
             - 18.03:
                 - https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/final-exam/
                 - https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/pages/exams/
+            - RES.18-009:
+                -
 
     - 35_partial_differential_equations:
         - course schedule:

@@ -31,6 +31,8 @@ SQR
 
 
 # authors
+Cleve
+Moler
 Maghribi
 Samawal
 Sipser
