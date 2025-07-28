@@ -6,13 +6,14 @@ def analysis | real analysis | infinitesimal analysis(Weisstein):
                         - lines, area and volume of objects.
 
     - intuition: the study of change in a varying variable/s,
-                    in which the gap between the adjacent points is infinitesimal(Devlin, 2012),
+                    in which the gap between the adjacent points is infinitesimal(Devlin, 2012).
 
     - properties: ???
 
     - examples: ???
 
-    - use cases: ???
+    - use cases:
+        - extract the result of an infinite process(Devlin, 2012).
 
     - proof: none. it is a definition.
 

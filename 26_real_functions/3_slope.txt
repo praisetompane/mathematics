@@ -1,19 +1,19 @@
-def slope (Khan Academy):
+def slope | gradient (Khan Academy):
     - formal: Δ𝑦/Δ𝑥
-        - in words: ???
+        - in words: change in rise(𝑦) divided by change in run(𝑥).
 
     - plain english:
         - how much change
             happens in 𝑦
                 for a change in 𝑥
-            NB: It is a ratio of the change in y with respect to/proportional to the change in 𝑥.
+            NB: It is a ratio of the change in y with respect to the change in 𝑥.
             Question: f(Δx) -> Δy
                 is slope a function 𝑓, from a Δ in 𝑥 to a Δ in y?: No, it is a ratio.
 
         - how steep a line is.
         - how quickly does it increase
         - how quickly does it decrease
-        
+
     - intuition: ???
 
     - properties: ???
@@ -21,8 +21,9 @@ def slope (Khan Academy):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
+        Q: where does the rise/run definition come from?
 
 References:
     - Khan Academy. Intro to slope, Algebra basics: UNIT 4.
