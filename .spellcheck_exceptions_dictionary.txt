@@ -31,6 +31,8 @@ SQR
 
 
 # authors
+Dehaene
+Routledge
 Cleve
 Moler
 Maghribi
@@ -139,6 +141,7 @@ Zalta
 
 
 # domain specific
+Ishango
 substring
 shortlex
 undirected

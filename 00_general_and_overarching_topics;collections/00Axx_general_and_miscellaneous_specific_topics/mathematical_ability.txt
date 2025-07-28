@@ -1,0 +1,82 @@
+def mathematical ability(Devlin, 2012):
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - ingredients for mathematics:
+            - spatial reasoning ability: think about space, your position in space, and others object's position in space.
+                - evolutionary reason: movement
+
+            - number sense: sense of a size of a collection.
+                - evolutionary reason: understand threat size(run if outnumbered or fight otherwise), food source size.
+                - properties:
+                    - does not require numbers
+                    - possessed by:
+                        - other animals
+                        - very young babies
+
+            - numerical ability: number sense + language
+                - evolutionary reason: greater precision about collections of things.
+                - properties:
+                    - requires numbers
+                    - depends on language(Dehaene, 2011)
+                        - numbers are linguistic constructs and embedded in language.
+                    - possessed only by humans
+                        - limited form in other apes
+
+            - a sense of cause and effect:
+                - evolutionary reason: ???
+
+            - the ability to construct and follow a casual chain of events or facts:
+                - evolutionary reason: ???
+
+            - algorithmic ability:
+                - evolutionary reason: planning sequences ahead of time.
+                    - example:
+                        - trajectory of a spear
+
+            - logical reasoning ability:
+                - evolutionary reason:
+
+            - ability to handle abstraction: engage with concepts at general/higher level and combine them.
+                - evolutionary reason: ???
+
+                NB:
+                    - Key to mathematical ability.
+                    - equivalent to having language
+
+
+            - relational reasoning ability: the ability to think about how things relate to each other.
+                - evolutionary reason:
+                    - social cooperation for survival
+                    - understand human relationships
+
+        - mathematical ability acquisition rough timeline:
+            ~35000 years ago: invent counting:
+                - examples:
+                    - Ishango bone
+
+            ~10000 years ago: invent numbers
+                - examples:
+                    -
+
+            ~2000 years ago: start formal Mathematics
+                - examples:
+                    -
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Devlin, K. 2012. 5. How Did Human Beings Acquire the Ability to do Math?. Stanford University
+    - Devlin, K. 2001. The Math Gene: How Mathematical Thinking Evolved And Why Numbers Are Like Gossip. Basic Books
+    - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
+    - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press

@@ -1,0 +1,43 @@
+def number:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: names for quantities?
+
+    - intuition: ???
+
+    - properties:
+        - number vs numeral(Hamkins, 2020)
+            example:
+                number = fifty seven
+                numerals:
+                    57 - decimal(base 10)
+                    111001 - binary
+                    LVII - roman numerals
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+- counting:
+    Q: Why do we count?
+    Q: When did we start counting?
+    Q: Did we always count up to ten as homo sapiens?
+        hence base 10 system so natural?
+    Q: what is counting?
+
+- number sense:
+    Q: Where does the idea of "how many" things are there come from?
+    Q: Humans and other animals show case the ability to "know(by way of counting? Are there other ways to know how many things are there?" "how many" things are there.
+
+- numbers:
+    Q: Where/When did give these quantities names?
+
+References:
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales
+    - Hamkins, J.D. 2020. What is a number?. Oxford Philosophy of Mathematics. Oxford University
+    - Karagila, A. 2022. What is a Number?. Numberphile
+    - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
