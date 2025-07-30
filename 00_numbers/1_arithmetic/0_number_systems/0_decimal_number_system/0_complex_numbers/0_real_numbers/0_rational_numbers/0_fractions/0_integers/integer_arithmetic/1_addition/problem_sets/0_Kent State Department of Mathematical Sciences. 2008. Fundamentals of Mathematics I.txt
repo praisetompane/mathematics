@@ -60,6 +60,8 @@ Examples and mid-text Practice:
         ∴ answer = 39, after apply the absolute operator
         ∴|-22 + (-17)| = 39
 
+Exercises 1.2 (Kent State Department of Mathematical Sciences, 2008:12):
+
 Evaluate:
     1. |50| = 50, because 55 is 55 units from zero(0)
 
