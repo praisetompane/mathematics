@@ -1,40 +1,5 @@
 ==============================================================================================
 next₀:
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
-        - readings:
-            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
-            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
-            - Hardy, G.H. 2005. A Mathematician’s Apology
-                - Hardy, G.H. 2019. An Annotated Mathematician’s Apology
-            - Lockhart, P. A . 2009. Mathematician’s Lament
-            - Lee, K.P. A Guide to Writing Mathematics
-            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
-            - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
-        - readings:
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
-            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
-        - lectures:
-            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
     - 00_numbers:
         - course schedule:
             -
@@ -103,6 +68,41 @@ next₀:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 19 Euclid's Elements, Arithmetic and Geometry
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
+        - readings:
+            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
+            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
+            - Hardy, G.H. 2005. A Mathematician’s Apology
+                - Hardy, G.H. 2019. An Annotated Mathematician’s Apology
+            - Lockhart, P. A . 2009. Mathematician’s Lament
+            - Lee, K.P. A Guide to Writing Mathematics
+            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
+            - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
+        - lectures:
+            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
         - recitations|labs:
             -
         - assignments:
