@@ -60,47 +60,49 @@ Examples and mid-text Practice:
         ∴ answer = 39, after apply the absolute operator
         ∴|-22 + (-17)| = 39
 
+Exercises 1.2 (Kent State Department of Mathematical Sciences, 2008:12):
+
 Evaluate:
-    |50| = 50, because 55 is 55 units from zero(0)
+    1. |50| = 50, because 55 is 55 units from zero(0)
 
-    |33| = 33, because 33 is 55 units from zero(0)
+    2. |33| = 33, because 33 is 55 units from zero(0)
 
-    |3/7| =
+    3. |3/7| =
         |0.4285714286|
         ∴ answer = 0.4285714286, post diving 3 by 7
 
-    |-3.5| = 3.5, because -3.5 is 3.5 units from zero(0)
+    4. |-3.5| = 3.5, because -3.5 is 3.5 units from zero(0)
 
-    |-21| = 21, because -21 is 21 units from zero(0)
+    5. |-21| = 21, because -21 is 21 units from zero(0)
 
-    |-55| = 55, because -55 is 55 units from zero(0)
+    6. |-55| = 55, because -55 is 55 units from zero(0)
 
 Add:
-    -13 + 5
+    7. -13 + 5
         |-13| - |5|, because addend signs are different
         13 - 5 = 8
         ∴ answer = -8, because largest absolute value is 13, which is from a negative number(-13)
 
-    -3 + 10
+    8. -3 + 10
         |-3| - |10|, because addend signs are different
         3 - 10 = -7
         ∴ answer = 7, because largest absolute value is 10, which is from a positive number(10)
 
-    59 + 88
+    9. 59 + 88
             1
             59
         +   88
         ______
             247
 
-    36 + 89
+    10. 36 + 89
             1
             36
         +   89
         ______
             125
 
-    104 + 1999
+    11. 104 + 1999
 
             111
             104
@@ -115,7 +117,7 @@ Add:
         ______
             2906
 
-    -167 + (-755)
+    13. -167 + (-755)
                                         1
             -167          | -16|       16
         + -755      = + |-755|  = + 755  (+, because addend signs are the same)
@@ -123,7 +125,7 @@ Add:
                                     771
                                 ∴ -771, because addend signs are the same(i.e. negative)
 
-    -382 + (-675)
+    14. -382 + (-675)
                                     11
             -382          |-382|      382
         + -675      = + |-675|  = + 675
@@ -131,37 +133,37 @@ Add:
                                     1057
                                 ∴ - 1057, because addend signs are the same(i.e. negative)
 
-    22 + (-20)
+    15. 22 + (-20)
         |22| - |-20|, because addend signs are the different
         22 - 20 = 2
         ∴ 2, because the largest absolute value is 22, which is from a positive number(i.e. 22)
 
-    39 + (-29)
+    16. 39 + (-29)
         |39| - |-29|, because addend signs are different
         39 - 29 = 10
         ∴ 10, because the largest absolute value is 39, which is from a positive number(i.e. 39)
 
-    -8 + 15
+    17. -8 + 15
         |-8| - |15|, because addend signs are different
         8 - 15 = -7
         ∴ 7, because the largest absolute value is 15, which is from a positive number(i.e. 15)
 
-    -7 + 12
+    18. -7 + 12
         |-7| - |12|, because addend signs are different
         7 - 12 = 5
         ∴ 5, because the largest absolute value is 12, which is from a positive number(i.e. 12)
 
-    |12 + (-20)|
+    19. |12 + (-20)|
         ||12| - |-20||, because addend signs are different
         |12 - 20| = |-8| = 8
         ∴ -8, because the largest absolute value is 20, which is from a negative number(i.e. -20)
 
-    |33 + (-29)|
+    20. |33 + (-29)|
         ||33| - |-29||, because addend signs are different
         |33 - 29| = |-4| = 4
         ∴ 4, because the largest absolute value is 33, which is from a positive number(i.e. 33)
 
-    | −12.58 + (−78.8)|
+    21. |−12.58 + (−78.8)|
         ||-12.58| + |-78.8||, because addend signs are the same
         |12.58 + 78.8| = |91.38| = 91.38
 
@@ -173,7 +175,7 @@ Add:
 
         ∴ -91.38, because addend signs are the same and both negative(i.e. -12.58 and -78.8)
 
-    | −253.2 + (−9.27)|
+    22. |−253.2 + (−9.27)|
         ||-253.2| + |-9.27||, because addend signs are the same
         |253.2 + 9.27| = |262.47| = 262.47
                 1
@@ -183,7 +185,7 @@ Add:
             262.47
         ∴ -262.47, because addend signs are the same and both negative(i.e. −253.2 and −9.27)
 
-    |509 + 3197|
+    23. |509 + 3197|
         ||509| + |3197||, because addend signs are the same
         |509 + 3197| = |3606| = 3606
 
@@ -195,7 +197,7 @@ Add:
 
         ∴ 3606, because addend signs are the same and both positive(i.e. 509 and 3197)
 
-    |488 + 7923|
+    24. |488 + 7923|
         ||488| + |7923||, because addend signs are the same
         |488 + 7923| = |8411| = 8411
 
@@ -208,7 +210,7 @@ Add:
         ∴ 8411, because addend signs are the same and both negative(i.e. 488 and 7923)
 
 True or False:
-    |−5 + 4| > |−5 + (−4)|
+    25. |−5 + 4| > |−5 + (−4)|
         |−5 + 4|
             ||-5| - |4||, because addend signs are different
             |5 - 4| = |-1|
@@ -224,7 +226,16 @@ True or False:
         ∴ 1 > 9
         ∴ False
 
-    |−3 + (−2) | ≥ |3 + 2|
+    26. |−3 + (−2) | ≥ |3 + 2|
+
+    27.
+
+    28.
+
+    29.
+
+    30.
+
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
