@@ -37,7 +37,7 @@ next₀:
                     104 Rational number arithmetic with infinity and more, Real numbers and limits
                     210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
                     211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
-                - more on real number:
+                - more on real numbers:
                     from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
                     to: 116 Difficulties with Dedekind cuts, Real numbers and limits
                 - more on natural numbers:
@@ -74,41 +74,6 @@ next₀:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 from: 19 Euclid's Elements, Arithmetic and Geometry
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics
-        - readings:
-            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
-            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
-            - Hardy, G.H. 2005. A Mathematician’s Apology
-                - Hardy, G.H. 2019. An Annotated Mathematician’s Apology
-            - Lockhart, P. A . 2009. Mathematician’s Lament
-            - Lee, K.P. A Guide to Writing Mathematics
-            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
-            - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
-        - lectures:
-            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A30_philosophy_of_mathematics
-        - readings:
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
-            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
-        - lectures:
-            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
         - recitations|labs:
             -
         - assignments:
@@ -177,11 +142,12 @@ next₁:
 
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - course schedule:
-            - HSTAR-Y0001:
-                - https://www.coursera.org/learn/mathematical-thinking
             - MATH 1365:
                 - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
+            - HSTAR-Y0001:
+                - https://www.coursera.org/learn/mathematical-thinking
         - readings:
+            - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
             - HSTAR-Y0001:
                 - Devlin, K. 2012. Introduction to Mathematical Thinking
                     - current: pg. 4
@@ -391,7 +357,7 @@ next₃:
                     - current: Lecture 05 - Complex numbers: *
             - 18.06:
                 - https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/
-                - Strang, G. 2005. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
+                - Strang, G. 2010. 18.06 - Linear Algebra. Massachusetts Institute of Technology.
             - RES.18-010:
                 - Strang, G. 2020. RES.18-010 - A 2020 Vision of Linear Algebra. Massachusetts Institute of Technology.
             - Khan Academy. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
@@ -602,6 +568,44 @@ next₄:
         - exams:
             -
 
+==============================================================================================
+next₅
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics;collections
+        - readings:
+            - Franklin, J. 1994. The Formal Sciences Discover The Philosophers Stone
+            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+            - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
+            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics
+            - Hardy, G.H. 2005. A Mathematician’s Apology
+                - Hardy, G.H. 2019. An Annotated Mathematician’s Apology
+            - Lockhart, P. A . 2009. Mathematician’s Lament
+            - Lee, K.P. A Guide to Writing Mathematics
+            - Lakoff, G., Nunez R.E. 2000. Where Mathematics Comes From: How The Embodied Mind Brings Mathematics Into Being. Basic Books
+            - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
+        - lectures:
+            - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics;collections/00A30_philosophy_of_mathematics
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
+        - lectures:
+            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
     - 00_general_and_overarching_topics;collections/00A71_general_theory_of_mathematical_modeling:
         - readings:
             - Nayak, K. Mathematical Modeling: Analysis and Applications:
@@ -619,8 +623,6 @@ next₄:
         - exams:
             -
 
-==============================================================================================
-next₅
     - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
         - readings:
             -
