@@ -83,22 +83,56 @@ next₀:
 
 ==============================================================================================
 next₁:
+    - 03_mathematical_logic_and_foundations/03Exx_set_theory:
+        - course schedule:
+            - MTH 302:
+                - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
+            - Math 135:
+                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
+        - readings:
+            - MTH 302:
+                - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
+            - Math 135:
+                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
+                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
+                    - current: Chapter 1: Sets: *
+            - Burns, S., Hägg, D., Qian, Z. 2021. Set Theory - An Open Introduction
+        - lectures:
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - from: Lecture 01: Introduction to Set Theory
+                    - to: Lecture 21 - Ultrafilters in Boolean Algebras
+                    - current: Lecture 01: Introduction to Set Theory
+            - Math 135:
+                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
+                    - current: 2. Set Theory. Basic concepts
+        - recitations|labs:
+            - MTH 302:
+                -
+            - Math 135:
+                -
+        - assignments:
+            - MTH 302:
+                -
+            - Math 135:
+                -
+        - exams:
+            - MTH 302:
+                -
+            - Math 135:
+                -
+
     - 03_mathematical_logic_and_foundations:
         - course schedule:
+            - MTH 302:
+                - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
             - Math 125A:
                 - https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
-            - CS 245:
-                - https://student.cs.uwaterloo.ca/~cs245/spring2025/index.html
+        - readings:
             - MTH 302:
                 -
-        - readings:
             - Math 125A:
                 - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
-            - CS 245:
-                -
-            - MTH 302:
-                - Kuber, A. Set Theory and Mathematical Logic:
-                    - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
             - Hinman, P.G. 2005. Fundamentals of Mathematical Logic. A K Peters/CRC Press
             - Kunen, K. 2007. The Foundations of Mathematics. College Publications
                 - current: pg. 11
@@ -108,44 +142,37 @@ next₁:
             - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
         - lectures:
             - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - MTH 302:
+                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+                    - from: Lecture 22 - Introduction to Mathematical Logic
+                    - to: Lecture 44 - Godel's Incompleteness Theorems
+                    - current: Lecture 22 - Introduction to Mathematical Logic
             - Math 125A:
                 - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
                     - current: 03. Logic. The Language Of Sentential Logic: *
-            - CS 245:
-                - Ben-David, S. 2015. CS 245 - Logic and Computation. University of Waterloo
-                    - current:
-            - MTH 302:
-                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                    - current: None
             - Bombieri, E. 2012. The Mathematical Truth. Institute for Advanced Study
         - recitations|labs:
-            - Math 125A:
-                -
-            - CS 245:
-                -
             - MTH 302:
+                -
+            - Math 125A:
                 -
         - assignments:
-            - Math 125A:
-                - https://math.berkeley.edu/~antonio/math125A/index.html
-            - CS 245:
-                -
             - MTH 302:
                 -
+            - Math 125A:
+                - https://math.berkeley.edu/~antonio/math125A/index.html
         - exams:
-            - Math 125A:
-                - https://math.berkeley.edu/~antonio/math125A/index.html
-            - CS 245:
-                -
             - MTH 302:
                 -
+            - Math 125A:
+                - https://math.berkeley.edu/~antonio/math125A/index.html
 
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - course schedule:
-            - MATH 1365:
-                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
             - HSTAR-Y0001:
                 - https://www.coursera.org/learn/mathematical-thinking
+            - MATH 1365:
+                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
         - readings:
             - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
             - HSTAR-Y0001:
@@ -190,44 +217,6 @@ next₁:
                 - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
                 - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
                 - https://richardhammack.github.io/math300/Tests/index.html
-
-    - 03_mathematical_logic_and_foundations/03Exx_set_theory:
-        - course schedule:
-            - Math 135:
-                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
-            - MTH 302:
-                -
-        - readings:
-            - Math 135:
-                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
-                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - current: Chapter 1: Sets: *
-            - MTH 302:
-                - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
-
-            - Burns, S., Hägg, D., Qian, Z. 2021. Set Theory - An Open Introduction
-        - lectures:
-            - Math 135:
-                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-                    - current: 2. Set Theory. Basic concepts
-            - MTH 302:
-                - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-                    - current:
-        - recitations|labs:
-            - Math 135:
-                -
-            - MTH 302:
-                -
-        - assignments:
-            - Math 135:
-                -
-            - MTH 302:
-                -
-        - exams:
-            - Math 135:
-                -
-            - MTH 302:
-                -
 
     - 03_mathematical_logic_and_foundations/03Cxx_model_theory:
         - readings:

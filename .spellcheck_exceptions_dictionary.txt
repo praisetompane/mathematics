@@ -142,6 +142,8 @@ Zalta
 
 
 # domain specific
+nand
+Ultrafilters
 Ishango
 substring
 shortlex

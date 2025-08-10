@@ -20,6 +20,8 @@ def logical connectives or logical operator | sentential connective | sentential
                         - the truth value of both predicates have to be the same, then the ⟺ is True:
                             - T ⟺ T = T
                             - F ⟺ F = F
+            - xor: exclusive or
+            - nand: negation of and(∧)
 
         - truth table evaluation of logical connectives(Kunen, 2007:4):
             def T: True

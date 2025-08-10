@@ -43,7 +43,7 @@
 
 - def mathematics⁵(Devlin, 2012): the science of abstract structure.
 
-- def side/perspectives of Mathematics:(Hammack, 2018:viii):
+- def side | perspectives of Mathematics:(Hammack, 2018:viii):
      - computation focused: use the below-mentioned computations to answer practical questions about the world.
           - primary goals:
                - solve equations.
@@ -62,7 +62,7 @@
                - use Mathematics to study itself.
                - ...
 
-- def creation|discovery:
+- def creation | discovery:
      - [the mathematical method](03_mathematical_logic_and_foundations/the_mathematical_method.txt)
        - [initialize mathematics from natural numbers](03_mathematical_logic_and_foundations/numbers_method.txt)
        - [initialize mathematics from axiomatic method](03_mathematical_logic_and_foundations/axiomatic_method.txt)
@@ -183,7 +183,7 @@ pyspelling -c spellcheck.yaml
 
 ## Legend
 **Q**: Question for later research<br>
-**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]
+**MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]<br>
 **see: ...**: Points to the definition of a concept used in another definition.
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.
