@@ -19,7 +19,7 @@ def subtraction¹(Kent State Department of Mathematical Sciences, 2008:13-14):
 
         - subtrahend: the number to be subtracted from another (Kent State Department of Mathematical Sciences, 2008:14).
 
-        - Models to understand the MEANING of subtraction:
+        - Models | Metaphors to understand the MEANING of subtraction:
             - Climbing steps (Kent State Department of Mathematical Sciences, 2008:14)
                 3 - 2: Walk 3 steps up, then 2 steps down
 
@@ -31,88 +31,158 @@ def subtraction¹(Kent State Department of Mathematical Sciences, 2008:13-14):
                     NP = Negative-Positive pair = 0
 
                 4 - 7:
-                    P P    =>   P P     NP NP   => N    N
-                    P P         P P     NP         N
+                    P P
+                    P P
+
+                    P P     NP NP
+                    P P     NP
+
+                    N    N
+                    N
 
                     ∴ -3
-                    Subtrahend = 7
-                        Add 3 negative-positive pairs to have enough P to cancel out 7 P.
 
-                    Same Example using 1 and -1
-                        4 - 7:
-                            1 1 => 1 1  -1 & 1 -1 & 1 => -1 -1
-                            1 1    1 1  -1 & 1           -1
+                    flow:
+                        subtrahend = 7
+                            Add 3 negative-positive pairs to have enough P to cancel out 7 P.
 
-                            ∴ -3
+                        Same Example using 1 and -1
+                            4 - 7:
+                                1 1 => 1 1  -1 & 1 -1 & 1 => -1 -1
+                                1 1    1 1  -1 & 1           -1
+
+                                ∴ -3
 
                 -4 - 5:
-                    N N => N N NP NP NP => N N N N N
-                    N N    N N NP NP       N N N N
+                    N N
+                    N N
 
+                    N N NP NP NP
+                    N N NP NP
+
+                    N N N N N
+                    N N N N
                     ∴ -9
-                        Subtrahend = 5
+
+                    flow:
+                        subtrahend = 5
                         Add 5 negative-positive pairs to have enough P to cancel out 5 P.
 
                 -3 - 7:
-                    N N => N N NP NP NP NP => N N N N N N
-                    N      N   NP NP NP       N   N N N
+                    N N
+                    N
+
+                    N N NP NP NP NP
+                    N   NP NP NP
+
+                    N N N N N N
+                    N   N N N
 
                     ∴ -10
-                        Subtrahend = 7
+
+                    flow:
+                        subtrahend = 7
                         Add 7 negative-positive pairs to have enough P to cancel out 7 P.
 
                 -4 - (-6):
-                    N N => N N NP => P =>
-                    N N    N N NP    P
+                    N N
+                    N N
 
-                    Subtrahend = -6
-                        Add 2 negative-positive pairs to have enough N to cancel out 6 N.
+                    N N NP
+                    N N NP
+
+                    P
+                    P
+
+                    ∴ 2 Ps
+                    ∴ 2
+
+                    flow:
+                        subtrahend = -6
+                            Add 2 negative-positive pairs to have enough N to cancel out 6 N.
 
                 3 - (-2):
                     P P => P P NP => P P P
                     P      P   NP    P   P
 
-                    Subtrahend = -2
-                        Add 2 negative-positive pairs to have enough N to cancel out 2 N.
+                    P P NP
+                    P   NP
+
+                    P P P
+                    P   P
 
                     ∴ 5
+
+                    flow:
+                        subtrahend = -2
+                            Add 2 negative-positive pairs to have enough N to cancel out 2 N.
 
                 −3 − 7
                     N N => N N NP NP NP NP => N N N N N N
                     N      N   NP NP NP       N N N N
 
-                    Subtrahend = 7
-                        Add 7 negative-positive pairs to have enough P to cancel out 7
+                    N N NP NP NP NP
+                    N   NP NP NP
 
+                    N N N N N N
+                    N N N N
+
+                    ∴ 10 Ns
                     ∴ -10
+
+                    flow:
+                        subtrahend = 7
+                            Add 7 negative-positive pairs to have enough P to cancel out 7
 
                 -4 - (-6)
                     N N => N N NP =>  P
                     N N    N N NP     P
 
-                    Subtrahend = -6
-                        Add 2 negative-positive pairs to have enough N to cancel out 6
+                    N N NP
+                    N N NP
 
+                    P
+                    P
+
+                    ∴ 2 Ps
                     ∴ 2
+
+                    flow:
+                        subtrahend = -6
+                            Add 2 negative-positive pairs to have enough N to cancel out 6
 
                 -4 + 6
                     N N => N N P P P => P
                     N N    N N P P P    P
 
-                    Subtrahend is actually 4, as it is the negative value, even though it is the first term
-                        Add the 6 P
-                        4 P cancel out 4 N
+                    N N P P P
+                    N N P P P
 
+                    P
+                    P
+
+                    ∴ 2 Ps
                     ∴ 2
 
-                -4 - (-6) and -4 + 6 result in the same answer
+                   flow:
+                        - subtrahend is actually 4, as it is the negative value, even though it is the first term
+                            Add the 6 P
+                            4 P cancel out 4 N
 
-                Observations:
-                    Subtracting a negative number(ex. -6) equivalent to adding the opposite number(ex. 6)²
+                remarks:
+                    - Subtracting a negative number(e.g. -6) is equivalent to adding the opposite of that number(e.g. 6)²
                         -4 - (-6) = -4 + 6 = 2
 
-                If there is negative term(even if adding), you are going to subtract (i.e. -A + B)
-                If the substation operator is explicitly used in the sentence(i.e. A - B)
+                        abstractly:
+                            given:
+                                𝑎 - (-𝑏)
+                            then:
+                                𝑎 - 1(-𝑏)
+                                𝑎 -1 × -𝑏
+                                𝑎 +𝑏
+                                𝑎 + 𝑏
+
+                    - If there is negative term(even if adding), you are going to subtract (i.e. -A + B)
 
     - examples:
         -21 - 13
@@ -149,7 +219,7 @@ def subtraction¹(Kent State Department of Mathematical Sciences, 2008:13-14):
 
     - proof: ???
 
-def substation²:
+def substration²: MYINC:
     the opposite of addition
         the act of removing quantity from a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
             during this act:
