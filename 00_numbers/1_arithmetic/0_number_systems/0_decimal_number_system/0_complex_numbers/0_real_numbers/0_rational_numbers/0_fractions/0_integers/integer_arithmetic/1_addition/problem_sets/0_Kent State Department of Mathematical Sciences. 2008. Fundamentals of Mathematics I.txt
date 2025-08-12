@@ -1,58 +1,98 @@
 Examples and mid-text Practice:
+
+1. Example 1:
+    |6|
+    ∴ 6
+
+2. Practice 2:
+    |-11|
+    ∴ 11
+
+3. Example 3:
+    8 + 7
+    |8| + |7|
+    |8 + 7|
+    |15|
+    15
+    15, attach the positive common sign.
+
+4. Practice 4:
+    6 + 8
+    |6| + |8|
+    |6 + 8|
+    |14|
+    14
+    14, attach the common sign(i.e. positive)
+
+5. Mid-text 1:
     carries     11
                 394
             +    78
             _______
     result      472
 
+6. Example 5:
     carries      11
                 8455
             +     97
             ________
                 8552
 
+7. Practice 6:
     carries      1
                 42062
             +    391
             ________
                 42453
 
+8. Example 7:
     carries        1  1
                     13.45
             +      0.892
             ____________
                     13.342
 
+9. Practice 8:
     carries        1  1
                     321.4
             +       81.732
             ______________
                     403.132
 
+10. Example 9:
     -140 + 90
         |-140| - |90|, because addend signs are different
         140 - 90 = 50
         ∴ answer = -50, because largest absolute value is 50, which is from a negative number(-140)
         ∴ -140 + 90 = -50
 
+11. Practice 10:
     -12 + 4
         |-12| - |4|, because addend signs are different
         12 - 4
         ∴ answer = -8, because largest absolute value is 12, which is from a negative number(-12)
         ∴ -12 - 4 = -8
 
+12. Example 13:
     -1.54 + (-3.2)
         |-1.54| + |3.2|, because addend signs are the same
         1.54 + 3.2 = 4.74
         ∴ answer = -4.74, because addend signs are the same and negative
         ∴-1.54 + (-3.2) = -4.74
 
+13. Practice 14:
     -20 + (-25.4)
         |-20| + |-25.4|, because addend signs are the same
         20 + 25.4
         ∴ answer = -45.4, because addend signs are the same and negative
         ∴ -20 + (-25.4) = -45.4
 
+14. Example 15:
+    |-8 + 5|
+    |-3|
+    ∴ 3
+
+15. Practice 16:
     |-22 + (-17)|
         ||-22| + |-17||, because addend signs are the same
         |22 + 17| = |39|
@@ -110,7 +150,7 @@ Add:
         ______
             2103
 
-    549 + 1999
+    12. 549 + 1999
             11
             549
         + 2357
@@ -228,14 +268,28 @@ True or False:
 
     26. |−3 + (−2) | ≥ |3 + 2|
 
-    27.
+    27. |-12 + 15| < |15 - 12|
+        |3| < |3|
+        3 < 3
+        ∴ False
 
-    28.
+    28. |-200 + 4| ≤ |-200 + (-4)|
+        |-166| ≤ |-200 -4|
+        |-166| ≤ |-204|
+        166 < 204
+        ∴ True
 
-    29.
+    29. 100 + 3.1 ≤ |-100 + (-3.1)|
+        103.1 ≤ |-100 - 3.1|
+        103.1 ≤ |-103.1|
+        103.1 ≤ 103.1
+        ∴ True
 
-    30.
-
+    30. |-2 + 10| > |2 + (-10)|
+        |8| > |2 - 10|
+        |8| > |-8|
+        8 > 8
+        ∴ False
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
