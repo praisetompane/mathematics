@@ -15,7 +15,7 @@ def addition¹(Kent State Department of Mathematical Sciences, 2008:7-10):
     - intuition: ???
 
     - properties:
-        - Models to understand the MEANING of addition:
+        - Models | Metaphors to understand the MEANING of addition:
             - Positive numbers:
                 - Counting(Kent State Department of Mathematical Sciences, 2008:7):
                     To add 13 + 14
@@ -129,7 +129,7 @@ def addition² (Wildberger, 2009):
 
     - proof: ???
 
-def addition³:
+def addition³: MYINC:
     the act of storing quantity into a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
         during this act:
             if a quantify exceeds the storage capacity of the current place value
