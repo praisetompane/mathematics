@@ -64,7 +64,7 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
                 - 0 = {} = ∅
 
                 - 1 = 𝑆(0)
-                    = 0 ∪ {0}
+                    = 0 ∪ {∅}
                     = ∅ ∪ {∅}
                     = {∅}
 

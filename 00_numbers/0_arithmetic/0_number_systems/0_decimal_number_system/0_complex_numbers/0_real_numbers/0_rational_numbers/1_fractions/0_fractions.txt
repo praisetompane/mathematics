@@ -1,12 +1,11 @@
-def fraction(Kent State Department of Mathematical Sciences, 2008:3): 
+def fraction(Kent State Department of Mathematical Sciences, 2008:3):
     - formal: ???
 
-        - in words: an number divided by a non-zero number.
-                i.e. a ratio of two numbers.
+        - in words: ???
 
     - plain english: ???
 
-    - intuition: ???
+    - intuition: parts of a whole.
 
     - properties: ???
 
@@ -14,14 +13,14 @@ def fraction(Kent State Department of Mathematical Sciences, 2008:3):
 
     - use cases:
         - divide cake with friends.
-        
+
     - proof: ???
 
-def fractions set: 
+def fractions set:
     - formal: ???
 
         - in words: ???
-        
+
     - plain english: ???
 
     - intuition: ???
@@ -31,8 +30,8 @@ def fractions set:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
