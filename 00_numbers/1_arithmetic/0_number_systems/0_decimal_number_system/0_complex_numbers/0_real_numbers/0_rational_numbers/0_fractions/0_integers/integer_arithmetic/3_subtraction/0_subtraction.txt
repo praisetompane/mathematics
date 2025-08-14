@@ -219,7 +219,7 @@ def subtraction¹(Kent State Department of Mathematical Sciences, 2008:13-14):
 
     - proof: ???
 
-def substration²: MYINC:
+def subtraction²: MYINC:
     the opposite of addition
         the act of removing quantity from a place value(i.e. ...,the hundreds ,the tens, the ones, the tenths, the hundredths,...)
             during this act:

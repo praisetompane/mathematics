@@ -142,6 +142,7 @@ Zalta
 
 
 # domain specific
+Goldrei
 nand
 Ultrafilters
 Ishango

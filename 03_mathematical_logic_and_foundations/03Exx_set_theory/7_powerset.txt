@@ -1,4 +1,4 @@
-def powerset(Montalban, 2020):
+def powerset(Montalban, 2020)(Hower, 2020):
     - formal:
         let:
             𝐴 be a set.
@@ -19,7 +19,7 @@ def powerset(Montalban, 2020):
                 then:
                     |𝑃(𝐴)| = 2ⁿ
             - proof: ???
-            
+
     - examples:
         - powerset of 𝐴:
             given:
@@ -28,8 +28,9 @@ def powerset(Montalban, 2020):
                 𝑃(𝐴) = { {2}, {3}, {2, 3}, ∅ }
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References:
     - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
