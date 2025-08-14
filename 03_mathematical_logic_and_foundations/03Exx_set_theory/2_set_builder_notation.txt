@@ -1,10 +1,10 @@
-def set_builder_notation(Hammack, 2018:5):
+def set_builder_notation(Hammack, 2018:5)(Hower, 2020):
     - formal: set_name = {𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 : 𝑟𝑢𝑙𝑒}
         - parts:
             - set_name     = name of the set(usually a letter)
             - :            = such that
             - expression   = any mathematical expression
-            - rule         = condition to be met to be included in the set 
+            - rule         = condition to be met to be included in the set
 
         - reading rules:
             - The set of all things of form 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛
@@ -26,17 +26,17 @@ def set_builder_notation(Hammack, 2018:5):
                 - apply the expression
                 - add the result to the output set
             i.e. read ut from the Right side, to the Left side.
-            
+
         - examples:
             - 𝐸 = {2𝑛 : 𝑛 ∈ ℤ}:
-                - all values of the 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 (2𝑛), 
+                - all values of the 𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 (2𝑛),
                     for all the values of variable(𝑛) that satisfy the 𝑟𝑢𝑙𝑒(n is an Integer).
-                
+
                     - i.e. all values of 2𝑛, where 𝑛 takes all values of ℤ.
-                
-                - algorithm applied: 
+
+                - algorithm applied:
                     step 1: {-5,-4,-3,-2,-1,0,1,2,3,4,5,...} : ALL the integers
-                    step 2: 
+                    step 2:
                         ...
                         2(-5) = -10
                         2(-4) = -8
@@ -51,16 +51,16 @@ def set_builder_notation(Hammack, 2018:5):
                         2(5)  = 10
                         ...
 
-                    output{...,-6,-4,-2,0,2,4,6, ...} 
+                    output{...,-6,-4,-2,0,2,4,6, ...}
 
             - 𝐵 = {𝑥 : x ∈ ℤ, |2𝑥| < 4}
                 - all the values of the expression(𝑥)
                     for all the values of the variable(𝑥) that satisfy the rule(|2𝑥| < 4)
-                
+
                     - i.e. all the values of 𝑥, where the absolute value of 2𝑥 is less than 4.
 
-                - algorithm applied: 
-                        step 1: 
+                - algorithm applied:
+                        step 1:
                             |2(-2)| = |4|, 4 < 4 = false
                             |2(-1)| = |2|, 2 < 4 = true
                             |2(0)|  = |0|, 0 < 4 = true
@@ -83,11 +83,11 @@ def set_builder_notation(Hammack, 2018:5):
 
                         i.e. all values of 2𝑥, where the absolute of 𝑥 is less 4.
 
-                    - algorithm applied: 
-                        step 1: 
+                    - algorithm applied:
+                        step 1:
                             |-4| = 4, 4 < 4 = false
                             |-3| = 3, 3 < 4 = true
-                            |-2| = 2, 2 < 4 = true   
+                            |-2| = 2, 2 < 4 = true
                             |-1| = 1, 1 < 4 = true
                             |0|  = 0, 0 < 4 = true
                             |1|  = 1, 1 < 4 = true
@@ -108,7 +108,7 @@ def set_builder_notation(Hammack, 2018:5):
                             ∴ output = {-6,-4,-2,0,2,4,6}
 
     - intuition: ???
-                
+
     - properties:
         - variations:
             - given:
@@ -129,3 +129,4 @@ def set_builder_notation(Hammack, 2018:5):
 
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University

@@ -1,9 +1,11 @@
-def set(Hammack, 2018:3):
+def set(Hammack, 2018:3)(Hower, 2020):
     - formal:
         { elementₙ,..., element₁, element₂, ..., elementₙ }
 
-        - in words:
-            a collection of things.
+        - in words: a collection of things.
+            - remark: we have no formal definition of "collection".
+                        we instantiate Mathematics with the assumption/axiom that a set exists.
+                        the name "set" itself just labels the object(i.e. it could have been any other name).
 
         - examples:
             - {1,2,3,4}
@@ -72,7 +74,7 @@ def set(Hammack, 2018:3):
                             c = [1 0
                                 0 0]
 
-        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinal_number.txt
+        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinality.txt
 
         - complement:
             let:
@@ -90,7 +92,7 @@ def set(Hammack, 2018:3):
             ∉   := not in(not an element of)
             ⊆   := subset or equal
 
-            examples:
+            - examples:
                 Given:
                     A = {2,4,6,8}
                 Then:
@@ -159,3 +161,4 @@ def set(Hammack, 2018:3):
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
     - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University

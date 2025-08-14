@@ -22,6 +22,7 @@ def mathematical ability(Devlin, 2012):
 
             - numerical ability: number sense + language
                 - evolutionary reason: greater precision about collections of things.
+                - see: 00_numbers/0_numbers.txt
                 - properties:
                     - requires numbers
                     - depends on language(Dehaene, 2011)
@@ -50,7 +51,6 @@ def mathematical ability(Devlin, 2012):
                     - Key to mathematical ability.
                     - equivalent to having language
 
-
             - relational reasoning ability: the ability to think about how things relate to each other.
                 - evolutionary reason:
                     - social cooperation for survival
@@ -68,6 +68,23 @@ def mathematical ability(Devlin, 2012):
             ~2000 years ago: start formal Mathematics
                 - examples:
                     -
+
+        - fields of study:
+            - Mathematical Cognition:
+                - counting:
+                    Q: Why do we count?
+                    Q: When did we start counting?
+                    Q: Did we always count up to ten as homo sapiens?
+                        hence base 10 system so natural?
+                    Q: what is counting?
+
+                - number sense:
+                    Q: Where does the idea of "how many" things are there come from?
+                    Q: Humans and other animals show case the ability to "know(by way of counting? Are there other ways to know how many things are there?" "how many" things are there.
+
+                - numbers:
+                    Q: Where/When did give these quantities names?
+                    Q: names for quantities?
 
     - examples: ???
 

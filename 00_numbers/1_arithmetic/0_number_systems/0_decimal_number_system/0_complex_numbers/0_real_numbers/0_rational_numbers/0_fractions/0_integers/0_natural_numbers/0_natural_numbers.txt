@@ -1,46 +1,51 @@
-def natural number(Kent State Department of Mathematical Sciences, 2008):
+def natural number(Kuber, 2024):
     - formal: ???
-        MYINC: 𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚
-        - in words: the quotient of dividing any number by itself.
+        let:
+            𝐴, 𝐵, 𝐶, ...be sets of the form {object₁, object₂, object₃}:
+                𝐴 = {*, *, *}
+                𝐵 = {^, ^, ^}
+                𝐶 = {@, @, @}
+                - ...
+        then:
+            - 𝐴, 𝐵, 𝐶, ... are in a 1-1(one to one) correspondence.
+            - the 1-1(one to one) correspondence class of all the objects is the number 𝑛 we are defining.
+                - in this case, the number 3(i.e. 𝑛 = 3)
+
+        - in words: an equivalence class of all sets of 𝑛 objects.
 
     - plain english: ???
 
     - intuition: ???
 
-    - properties: ???
+    - properties:
+        - based on: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinality.txt
 
     - examples:
-        - 0
-        - 1
-        - 67
+        - 3
         - ...
 
     - use cases:
-        - count apples, goats etc.
-        - solution to equations:
-            - example:
-                - given:
-                    equation₁: 𝑥 + 1 = 5
-                - then:
-                    𝑥 + 1 - 1 = 5 - 1
-                    𝑥 + 0 = 5 - 1
-                    𝑥 = 4
-                - substitution test:
-                    let:
-                        𝑥 = 4
-                    then:
-                        𝑥 + 1 = 5
-                        4 + 1 = 5
-                        5 = 5, which is true
+        - counting
+        - ordering
+        - solution to equations
+        - concrete examples:
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_natural_numbers/0_natural_numbers.txt: use cases.
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_integers/0_integers.txt: use cases.
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_fractions/0_fractions.txt: use cases.
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_rational_numbers.txt: use cases.
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/1_irrational_numbers/0_irrational_numbers.txt: use cases.
+            - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_complex_numbers.txt: use cases.
 
-                - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
+        Q: Can we use the irrational numbers for any of these?
+            - What would these mean?:
+                - I have √2 apples.
+                - I finished in position π the race.
 
     - proof: none. it is a definition.
 
 def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2):
     - formal:
         ℕ = {0, 1, 2, 3, 4, ...}
-        ℕ = {𝑛/𝑚 : 𝑛, 𝑚 ≥ 0 ∧ 𝑛 = 𝑚}, where 𝑛/𝑚 is in reduced/simplified form.
 
         - in words: the set of ALL non-negative numbers from 0,
                     with each next number, equal to the previous plus 1.
@@ -50,16 +55,59 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
     - intuition: ???
 
     - properties:
-        remark: sometimes they are defined with 0.
-        - axiomatized using Peano axioms.
+        - natural numbers as Von Neumann Ordinals(Goldrei, 1996):
+            - prerequisites:
+                - zero defined as the empty set: 0 = {} = ∅
+                - successor function: 𝑆(𝑛) = 𝑛 ∪ {𝑛}
 
-    - examples:
-        - 1
-        - 7
-        - 1.1/1.1 = 1
-        - 5.5/5.5 = 1
-        - 100
-        - ...
+            - constructions:
+                - 0 = {} = ∅
+
+                - 1 = 𝑆(0)
+                    = 0 ∪ {0}
+                    = ∅ ∪ {∅}
+                    = {∅}
+
+                - 2 = 𝑆(1)
+                    = 1 ∪ {1}
+                    = {∅} ∪ {{∅}}
+                    = {∅, {∅}}
+
+                - 3 = 𝑆(2)
+                    = 2 ∪ {2}
+                    = {∅, {∅}} ∪ {{∅, {∅}}}
+                    = {∅, {∅}, {∅,{∅}}}
+
+                - ...
+            remark:
+                (Kuber, 2024):
+                        these set representations above, are one representative/instance from the respective equivalence class,
+                            to enable easier manipulation of the numbers.
+                            i.e.
+                                - {∅, {∅}, {∅,{∅}}} is one of the sets in the equivalence class of sets with 3 objects,
+                                        and we use it to represent the number 3.
+    - examples: ???
+
+    - uses cases:
+        - counting (e.g. 3 apples, 2 goats)etc.
+            - ordering
+            - solution to equations:
+                - example:
+                    - given:
+                        equation₁: 𝑥 + 1 = 5
+                    - then:
+                        𝑥 + 1 - 1 = 5 - 1
+                        𝑥 + 0 = 5 - 1
+                        𝑥 = 4
+                    - substitution test:
+                        let:
+                            𝑥 = 4
+                        then:
+                            𝑥 + 1 = 5
+                            4 + 1 = 5
+                            5 = 5, which is true
+
+                    - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
 
     - proof: none. it is a definition.
 
@@ -73,13 +121,13 @@ def natural number(Wildberger, 2009):
 
     - properties: ???
 
-    - use cases:
-        see: above.
-
     - examples:
         - || = two
         - ||||| = five
         - ||| = three
+
+    - use cases:
+        see: above.
 
     - proof: none. it is a definition.
 
@@ -153,3 +201,9 @@ def natural numbers set¹(Wildberger, 2009):
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
     - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales. ​
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales
+    - Hamkins, J.D. 2020. What is a number?. Oxford Philosophy of Mathematics. Oxford University
+    - Karagila, A. 2022. What is a Number?. Numberphile
+    - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
+    - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+    - Goldrei, D.C. 1996. Classic Set Theory: For Guided Independent Study. Chapman & Hall
