@@ -20,19 +20,10 @@
 - An attempt at unpacking Mathematics and its creation/discovery in layman's terms.
 
 ## Definitions
-- def mathematics¹(Lockhart, 2009: 3): is an art like music and painting.
 
-- def mathematics²(Lockhart, 2009: 4): is about pure reason to get at the truth about something.
+- def mathematics¹ (Lockhart, 2009: 3): an art like music and painting.
 
-- def mathematics³: is a formal language. this means it has precise definitions for its words(+,-,\*, π,e, etc) and grammar.
-     - the symbols such as `∧`, `Σ`, `∀`, `+`, `×` are merely a shorthand.
-          - `∧` means: AND
-          - `Σ` means: sum
-          - `∀` means: for all
-          - `+` means: add[which you know from Grade 1 Mathematics]
-          - `-` means: subtract[which you know from Grade 1 Mathematics]
-
-- def mathematics⁴(Devlin, 2012:15): the science of patterns.
+- def mathematics²(Devlin, 2012:15): the science of patterns.
      - examples:
           - Logic                            = patterns of reasoning.
           - Arithmetic and Number Theory     = patterns of number and counting.
@@ -41,9 +32,10 @@
           - Topology                         = patterns of closeness and position.
           - Probability Theory               = patterns of chance.
 
-- def mathematics⁵(Devlin, 2012): the science of abstract structure.
+- def mathematics³: a collection of subjects/branches/theories in which each subject/branch/theory is a formal system.
+  - see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 
-- def side | perspectives of Mathematics:(Hammack, 2018:viii):
+- def sides | perspectives of Mathematics:(Hammack, 2018:viii):
      - computation focused: use the below-mentioned computations to answer practical questions about the world.
           - primary goals:
                - solve equations.
@@ -58,7 +50,7 @@
           - primary goals:
                - understand Mathematical structures.
                - prove Mathematical statements.
-               - invent or discover new Mathematical theorems and theories.
+               - invent or discover new Mathematical theorems or theories.
                - use Mathematics to study itself.
                - ...
 

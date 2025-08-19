@@ -222,6 +222,8 @@ Wxx
 
 
 # institutions
+thinkchecksubmit
+msp
 Roorkee
 nptel
 ndsu
