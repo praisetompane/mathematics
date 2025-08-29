@@ -35,11 +35,11 @@ def natural number(Kuber, 2024):
             - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_rational_numbers.txt: use cases.
             - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/1_irrational_numbers/0_irrational_numbers.txt: use cases.
             - see: 00_numbers/1_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_complex_numbers.txt: use cases.
-
-        Q: Can we use the irrational numbers for any of these?
-            - What would these mean?:
-                - I have √2 apples.
-                - I finished in position π the race.
+        - the basis of all Mathematical objects(Wildberger, 2009):
+            - examples:
+                - Groups: 20_group_theory_and_generalizations/1_group.txt
+                - Fields: 12_field_theory_and_polynomials/1_field.txt
+                - ...
 
     - proof: none. it is a definition.
 
@@ -86,7 +86,8 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
                             i.e.
                                 - {∅, {∅}, {∅,{∅}}} is one of the sets in the equivalence class of sets with 3 objects,
                                         and we use it to represent the number 3.
-    - examples: ???
+
+    - examples: there is only one set of natural numbers(i.e. ℕ)
 
     - uses cases:
         - counting (e.g. 3 apples, 2 goats)etc.
@@ -141,12 +142,11 @@ def natural numbers set¹(Wildberger, 2009):
 
     - properties:
         - they form a sequence(i.e. they are naturally ordered):
+            - formal: 𝑆(𝑛) = 𝑛 + |
+                - in words: the successor of 𝑛 is 𝑛 plus |
             - plain english: for every natural number, we can associate/define/determine a "successor":
                 - example:
                     S(|) = || = successor of | is ||
-
-            - abstract notation: S(a) = a + |
-                S = successor
 
             remark: this is our first Mathematical operator/operation.
 
@@ -155,9 +155,30 @@ def natural numbers set¹(Wildberger, 2009):
                     1. We start with |
                     2. to get || we require | to exist, because we add | to | to get ||.
                     3. to get ||| we require || to exist, because  we add | to || to get |||
-                    They come into existence in an order.
+
+                    NB: They come into existence in an order.
 
         - they have relative size to each other:
+            - formal:
+                let:
+                    - 𝑛 and 𝑚 be natural numbers
+                then:
+                    - equality:
+                        - formal: 𝑛 = 𝑚 ⟺ the ones(i.e. |) in 𝑛 match the ones(i.e. |) in 𝑚.
+
+                            - in words:
+                                𝑛 equals 𝑚, if and only if, the ones(i.e. |) in 𝑛 match the ones(i.e. |) in 𝑚.
+
+                        remark: this is our second Mathematical operator.
+
+                    - inequality:
+                        - formal: 𝑛 < m ⟺ the ones(i.e. |) in n are less than the ones(i.e. |) in 𝑚.
+
+                            - in words:
+                                𝑛 is less than 𝑚, if and only if, the ones(i.e. |) in 𝑛 are less than the ones(i.e. |) in 𝑚.
+
+                        remark: this is our third Mathematical operator.
+
             - plain english: which number appears first in the sequence.
                 - example:
                     - given: two numbers
@@ -166,35 +187,17 @@ def natural numbers set¹(Wildberger, 2009):
                     - then:
                         - pair each one(i.e. |) in one number with a one in the other number.
                     - then:
-                        - the number left with unpaired ones is the larger of the two.
+                        - the number left with unpaired ones(i.e. |) is the larger of the two.
 
                     - therefore:
                         - |||| comes before |||||| in the sequence of Natural numbers.
                         - |||||| is greater than ||||, because it has || left after pairing all the |s from |||| with itself.
 
-            - abstract notation:
-                let:
-                    - 𝑛 and 𝑚 be natural numbers
-                then:
-                    - equality:
-                        - formal: 𝑛 = 𝑚 ⟺ |s in 𝑛 match |s in 𝑚.
+    - examples:
+        see: above.
 
-                            - in words:
-                                𝑛 equals 𝑚, if and only if, |s in 𝑛 match |s in 𝑚.
-
-                        remark: this is our second Mathematical operator.
-
-                    - inequality:
-                        - formal: 𝑛 < m ⟺ |s in n are less than |s in 𝑚.
-
-                            - in words:
-                                𝑛 is less than 𝑚 , if and only if, |s in 𝑛 are less than |s in 𝑚.
-
-                        remark: this is our third Mathematical operator.
-
-    - examples: ???
-
-    - use cases: ???
+    - use cases:
+        see: above.
 
     - proof: none. it is a definition.
 

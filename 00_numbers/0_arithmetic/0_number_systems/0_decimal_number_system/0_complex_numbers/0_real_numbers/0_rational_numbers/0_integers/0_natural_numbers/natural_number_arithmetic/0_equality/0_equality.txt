@@ -1,6 +1,7 @@
 def equality:
     - formal: ???
 
+        see: 00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_natural_numbers/0_natural_numbers.txt: natural numbers set. properties
         - in words: ???
 
     - plain english: ???
@@ -12,7 +13,9 @@ def equality:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
-References: ???
+
+References:
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales
+

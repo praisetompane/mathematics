@@ -6,7 +6,7 @@ next₀:
         - readings:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
                 - current position:
-                    - pg. 13: Example 5
+                    - pg. 14: Example 5
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
                 - current position: not started
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III

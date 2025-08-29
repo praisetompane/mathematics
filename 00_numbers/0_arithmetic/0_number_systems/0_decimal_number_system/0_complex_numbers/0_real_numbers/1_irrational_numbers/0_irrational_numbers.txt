@@ -1,4 +1,4 @@
-def irrational number: 
+def irrational number:
     - formal: ???
 
         - in words: ???
@@ -11,12 +11,16 @@ def irrational number:
 
     - examples: ???
 
-    - use cases: ???
-        
+    - use cases:
+        Q: Can we use the Irrational numbers for any of uses cases of the Rationals and its subsets?
+            - What would these mean?:
+                - I have √2 apples.
+                - I finished in position π the race.
+
     - proof: ???
 
 
-def irrational numbers set(Kent State Department of Mathematical Sciences, 2008:3): 
+def irrational numbers set(Kent State Department of Mathematical Sciences, 2008:3):
     - formal: ???
 
         - in words: Real numbers that cannot be represented as fractions(ratios).
@@ -35,8 +39,9 @@ def irrational numbers set(Kent State Department of Mathematical Sciences, 2008:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
+
 
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.

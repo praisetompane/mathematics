@@ -32,7 +32,7 @@
           - Topology                         = patterns of closeness and position.
           - Probability Theory               = patterns of chance.
 
-- def mathematics³: a collection of subjects/branches/theories in which each subject/branch/theory is a formal system.
+- def mathematics³(Kuber, 2024): a collection of subjects/branches/theories in which each subject/branch/theory is a formal system.
   - see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 
 - def sides | perspectives of Mathematics:(Hammack, 2018:viii):
@@ -172,6 +172,7 @@ pyspelling -c spellcheck.yaml
 - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
 - Devlin, K. 2012. Introduction to Mathematical Thinking.
 - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University.
+- Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
 
 ## Legend
 **Q**: Question for later research<br>
