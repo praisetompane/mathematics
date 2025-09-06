@@ -1,0 +1,38 @@
+def ordinal | ordinal number:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        - order finite sets(Kuber, 2024)
+
+    - proof: ???
+
+def transfinite(infinite) ordinal | ordinal number:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases:
+        - order finite sets(Kuber, 2024)
+
+    - proof: ???
+
+References:
+    - Kuber, A. 2024. Lecture 01 - Introduction to Set Theory, Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
