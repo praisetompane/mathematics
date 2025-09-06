@@ -1,12 +1,12 @@
-def axiom 1: extensionality(Kunen, 2007:10-11):
+def extensionality(Kunen, 2007:10-11):
 
     - formal: ∀𝑧(𝑧 ∈ 𝑥 ⟺ 𝑧 ∈ 𝑦) ⟹ 𝑥 = 𝑦
-        
+
         in words: ???
 
     - plain english:
         two sets are equal if they have the same elements regardless of their order and repetition(Montalban, 2020).
-    
+
     - intuition: ???
 
     - properties: ???
@@ -19,7 +19,7 @@ def axiom 1: extensionality(Kunen, 2007:10-11):
             𝐷 = {3,3,2,2}
         then:
             𝐴 = 𝐵 = 𝐶 = 𝐷
-        
+
     - use cases: ???
 
     - proof: none. it is an axiom.

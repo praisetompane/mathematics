@@ -11,7 +11,7 @@ def inference rule | logical deduction(Demaine, Abel, Chapman, 20024):
         - rules of inference per logic:
             - zeroth-order logic:
                 - modus ponens
-                - modus tollens
+                - modus tollens | modus tollendo tollens
                 - hypothetical syllogism
                 - ...
             - first-order logic:
