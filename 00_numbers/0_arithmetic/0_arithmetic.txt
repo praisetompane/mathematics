@@ -46,8 +46,17 @@ def arithmetic:
                             - 00_numbers/3_associativity.txt
                             - 00_numbers/4_distributivity.txt
             - axioms:
-                - Peano axioms:
-                    - ...
+                - Peano arithmetic axioms:
+                    -
+                    -
+                    -
+                    -
+                    -
+                    -
+                    -
+                    -
+                    -
+                    -
 
             - rules of inference: ???
 

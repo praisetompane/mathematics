@@ -2,7 +2,7 @@ def proof theory (Kunen, 2007:7):
     - formal: ???
 
         - in words: ???
-        
+
     - plain english: studies the structure of formal proofs.
 
     - intuition: ???
@@ -11,8 +11,10 @@ def proof theory (Kunen, 2007:7):
 
     - examples: ???
 
-    - use cases: ???
-        
+    - use cases:
+        - computer program formal verification?
+            see: https://github.com/praisetompane/computation/blob/main/1_mathematics_of_computing/0_mathematics_of_computing.txt
+
     - proof: ???
 
 

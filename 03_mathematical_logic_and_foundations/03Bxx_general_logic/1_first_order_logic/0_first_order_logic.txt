@@ -25,7 +25,7 @@ def predicate logic | first-order logic | first-order predicate logic(Kunen, 200
     - examples: ???
 
     - use cases:
-        - Build all Mathematics.
+        - Build all Mathematics or express all Mathematical statements.
         - ...
 
     - proof: none. it is a definition.

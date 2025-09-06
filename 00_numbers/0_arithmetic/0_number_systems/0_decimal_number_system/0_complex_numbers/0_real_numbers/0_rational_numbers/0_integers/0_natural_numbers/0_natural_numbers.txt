@@ -78,7 +78,15 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
                     = {∅, {∅}} ∪ {{∅, {∅}}}
                     = {∅, {∅}, {∅,{∅}}}
 
-                - ...
+                - 𝑛 = {0, 1, 2, 3, ..., 𝑛 - 1}
+
+                - ω = {0, 1, 2, 3, ..., 𝑛, ...}
+                    - remarks(Kuber, 2024):
+                        - this is our first infinite ordinal
+                            see: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_ordinal.txt
+                        - guaranteed by axiom of infinity
+                            see: 03_mathematical_logic_and_foundations/03Exx_set_theory/0_zfc_set_theory/0_axioms/7_infinity.txt
+                        - this is our model for the natural numbers(i.e. ℕ)
             remark:
                 (Kuber, 2024):
                         these set representations above, are one representative/instance from the respective equivalence class,
@@ -91,24 +99,24 @@ def natural numbers set¹(Kent State Department of Mathematical Sciences, 2008:2
 
     - uses cases:
         - counting (e.g. 3 apples, 2 goats)etc.
-            - ordering
-            - solution to equations:
-                - example:
-                    - given:
-                        equation₁: 𝑥 + 1 = 5
-                    - then:
-                        𝑥 + 1 - 1 = 5 - 1
-                        𝑥 + 0 = 5 - 1
+        - ordering
+        - solution to equations:
+            - example:
+                - given:
+                    equation₁: 𝑥 + 1 = 5
+                - then:
+                    𝑥 + 1 - 1 = 5 - 1
+                    𝑥 + 0 = 5 - 1
+                    𝑥 = 4
+                - substitution test:
+                    let:
                         𝑥 = 4
-                    - substitution test:
-                        let:
-                            𝑥 = 4
-                        then:
-                            𝑥 + 1 = 5
-                            4 + 1 = 5
-                            5 = 5, which is true
+                    then:
+                        𝑥 + 1 = 5
+                        4 + 1 = 5
+                        5 = 5, which is true
 
-                    - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
+                - 5 is a Natural number, therefore the Natural number 5 can be used to solve this equation.
 
     - proof: none. it is a definition.
 
@@ -204,9 +212,9 @@ def natural numbers set¹(Wildberger, 2009):
 References:
     - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
     - Wildberger, N.J. 2009. MATH FOUNDATIONS 2: ARITHMETIC WITH NUMBERS, Insights into Mathematics Math Foundations. University of New South Wales. ​
-    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales
-    - Hamkins, J.D. 2020. What is a number?. Oxford Philosophy of Mathematics. Oxford University
+    - Wildberger, N.J. 2009. ​MATH FOUNDATIONS 1: WHAT IS A NUMBER?, Insights into Mathematics Math Foundations. University of New South Wales.
+    - Hamkins, J.D. 2020. What is a number?. Oxford Philosophy of Mathematics. Oxford University.
     - Karagila, A. 2022. What is a Number?. Numberphile
-    - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press
-    - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
-    - Goldrei, D.C. 1996. Classic Set Theory: For Guided Independent Study. Chapman & Hall
+    - Dehaene, S. 2011. The Number Sense: How the Mind Creates Mathematics. Revised and Updated Edition. Oxford University Press.
+    - Kuber, A. 2024. Lecture 01 - Introduction to Set Theory, Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning.
+    - Goldrei, D.C. 1996. Classic Set Theory: For Guided Independent Study. Chapman & Hall.

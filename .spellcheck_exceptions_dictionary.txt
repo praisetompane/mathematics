@@ -31,6 +31,9 @@ SQR
 
 
 # authors
+Pfenning
+Kowalski
+Demaine
 Zeitz
 Dehaene
 Routledge
@@ -131,6 +134,7 @@ Weisstein
 Wildberger
 Zermelo
 ZFC
+ZF
 Rautenberg
 Zach
 Korbmacher
@@ -142,7 +146,13 @@ Zalta
 
 
 # domain specific
+Mathématiques
+Appliquées
+Pures
+tollendo
+tollens
 lineability
+instantiation
 Goldrei
 nand
 Ultrafilters
@@ -223,6 +233,8 @@ Wxx
 
 
 # institutions
+CIMPA
+uct
 thinkchecksubmit
 msp
 Roorkee

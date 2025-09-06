@@ -50,6 +50,57 @@ next₀:
         - exams:
             -
 
+    - mathematical_thinking:
+        - course schedule:
+            - HSTAR-Y0001:
+                - https://www.coursera.org/learn/mathematical-thinking
+            - MATH 1365:
+                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
+        - readings:
+            - HSTAR-Y0001:
+                - Devlin, K. 2012. Introduction to Mathematical Thinking
+                    - current: pg. 4
+            - MATH 1365:
+                - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
+                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
+                    - web page and errata: https://richardhammack.github.io/BookOfProof/
+                    - current:
+            - Ferry, D. 2010. Basic Proof Techniques
+            - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
+            - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
+            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
+            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
+            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
+            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+            - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
+        - lectures:
+            - HSTAR-Y0001:
+                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                    - current: Lecture 2 - Logical Combinators
+            - MATH 1365:
+                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+                    - current: 02. Sets, Subsets and the Power Set
+        - recitations|labs:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                -
+        - assignments:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
+                - https://richardhammack.github.io/math300/Exercises.html
+        - exams:
+            - HSTAR-Y0001:
+                -
+            - MATH 1365:
+                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
+                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                - https://richardhammack.github.io/math300/Tests/index.html
+
     - 51_geometry:
         - course schedule:
             -
@@ -80,15 +131,15 @@ next₀:
 next₁:
     - 03_mathematical_logic_and_foundations:
         - course schedule:
+            - MATH 125A:
+                - https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
             - MTH 302:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
-            - Math 125A:
-                - https://classes.berkeley.edu/content/2020-fall-math-125a-001-lec-001
         - readings:
+            - MATH 125A:
+                - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
             - MTH 302:
                 -
-            - Math 125A:
-                - Enderton, H.A. 2001. Mathematical Introduction to Logic. 2nd Edition. Academic Press
             - Hinman, P.G. 2005. Fundamentals of Mathematical Logic. A K Peters/CRC Press
             - Kunen, K. 2007. The Foundations of Mathematics. College Publications
                 - current: pg. 11
@@ -97,121 +148,82 @@ next₁:
             - Rautenberg, W. 2009. A Concise Introduction to Mathematical Logic. 3rd Edition. Springer
             - Wolfram, S. 2020. Combinators and the Story of Computation. https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/
         - lectures:
+            - MATH 125A:
+                - Montalban, A. 2020. MATH 125A - Mathematical Logic. U.C. Berkeley
+                    - current: 03. Logic. The Language Of Sentential Logic: *
             - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - MTH 302:
                 - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
                     - from: Lecture 22 - Introduction to Mathematical Logic
                     - to: Lecture 44 - Godel's Incompleteness Theorems
                     - current: Lecture 22 - Introduction to Mathematical Logic
-            - Math 125A:
-                - Montalban, A. 2020. Math 125A - Mathematical Logic. U.C. Berkeley
-                    - current: 03. Logic. The Language Of Sentential Logic: *
             - Bombieri, E. 2012. The Mathematical Truth. Institute for Advanced Study
         - recitations|labs:
-            - MTH 302:
+            - MATH 125A:
                 -
-            - Math 125A:
+            - MTH 302:
                 -
         - assignments:
+            - MATH 125A:
+                - https://math.berkeley.edu/~antonio/math125A/index.html
             - MTH 302:
                 -
-            - Math 125A:
-                - https://math.berkeley.edu/~antonio/math125A/index.html
         - exams:
+            - MATH 125A:
+                - https://math.berkeley.edu/~antonio/math125A/index.html
             - MTH 302:
                 -
-            - Math 125A:
-                - https://math.berkeley.edu/~antonio/math125A/index.html
 
     - 03_mathematical_logic_and_foundations/03Exx_set_theory:
         - course schedule:
+            - MATH 135:
+                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
             - MTH 302:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
-            - Math 135:
-                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
         - readings:
+            - MATH 135:
+                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
             - MTH 302:
                 - https://onlinecourses.nptel.ac.in/noc24_ma42/preview
-            - Math 135:
-                - https://classes.berkeley.edu/content/2020-Fall-MATH-135-001-LEC-001
-                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - current: Chapter 1: Sets: *
             - Burns, S., Hägg, D., Qian, Z. 2021. Set Theory - An Open Introduction
         - lectures:
+            - MATH 135:
+                - Montalban, A. 2020. MATH 135 - Intro to Set Theory. U.C. Berkeley
+                    - current: 2. Set Theory. Basic concepts
             - MTH 302:
                 - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
                     - from: Lecture 01: Introduction to Set Theory
                     - to: Lecture 21 - Ultrafilters in Boolean Algebras
                     - current: Lecture 01: Introduction to Set Theory
-            - Math 135:
-                - Montalban, A. 2020. Math 135 - Intro to Set Theory. U.C. Berkeley
-                    - current: 2. Set Theory. Basic concepts
         - recitations|labs:
-            - MTH 302:
+            - MATH 135:
                 -
-            - Math 135:
+            - MTH 302:
                 -
         - assignments:
-            - MTH 302:
+            - MATH 135:
                 -
-            - Math 135:
+            - MTH 302:
                 -
         - exams:
-            - MTH 302:
+            - MATH 135:
                 -
-            - Math 135:
+            - MTH 302:
                 -
 
     - 03_mathematical_logic_and_foundations/03Fxx_proof_theory_and_constructive_mathematics:
         - course schedule:
-            - HSTAR-Y0001:
-                - https://www.coursera.org/learn/mathematical-thinking
-            - MATH 1365:
-                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
+            -
         - readings:
-            - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
-            - HSTAR-Y0001:
-                - Devlin, K. 2012. Introduction to Mathematical Thinking
-                    - current: pg. 4
-            - MATH 1365:
-                - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
-                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - web page and errata: https://richardhammack.github.io/BookOfProof/
-                    - current:
-            - Ferry, D. 2010. Basic Proof Techniques
-            - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
-            - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
-            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
-            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
+            -
         - lectures:
-            - HSTAR-Y0001:
-                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 2 - Logical Combinators
-            - MATH 1365:
-                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
-                    - current: 02. Sets, Subsets and the Power Set
+            - Pfenning, F. 2012. Oregon Programming Languages Summer School 2012. University of Oregon
         - recitations|labs:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                -
+            -
         - assignments:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
-                - https://richardhammack.github.io/math300/Exercises.html
+            -
         - exams:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://richardhammack.github.io/math300/Tests/index.html
+            -
 
     - 03_mathematical_logic_and_foundations/03Cxx_model_theory:
         - readings:
@@ -219,7 +231,7 @@ next₁:
         - course schedule:
             -
         - lectures:
-            -
+            - Kowalski, P. 2021. Introduction to model theory. Le Centre International de Mathématiques Pures et Appliquées (CIMPA)
         - recitations|labs:
             -
         - assignments:
@@ -538,19 +550,7 @@ next₄:
         - exams:
             -
 
-    - 18_category_theory;homological_algebra
-        - readings:
-            - Category Theory For Programmers. https://github.com/hmemcpy/milewski-ctfp-pdf
-        - lectures:
-            - Milewski, B. 2016. Category Theory For Programmers I
-            - Milewski, B. 2017. Category Theory For Programmers II
-            - Milewski, B. 2018. Category Theory For Programmers III
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
+    remark: ready for undergraduate accreditation at most institutions.
 
 ==============================================================================================
 next₅
@@ -577,19 +577,6 @@ next₅
         - exams:
             -
 
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics;collections/00A30_philosophy_of_mathematics
-        - readings:
-            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
-            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
-        - lectures:
-            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
     - 00_general_and_overarching_topics;collections/00A71_general_theory_of_mathematical_modeling:
         - readings:
             - Nayak, K. Mathematical Modeling: Analysis and Applications:
@@ -600,6 +587,33 @@ next₅
             - Edx: DelftX: MathMod1x: Modelling with Differential Equations
             - Edx: GeorgetownX: PHYS-155  - Mathematical and Computational Methods
             - Coursera: Precalculus through Data and Modelling Specialization
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 18_category_theory;homological_algebra
+        - readings:
+            - Category Theory For Programmers. https://github.com/hmemcpy/milewski-ctfp-pdf
+        - lectures:
+            - Milewski, B. 2016. Category Theory For Programmers I
+            - Milewski, B. 2017. Category Theory For Programmers II
+            - Milewski, B. 2018. Category Theory For Programmers III
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics;collections/00A30_philosophy_of_mathematics
+        - readings:
+            - Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2023/entries/philosophy-mathematics/>
+            - Brown, J.R. Philosophy of Mathematics. 2nd Edition. Routledge
+        - lectures:
+            - Hamkins, J.D. 2020. Oxford Philosophy of Mathematics. Oxford University
         - recitations|labs:
             -
         - assignments:
