@@ -1,4 +1,4 @@
-def cardinal number or cardinal or cardinality or size(Hammack, 2018:4)(Hower, 2020):
+def cardinal | cardinal number | cardinality | size(Hammack, 2018:4)(Hower, 2020):
     - formal:
         for a finite set,
             this is the number of elements in the set,
@@ -28,12 +28,13 @@ def cardinal number or cardinal or cardinality or size(Hammack, 2018:4)(Hower, 2
 
     - examples: ???
 
-    - use cases: ???
+    - use cases:
+        - counting(Kuber, 2024)
 
     - proof: ???
 
-def infinite cardinal number::
-    - formal: ???
+def transfinite(infinite) cardinal | cardinal number::
+    - formal: {ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ }
 
         - in words: ???
 
@@ -52,41 +53,7 @@ def infinite cardinal number::
     - proof: ???
 
 
-def infinite cardinals:
-    - formal:
-        {ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ }(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
-
-        - in words: ???
-
-    - plain english: ???
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples: ???
-
-    - use cases: ???
-
-    - proof: ???
-
-def cardinal number sequence:
-    - formal:
-        0, 1, 2, 3,..., n, ℵ₀, ℵ₁, ℵ₂, ..., ℵₐₗₚₕₐ, ...(ᶜⁱᵗᵃᵗⁱᴼⁿ_ⁿᵉᵉᵈ)
-        in words:
-
-    - plain english: ???
-
-    - intuition: ???
-
-    - properties: ???
-
-    - examples: ???
-
-    - use cases: ???
-
-    - proof: ???
-
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Kuber, A. 2024. Lecture 01 - Introduction to Set Theory, Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
     - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University

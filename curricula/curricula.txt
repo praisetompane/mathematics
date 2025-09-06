@@ -271,6 +271,23 @@ University of Pretoria:
         - program: https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
             - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
 ==============================================================================================================================================================
+University of Cape Town:
+    - undergraduate:
+        - program:
+            - Bachelor of Science in Pure Mathematics
+            - https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
+
+    - honours:
+        - program:
+            -
+
+    - masters:
+        - program:
+            -
+
+    - doctrate:
+        - program:
+==============================================================================================================================================================
 University of California - Berkeley:
     - undergraduate:
         - program:

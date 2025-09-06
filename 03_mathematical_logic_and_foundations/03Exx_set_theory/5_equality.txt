@@ -27,4 +27,4 @@ def equality(Hower, 2020):
 
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
-    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.

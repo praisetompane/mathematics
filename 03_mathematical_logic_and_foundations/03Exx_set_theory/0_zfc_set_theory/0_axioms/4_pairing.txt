@@ -1,4 +1,4 @@
-def axiom 4: pairing(Kunen, 2007:10-11):
+def pairing(Kunen, 2007:10-11):
 
     - formal: ∃𝑧(𝑥 ∈ 𝑧 ∧ 𝑦 ∈ 𝑧)
 
@@ -13,7 +13,7 @@ def axiom 4: pairing(Kunen, 2007:10-11):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:

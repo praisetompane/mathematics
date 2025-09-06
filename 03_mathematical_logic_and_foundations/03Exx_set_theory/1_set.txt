@@ -3,9 +3,6 @@ def set(Hammack, 2018:3)(Hower, 2020):
         { elementₙ,..., element₁, element₂, ..., elementₙ }
 
         - in words: a collection of things.
-            - remark: we have no formal definition of "collection".
-                        we instantiate Mathematics with the assumption/axiom that a set exists.
-                        the name "set" itself just labels the object(i.e. it could have been any other name).
 
         - examples:
             - {1,2,3,4}
@@ -85,12 +82,12 @@ def set(Hammack, 2018:3)(Hower, 2020):
                 it is the set of all elements under consideration that are not in 𝐴.
 
         - operators:
-            ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
-            ∩   := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
-            \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
-            ∈   := in (is element of)
-            ∉   := not in(not an element of)
-            ⊆   := subset or equal
+            - ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
+            - ∩   := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
+            - \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
+            - ∈   := in (is element of)
+            - ∉   := not in(not an element of)
+            - ⊆   := subset or equal
 
             - examples:
                 Given:
@@ -161,4 +158,4 @@ def set(Hammack, 2018:3)(Hower, 2020):
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
     - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
-    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.

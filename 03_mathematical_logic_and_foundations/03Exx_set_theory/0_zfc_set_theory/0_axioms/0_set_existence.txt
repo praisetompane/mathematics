@@ -1,20 +1,20 @@
-def axiom 0: set existence(Kunen, 2007:10-11):
+def set existence(Kunen, 2007:10-11):
 
-  - formal: ∃𝑥(𝑥 = 𝑥)
+    - formal: ∃𝑥(𝑥 = 𝑥)
 
-      - in words: there exists a set 𝑥
+        - in words: there exists a set 𝑥
 
-  - plain english: ???
+    - plain english: ???
 
-  - intuition: ???
+    - intuition: ???
 
-  - properties: ???
+    - properties: ???
 
-  - examples: ???
+    - examples: ???
 
-  - use cases: ???
-      
-  - proof: ???
+    - use cases: ???
+
+    - proof: none. it is an axiom.
 
 References:
-  - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.

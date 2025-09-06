@@ -3,7 +3,7 @@ def powerset(Montalban, 2020)(Hower, 2020):
         let:
             𝐴 be a set.
         then:
-            𝑃(𝐴) = { 𝑥 : 𝑥 ∈ 𝐴 }
+            𝑃(𝐴) = { 𝑥 : 𝑥 ⊂ 𝐴 }
 
         - in words: the powerset of 𝐴 is set of all subsets of 𝐴.
 
@@ -25,7 +25,9 @@ def powerset(Montalban, 2020)(Hower, 2020):
             given:
                 𝐴 = { 2, 3 }
             then:
-                𝑃(𝐴) = { {2}, {3}, {2, 3}, ∅ }
+                𝑃(𝐴) = 𝐴⁰ ∪ 𝐴¹ ∪ 𝐴²
+                     = {∅} ∪ {{2} ∪ {3}} ∪ {{2, 3}}
+                     = {∅, {2}, {3}, {2, 3}}
 
     - use cases: ???
 
@@ -33,4 +35,4 @@ def powerset(Montalban, 2020)(Hower, 2020):
 
 References:
     - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
-    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.
