@@ -31,6 +31,7 @@ SQR
 
 
 # authors
+Demaine
 Zeitz
 Dehaene
 Routledge
@@ -131,6 +132,7 @@ Weisstein
 Wildberger
 Zermelo
 ZFC
+ZF
 Rautenberg
 Zach
 Korbmacher
@@ -142,7 +144,10 @@ Zalta
 
 
 # domain specific
+tollendo
+tollens
 lineability
+instantiation
 Goldrei
 nand
 Ultrafilters

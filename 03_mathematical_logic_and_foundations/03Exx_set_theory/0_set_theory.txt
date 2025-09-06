@@ -9,6 +9,7 @@ def set theory(Kunen, 2007:10-11):
 
     - properties:
         - variations:
+            - Zermelo–Fraenkel set theory (ZF).
             - Zermelo–Fraenkel set theory with the axiom of choice(ZFC).
                 see: 03_mathematical_logic_and_foundations/03Exx_set_theory/0_zfc_set_theory
             - Von Neumann-Gödel-Bernay set theorem(NGB).

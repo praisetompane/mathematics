@@ -1,4 +1,4 @@
-def axiom 9: choice(Kunen, 2007:10-11):
+def choice(Kunen, 2007:10-11):
 
     - formal: ???
 
@@ -13,7 +13,7 @@ def axiom 9: choice(Kunen, 2007:10-11):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:

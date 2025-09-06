@@ -1,4 +1,4 @@
-def axiom 3: comprehension scheme(Kunen, 2007:10-11):
+def comprehension scheme(Kunen, 2007:10-11):
 
   - formal: for each formula φ, without y free,
             ∃𝑦∀𝑥(𝑥 ∈ 𝑦 ⟺ 𝑥 ∈ 𝑧 ∧ φ(𝑥))
@@ -14,7 +14,7 @@ def axiom 3: comprehension scheme(Kunen, 2007:10-11):
   - examples: ???
 
   - use cases: ???
-      
+
   - proof: ???
 
 References:
