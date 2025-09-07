@@ -1,3 +1,8 @@
+Legend:
+    P = Positive Number
+    N = Negative Number
+    NP = Negative and Positive pair = 0
+
 Examples and mid-text Practice:
 
 1. Example 1:
@@ -36,8 +41,69 @@ Examples and mid-text Practice:
                     7 3.8 4
 
 5. Example 5:
-    -4 - 5
+    -4 - 5:
+        begin with,
+            N N
+            N N
 
+        add 5 positive-negative pairs(i.e. effectively zero, because they cancel each other out)
+            N N NP NP
+            N N NP NP
+                NP
+
+        remove 5 positives as per the expression
+            N N N N
+            N N N N
+                N
+
+            ∴ this leaves 9 negatives
+
+        ∴ -4 - 5 = -9
+
+6. Practice 6:
+    -3 - 7:
+        begin with,
+            N N
+            N
+
+        add 7 positive-negative pairs(i.e. effectively zero, because they cancel each other out)
+            N N NP NP
+            N   NP NP
+                NP NP
+                NP
+
+        remove 7 positives as per the expression
+            N N N N
+            N   N N
+                N N
+                N
+
+            ∴ this leaves 10 negatives
+
+        ∴ -3 - 7 = -10
+
+7. Example 7:
+    -4 - (-6):
+        being with,
+            N N
+            N N
+
+        add 6 positive-negative pairs(i.e. effectively zero, because they cancel each other out)
+            N N NP NP
+            N N NP NP
+                NP NP
+
+        remove 6 negatives as per the expression
+            P P
+            NP NP
+            NP NP
+
+        evaluate the 4 positive-negative pairs, which cancel each other out and result in zero
+            P P
+
+            ∴ this leaves 2 positives
+
+        ∴ -4 - (-6) = 2
 
 ==============================================================================================
     495 = 621 - x
