@@ -35,6 +35,8 @@
 - def mathematics³(Kuber, 2024): a collection of subjects/branches/theories in which each subject/branch/theory is a formal system.
   - see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 
+- def mathematics⁴(Wildberger, 2011): mathematics is commonse sense, precise use of language, and logical reasoning, applied to the study of patterns and problem solving.
+
 - def sides | perspectives of Mathematics:(Hammack, 2018:viii):
      - computation focused: use the below-mentioned computations to answer practical questions about the world.
           - primary goals:
@@ -173,6 +175,7 @@ pyspelling -c spellcheck.yaml
 - Devlin, K. 2012. Introduction to Mathematical Thinking.
 - Devlin, K. 2012. Mathematics: Making the Invisible Visible. Stanford University.
 - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
+- Wildberger, N.J. 2011. Counting using the grid plane, Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
 
 ## Legend
 **Q**: Question for later research<br>
