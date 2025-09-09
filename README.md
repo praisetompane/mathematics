@@ -35,7 +35,7 @@
 - def mathematics³(Kuber, 2024): a collection of subjects/branches/theories in which each subject/branch/theory is a formal system.
   - see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 
-- def mathematics⁴(Wildberger, 2011): mathematics is commonse sense, precise use of language, and logical reasoning, applied to the study of patterns and problem solving.
+- def mathematics⁴(Wildberger, 2011): mathematics is common sense, precise use of language, and logical reasoning, applied to the study of patterns and problem solving.
 
 - def sides | perspectives of Mathematics:(Hammack, 2018:viii):
      - computation focused: use the below-mentioned computations to answer practical questions about the world.

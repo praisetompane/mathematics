@@ -16,33 +16,64 @@ next₀:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
                 - current position: not started
         - lectures:
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade math
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                 - current: 02 Arithmetic with numbers, Arithmetic and Geometry
-                - basics:
-                    from: 01 What is a number?, Arithmetic and Geometry
-                    to: 17 Extremely big numbers, Arithmetic and Geometry
-                - others:
-                    66 Decimal numbers, Arithmetic and Geometry
-                    81 Measurement, approximation and interval arithmetic (I), Real numbers and limits
-                    82 Measurement, approximation + interval arithmetic (II), Real numbers and limits
-                    89 Fractions and repeating decimals, Real numbers and limits
-                    93 The magic and mystery of "pi", Real numbers and limits
-                    104 Rational number arithmetic with infinity and more, Real numbers and limits
-                    210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
-                    211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
-                - more on real numbers:
-                    from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
-                    to: 116 Difficulties with Dedekind cuts, Real numbers and limits
-                - more on natural numbers:
-                    from: 155 The realm of natural numbers, Data Structures in Mathematics
-                    to: 157 The algebra of natural number multisets, Data Structures in Mathematics
-            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 46 Introduction to Algebra, Arithmetic and Geometry
-                to: 74 Lines and parabolas II, Arithmetic and Geometry
+                - 0_arithmetic:
+                    - basics:
+                        from: 01 What is a number?, Arithmetic and Geometry
+                        to: 17 Extremely big numbers, Arithmetic and Geometry
+                    - others:
+                        66 Decimal numbers, Arithmetic and Geometry
+                        81 Measurement, approximation and interval arithmetic (I), Real numbers and limits
+                        82 Measurement, approximation + interval arithmetic (II), Real numbers and limits
+                        89 Fractions and repeating decimals, Real numbers and limits
+                        93 The magic and mystery of "pi", Real numbers and limits
+                        104 Rational number arithmetic with infinity and more, Real numbers and limits
+                        210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
+                        211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
+                    - more on real numbers:
+                        from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
+                        to: 116 Difficulties with Dedekind cuts, Real numbers and limits
+                    - more on natural numbers:
+                        from: 155 The realm of natural numbers, Data Structures in Mathematics
+                        to: 157 The algebra of natural number multisets, Data Structures in Mathematics
+
+                - 1_basic_algebra:
+                    from: 46 Introduction to Algebra, Arithmetic and Geometry
+                    to: 74 Lines and parabolas II, Arithmetic and Geometry
+
+            - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade math
             - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 51_geometry:
+        - course schedule:
+            -
+        - readings:
+            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
+            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                - current: pg 142 in pdf. pg 117 in text.
+        - lectures:
+            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                from: 19 Euclid's Elements, Arithmetic and Geometry
+                to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
+            - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
+            - https://www.khanacademy.org/math/k-8-grades
+                - current position: 3rd grade math
+            - Basic Geometry: https://www.khanacademy.org/math/basic-geo
+            - High school geometry: https://www.khanacademy.org/math/geometry
+            - Geometry: https://www.khanacademy.org/math/geometry-home
+            - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
         - recitations|labs:
             -
         - assignments:
@@ -100,32 +131,6 @@ next₀:
                 - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
                 - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
                 - https://richardhammack.github.io/math300/Tests/index.html
-
-    - 51_geometry:
-        - course schedule:
-            -
-        - readings:
-            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
-            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
-            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-                - current: pg 142 in pdf. pg 117 in text.
-        - lectures:
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade math
-            - Basic Geometry: https://www.khanacademy.org/math/basic-geo
-            - High school geometry: https://www.khanacademy.org/math/geometry
-            - Geometry: https://www.khanacademy.org/math/geometry-home
-            - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 19 Euclid's Elements, Arithmetic and Geometry
-                to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
 
 ==============================================================================================
 next₁:
@@ -379,31 +384,49 @@ next₃:
 
     - 26_real_functions:
         - course schedule:
-            - 104003:
-                -
-            - 104004:
-                -
-            - 18.01:
-                -
-            - 18.02:
-                -
-            - MATH 200:
-                -
+            - calculus:
+                - 104003:
+                    -
+                - 104004:
+                    -
+                - 18.01:
+                    -
+                - 18.02:
+                    -
+                - MATH 200:
+                    -
+
+            - real analysis:
+                - 18.100A:
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/syllabus/
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/calendar/
+
+                - 18.100B:
+                    - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/syllabus/
+                    - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/calendar/
         - readings:
-            - 104003:
-                - https://students.technion.ac.il/local/technionsearch/course/104003
-            - 104004:
-                - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
-                - https://students.technion.ac.il/local/technionsearch/course/104004
-            - 18.01:
-                - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
-                - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-            - 18.02:
-                - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
-            - MATH 200:
-                -
-            - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
-                - chapter vi, viii
+            - calculus:
+                - 104003:
+                    - https://students.technion.ac.il/local/technionsearch/course/104003
+                - 104004:
+                    - https://04.phf-site.com/2017/02/differential-and-integral-calculus-2-by.html
+                    - https://students.technion.ac.il/local/technionsearch/course/104004
+                - 18.01:
+                    - https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/
+                    - legacy: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+                - 18.02:
+                    - https://ocw.mit.edu/courses/18-02-multivariable-calculus-spring-2006/
+                - MATH 200:
+                    -
+                - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
+                    - chapter vi, viii
+
+            - real analysis:
+                - 18.100A:
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/lecture-notes-and-readings/
+                - 18.100B:
+                    - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/readings/
+                    - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/lecture-notes/
         - lectures:
             - calculus:
                 - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation
@@ -436,41 +459,68 @@ next₃:
                     - https://www.khanacademy.org/math/calculus-2
                 - Khan Academy. Multivariable Calculus
                     - https://www.khanacademy.org/math/multivariable-calculus
-            - real analysis
-                - Casey Rodriguez. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology
+
+            - real analysis:
+                - 18.100A:
+                    - Rodriguez, C. 2020. 18.100A - Real Analysis. Massachusetts Institute of Technology
+                        - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/video_galleries/video-lectures/
+                - 18.100B:
+                    - Colding, T.H. 2025. 18.100B - Real Analysis. Massachusetts Institute of Technology
+                        - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/video_galleries/video-lectures/
         - recitations|labs:
-            - 104003:
-                -
-            - 104004:
-                -
-            - 18.01:
-                -
-            - 18.02:
-                -
-            - MATH 200:
-                -
+            - calculus:
+                - 104003:
+                    -
+                - 104004:
+                    -
+                - 18.01:
+                    -
+                - 18.02:
+                    -
+                - MATH 200:
+                    -
+
+            - real analysis:
+                - 18.100A:
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/recitations/
+                - 18.100B:
+                    -
         - assignments:
-            - 104003:
-                -
-            - 104004:
-                -
-            - 18.01:
-                -
-            - 18.02:
-                -
-            - MATH 200:
-                -
+            - calculus:
+                - 104003:
+                    -
+                - 104004:
+                    -
+                - 18.01:
+                    -
+                - 18.02:
+                    -
+                - MATH 200:
+                    -
+
+            - real analysis:
+                - 18.100A:
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/pages/assignments-and-exams/
+                - 18.100B:
+                    - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/problem-sets/
         - exams:
-            - 104003:
-                -
-            - 104004:
-                -
-            - 18.01:
-                -
-            - 18.02:
-                -
-            - MATH 200:
-                -
+            - calculus:
+                - 104003:
+                    -
+                - 104004:
+                    -
+                - 18.01:
+                    -
+                - 18.02:
+                    -
+                - MATH 200:
+                    -
+
+            - real analysis:
+                - 18.100A:
+                    - https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/resources/mit18_100af20_midterm/
+                - 18.100B:
+                    -
 
     - 34_ordinary_differential_equations:
         - course schedule:
