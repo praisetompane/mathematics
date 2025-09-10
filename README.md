@@ -64,7 +64,7 @@
 - Formal Classification Scheme:
      - [ZBMATH](https://zbmath.org/classification/)
 
-- Theory
+- Theory:
   - Theoretical Basis: [03Exx_set_theory](https://zbmath.org/classification/?q=cc%3A03E)
   - Formal Science:
     - [mathematics](https://zbmath.org/classification/)
