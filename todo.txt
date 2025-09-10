@@ -194,7 +194,7 @@ next₁:
         - lectures:
             - MATH 135:
                 - Montalban, A. 2020. MATH 135 - Intro to Set Theory. U.C. Berkeley
-                    - current: 2. Set Theory. Basic concepts
+                    - current: 3. Set Theory. First Five Axioms
             - MTH 302:
                 - Kuber, A. 2024. Set Theory and Mathematical Logic. Indian Institute of Technology Kanpur - National Programme on Technology Enhanced Learning
                     - from: Lecture 01: Introduction to Set Theory
@@ -606,6 +606,7 @@ next₄:
 next₅
     - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics;collections
         - readings:
+            - Atiyah, M. Advice to a Young Mathematician
             - Franklin, J. 1994. The Formal Sciences Discover The Philosophers Stone
             - Courant, R., Robbins, H. 1996. What is Mathematics. Oxford University Press
             - Hardy G.H. 2021. A Course in Pure Mathematics. The Project Gutenberg
