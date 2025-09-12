@@ -1,9 +1,10 @@
-def solving an equation:
+def equation solutions:
     - formal: ???
 
+        see: 03_mathematical_logic_and_foundations/equation.txt
         - in words: ???
 
-    - plain english: 
+    - plain english:
         find a value(s) of the variable(s) that satisfies the equation.
                 def satisfies: make the Left Hand Side(LHS) equal Right Hand Side(RHS)
 
@@ -50,7 +51,7 @@ def solving an equation:
                         x - 20 = 10:
                         x = 10 + 20
                         x = 30
-                    
+
                     multiplication ---transposes to-------> division
                         5x + 20 = 90:
                         x + 20 = 90/5
@@ -69,7 +70,7 @@ def solving an equation:
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 References:
