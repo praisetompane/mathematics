@@ -274,19 +274,23 @@ University of Pretoria:
 University of Cape Town:
     - undergraduate:
         - program:
-            - Bachelor of Science in Pure Mathematics
+            - BSc in Pure Mathematics
             - https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
 
     - honours:
         - program:
-            -
+            - BSc(Hons) in Mathematics (MAM4000W)
+            - https://science.uct.ac.za/mam-honours/honours-mathematics-mam4000w
 
     - masters:
         - program:
-            -
+            - MSc in Mathematics (MAM5000W)
+            - https://science.uct.ac.za/department-mathematics/student/masters
 
     - doctrate:
         - program:
+            - PhD in Mathematics (MAM6000W)
+            - https://science.uct.ac.za/department-mathematics/student/phd
 ==============================================================================================================================================================
 University of California - Berkeley:
     - undergraduate:

@@ -2,7 +2,11 @@
 next₀:
     - 00_numbers:
         - course schedule:
-            -
+            - 0_arithmetic:
+                -
+            - 1_elementary_algebra:
+                - Introduction to Elementary Algebra. Wolfram U
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/track-my-progress.html
         - readings:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
                 - current position:
@@ -16,9 +20,9 @@ next₀:
             - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
                 - current position: not started
         - lectures:
-            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                - current: 02 Arithmetic with numbers, Arithmetic and Geometry
-                - 0_arithmetic:
+            - 0_arithmetic:
+                - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                    - current: 02 Arithmetic with numbers, Arithmetic and Geometry
                     - basics:
                         from: 01 What is a number?, Arithmetic and Geometry
                         to: 17 Extremely big numbers, Arithmetic and Geometry
@@ -38,9 +42,12 @@ next₀:
                         from: 155 The realm of natural numbers, Data Structures in Mathematics
                         to: 157 The algebra of natural number multisets, Data Structures in Mathematics
 
-                - 1_basic_algebra:
+            - 1_elementary_algebra:
+                - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
                     from: 46 Introduction to Algebra, Arithmetic and Geometry
-                    to: 74 Lines and parabolas II, Arithmetic and Geometry
+                    to: 78 Lines and parabolas II, Arithmetic and Geometry
+
+                - Introduction to Elementary Algebra. Wolfram U
 
             - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
             - https://www.khanacademy.org/math/k-8-grades
@@ -48,11 +55,27 @@ next₀:
             - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
             - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
         - recitations|labs:
-            -
+            - 0_arithmetic:
+                -
+            - 1_elementary_algebra:
+                - Introduction to Elementary Algebra. Wolfram U
         - assignments:
-            -
+            - 0_arithmetic:
+                -
+            - 1_elementary_algebra:
+                - Introduction to Elementary Algebra. Wolfram U
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-1.html
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-2.html
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-3.html
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-4.html
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-5.html
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-6.html
         - exams:
-            -
+            - 0_arithmetic:
+                -
+            - 1_elementary_algebra:
+                - Introduction to Elementary Algebra. Wolfram U
+                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/final-exam.html
 
     - 51_geometry:
         - course schedule:
@@ -65,7 +88,7 @@ next₀:
                 - current: pg 142 in pdf. pg 117 in text.
         - lectures:
             - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 19 Euclid's Elements, Arithmetic and Geometry
+                from: 18 Geometry | Arithmetic and Geometry Math Foundations 18
                 to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
             - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
             - https://www.khanacademy.org/math/k-8-grades
