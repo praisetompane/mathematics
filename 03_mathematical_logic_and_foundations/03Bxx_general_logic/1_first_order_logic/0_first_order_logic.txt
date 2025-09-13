@@ -2,23 +2,21 @@ def predicate logic | first-order logic | first-order predicate logic(Kunen, 200
     - formal: ???
         - in words: ???
 
-    - plain english:
-        - a formal language
-            with precise rules of formation,
-            just like computer programming languages(C, Java, etc).
-
-        - extends propositional logic.
-            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/0_propositional_logic.txt
+    - plain english: ???
 
     - intuition: ???
 
     - properties(Montalban, 2020):
+        - extends propositional logic.
+            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/0_propositional_logic/0_propositional_logic.txt
+
         - formal system:
             - language:
                 - alphabet|symbols: ???
                 - grammar: ???
-            - axioms: ???
-            - rules of inference: ???
+            - deductive system:
+                - axioms: ???
+                - rules of inference: ???
 
             see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 

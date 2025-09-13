@@ -1,7 +1,9 @@
 def propositional logic | propositional calculus | sentential logic | sentential calculus | zeroth-order logic(Montalban, 2020):
     - formal: ???
         - in words: logic built ONLY with propositions.
-            see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/1_proposition.txt
+            see:
+                - 03_mathematical_logic_and_foundations/03Bxx_general_logic/1_proposition.txt
+                - https://github.com/praisetompane/logic
 
     - plain english: logic built ONLY on with sentences that are either True or False.
 
@@ -11,12 +13,11 @@ def propositional logic | propositional calculus | sentential logic | sentential
         - formal system:
             - language:
                 - alphabet|symbols:
-                    - variable symbols: {𝑎₁, 𝑎₂, 𝑎ₙ, ...}, used to represent propositions.
                     - punctuation symbols:
                         - (     = opening parenthesis
                         - )     = closing parenthesis
 
-                    - logical connectives:
+                    - logical alphabet|symbols:
                         - ∧
                         - ∨
                         - ¬
@@ -26,6 +27,8 @@ def propositional logic | propositional calculus | sentential logic | sentential
                         see: 03_mathematical_logic_and_foundations/03Bxx_general_logic/5_0_logical_connectives.txt
 
                         remark: it uses only a subset of all known logical connectives.
+
+                    - variable symbols: {𝑎₁, 𝑎₂, 𝑎ₙ, ϕ, ψ, ...}, used to represent propositions.
 
                 - grammar:
                     - expression(formula): a string of the symbols above:
@@ -55,8 +58,9 @@ def propositional logic | propositional calculus | sentential logic | sentential
                                     - ((⟹¬𝑎₁
                                     - ¬(⟺𝑎₂
                                     - ...
-            - axioms: ???
-            - rules of inference: ???
+            - deductive system:
+                - axioms: ???
+                - rules of inference: ???
 
             see: 03_mathematical_logic_and_foundations/1_formal_system.txt
 

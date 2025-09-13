@@ -51,5 +51,5 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020)(Hower, 2020):
     - proof: ???
 
 References:
-    - Montalban, A. 2020. 2. Set Theory. Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
+    - Montalban, A. 2020. 2. Set Theory, Basic concepts, Math 135 - Intro to Set Theory. U.C. Berkeley.
     - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
