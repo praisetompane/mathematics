@@ -16,6 +16,7 @@
   - [References](#references)
   - [Legend](#legend)
 
+
 ## Objectives
 - An attempt at unpacking Mathematics and its creation/discovery in layman's terms.
 
@@ -113,6 +114,7 @@
 - [MoMath + Wolfram](https://history-of-mathematics.org/)
 
 ## Tools
+- [The Map of Mathematics](https://mathmap.quantamagazine.org/map)
 - [Mathematical Symbols](https://wumbo.net/symbols/)
 - [Glossary of Mathematical Symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org)
