@@ -85,4 +85,4 @@ References:
     - Censor, A. 2015. 01 - Introduction, Algebra 1M - international. Technion - International School Of Engineering.
     - Frenkel, E. 2014. Mathematics, The Language of Nature. The Continents of Mathematics. World Science Festival. New York City.
     - Wildberger, N.J. 2014. Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales.
-    - Devlin, K. 2012. 3. The Birth of Algebra, Mathematics: Making the Invisible Visible. Stanford University
+    - Devlin, K. 2012. 3. The Birth of Algebra, Mathematics: Making the Invisible Visible
