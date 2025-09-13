@@ -108,22 +108,20 @@ Massachusetts Institute of Technology: https://math.mit.edu/index.php
         Total Subjects: ???
         Total Credits: 108 + 84 + 180 + 180 + 32 + 24 =                                608
 
-    - honours:
-        - program:
-            -
-
     - masters:
         - program:
+            -
             -
 
     - doctrate:
         - program:
-
+            -
+            -
 ==============================================================================================================================================================
 University of Pretoria:
     - undergraduate:
         - program:
-            - BSc Mathematics - 02133263
+            - BSc Mathematics (02133263)
             - https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
 
         Year 1:
@@ -262,13 +260,19 @@ University of Pretoria:
         Total Subjects: 31
 
     - honours:
-        - program: https://www.up.ac.za/yearbooks/2020/pdf/programme/02240182
+        - program:
+            - BScHons Mathematics (02240182)
+            - https://www.up.ac.za/yearbooks/2020/pdf/programme/02240182
 
     - masters:
-        - program: https://www.up.ac.za/yearbooks/2025/pdf/programme/02250185
+        - program:
+            - MSc Mathematics (02250185)
+            - https://www.up.ac.za/yearbooks/2025/pdf/programme/02250185
 
     - doctrate:
-        - program: https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
+        - program:
+            - PhD Mathematical Sciences (02260762)
+            - https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
             - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
 ==============================================================================================================================================================
 University of Cape Town:
@@ -279,7 +283,7 @@ University of Cape Town:
 
     - honours:
         - program:
-            - BSc(Hons) in Mathematics (MAM4000W)
+            - BSc Honours in Mathematics (MAM4000W)
             - https://science.uct.ac.za/mam-honours/honours-mathematics-mam4000w
 
     - masters:
@@ -292,40 +296,47 @@ University of Cape Town:
             - PhD in Mathematics (MAM6000W)
             - https://science.uct.ac.za/department-mathematics/student/phd
 ==============================================================================================================================================================
-University of California - Berkeley:
+UNISA:
     - undergraduate:
         - program:
-            - Bachelor of Arts: Mathematics
-            - https://guide.berkeley.edu/undergraduate/degree-programs/mathematics/
-            - https://math.berkeley.edu/undergraduate/major/pure
+            - BSc Mathematics and Applied Mathematics (98801 - MAM)
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-%E2%80%93-MAM)
 
     - honours:
         - program:
-            -
+            - BSc Honours in Mathematics (98923)
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Honours-in-Mathematics-(98923)
 
     - masters:
         - program:
-            -
+            - MSc in Mathematics (98977)
+            - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Mathematics-(98977)
 
     - doctrate:
         - program:
+            - Doctor of Philosophy in Mathematics (98979)
+            - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Doctor-of-Philosophy-in-Mathematics-(98979)
 ==============================================================================================================================================================
-North Eastern University:
+The Open University:
     - undergraduate:
         - program:
-            - BSc Mathematics
-            - overview: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#text
-            - modules: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#programrequirementstext
-            - plan of study: https://catalog.northeastern.edu/undergraduate/science/mathematics/mathematics-bs/#planofstudytext
+            - BSc (Honours) Mathematics
+            - https://www.open.ac.uk/courses/maths/degrees/bsc-mathematics-q31
 
     - honours:
-        -
+        - program:
+            -
+            -
 
     - masters:
-        -
+        - program:
+            -
+            -
 
     - doctrate:
-        -
+        - program:
+            -
+            -
 ==============================================================================================================================================================
 curricula template:
     - undergraduate:

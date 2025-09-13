@@ -1,4 +1,5 @@
 # acronyms/abbreviations
+BScHons
 IIT
 CRC
 GIR
@@ -283,6 +284,7 @@ joma
 
 
 # institutions
+UNISA
 uwaterloo
 proofwiki
 
@@ -309,6 +311,7 @@ onedrive
 
 
 # urls
+mathmap
 wolframcloud
 bpb
 lplee
