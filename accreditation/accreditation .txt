@@ -113,7 +113,7 @@ Massachusetts Institute of Technology: https://math.mit.edu/index.php
             -
             -
 
-    - doctrate:
+    - doctorate:
         - program:
             -
             -
@@ -269,7 +269,7 @@ University of Pretoria:
             - MSc Mathematics (02250185)
             - https://www.up.ac.za/yearbooks/2025/pdf/programme/02250185
 
-    - doctrate:
+    - doctorate:
         - program:
             - PhD Mathematical Sciences (02260762)
             - https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
@@ -291,7 +291,7 @@ University of Cape Town:
             - MSc in Mathematics (MAM5000W)
             - https://science.uct.ac.za/department-mathematics/student/masters
 
-    - doctrate:
+    - doctorate:
         - program:
             - PhD in Mathematics (MAM6000W)
             - https://science.uct.ac.za/department-mathematics/student/phd
@@ -312,7 +312,7 @@ UNISA:
             - MSc in Mathematics (98977)
             - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Mathematics-(98977)
 
-    - doctrate:
+    - doctorate:
         - program:
             - Doctor of Philosophy in Mathematics (98979)
             - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Doctor-of-Philosophy-in-Mathematics-(98979)
@@ -333,7 +333,7 @@ The Open University:
             -
             -
 
-    - doctrate:
+    - doctorate:
         - program:
             -
             -
@@ -348,6 +348,6 @@ curricula template:
     - masters:
         -
 
-    - doctrate:
+    - doctorate:
         -
 ==============================================================================================================================================================
