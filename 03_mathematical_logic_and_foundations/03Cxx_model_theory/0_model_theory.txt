@@ -1,8 +1,9 @@
 def model theory (Kunen, 2007:7):
     - formal: ???
-        - in words: ???
-        
-    - plain english: studies the mathematical structure of models.
+        - in words: the study of formal or natural languages and their interpretations,
+                        using set theoretic structures, and the definition of truth by Alfred Tarki.
+
+    - plain english: ???
 
     - intuition: ???
 
@@ -11,7 +12,8 @@ def model theory (Kunen, 2007:7):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 References:
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
+    - Hodges, Wilfrid, "Model Theory", The Stanford Encyclopedia of Philosophy (Fall 2023 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/fall2023/entries/model-theory/>.

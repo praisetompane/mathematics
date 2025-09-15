@@ -32,6 +32,9 @@ SQR
 
 
 # authors
+Wilfrid
+Alfred
+Tarki
 Atiyah
 Colding
 Pfenning

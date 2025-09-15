@@ -1,0 +1,56 @@
+def number(Hamkins, 2020):
+    - formal: ???
+
+        - in words:
+            - remark:
+                - (Karagila, 2022):
+                    - we have no Mathematical definition for what a number is.
+                    - we constructions of what a number 𝑐𝑎𝑛 be.
+                - the question of what number is, belongs to the Philosophy of Mathematics and its ontological concerns.
+
+    - plain english: ???
+
+    - intuition: a label for quantity(Karagila, 2022).
+
+    - properties:
+        - based on: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinality.txt
+        - number vs numeral
+            - example:
+                - number = fifty seven
+                - numerals:
+                    57 - decimal(base 10)
+                    111001 - binary
+                    LVII - roman numerals
+
+    - examples:
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_natural_numbers/0_natural_numbers.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_integers.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/1_fractions/0_fractions.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_rational_numbers.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/1_irrational_numbers/0_irrational_numbers.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_real_numbers.txt
+        - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_complex_numbers.txt
+
+    - use cases:
+        - counting
+        - ordering
+        - solution to equations
+        - concrete usages:
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_natural_numbers/0_natural_numbers.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_integers.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/1_fractions/0_fractions.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_rational_numbers.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/1_irrational_numbers/0_irrational_numbers.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_complex_numbers.txt: use cases.
+            - see: ./0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_real_numbers.txt: use cases.
+
+        Q: Can we use the irrational numbers for any of these?
+            - What would these mean?:
+                - I have √2 apples.
+                - I finished in position π the race.
+
+    - proof: none. it is a definition.
+
+References:
+    - Hamkins, J.D. 2020. What is a number?. Oxford Philosophy of Mathematics. Oxford University
+    - Karagila, A. 2022. What is a Number?. Numberphile

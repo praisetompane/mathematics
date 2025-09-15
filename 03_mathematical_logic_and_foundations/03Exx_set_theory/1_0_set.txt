@@ -1,0 +1,122 @@
+def set(Hammack, 2018:3)(Hower, 2020):
+    - formal:
+        { elementₙ,..., element₁, element₂, ..., elementₙ }
+
+        - in words: a collection of things.
+
+        - examples:
+            - {1,2,3,4}
+            - {...,-2,-1,0,1,2,...}
+
+    - plain english: ???
+
+    - intuition:
+        - a box with things in it.
+        - in mathematics, the things are mathematical objects.
+
+    - properties:
+        - types of sets:
+            - finite: a set with a fixed number of elements.
+                example: {-1, 0, 1, 2}
+
+            - infinite: a set with infinitely many elements.
+                example: {..., -2, -1, 0, 1, 2, ...}
+
+        - construction methods:
+            - roster: list the elements in the set.
+                - example:
+                    𝐴 = {0,1,2,3,4,5,6,7,8,9}, as set of Natural numbers less than 10.
+
+            - set builder notation:
+                see: 03_mathematical_logic_and_foundations/03Exx_set_theory/2_set_builder_notation.txt
+
+        - elements: things in the collection
+            - elements of a set can be anything:
+                - examples:
+                    - B = {T, F}                        = set with True and False.
+                    - D = {(0,0),(0,1),(1,1), (1,0)}    = set with coordinates points for a square.
+                    - C = {a,e,i,o,u}                   = set with lower case vowels of the English alphabet.
+                    - E = {1, {2,3}, {2,4}}             = set with numbers, and other sets.
+                        Therefore:
+                            - 1 ∈ E
+                            - {2,3} ∈ E
+                            - {2,4} ∈ E
+                            - 2 ∉ E NB: 2 is not in E, it is in the other sets that are in E
+                            - 3 ∉ E NB: 3 is not in E, it is in the other sets that are in E
+                            - 4 ∉ E NB: 4 is not in E, it is in the other sets that are in E
+
+                    - F = {B,A}                         = set with others sets(i.e. set B and D)
+
+                    - M =   {
+                                [0 0  , [1 0 , [1 0     = set with three two-by-two matrices.
+                                 0 0]    0 1]   1 1]
+                            }
+                        Therefore:
+                            - [0 0  ∈ M
+                               0 0]
+
+                            - [1 1  ∉ M
+                               0 0]
+                    - M = {a,b,c}                       = set with letters representing its elements.
+                        Given:
+                            a = [0 0
+                                0 0]
+
+                            b = [1 1
+                                0 0]
+
+                            c = [1 0
+                                0 0]
+
+                            c = [1 0
+                                0 0]
+
+        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinality.txt
+
+        - complement:
+            let:
+                𝐴 be a set
+            then:
+                _
+                𝐴 or 𝐴' is the complement of 𝐴.
+                it is the set of all elements under consideration that are not in 𝐴.
+
+        - operators:
+            - ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
+            - ∩   := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
+            - \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
+            - ∈   := in (is element of)
+            - ∉   := not in(not an element of)
+            - ⊆   := subset or equal
+
+            - examples:
+                Given:
+                    A = {2,4,6,8}
+                Then:
+                    - 2 ∈ A     : means 2 is an element of A OR 2 is in A OR 2 in A
+                    - 2,4 ∈ A   : means 2 and 4 are in A
+                    - 5 ∉ A     : means 5 is not an element of A OR 5 is not in A OR 5 not in A
+
+        - conventions: capital letters are used to name sets.
+            - examples:
+                A = {0,1,2,3,4}
+
+        - significant sets with reserved letters:
+            see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_1_number_sets.txt
+
+        def hereditary set:
+
+    - examples:
+        - first four integers from zero = {0,1,2,3}
+        - first 4 prime numbers = {2,3,7,11}
+
+    - use cases:
+        - describe all types of mathematical structures(Hammack, 2018:ix).
+        - contain arbitrary objects, non-mathematical and mathematical objects.
+
+    - proof: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Sipser, M. 2013. Introduction to the Theory of Computation. 3rd edition. Cengage Learning.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.
