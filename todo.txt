@@ -1,6 +1,6 @@
 ==============================================================================================
 next₀:
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers:
+    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers:
         - course schedule:
             - 0_arithmetic:
                 -

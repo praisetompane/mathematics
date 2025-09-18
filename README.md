@@ -1,6 +1,8 @@
 # What is Mathematics?
 ![build status](https://github.com/praisetompane/mathematics/actions/workflows/mathematics.yaml/badge.svg) <br>
 
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.
+
 - [What is Mathematics?](#what-is-mathematics)
   - [Objectives](#objectives)
   - [Definitions](#definitions)
@@ -18,7 +20,10 @@
 
 
 ## Objectives
-- An attempt at unpacking Mathematics and its creation/discovery in layman's terms.
+- An attempt at distilling to layman's terms:
+  - Mathematics.
+  - Mathematics' foundations and creation/discovery.
+  - Mathematics' relationship with Logic and Computation.
 
 ## Definitions
 
@@ -72,17 +77,17 @@
   - Philosophy: [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 
 ## Learning Order
-- [00_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers)
-  - [0_arithmetic](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic)
-     - [0_natural_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_natural_numbers)
-     - [0_integers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers)
-     - [0_fractions](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/1_fractions)
-     - [0_rational_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers)
-     - [0_real_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers)
-     - [0_complex_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers)
-     - [0_decimal_number_system](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems/0_decimal_number_system)
-     - [0_number_systems](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/0_arithmetic/0_number_systems)
-   - [1_elementary_algebra](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/00_numbers/1_elementary_algebra/)
+- [0_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers)
+  - [0_arithmetic](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic)
+     - [0_natural_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers/0_natural_numbers)
+     - [0_integers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/0_integers)
+     - [0_fractions](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers/1_fractions)
+     - [0_rational_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers/0_rational_numbers)
+     - [0_real_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers/0_real_numbers)
+     - [0_complex_numbers](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system/0_complex_numbers)
+     - [0_decimal_number_system](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system)
+     - [0_number_systems](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems)
+   - [1_elementary_algebra](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/1_elementary_algebra/)
 - [03_mathematical_logic_and_foundations](03_mathematical_logic_and_foundations/)
   - [03Bxx_general_logic](03_mathematical_logic_and_foundations/03Bxx_general_logic/)
   - [03Exx_set_theory](03_mathematical_logic_and_foundations/03Exx_set_theory/)
@@ -184,5 +189,3 @@ pyspelling -c spellcheck.yaml
 **Q**: Question for later research<br>
 **MYINC**: My Insight/Conjecture [Could Be Unoriginal/False and Likely Is]<br>
 **see: ...**: Points to the definition of a concept used in another definition.
-
-**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serves as my exosomatic memory.

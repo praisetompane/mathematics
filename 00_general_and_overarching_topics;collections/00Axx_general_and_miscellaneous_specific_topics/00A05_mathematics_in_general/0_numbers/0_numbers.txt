@@ -5,7 +5,7 @@ def number(Hamkins, 2020):
             - remark:
                 - (Karagila, 2022):
                     - we have no Mathematical definition for what a number is.
-                    - we constructions of what a number 𝑐𝑎𝑛 be.
+                    - we have constructions of what a number 𝑐𝑎𝑛 be.
                 - the question of what number is, belongs to the Philosophy of Mathematics and its ontological concerns.
 
     - plain english: ???
