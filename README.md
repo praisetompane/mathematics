@@ -22,8 +22,8 @@
 ## Objectives
 - An attempt at distilling to layman's terms:
   - Mathematics.
-  - Mathematics' foundations and creation/discovery.
-  - Mathematics' relationship with Logic and Computation.
+  - Mathematics' foundations and invention/discovery.
+  - Mathematics' relationship with [Logic](https://github.com/praisetompane/logic) and [Computation](https://github.com/praisetompane/computation).
 
 ## Definitions
 
@@ -149,6 +149,8 @@
 ## Mathematicians
 - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
 - [The Academic Genealogy of Mathematics](https://academictree.org/math/)
+- [MΣΣT a Mathematician!](https://www.meetamathematician.com/)
+- [Math-life balance Interviews](https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp)
 - [Asaf Karagila](https://karagila.org)
 - Emmy Noether
 - David Blackwell

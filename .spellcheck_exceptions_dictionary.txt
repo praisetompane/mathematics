@@ -32,6 +32,10 @@ SQR
 
 
 # authors
+Russell
+Stevin's
+Frege
+Brouwer
 Wilfrid
 Alfred
 Tarki
@@ -315,6 +319,9 @@ onedrive
 
 
 # urls
+FBKVRdR
+Gx
+meetamathematician
 mathmap
 wolframcloud
 bpb
