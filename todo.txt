@@ -125,8 +125,6 @@ next₀:
             - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
             - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
             - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
-            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
-            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
             - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
         - lectures:
             - HSTAR-Y0001:
@@ -243,7 +241,8 @@ next₁:
         - course schedule:
             -
         - readings:
-            -
+            - Rathjen, Michael and Wilfried Sieg, "Proof Theory", The Stanford Encyclopedia of Philosophy (Winter 2024 Edition), Edward N. Zalta & Uri Nodelman (eds.), URL = <https://plato.stanford.edu/archives/win2024/entries/proof-theory/>
+            - Bridges, Douglas, Erik Palmgren, and Hajime Ishihara, "Constructive Mathematics", The Stanford Encyclopedia of Philosophy (Fall 2022 Edition), Edward N. Zalta & Uri Nodelman (eds.)
         - lectures:
             - Pfenning, F. 2012. Oregon Programming Languages Summer School 2012. University of Oregon
         - recitations|labs:
@@ -452,7 +451,7 @@ next₃:
                     - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/lecture-notes/
         - lectures:
             - calculus:
-                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation
+                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation: *****
                 - Wildberger, N.J. 2014. Curves, functions and surfaces, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Wildberger, N.J. 2014. The language of Calculus, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Strang, G. 2018. Highlights of Calculus. Massachusetts Institute of Technology
@@ -699,15 +698,16 @@ next₅
         - readings:
             -
         - lectures:
-            - Wildberger, N.J. 2012. Insights into Mathematics Math History
+            - Wildberger, N.J. 2012. Insights into Mathematics Math History. University of New South Wales
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
+            - MΣΣT a Mathematician!: https://www.meetamathematician.com/
+            - Math-life balance Interviews: https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp
         - recitations|labs:
             -
         - assignments:
             -
         - exams:
             -
-
 ==============================================================================================
 - next field template:
     - readings:

@@ -1,11 +1,12 @@
 def real number(Censor, 2015):
-    - formal: ???
+    - formal:
           - method:
             - Dedekind cuts?
+            - Stevin's definition
 
         - in words: ???
 
-    - plain english: a numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
+    - plain english: numbers that can be represented on a number line(Kent State Department of Mathematical Sciences, 2008:2).
 
     - intuition: ???
 
@@ -27,7 +28,7 @@ def real number(Censor, 2015):
           - ...
       - measurement
       - ...
-        
+
     - proof: ???
 
 def real numbers set¹(Censor, 2015):
@@ -47,16 +48,16 @@ def real numbers set¹(Censor, 2015):
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
 
 def real numbers set²(Censor, 2015):
     - formal: ℝ = { 𝑎 + 𝑏𝑖 | 𝑏 = 0 ∧ 𝑎,𝑏 ∈ (-∞, ∞) }
-    
+
         NB: This is an imprecise definition.
 
       - in words: real numbers are complex numbers of the form (𝑎 + 0𝑖).
-    
+
     - examples:
         2:
             2 = 2 + 0𝑖
@@ -77,15 +78,15 @@ def real numbers set²(Censor, 2015):
       |_____________________________|_________________________________|
 
       Question: Are there categories for irrational numbers?
-      
+
     - properties: ???
 
     - examples: ???
 
     - use cases: ???
-        
+
     - proof: ???
-    
+
 References:
   - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I.
   - Censor, A. 2015. 03 - Fields, Algebra 1M - international. Technion - International School Of Engineering.
