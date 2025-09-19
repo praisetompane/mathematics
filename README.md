@@ -22,8 +22,8 @@
 ## Objectives
 - An attempt at distilling to layman's terms:
   - Mathematics.
-  - Mathematics' foundations and creation/discovery.
-  - Mathematics' relationship with Logic and Computation.
+  - Mathematics' foundations and invention/discovery.
+  - Mathematics' relationship with [Logic](https://github.com/praisetompane/logic) and [Computation](https://github.com/praisetompane/computation).
 
 ## Definitions
 
@@ -43,24 +43,6 @@
 
 - def mathematics⁴(Wildberger, 2011): mathematics is common sense, precise use of language, and logical reasoning, applied to the study of patterns and problem solving.
 
-- def sides | perspectives of Mathematics:(Hammack, 2018:viii):
-     - computation focused: use the below-mentioned computations to answer practical questions about the world.
-          - primary goals:
-               - solve equations.
-               - compute derivatives.
-               - compute integrals.
-               - multiply matrices.
-               - find determinants.
-               - ...
-          **NB:** Mathematical techniques and procedures used in this side, are founded in the theoretical side.
-
-     - theoretical focused:
-          - primary goals:
-               - understand Mathematical structures.
-               - prove Mathematical statements.
-               - invent or discover new Mathematical theorems or theories.
-               - use Mathematics to study itself.
-               - ...
 
 - def creation | discovery:
      - [the mathematical method](03_mathematical_logic_and_foundations/the_mathematical_method.txt)
@@ -72,8 +54,7 @@
 
 - Theory:
   - Theoretical Basis: [03Exx_set_theory](https://zbmath.org/classification/?q=cc%3A03E)
-  - Formal Science:
-    - [mathematics](https://zbmath.org/classification/)
+  - Formal Science: [Mathematics](https://zbmath.org/classification/)
   - Philosophy: [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 
 ## Learning Order
@@ -88,6 +69,7 @@
      - [0_decimal_number_system](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems/0_decimal_number_system)
      - [0_number_systems](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/0_arithmetic/0_number_systems)
    - [1_elementary_algebra](00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers/1_elementary_algebra/)
+- [51_geometry](51_geometry/)
 - [03_mathematical_logic_and_foundations](03_mathematical_logic_and_foundations/)
   - [03Bxx_general_logic](03_mathematical_logic_and_foundations/03Bxx_general_logic/)
   - [03Exx_set_theory](03_mathematical_logic_and_foundations/03Exx_set_theory/)
@@ -103,7 +85,6 @@
 - [34_ordinary_differential_equations](34_ordinary_differential_equations/)
 - [35_partial_differential_equations](35_partial_differential_equations/)
 - [11_number_theory](11_number_theory/)
-- [51_geometry](51_geometry/)
 - [54_general_topology](54_general_topology/)
 - [60_probability_theory_and_stochastic_processes](60_probability_theory_and_stochastic_processes/)
 - [18_category_theory;homological_algebra](18_category_theory;homological_algebra/)
@@ -149,6 +130,8 @@
 ## Mathematicians
 - [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/index.php)
 - [The Academic Genealogy of Mathematics](https://academictree.org/math/)
+- [MΣΣT a Mathematician!](https://www.meetamathematician.com/)
+- [Math-life balance Interviews](https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp)
 - [Asaf Karagila](https://karagila.org)
 - Emmy Noether
 - David Blackwell

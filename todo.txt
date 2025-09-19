@@ -452,7 +452,7 @@ next₃:
                     - https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/lecture-notes/
         - lectures:
             - calculus:
-                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation
+                - Devlin, K. 2012. Lecture Series: Calculus: The Big Deal — Is It a Big Deal?. Tech Museum of Innovation: *****
                 - Wildberger, N.J. 2014. Curves, functions and surfaces, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Wildberger, N.J. 2014. The language of Calculus, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
                 - Strang, G. 2018. Highlights of Calculus. Massachusetts Institute of Technology
@@ -699,8 +699,21 @@ next₅
         - readings:
             -
         - lectures:
-            - Wildberger, N.J. 2012. Insights into Mathematics Math History
+            - Wildberger, N.J. 2012. Insights into Mathematics Math History. University of New South Wales
                 - current: 1a Pythagoras' theorem (a) ｜ Math History ｜ NJ Wildberger : *
+        - recitations|labs:
+            -
+        - assignments:
+            -
+        - exams:
+            -
+
+    - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
+        - readings:
+            -
+        - lectures:
+            - MΣΣT a Mathematician!: https://www.meetamathematician.com/
+            - Math-life balance Interviews: https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp
         - recitations|labs:
             -
         - assignments:
