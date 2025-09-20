@@ -1,18 +1,19 @@
 def implication(Leighton, 2010):
-    - formal:
-        let:
-            𝑝 be a proposition.
-            𝑞 be a proposition.
-        then:
-            𝑝 ⟹ 𝑞 is defined as:
-                𝑝   𝑞   𝑝 ⟹ 𝑞
-                T   T     T
-                T   F     F
-                F   T     T
-                F   F     T
+    - formal: conditional + causation(not considered nor used in Mathematics, it left to Philosophy)
+        this definition is of the conditional:
+            let:
+                𝑝 be a proposition.
+                𝑞 be a proposition.
+            then:
+                𝑝 ⟹ 𝑞 is defined as:
+                    𝑝   𝑞   𝑝 ⟹ 𝑞
+                    T   T     T
+                    T   F     F
+                    F   T     T
+                    F   F     T
 
-        Q: Why is this the definition of an implication?
-        Where does it come from?
+            Q: Why is this the definition of an implication?
+            Where does it come from?
 
         - in words: a binary operator from truth values to a single truth value,
                     according to the rules below
@@ -26,6 +27,14 @@ def implication(Leighton, 2010):
                         when 𝑝 is False OR 𝑞 is True.
 
         NB: False implies anything is True
+
+    - intuition: ???
+
+    - properties:
+        - constituents: antecedent and consequent
+                            i.e.:
+                                - antecedent implies consequent
+                                - antecedent ⟹ consequent
 
     - examples:
         let:

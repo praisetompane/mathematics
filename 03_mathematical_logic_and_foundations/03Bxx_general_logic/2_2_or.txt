@@ -1,0 +1,19 @@
+def disjunction:
+    - formal: ???
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - constituents = disjuncts
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References: ???
