@@ -1,0 +1,35 @@
+def equivalence | if and only if(iff)(Kunen, 2007:4) (Weisstein):
+    - formal: ⟺
+        let:
+            T := True
+            F := False
+            ϕ be a proposition
+            ψ be a proposition
+        then:
+            φ   ψ   φ ⟺ ψ
+            T   T    T
+            T   F    F
+            F   T    F
+            F   F    T
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: it is a bidirectional implication(i.e. the implies defined).
+                    - the truth value of both predicates have to be the same, then the ⟺ is True:
+                        - T ⟺ T = T
+                        - F ⟺ F = F
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References:
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
+    - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html
+    - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.
