@@ -1,0 +1,41 @@
+def not | negation(Kunen, 2007:4) (Weisstein):
+    - formal: ¬
+        let:
+            T := True
+            F := False
+            ϕ be a proposition
+            ψ be a proposition
+        then:
+            ϕ   ¬ϕ
+            T   F
+            F   T
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        let:
+            ϕ := Julius Caesar is dead = T
+            ψ := 1 + 1 = 3 = F
+        then:
+            ¬ϕ:
+                ¬T
+                ∴ ¬ϕ = False
+
+            ¬ψ:
+                ¬F
+                ∴ ¬ψ = True
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References:
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
+    - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html
+    - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.

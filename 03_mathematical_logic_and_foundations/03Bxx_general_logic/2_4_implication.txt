@@ -1,40 +1,56 @@
 def implication(Leighton, 2010):
-    - formal:
-        let:
-            𝑝 be a proposition.
-            𝑞 be a proposition.
-        then:
-            𝑝 ⟹ 𝑞 is defined as:
-                𝑝   𝑞   𝑝 ⟹ 𝑞
-                T   T     T
-                T   F     F
-                F   T     T
-                F   F     T
+    - formal: ⟹ : conditional + causation
+        - conditional:
+            let:
+                T := True
+                F := False
+                ϕ be a proposition
+                ψ be a proposition
+            then:
+                ϕ ⟹ ψ is defined as:
+                    ϕ   ψ   ϕ ⟹ ψ
+                    T   T     T
+                    T   F     F
+                    F   T     T
+                    F   F     T
 
-        Q: Why is this the definition of an implication?
-        Where does it come from?
+            remark: ϕ ⟹ ψ is always equivalent to ¬ϕ ∨ ψ
 
-        - in words: a binary operator from truth values to a single truth value,
+            Q: Why is this the definition of an implication?
+            Where does it come from?
+
+        - causation: not considered nor used in Mathematics, it is left to Philosophy.
+
+        - in words:
+            - conditional:
+                a binary operator from truth values to a single truth value,
                     according to the rules below
-                        if 𝑝 is True  and 𝑞 is True,   then 𝑝 implies 𝑞 is/returns True
-                        if 𝑝 is True  and 𝑞 is False,  then 𝑝 implies 𝑞 is/returns False
-                        if 𝑝 is False and 𝑞 is True,   then 𝑝 implies 𝑞 is/returns True
-                        if 𝑝 is False and 𝑞 is False,  then 𝑝 implies 𝑞 is/returns True
+                        if ϕ is True  and ψ is True,   then ϕ implies ψ is/returns True
+                        if ϕ is True  and ψ is False,  then ϕ implies ψ is/returns False
+                        if ϕ is False and ψ is True,   then ϕ implies ψ is/returns True
+                        if ϕ is False and ψ is False,  then ϕ implies ψ is/returns True
 
-
-    - plain english: an implication 𝑝 ⟹ 𝑞 is True,
-                        when 𝑝 is False OR 𝑞 is True.
+    - plain english: an implication ϕ ⟹ ψ is True,
+                        when ϕ is False OR ψ is True.
 
         NB: False implies anything is True
 
+    - intuition: ???
+
+    - properties:
+        - constituents: antecedent and consequent
+                            i.e.:
+                                - antecedent implies consequent
+                                - antecedent ⟹ consequent
+
     - examples:
         let:
-            𝑝 = 𝑛 >= 2
-            𝑞 = 𝑛² >= 4
-            ∀ₙ ∈ ℤ, 𝑝 ⟹ 𝑞
+            ϕ = 𝑛 >= 2
+            ψ = 𝑛² >= 4
+            ∀ₙ ∈ ℤ, ϕ ⟹ ψ
             ∴ ∀ₙ ∈ ℤ, 𝑛 >= 2 ⟹ 𝑛² >= 4
         then:
-                      𝑝               𝑞
+                      ϕ               ψ
             𝑛       𝑛 => 2         n² >= 4                   T/F
             ------------------------------------------------------------
             0         F            0² >= 4                    T     **??

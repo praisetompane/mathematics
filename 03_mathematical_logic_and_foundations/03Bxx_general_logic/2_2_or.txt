@@ -1,0 +1,40 @@
+def or  | disjunction | inclusive disjunction(Kunen, 2007:4) (Weisstein):
+    - formal: ∨
+        let:
+            T := True
+            F := False
+            ϕ be a proposition
+            ψ be a proposition
+        then:
+            ϕ   ψ   ϕ ∨ ψ
+            T   T     T
+            T   F     T
+            F   T     T
+            F   F     F
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties:
+        - There need not exist a logical relationship between φ and ψ.
+
+    - examples:
+        let:
+            ϕ := Julius Caesar is dead
+            ψ := 1 + 1 = 3
+        then:
+            ϕ ∨ ψ
+            T ∨ F
+            ∴ ϕ ∨ ψ = True
+
+    - use cases: ???
+
+    - proof: none. it is a definition.
+
+References:
+    - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
+    - Weisstein, Eric W. "Connective." From MathWorld--A Wolfram Web Resource. https://mathworld.wolfram.com/Connective.html
+    - Montalban, A. 2020. 04. Logic. Truth Assignments, Math 135 - Intro to Set Theory. U.C. Berkeley.

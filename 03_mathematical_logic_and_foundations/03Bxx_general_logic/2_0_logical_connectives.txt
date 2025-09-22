@@ -8,42 +8,21 @@ def logical connectives or logical operator | sentential connective | sentential
     - intuition: ???
 
     - properties:
-        - names:
-            - ∧  = and | conjunction |
-            - ∨  = or  | disjunction | inclusive disjunction
-            - ¬  = not | negation
-            - ⟹ = implies
-                see: 03_mathematical_logic_and_foundations/3_4_implies.txt
-            - ⟺ = equivalence | if and only if(iff)
-                intuition:
-                    - it is a bidirectional implication(i.e. the implies defined).
-                        - the truth value of both predicates have to be the same, then the ⟺ is True:
-                            - T ⟺ T = T
-                            - F ⟺ F = F
-            - xor: exclusive or
-            - nand: negation of and(∧)
-
-        - truth table evaluation of logical connectives(Kunen, 2007:4):
-            def T: True
-            def F: False
-
-            φ   ψ   φ ∨ ψ    φ ∧ ψ      φ ⟹ ψ   φ ⟺ ψ
-            T   T   T        T          T        T
-            T   F   T        F          F        F
-            F   T   T        F          T        F
-            F   F   F        F          T        T
-
-            φ   ¬φ
-            T   F
-            F   T
-
-            NB: φ ⟹ ψ is always equivalent to ¬φ ∨ ψ
+        - components:
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_1_and.txt
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_1_and.txt
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_2_or.txt
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_3_not.txt
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_4_implication.txt
+            - 03_mathematical_logic_and_foundations/03Bxx_general_logic/2_5_equivalence.txt
+            - ...
 
     - examples: ???
 
-    - use cases: ???
+    - use cases: see concrete examples above.
 
     - proof: none. it is a definition.
+
 
 References:
     - Kunen, K. 2007. The Foundations of Mathematics. College Publications.
