@@ -1,7 +1,7 @@
 def proposition¹(Leighton, 2010):
     - formal: ???
 
-        - in words: a statement that is either true or false.
+        - in words: a statement that is either True or False.
 
     - plain english: ???
 

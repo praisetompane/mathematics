@@ -162,6 +162,7 @@ Zalta
 
 
 # domain specific
+disjuncts
 Mathématiques
 Appliquées
 Pures

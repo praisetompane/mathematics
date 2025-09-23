@@ -1,5 +1,5 @@
-def or  | disjunction | inclusive disjunction(Kunen, 2007:4) (Weisstein):
-    - formal: ∨
+def ∨ | or  | disjunction | inclusive disjunction(Kunen, 2007:4) (Weisstein):
+    - formal:
         let:
             T := True
             F := False
@@ -12,6 +12,9 @@ def or  | disjunction | inclusive disjunction(Kunen, 2007:4) (Weisstein):
             F   T     T
             F   F     F
 
+        remark: We define/choose the meaning of the word 'or' for the Mathematical context.
+                    The same way you would choose the meaning of keyword in any formal language(e.g. a programming language).
+
         - in words: ???
 
     - plain english: ???
@@ -19,7 +22,8 @@ def or  | disjunction | inclusive disjunction(Kunen, 2007:4) (Weisstein):
     - intuition: ???
 
     - properties:
-        - There need not exist a logical relationship between φ and ψ.
+        - The truth value of the disjunction depends ONLY on the truth values of the disjuncts(i.e. ϕ and ψ)
+            - There need not exist a meaningful/logical relationship between ϕ and ψ.
 
     - examples:
         let:

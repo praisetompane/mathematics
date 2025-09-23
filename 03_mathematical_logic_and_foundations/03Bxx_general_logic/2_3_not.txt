@@ -1,5 +1,5 @@
-def not | negation(Kunen, 2007:4) (Weisstein):
-    - formal: ¬
+def ¬ | not | negation(Kunen, 2007:4) (Weisstein):
+    - formal:
         let:
             T := True
             F := False
@@ -9,6 +9,9 @@ def not | negation(Kunen, 2007:4) (Weisstein):
             ϕ   ¬ϕ
             T   F
             F   T
+
+        remark: We define/choose the meaning of the word 'not' for the Mathematical context.
+                    The same way you would choose the meaning of keyword in any formal language(e.g. a programming language).
 
         - in words: ???
 

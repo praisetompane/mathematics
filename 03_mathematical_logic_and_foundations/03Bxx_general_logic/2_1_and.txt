@@ -1,5 +1,5 @@
-def and | conjunction(Kunen, 2007:4) (Weisstein):
-    - formal: ∧
+def ∧ | and | conjunction(Kunen, 2007:4) (Weisstein):
+    - formal:
         let:
             T := True
             F := False
@@ -12,14 +12,18 @@ def and | conjunction(Kunen, 2007:4) (Weisstein):
             F   T    F
             F   F    F
 
+        remark: We define/choose the meaning of the word 'and' for the Mathematical context.
+                    The same way you would choose the meaning of keyword in any formal language(e.g. a programming language).
+
         - in words: ???
 
     - plain english: ???
 
-    - intuition: ???
+    - intuition:
 
     - properties:
-        - There need not exist a logical relationship between ϕ and ψ.
+        - The truth value of the conjunction depends ONLY on the truth values of the conjuncts(i.e. ϕ and ψ)
+            - There need not exist a meaningful/logical relationship between ϕ and ψ.
 
     - examples:
         let:

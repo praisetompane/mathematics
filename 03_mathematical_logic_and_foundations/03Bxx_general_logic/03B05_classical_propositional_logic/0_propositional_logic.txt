@@ -3,9 +3,8 @@ def propositional logic | propositional calculus | sentential logic | sentential
         - in words: logic built ONLY with propositions.
             see:
                 - 03_mathematical_logic_and_foundations/03Bxx_general_logic/1_proposition.txt
-                - https://github.com/praisetompane/logic
 
-    - plain english: logic built ONLY on with sentences that are either True or False.
+    - plain english: logic built ONLY with sentences that are either True or False.
 
     - intuition: ???
 
