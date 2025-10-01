@@ -1,157 +1,158 @@
 ==============================================================================================
 next₀:
-    - 00_general_and_overarching_topics;collections/00Axx_general_and_miscellaneous_specific_topics/00A05_mathematics_in_general/0_numbers:
-        - course schedule:
-            - 0_arithmetic:
+    - 00_general_and_overarching_topics;collections:
+        - mathematical_thinking:
+            - course schedule:
+                - HSTAR-Y0001:
+                    - https://www.coursera.org/learn/mathematical-thinking
+                - MATH 1365:
+                    - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
+            - readings:
+                - HSTAR-Y0001:
+                    - Devlin, K. 2012. Introduction to Mathematical Thinking
+                        - current: pg. 4
+                - MATH 1365:
+                    - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
+                    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
+                        - web page and errata: https://richardhammack.github.io/BookOfProof/
+                        - current:
+                - Ferry, D. 2010. Basic Proof Techniques
+                - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
+                - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
+                - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
+                - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
+                - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
+                - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
+            - lectures:
+                - HSTAR-Y0001:
+                    - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
+                        - current: Lecture 2 - Logical Combinators
+                - MATH 1365:
+                    - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
+                        - current: 02. Sets, Subsets and the Power Set
+            - recitations|labs:
+                - HSTAR-Y0001:
+                    -
+                - MATH 1365:
+                    -
+            - assignments:
+                - HSTAR-Y0001:
+                    -
+                - MATH 1365:
+                    - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                    - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
+                    - https://richardhammack.github.io/math300/Exercises.html
+            - exams:
+                - HSTAR-Y0001:
+                    -
+                - MATH 1365:
+                    - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
+                    - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
+                    - https://richardhammack.github.io/math300/Tests/index.html
+
+        - 0_numbers:
+            - course schedule:
+                - 0_arithmetic:
+                    -
+                - 1_elementary_algebra:
+                    - Introduction to Elementary Algebra. Wolfram U
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/track-my-progress.html
+            - readings:
+                - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
+                    - current position:
+                        - pg. 15: Example 7
+                - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
+                    - current position: not started
+                - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
+                    - current position: not started
+                - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
+                    - current position: not started
+                - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
+                    - current position: not started
+            - lectures:
+                - 0_arithmetic:
+                    - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                        - current: 02 Arithmetic with numbers, Arithmetic and Geometry
+                        - basics:
+                            from: 01 What is a number?, Arithmetic and Geometry
+                            to: 17 Extremely big numbers, Arithmetic and Geometry
+                        - others:
+                            66 Decimal numbers, Arithmetic and Geometry
+                            81 Measurement, approximation and interval arithmetic (I), Real numbers and limits
+                            82 Measurement, approximation + interval arithmetic (II), Real numbers and limits
+                            89 Fractions and repeating decimals, Real numbers and limits
+                            93 The magic and mystery of "pi", Real numbers and limits
+                            104 Rational number arithmetic with infinity and more, Real numbers and limits
+                            210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
+                            211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
+                        - more on real numbers:
+                            from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
+                            to: 116 Difficulties with Dedekind cuts, Real numbers and limits
+                        - more on natural numbers:
+                            from: 155 The realm of natural numbers, Data Structures in Mathematics
+                            to: 157 The algebra of natural number multisets, Data Structures in Mathematics
+
+                - 1_elementary_algebra:
+                    - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
+                        from: 46 Introduction to Algebra, Arithmetic and Geometry
+                        to: 78 Lines and parabolas II, Arithmetic and Geometry
+
+                    - Introduction to Elementary Algebra. Wolfram U
+
+                - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
+                - https://www.khanacademy.org/math/k-8-grades
+                    - current position: 3rd grade math
+                - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+                - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - recitations|labs:
+                - 0_arithmetic:
+                    -
+                - 1_elementary_algebra:
+                    - Introduction to Elementary Algebra. Wolfram U
+            - assignments:
+                - 0_arithmetic:
+                    -
+                - 1_elementary_algebra:
+                    - Introduction to Elementary Algebra. Wolfram U
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-1.html
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-2.html
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-3.html
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-4.html
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-5.html
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-6.html
+            - exams:
+                - 0_arithmetic:
+                    -
+                - 1_elementary_algebra:
+                    - Introduction to Elementary Algebra. Wolfram U
+                        - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/final-exam.html
+
+        - 51_geometry:
+            - course schedule:
                 -
-            - 1_elementary_algebra:
-                - Introduction to Elementary Algebra. Wolfram U
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/track-my-progress.html
-        - readings:
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics I
-                - current position:
-                    - pg. 15: Example 7
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics II
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics III
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics IV
-                - current position: not started
-            - Kent State Department of Mathematical Sciences. 2008. Fundamentals of Mathematics V
-                - current position: not started
-        - lectures:
-            - 0_arithmetic:
+            - readings:
+                - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
+                - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
+                - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
+                - what is mathematics?. richard courant.pdf : chapter iii, iv, v
+                    - current: pg 142 in pdf. pg 117 in text.
+            - lectures:
                 - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                    - current: 02 Arithmetic with numbers, Arithmetic and Geometry
-                    - basics:
-                        from: 01 What is a number?, Arithmetic and Geometry
-                        to: 17 Extremely big numbers, Arithmetic and Geometry
-                    - others:
-                        66 Decimal numbers, Arithmetic and Geometry
-                        81 Measurement, approximation and interval arithmetic (I), Real numbers and limits
-                        82 Measurement, approximation + interval arithmetic (II), Real numbers and limits
-                        89 Fractions and repeating decimals, Real numbers and limits
-                        93 The magic and mystery of "pi", Real numbers and limits
-                        104 Rational number arithmetic with infinity and more, Real numbers and limits
-                        210 Numbers as multipliers + particle⧸antiparticle duality I, Data Structures in Mathematics
-                        211 Numbers as multipliers + particle⧸antiparticle duality II, Data Structures in Mathematics
-                    - more on real numbers:
-                        from: 111 Real numbers and Cauchy sequences of rationals(I), Real numbers and limits
-                        to: 116 Difficulties with Dedekind cuts, Real numbers and limits
-                    - more on natural numbers:
-                        from: 155 The realm of natural numbers, Data Structures in Mathematics
-                        to: 157 The algebra of natural number multisets, Data Structures in Mathematics
-
-            - 1_elementary_algebra:
-                - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                    from: 46 Introduction to Algebra, Arithmetic and Geometry
-                    to: 78 Lines and parabolas II, Arithmetic and Geometry
-
-                - Introduction to Elementary Algebra. Wolfram U
-
-            - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade math
-            - Wildberger, N.J. 2014. Numbers and arithmetic, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-            - Wildberger, N.J. 2014. The language of Algebra, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-        - recitations|labs:
-            - 0_arithmetic:
+                    from: 18 Geometry | Arithmetic and Geometry Math Foundations 18
+                    to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
+                - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
+                - https://www.khanacademy.org/math/k-8-grades
+                    - current position: 3rd grade math
+                - Basic Geometry: https://www.khanacademy.org/math/basic-geo
+                - High school geometry: https://www.khanacademy.org/math/geometry
+                - Geometry: https://www.khanacademy.org/math/geometry-home
+                - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+            - recitations|labs:
                 -
-            - 1_elementary_algebra:
-                - Introduction to Elementary Algebra. Wolfram U
-        - assignments:
-            - 0_arithmetic:
+            - assignments:
                 -
-            - 1_elementary_algebra:
-                - Introduction to Elementary Algebra. Wolfram U
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-1.html
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-2.html
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-3.html
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-4.html
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-5.html
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/quiz-6.html
-        - exams:
-            - 0_arithmetic:
+            - exams:
                 -
-            - 1_elementary_algebra:
-                - Introduction to Elementary Algebra. Wolfram U
-                    - https://www.wolframcloud.com/obj/online-courses/introduction-to-algebra/final-exam.html
-
-    - 51_geometry:
-        - course schedule:
-            -
-        - readings:
-            - Geometry - Euclid and Beyond. 2000. Robin Hartshorne
-            - Euclid's Elements Book I - VI. 2007. John Casey. Euclid
-            - Geometry. 2000. C. Jurgensen. G. Brown. W. Jurgensen
-            - what is mathematics?. richard courant.pdf : chapter iii, iv, v
-                - current: pg 142 in pdf. pg 117 in text.
-        - lectures:
-            - Wildberger, N.J. 2009. Insights into Mathematics Math Foundations. University of New South Wales
-                from: 18 Geometry | Arithmetic and Geometry Math Foundations 18
-                to: 45 Quadrilaterals, quadrangles and n-gons, Arithmetic and Geometry
-            - Wildberger, N.J. 2011. Elementary Mathematics Explained. Insights into Mathematics Math Foundations. University of New South Wales
-            - https://www.khanacademy.org/math/k-8-grades
-                - current position: 3rd grade math
-            - Basic Geometry: https://www.khanacademy.org/math/basic-geo
-            - High school geometry: https://www.khanacademy.org/math/geometry
-            - Geometry: https://www.khanacademy.org/math/geometry-home
-            - Wildberger, N.J. 2014. The language of Geometry, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
-    - mathematical_thinking:
-        - course schedule:
-            - HSTAR-Y0001:
-                - https://www.coursera.org/learn/mathematical-thinking
-            - MATH 1365:
-                - https://lplee.sites.northeastern.edu/math-1365-math-reasoning-aka-proofs-2/
-        - readings:
-            - HSTAR-Y0001:
-                - Devlin, K. 2012. Introduction to Mathematical Thinking
-                    - current: pg. 4
-            - MATH 1365:
-                - Definitions and Basic Theorems: https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/09/List-of-Definitions-and-Basic-Theorems-for-Final-color.pdf
-                - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia
-                    - web page and errata: https://richardhammack.github.io/BookOfProof/
-                    - current:
-            - Ferry, D. 2010. Basic Proof Techniques
-            - Velleman, D.J. 2019. How to Prove It A Structured Approach. 3rd Edition. Cambridge University Press
-            - Solow, D. 2002. How to Read and Do Proofs - An Introduction to Mathematical Thought Processes. 6th Edition. Wiley
-            - Radcliﬀe, M. Carnegie Mellon University Math 127 Logic and Proof Logic and Proof
-            - Aigner, M. Günter, M.Z. 2010. Proofs from The Book. 4th Edition. Springer
-            - Dunham, W. 1990. Journey Through Genius The Great Theorems Of Mathematics. Penguin Books
-            - Zeitz, P. 2006. The Art And Craft of Problem Solving. 3rd edition. Wiley
-        - lectures:
-            - HSTAR-Y0001:
-                - Devlin, K. HSTAR-Y0001 - Introduction to Mathematical Thinking. 2013. Stanford University. https://www.coursera.org/learn/mathematical-thinking
-                    - current: Lecture 2 - Logical Combinators
-            - MATH 1365:
-                - Hower, V. 2020. MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University
-                    - current: 02. Sets, Subsets and the Power Set
-        - recitations|labs:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                -
-        - assignments:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Homework-.pdf
-                - https://richardhammack.github.io/math300/Exercises.html
-        - exams:
-            - HSTAR-Y0001:
-                -
-            - MATH 1365:
-                - https://bpb-us-e1.wpmucdn.com/sites.northeastern.edu/dist/2/2531/files/2022/08/Tests.pdf
-                - https://dummit.cos.northeastern.edu/teaching_fa23_1365.html
-                - https://richardhammack.github.io/math300/Tests/index.html
 
 ==============================================================================================
 next₁:
@@ -708,23 +709,7 @@ next₅
             -
         - exams:
             -
-<<<<<<< HEAD
-=======
 
-    - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
-        - readings:
-            -
-        - lectures:
-            - MΣΣT a Mathematician!: https://www.meetamathematician.com/
-            - Math-life balance Interviews: https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
->>>>>>> c88a2ab (docs: enhanced goal.)
 ==============================================================================================
 - next field template:
     - readings:
