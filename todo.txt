@@ -708,23 +708,7 @@ next₅
             -
         - exams:
             -
-<<<<<<< HEAD
-=======
 
-    - 01_History_and_biography/01Axx_history_of_mathematics_and_mathematicians:
-        - readings:
-            -
-        - lectures:
-            - MΣΣT a Mathematician!: https://www.meetamathematician.com/
-            - Math-life balance Interviews: https://www.youtube.com/watch?v=Gx8FBKVRdR8&list=PL-IOS7cTcNv5sHKwbM4v18jZNErdgrlLp
-        - recitations|labs:
-            -
-        - assignments:
-            -
-        - exams:
-            -
-
->>>>>>> c88a2ab (docs: enhanced goal.)
 ==============================================================================================
 - next field template:
     - readings:
