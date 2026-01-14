@@ -1,5 +1,7 @@
-def ⟹ | implication(Leighton, 2010):
-    - formal: conditional(material conditional) + causation
+def ⟹ | implication(Devlin, 2013):
+
+    - formal: conditional(material conditional) + causation:
+
             - conditional:
                 let:
                     T := True
@@ -14,13 +16,22 @@ def ⟹ | implication(Leighton, 2010):
                         F   T     T
                         F   F     T
 
+                        and,
+                            ϕ is the antecedent
+                            ψ is the consequent
+
                 remark:
-                    - We define/choose the meaning of the word 'implies' for the Mathematical context.
+                    - we define the conditional entirely based on truth values on the antecedent and the consequent.
+                    - we define/choose the meaning of the word 'implies' for the Mathematical context.
                         The same way you would choose the meaning of keyword in any formal language(e.g. a programming language).
+
+                    - NB: This gives us an 𝘢𝘭𝘸𝘢𝘺𝘴 defined notion that is equivalent to 𝘳𝘦𝘢𝘭 implication,
+                                when a TRUE/meaningful implication exists between ϕ and ψ.
 
                     - ϕ ⟹ ψ is always equivalent to ¬ϕ ∨ ψ
 
-            - causation: not considered nor used in Mathematics, it is left to Philosophy.
+            - causation: the antecedent MUST cause the consequent.
+                remark: NB: not considered nor used in Mathematics, it is left to Philosophy.
 
         - in words:
             - conditional:
@@ -39,39 +50,48 @@ def ⟹ | implication(Leighton, 2010):
     - intuition: ???
 
     - properties:
-        - constituents: antecedent and consequent
-                            i.e.:
-                                - antecedent implies consequent
-                                - antecedent ⟹ consequent
+        - conditional:
+            - properties:
+                - why|how the conditional can correctly represent implication(conditional + causation):
+                    let:
+                        ϕ be a proposition
+                        ψ be a proposition
+                        a true implication(i.e. causal relationship exists from ϕ to ψ)
+                    then:
+                        the TRUTH value of the conditional ϕ ⟹ ψ, behaves in a way that ϕ causes ψ?
+
+        - causation: N/A for Mathematics.
 
     - examples:
-        let:
-            ϕ = 𝑛 >= 2
-            ψ = 𝑛² >= 4
-            ∀ₙ ∈ ℤ, ϕ ⟹ ψ
-            ∴ ∀ₙ ∈ ℤ, 𝑛 >= 2 ⟹ 𝑛² >= 4
-        then:
-                      ϕ               ψ
-            𝑛       𝑛 => 2         n² >= 4                   T/F
-            ------------------------------------------------------------
-            0         F            0² >= 4                    T     **??
-            1         F            1² >= 4                    T     **??
-            2         T            2² >= 4 := T               T
-            3         T            3² >= 4 := T               T
-            4         T            4² >= 4 := T               T
-            .
-            .
-            .
-            10        T            10² >= 4 := T              T
+        - (Leighton, 2010):
+            let:
+                ϕ = 𝑛 >= 2
+                ψ = 𝑛² >= 4
+                ∀ₙ ∈ ℤ, ϕ ⟹ ψ
+                ∴ ∀ₙ ∈ ℤ, 𝑛 >= 2 ⟹ 𝑛² >= 4
+            then:
+                        ϕ               ψ
+                𝑛       𝑛 => 2         n² >= 4                   T/F
+                ------------------------------------------------------------
+                0         F            0² >= 4                    T     **??
+                1         F            1² >= 4                    T     **??
+                2         T            2² >= 4 := T               T
+                3         T            3² >= 4 := T               T
+                4         T            4² >= 4 := T               T
+                .
+                .
+                .
+                10        T            10² >= 4 := T              T
 
-            ∀ₙ ∈ {0,1}, 𝑛² ̸>= 4
-            ∴ False
+                ∀ₙ ∈ {0,1}, 𝑛² ̸>= 4
+                ∴ False
 
     - use cases:
-        - mechanism in Mathematics to prove propositions from axioms or theorems.
+        - mechanism in Mathematics to prove propositions from axioms or theorems(Devlin, 2013).
 
     - proof: none. it is a definition.
 
 References:
     - Leighton, T. van Dijk, M. 2010. Lecture 1: Introduction and Proofs, 6.042J - Mathematics for Computer Science. Massachusetts Institute of Technology.
-    - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales
+    - Wildberger, N.J. 2014. Sets, logic and graphs, Math Terminology. Insights into Mathematics Math Foundations. University of New South Wales.
+    - Devlin, K. 2013. HSTAR-Y0001 - Introduction to Mathematical Thinking. Stanford University.

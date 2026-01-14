@@ -1,0 +1,353 @@
+==============================================================================================================================================================
+Massachusetts Institute of Technology: https://math.mit.edu/index.php
+    - subjects: https://catalog.mit.edu/subjects/18/
+    - undergraduate:
+        - program:
+            - Bachelor of Science in Mathematics (Course 18) (Pure Mathematics Option)
+            - https://catalog.mit.edu/degree-charts/mathematics-course-18/#theoreticalmathematicstext
+            - https://math.mit.edu/academics/undergrad/major/course18/pure.php
+
+        Major Subjects
+            Required Subjects                                                         108
+                18.03 | 18.032 (formerly 18.034) Differential Equations               12:
+                    - MSC2020:
+                        - mathematics/34_ordinary_differential_equations
+                        - mathematics/35_partial_differential_equations
+                    [sufficiently advanced students may substitute 18.152 or 18.303]
+                18.100 | 18.100A | 18.100P | 18.100Q Real Analysis                                                   12:
+                    - MSC2020:
+                        - 26_real_functions
+                18.701 Algebra I                                                       12:
+                    - MSC2020:
+                        - mathematics/20_group_theory_and_generalizations
+                        - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                        - mathematics/51_geometry
+                18.702 Algebra II                                                      12:
+                    - MSC2020:
+                        - mathematics/16_associative_rings_and_algebras
+                        - mathematics/17_nonassociative_rings_and_algebras
+                        - mathematics/12_field_theory_and_polynomials
+                18.901 Introduction to Topology                                        12:
+                    - MSC2020:
+                        - mathematics/54_general_topology
+
+            Restricted Electives
+                18.102 Introduction to Functional Analysis                             12:
+                    - MSC2020:
+                        - mathematics/46_functional_analysis
+                18.704 Seminar in Algebra(CI-M)                                        12:
+                    - MSC2020:
+                        - mathematics/20_group_theory_and_generalizations
+                        - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                        - mathematics/51_geometry
+
+            Select two additional 12-unit Course 18 subjects of essentially different content, with the first decimal digit one or higher: 24
+                18.504 Seminar in Logic (CI-M)                                         12:
+                    - MSC2020:
+                        - mathematics/03_mathematical_logic_and_foundations/03Bxx_general_logic
+                18.424 Seminar in Information Theory  (CI-M)                           12:
+                    - MSC2020:
+                        - mathematics/94_information_and_communication theory,_circuits
+            Units in Major Total	                                            108 = 12*9
+
+        Unrestricted Electives	                                                        84
+            see: computation/curricula.txt
+            - 18.434 Seminar in Theoretical Computer Science                           12:
+                - ACM:
+                    - mathematics/0_foundations/0_theory_of_computation
+            - 18.784 Seminar in Number Theory                                          12:
+                - MSC2020:
+                    - mathematics/11_number_theory
+            Units in Unrestricted Electives Total                                84 = 12*7
+
+        Units in Major That Also Satisfy the GIRs                                       12
+            -                                                                    12 = 12*1
+            Units in Major That Also Satisfy the GIRs Total                      12 = 12*1
+
+        Total Units Beyond the GIRs Required for SB Degree                             180
+            see: computation/curricula/curricula.txt
+            Total Units Beyond the GIRs Required for SB Degree Total           180 = 12*15
+
+        General Institute Requirements(GIRs)                                           180
+            - 18.01 - Single Variable Calculus                                         12:
+                - MSC2020:
+                    - mathematics/26_real_functions/26Axx_functions_of_one_variable
+            - 18.02 - Multi Variable Calculus                                          12:
+                - MSC2020:
+                    - mathematics/26_real_functions/26Bxx_functions_of_several_variables
+            - 8.01 Physics I - Classical Mechanics                                     12:
+                -
+            - 8.02 Physics II - Electromagnetism                                       12:
+                -
+            - 7.012, 7.013, 7.014, 7.015, or 7.016 - Biology                           12:
+                -
+            - 3.091, 5.111 or 5.111 - Chemistry                                        12:
+                -
+            - Communication Intensive:
+                - 18.904 Seminar in Topology(CI-M)                                     12:
+                    - MSC2020:
+                        - mathematics/54_general_topology
+                - 18.994 Seminar in Geometry(CI-M)                                     12:
+                    - MSC2020:
+                        - mathematics/51_geometry
+            - Humanities, Arts and Social Sciences (HASS) Requirement: 8 of these:     N/A
+                Humanities Requirement Total                                     12 = 12*8
+            - Laboratory Requirement:                                                  N/A
+                - 18.821 Project Laboratory in Mathematics	                           12:
+                Laboratory Requirement Total                                     12 = 12*1
+            General Institute Requirements Total = 12 * 9 + 9 * 8                      180
+
+        Physical Education Requirement                                               N/A
+            Physical Education Requirement Total                                  32 = 8*4
+
+        Restricted Electives in Science and Technology (REST):
+            - 22.01	Introduction to Nuclear Engineering and Ionizing Radiation         12:
+            - 22.02	Introduction to Applied Nuclear Physics	                           12:
+            Restricted Electives in Science and Technology Total                 24 = 12*2
+
+        Total Subjects: ???
+        Total Credits: 108 + 84 + 180 + 180 + 32 + 24 =                                608
+
+    - masters:
+        - program:
+            -
+            -
+
+    - doctorate:
+        - program:
+            -
+            -
+==============================================================================================================================================================
+University of Pretoria:
+    - undergraduate:
+        - program:
+            - BSc Mathematics (02133263)
+            - https://www.up.ac.za/yearbooks/2024/pdf/programme/02133263
+
+        Year 1:
+            Fundamental:
+                Year:
+                    Academic orientation 102 (UPO 102)                                   :
+                Semester 1:
+                    Academic information management 111 (AIM 111)                        :
+                    Language and study skills 110 (LST 110)                              :
+                Semester 2:
+                    Academic information management 121 (AIM 121)                        :
+            Core:
+                Semester 1:
+                    Discrete structures 115 (WTW 115)                                    :
+                        - ACM:
+                            - computation/1_mathematics_of_computing
+                        - MSC2020:
+                            - mathematics/68_computer_science
+                    Calculus 114 (WTW 114)                                               :
+                        - MSC2020:
+                            - mathematics/26_real_functions/26Axx_functions_of_one_variable
+                    Mathematical modelling 152 (WTW 152)                                 :
+                        - MSC2020:
+                            - mathematics/34_ordinary_differential_equations
+                            - computation/5_software_and_its_engineering/2_software_creation_and_management
+                Semester 2:
+                    Numerical Analysis 123 (WTW 123)                                     :
+                        - MSC2020:
+                            - mathematics/65_numerical_analysis
+                    Mathematics 124 (WTW 124)                                            :
+                        - MSC2020:
+                            - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                    Dynamical processes 162 (WTW 162)                                    :
+                        - MSC2020:
+                            - mathematics/34_ordinary_differential_equations
+            Electives:
+                Semester 1:
+                    Mathematical statistics 111 (WST 111)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
+                    Imperative programming 132 (COS 132)                                 :
+                        - ACM:
+                            - computation/5_software_and_its_engineering/2_software_creation_and_management
+                Semester 2:
+                    Mathematical statistics 121 (WST 121)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
+                    Program design: Introduction 110 (COS 110)                           :
+                        - ACM:
+                            - computation/5_software_and_its_engineering/2_software_creation_and_management
+
+            Credits: 4 + 4 + 6 + 16 + 8 + 8 + 16 + 8 + 8 + 16 + 16 + 16 + 16 = 142
+
+        Year 2:
+            Core:
+                Semester 1:
+                    Linear algebra 211 (WTW 211)                                         :
+                        - MSC2020:
+                            - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                    Calculus 218 (WTW 218)                                               :
+                        - MSC2020:
+                            - mathematics/26_real_functions/26Bxx_functions_of_several_variables
+                    Differential Equations 286 (WTW 286)                                 :
+                        - MSC2020:
+                            - mathematics/34_ordinary_differential_equations
+                            - mathematics/35_partial_differential_equations
+                Semester 2:
+                    Linear algebra 221 (WTW 221)                                         :
+                        - MSC2020:
+                            - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                    Analysis 220 (WTW 220)                                               :
+                        - MSC2020:
+                            - mathematics/26_real_functions
+                    Vector Analysis 248 (WTW 248)                                        :
+                        - MSC2020:
+                            - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                            - mathematics/51_geometry
+                    Discrete structures 285 (WTW 285)                                    :
+                        - ACM:
+                            - computation/1_mathematics_of_computing
+                        - MSC2020:
+                            - mathematics/68_computer_science
+            Electives:
+                Semester 1:
+                    Mathematical statistics 111 (WST 211)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
+                Semester 2:
+                    Mathematical statistics 111 (WST 221)                                :
+                        - MSC2020:
+                            - mathematics/60_probability_theory_and_stochastic_processes
+                            - mathematics/62_statistics
+
+            Credits: 12 + 12 + 12 + 12 + 12 + 12 + 12 + 24 + 24 = 132
+
+        Year 3:
+            Core:
+                Semester 1:
+                    Analysis 310 (WTW 310)                                               :
+                        - MSC2020:
+                            - mathematics/54_general_topology
+                    Algebra 381 (WTW 381)                                                :
+                        - MSC2020:
+                            - mathematics/20_group_theory_and_generalizations
+                Semester 2:
+                    Complex Analysis 320 (WTW 320)                                       :
+                        - MSC2020:
+                            - mathematics/30_functions_of_a_complex_variable
+                    Geometry 389 (WTW 389)                                               :
+                        - MSC2020:
+                            - mathematics/51_geometry
+            Electives:
+                Semester 1:
+                    Dynamical Systems 382 (WTW 382)                                      :
+                        - MSC2020:
+                            - mathematics/15_linear_and_multilinear_algebra;matrix_theory
+                            - mathematics/34_ordinary_differential_equations
+                    Partial Differential Equations 386 (WTW 386)                         :
+                        - MSC2020:
+                            - mathematics/34_ordinary_differential_equations
+                            - mathematics/35_partial_differential_equations
+
+                Semester 2:
+                    Numerical Analysis 383 (WTW 383)                                     :
+                        - MSC2020:
+                            - mathematics/65_numerical_analysis
+                    Continuum Mechanics 387 (WTW 387)                                    :
+                        - MSC2020:
+                            -
+            Credits: 18 + 18 + 18 + 18 + 18 + 18 + 18 + 18 = 144
+
+        Total Credits: 142 + 132 + 144 = 418
+        Total Subjects: 31
+
+    - honours:
+        - program:
+            - BScHons Mathematics (02240182)
+            - https://www.up.ac.za/yearbooks/2020/pdf/programme/02240182
+
+    - masters:
+        - program:
+            - MSc Mathematics (02250185)
+            - https://www.up.ac.za/yearbooks/2025/pdf/programme/02250185
+
+    - doctorate:
+        - program:
+            - PhD Mathematical Sciences (02260762)
+            - https://www.up.ac.za/yearbooks/2022/pdf/programme/02260762
+            - focus areas: https://www.up.ac.za/mathematics-and-applied-mathematics/article/47303/research-focus-areas
+==============================================================================================================================================================
+University of Cape Town:
+    - undergraduate:
+        - program:
+            - BSc in Pure Mathematics
+            - https://science.uct.ac.za/department-mathematics/undergraduate-studies/mathematics
+
+    - honours:
+        - program:
+            - BSc Honours in Mathematics (MAM4000W)
+            - https://science.uct.ac.za/mam-honours/honours-mathematics-mam4000w
+
+    - masters:
+        - program:
+            - MSc in Mathematics (MAM5000W)
+            - https://science.uct.ac.za/department-mathematics/student/masters
+
+    - doctorate:
+        - program:
+            - PhD in Mathematics (MAM6000W)
+            - https://science.uct.ac.za/department-mathematics/student/phd
+==============================================================================================================================================================
+UNISA:
+    - undergraduate:
+        - program:
+            - BSc Mathematics and Applied Mathematics (98801 - MAM)
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Mathematics-and-Applied-Mathematics-(98801-%E2%80%93-MAM)
+
+    - honours:
+        - program:
+            - BSc Honours in Mathematics (98923)
+            - https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-Honours-in-Mathematics-(98923)
+
+    - masters:
+        - program:
+            - MSc in Mathematics (98977)
+            - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Master-of-Science-in-Mathematics-(98977)
+
+    - doctorate:
+        - program:
+            - Doctor of Philosophy in Mathematics (98979)
+            - https://www.unisa.ac.za/sites/corporate/default/Apply-for-admission/Master%27s-&-doctoral-degrees/Qualifications/All-qualifications/Doctor-of-Philosophy-in-Mathematics-(98979)
+==============================================================================================================================================================
+The Open University:
+    - undergraduate:
+        - program:
+            - BSc (Honours) Mathematics
+            - https://www.open.ac.uk/courses/maths/degrees/bsc-mathematics-q31
+
+    - honours:
+        - program:
+            -
+            -
+
+    - masters:
+        - program:
+            -
+            -
+
+    - doctorate:
+        - program:
+            -
+            -
+==============================================================================================================================================================
+curricula template:
+    - undergraduate:
+        -
+
+    - honours:
+        -
+
+    - masters:
+        -
+
+    - doctorate:
+        -
+==============================================================================================================================================================
