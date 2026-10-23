@@ -101,6 +101,8 @@ def set(Hammack, 2018:3)(Hower, 2020):
             - examples:
                 A = {0,1,2,3,4}
 
+        - finality: 𝐴 is finite, if |𝐴| is finite
+
         - significant sets with reserved letters:
             see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_1_number_sets.txt
 

@@ -29,6 +29,9 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020)(Hower, 2020):
                                     it is NOT in 𝐶 itself.
         - proper subset (⊊)
 
+        - ∀𝐴, 𝐴 ⊆ 𝐴:  for all sets 𝐴, 𝐴 is a subset of itself.
+            - every element in 𝐴 is an element in 𝐴
+
     - examples:
         -   is 𝐴 a subset of 𝐵?:
             given:
@@ -45,6 +48,7 @@ def subset¹ (⊂ | ⊆ )(Montalban, 2020)(Hower, 2020):
                 𝐴 ⊂ 𝐵  = False
                 ∴ 𝐴 ⊄ 𝐵
 
+        - 𝑁 ⊆ 𝑍 ⊆ 𝑄 𝑅
 
     - use cases: ???
 
