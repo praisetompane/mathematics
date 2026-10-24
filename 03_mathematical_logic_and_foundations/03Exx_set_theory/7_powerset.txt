@@ -3,7 +3,7 @@ def powerset(Montalban, 2020)(Hower, 2020):
         let:
             𝐴 be a set.
         then:
-            𝑃(𝐴) = { 𝑥 : 𝑥 ⊂ 𝐴 }
+            𝑃(𝐴) = { 𝑥 : 𝑥 ⊆ 𝐴 }
 
         - in words: the powerset of 𝐴 is set of all subsets of 𝐴.
 
@@ -19,6 +19,8 @@ def powerset(Montalban, 2020)(Hower, 2020):
                 then:
                     |𝑃(𝐴)| = 2ⁿ
             - proof: ???
+
+        - the subsets always contain the empty set (i.e. ∅) and the set 𝐴(i.e. the subset of 𝐴 with |𝐴| elements)
 
     - examples:
         - powerset of 𝐴:
