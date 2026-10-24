@@ -2,13 +2,13 @@ def equality(Hower, 2020):
     - formal:
         let:
             - 𝐴 be a set
-            - 𝐵  be a set
+            - 𝐵 be a set
         then:
             - 𝐴 = 𝐵 ⟺ 𝐴 ⊆ 𝐵 ∧ 𝐵 ⊆ 𝐴
 
         - in words:
-            - set are equal if they are subsets of each other.
-            - sets are equal if they have the same elements, in any order with different repetitions.
+            - sets 𝐴 and 𝐵 are equal if they are subsets of each other.
+            - sets 𝐴 and 𝐵 are equal if they have the same elements, in any order with different repetitions.
 
     - plain english: ???
 

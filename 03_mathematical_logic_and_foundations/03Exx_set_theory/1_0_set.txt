@@ -23,12 +23,10 @@ def set(Hammack, 2018:3)(Hower, 2020):
                 example: {..., -2, -1, 0, 1, 2, ...}
 
         - construction methods:
-            - roster: list the elements in the set.
-                - example:
-                    𝐴 = {0,1,2,3,4,5,6,7,8,9}, as set of Natural numbers less than 10.
+            - roster: ???
 
             - set builder notation:
-                see: 03_mathematical_logic_and_foundations/03Exx_set_theory/2_set_builder_notation.txt
+                see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_2_set_builder_notation.txt
 
         - elements: things in the collection
             - elements of a set can be anything:
@@ -71,7 +69,7 @@ def set(Hammack, 2018:3)(Hower, 2020):
                             c = [1 0
                                 0 0]
 
-        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/3_cardinality.txt
+        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/2_cardinality.txt
 
         - complement:
             let:
@@ -81,13 +79,13 @@ def set(Hammack, 2018:3)(Hower, 2020):
                 𝐴 or 𝐴' is the complement of 𝐴.
                 it is the set of all elements under consideration that are not in 𝐴.
 
-        - operators:
+        - operators: 03_mathematical_logic_and_foundations/03Exx_set_theory/set_operations
+            - x   := cartesian product
             - ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
             - ∩   := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
             - \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
             - ∈   := in (is element of)
             - ∉   := not in(not an element of)
-            - ⊆   := subset or equal
 
             - examples:
                 Given:

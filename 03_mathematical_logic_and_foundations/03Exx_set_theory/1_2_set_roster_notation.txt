@@ -1,4 +1,4 @@
-def set_builder_notation(Hammack, 2018:5)(Hower, 2020):
+def set builder notation(Hammack, 2018:5)(Hower, 2020):
     - formal: set_name = {𝑒𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛 : 𝑟𝑢𝑙𝑒}
         - parts:
             - set_name     = name of the set(usually a letter)
