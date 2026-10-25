@@ -2,7 +2,7 @@ def set(Hammack, 2018:3)(Hower, 2020):
     - formal:
         { elementₙ,..., element₁, element₂, ..., elementₙ }
 
-        - in words: a collection of things.
+        - in words: a unordered collection of things.
 
         - examples:
             - {1,2,3,4}
@@ -22,11 +22,15 @@ def set(Hammack, 2018:3)(Hower, 2020):
             - infinite: a set with infinitely many elements.
                 example: {..., -2, -1, 0, 1, 2, ...}
 
-        - construction methods:
-            - roster: ???
+        - construction:
+            - methods:
+                - set roster notation: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_1_set_roster_notation.txt
 
-            - set builder notation:
-                see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_2_set_builder_notation.txt
+                - set builder notation: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_2_set_builder_notation.txt
+
+            - conventions: capital letters are used to name sets.
+                - examples:
+                    A = {0,1,2,3,4}
 
         - elements: things in the collection
             - elements of a set can be anything:
@@ -43,18 +47,20 @@ def set(Hammack, 2018:3)(Hower, 2020):
                             - 3 ∉ E NB: 3 is not in E, it is in the other sets that are in E
                             - 4 ∉ E NB: 4 is not in E, it is in the other sets that are in E
 
-                    - F = {B,A}                         = set with others sets(i.e. set B and D)
+                    - F = {𝐵,𝐴}                         = set with others sets(i.e. set 𝐵 and 𝐴)
 
-                    - M =   {
-                                [0 0  , [1 0 , [1 0     = set with three two-by-two matrices.
+                    - 𝑀 =  {                            = set with three two-by-two matrices.
+                                [0 0  , [1 0 , [1 0
                                  0 0]    0 1]   1 1]
                             }
+
                         Therefore:
                             - [0 0  ∈ M
                                0 0]
 
                             - [1 1  ∉ M
                                0 0]
+
                     - M = {a,b,c}                       = set with letters representing its elements.
                         Given:
                             a = [0 0
@@ -69,18 +75,9 @@ def set(Hammack, 2018:3)(Hower, 2020):
                             c = [1 0
                                 0 0]
 
-        - cardinality: 03_mathematical_logic_and_foundations/03Exx_set_theory/2_cardinality.txt
-
-        - complement:
-            let:
-                𝐴 be a set
-            then:
-                _
-                𝐴 or 𝐴' is the complement of 𝐴.
-                it is the set of all elements under consideration that are not in 𝐴.
-
-        - operators: 03_mathematical_logic_and_foundations/03Exx_set_theory/set_operations
+        - operations: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_set_operations
             - x   := cartesian product
+            - 𝑃   := power set
             - ∪   := union: 03_mathematical_logic_and_foundations/03Exx_set_theory/8_union.txt
             - ∩   := intersection: 03_mathematical_logic_and_foundations/03Exx_set_theory/9_intersection.txt
             - \|- := subtraction: 03_mathematical_logic_and_foundations/03Exx_set_theory/10_subtraction.txt
@@ -95,16 +92,12 @@ def set(Hammack, 2018:3)(Hower, 2020):
                     - 2,4 ∈ A   : means 2 and 4 are in A
                     - 5 ∉ A     : means 5 is not an element of A OR 5 is not in A OR 5 not in A
 
-        - conventions: capital letters are used to name sets.
-            - examples:
-                A = {0,1,2,3,4}
+
 
         - finality: 𝐴 is finite, if |𝐴| is finite
 
         - significant sets with reserved letters:
             see: 03_mathematical_logic_and_foundations/03Exx_set_theory/1_1_number_sets.txt
-
-        def hereditary set:
 
     - examples:
         - first four integers from zero = {0,1,2,3}
@@ -114,7 +107,7 @@ def set(Hammack, 2018:3)(Hower, 2020):
         - describe all types of mathematical structures(Hammack, 2018:ix).
         - contain arbitrary objects, non-mathematical and mathematical objects.
 
-    - proof: ???
+    - proof: none. it is a definition.
 
 References:
     - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.

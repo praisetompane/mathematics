@@ -1,5 +1,11 @@
 def complement(Hammack, 2018:3)(Hower, 2020)::
-    - formal: ???
+    - formal:
+        let:
+            𝐴 be a set
+        then:
+            _
+            𝐴 or 𝐴' is the complement of 𝐴.
+            it is the set of all elements under consideration that are not in 𝐴.
 
         - in words: ???
 

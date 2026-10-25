@@ -1,7 +1,12 @@
-def x:
-    - formal: ???
+def intersection:
+    - formal:
+        let:
+            - 𝐴 be a set
+            - 𝐵 be a set
+        then:
+            - 𝐴 ∩ 𝐵 = {𝑥 : 𝑥 ∈ 𝐴 AND 𝑥 ∈ 𝐵}
 
-        - in words: ???
+        - in words: for all elements 𝑥 such that 𝑥 is in 𝐴 AND 𝐵.
 
     - plain english: ???
 
@@ -9,10 +14,19 @@ def x:
 
     - properties: ???
 
-    - examples: ???
+    - examples:
+        - e₁
+            let:
+                - 𝐴 = {1, 2}
+                - 𝐵 = {1, 3}
+
+            then:
+                - 𝐴 ∩ 𝐵 = {1}
 
     - use cases: ???
-        
+
     - proof: ???
-    
-References: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Hower, V. 2020. Set Operations Part 1, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.

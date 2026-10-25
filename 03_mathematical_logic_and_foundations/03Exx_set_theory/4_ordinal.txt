@@ -30,7 +30,7 @@ def transfinite(infinite) ordinal | ordinal number:
     - examples: ???
 
     - use cases:
-        - order finite sets(Kuber, 2024)
+        - order infinite sets(Kuber, 2024)
 
     - proof: ???
 

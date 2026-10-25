@@ -10,7 +10,7 @@ def equality(Hower, 2020):
             - sets 𝐴 and 𝐵 are equal if they are subsets of each other.
             - sets 𝐴 and 𝐵 are equal if they have the same elements, in any order with different repetitions.
 
-    - plain english: ???
+    - plain english: two sets are equal if they have the same distinct elements
 
     - intuition: ???
 

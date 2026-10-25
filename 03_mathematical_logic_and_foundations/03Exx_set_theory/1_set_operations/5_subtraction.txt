@@ -10,7 +10,7 @@ def subtraction(Hammack, 2018: 18):
 
     - plain english: ???
 
-    - intuition: ???
+    - intuition: the set that's left, after you remove elements of 𝐵 from 𝐴
 
     - properties: ???
 
