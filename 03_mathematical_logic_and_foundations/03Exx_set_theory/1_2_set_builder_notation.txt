@@ -1,0 +1,21 @@
+def set roster notation(Hammack, 2018:5)(Hower, 2020):
+    - formal: ???
+
+        - in words: list the elements in the set.
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples:
+        - 𝐴 = {0,1,2,3,4,5,6,7,8,9}, as set of Natural numbers less than 10.
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University

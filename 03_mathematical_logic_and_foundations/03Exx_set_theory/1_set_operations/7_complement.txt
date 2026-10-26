@@ -1,0 +1,26 @@
+def complement(Hammack, 2018:3)(Hower, 2020)::
+    - formal:
+        let:
+            𝐴 be a set
+        then:
+            _
+            𝐴 or 𝐴' is the complement of 𝐴.
+            it is the set of all elements under consideration that are not in 𝐴.
+
+        - in words: ???
+
+    - plain english: ???
+
+    - intuition: ???
+
+    - properties: ???
+
+    - examples: ???
+
+    - use cases: ???
+
+    - proof: ???
+
+References:
+    - Hammack, R. 2018. Book of Proof. 3.3rd Edition. Richmond, Virginia.
+    - Hower, V. 2020. Sets, Subsets and the Power Set, MATH 1365 - Introduction to Mathematical Reasoning. Northeastern University.
